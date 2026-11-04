@@ -1,0 +1,672 @@
+{
+  "fileId": "1",
+  "lessons": {
+    "1A": {
+      "theory": [
+        {
+          "title": "Вопросы к подлежащему",
+          "text": "Если вопросительное слово (who, what, which, how many) само является подлежащим, вспомогательный глагол не нужен, и порядок слов прямой.",
+          "table": {
+            "head": [
+              "Вопрос к дополнению",
+              "Вопрос к подлежащему"
+            ],
+            "rows": [
+              [
+                "Who did you call? (ты звонил кому-то)",
+                "Who called you? (кто-то звонил тебе)"
+              ],
+              [
+                "What did she say?",
+                "What happened?"
+              ],
+              [
+                "Which film did you see?",
+                "Which film won the Oscar?"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Косвенные вопросы",
+          "text": "Косвенные вопросы звучат вежливее. После вводной фразы (Could you tell me…, Do you know…, I wonder…) порядок слов становится прямым, а do/does/did исчезают. Если вопрос был «да/нет», используем if или whether.",
+          "examples": [
+            {
+              "en": "Where is the station? → Could you tell me where the station is?",
+              "ru": "Не подскажете, где вокзал?"
+            },
+            {
+              "en": "What time does it start? → Do you know what time it starts?",
+              "ru": "Не знаете, во сколько начало?"
+            },
+            {
+              "en": "Did he accept? → I wonder if he accepted.",
+              "ru": "Интересно, согласился ли он."
+            }
+          ],
+          "tip": "Вопросительный знак ставится только если вводная фраза сама вопрос (Do you know…?). После I wonder… — точка."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Indirect questions and subject questions (B2)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=indirect+questions+subject+questions+upper+intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b2-1a-1",
+          "type": "transform",
+          "instruction": "Make indirect questions. Start with the words given.",
+          "items": [
+            {
+              "prompt": "Where is the nearest bank? → Could you tell me ___?",
+              "answers": [
+                "Could you tell me where the nearest bank is?",
+                "where the nearest bank is"
+              ]
+            },
+            {
+              "prompt": "What time does the film start? → Do you know ___?",
+              "answers": [
+                "Do you know what time the film starts?",
+                "what time the film starts"
+              ]
+            },
+            {
+              "prompt": "Did she accept the offer? → I wonder ___.",
+              "answers": [
+                "I wonder if she accepted the offer.",
+                "I wonder whether she accepted the offer.",
+                "if she accepted the offer",
+                "whether she accepted the offer"
+              ]
+            },
+            {
+              "prompt": "How much does it cost? → Can you tell me ___?",
+              "answers": [
+                "Can you tell me how much it costs?",
+                "how much it costs"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-1a-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct question.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "Who did invent the telephone?",
+                "Who invented the telephone?",
+                "Who was invented the telephone?"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "What happened at the meeting?",
+                "What did happen at the meeting?",
+                "What was happened at the meeting?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "Do you know where does he live?",
+                "Do you know where he lives?",
+                "Do you know where lives he?"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "4",
+              "options": [
+                "Which of you broke the window?",
+                "Which of you did break the window?",
+                "Which of you the window broke?"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "b2-1a-3",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "Would you mind telling me how old you are?"
+            },
+            {
+              "answer": "Who usually cooks in your family?"
+            },
+            {
+              "answer": "What are you most looking forward to?"
+            }
+          ]
+        },
+        {
+          "id": "b2-1a-4",
+          "type": "matching",
+          "instruction": "Work out the meaning from context: match the words and the definitions.",
+          "pairs": [
+            {
+              "left": "to dread",
+              "right": "to be very afraid of something in the future"
+            },
+            {
+              "left": "blunt",
+              "right": "saying what you think without trying to be polite"
+            },
+            {
+              "left": "to stumble",
+              "right": "to almost fall or to make a mistake while speaking"
+            },
+            {
+              "left": "awkward",
+              "right": "embarrassing and uncomfortable"
+            }
+          ]
+        },
+        {
+          "id": "b2-1a-r",
+          "type": "reading",
+          "instruction": "Read the article and answer.",
+          "title": "The art of the job interview question",
+          "text": "Most candidates prepare answers for a job interview, but far fewer prepare questions. That's a mistake, say recruiters. When an interviewer asks 'Do you have any questions for us?', replying 'No, I think you've covered everything' can suggest a lack of curiosity.\n\nThe best questions are specific and show that you've done your research. Instead of asking what the company does, you might ask how a recent change has affected the team. It's also wise to avoid asking about holidays or salary in a first interview — not because these things don't matter, but because the timing can make you seem more interested in the benefits than in the job itself.\n\nFinally, recruiters suggest one question that almost always impresses: 'What would success look like in this role after six months?'",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Most candidates prepare questions for the interviewer.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Saying you have no questions can suggest…",
+              "options": [
+                "confidence",
+                "a lack of curiosity",
+                "good preparation"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Why avoid asking about salary in a first interview?",
+              "options": [
+                "It's illegal",
+                "It can make you seem more interested in benefits",
+                "Interviewers never know the answer"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The recommended question is about success after ___ months.",
+              "answers": [
+                "six",
+                "6"
+              ]
+            }
+          ],
+          "image": "💼"
+        },
+        {
+          "id": "b2-1a-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation and answer.",
+          "title": "A difficult customer",
+          "script": [
+            {
+              "speaker": "Customer",
+              "text": "Excuse me, could you tell me why my order hasn't arrived yet? It was supposed to be here on Monday."
+            },
+            {
+              "speaker": "Assistant",
+              "text": "I'm sorry to hear that. Do you know what your order number is?"
+            },
+            {
+              "speaker": "Customer",
+              "text": "Yes, it's four eight one five two."
+            },
+            {
+              "speaker": "Assistant",
+              "text": "Thank you. It looks like the courier tried to deliver it on Tuesday, but nobody was home."
+            },
+            {
+              "speaker": "Customer",
+              "text": "Well, I wonder why nobody called me. Who decided not to leave it with a neighbour?"
+            },
+            {
+              "speaker": "Assistant",
+              "text": "I understand. I'll arrange a new delivery for tomorrow morning, free of charge."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The order should have arrived on…",
+              "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Order number: ___",
+              "answers": [
+                "48152"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The courier didn't try to deliver it.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The new delivery will be…",
+              "options": [
+                "tomorrow morning",
+                "next week",
+                "today"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "📦"
+        }
+      ]
+    },
+    "1B": {
+      "theory": [
+        {
+          "title": "Вспомогательные глаголы: зачем они нужны",
+          "table": {
+            "head": [
+              "Функция",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Краткие ответы",
+                "Did you like it? — Yes, I did."
+              ],
+              [
+                "Реакция-переспрос (Really?)",
+                "I've been to Peru. — Have you? Wow!"
+              ],
+              [
+                "Согласие: so / neither",
+                "I'm tired. — So am I. / I can't swim. — Neither can I."
+              ],
+              [
+                "Несогласие",
+                "I love jazz. — Really? I don't."
+              ],
+              [
+                "Эмфаза (ударение)",
+                "I DO like your dress! / She DID call, I promise."
+              ],
+              [
+                "Разделительные вопросы",
+                "You're coming, aren't you?"
+              ]
+            ]
+          },
+          "tip": "Вспомогательный глагол в реакции повторяет время исходной фразы: I went → So did I; I've finished → So have I."
+        },
+        {
+          "title": "the … the … + сравнительная степень",
+          "text": "Конструкция «чем…, тем…»: обе части начинаются с the + сравнительная степень.",
+          "examples": [
+            {
+              "en": "The more you practise, the better you get.",
+              "ru": "Чем больше практикуешься, тем лучше получается."
+            },
+            {
+              "en": "The sooner we leave, the earlier we'll arrive.",
+              "ru": "Чем раньше выйдем, тем раньше приедем."
+            },
+            {
+              "en": "The older I get, the less I worry.",
+              "ru": "Чем старше я становлюсь, тем меньше переживаю."
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b2-1b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with an auxiliary verb.",
+          "items": [
+            {
+              "text": "I love horror films. — Really? I ___. I hate them.",
+              "answers": [
+                "don't"
+              ]
+            },
+            {
+              "text": "She's never been to Italy. — Neither ___ I.",
+              "answers": [
+                "have"
+              ]
+            },
+            {
+              "text": "I didn't enjoy the concert. — Didn't you? I ___!",
+              "answers": [
+                "did"
+              ]
+            },
+            {
+              "text": "You don't like jazz, ___ you?",
+              "answers": [
+                "do"
+              ]
+            },
+            {
+              "text": "I can't swim. — Can't you? I thought you ___.",
+              "answers": [
+                "could"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-1b-2",
+          "type": "transform",
+          "instruction": "Rewrite using the…the… + comparatives.",
+          "items": [
+            {
+              "prompt": "If you practise more, you get better.",
+              "answers": [
+                "The more you practise, the better you get.",
+                "The more you practice, the better you get."
+              ]
+            },
+            {
+              "prompt": "If you leave earlier, you'll arrive sooner.",
+              "answers": [
+                "The earlier you leave, the sooner you'll arrive.",
+                "The earlier you leave, the sooner you arrive."
+              ]
+            },
+            {
+              "prompt": "When it gets darker, it gets colder.",
+              "answers": [
+                "The darker it gets, the colder it gets.",
+                "The darker it gets, the colder it becomes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-1b-3",
+          "type": "matching",
+          "instruction": "Match the compound adjectives and the meanings.",
+          "pairs": [
+            {
+              "left": "absent-minded",
+              "right": "often forgets things"
+            },
+            {
+              "left": "easy-going",
+              "right": "relaxed and calm"
+            },
+            {
+              "left": "self-confident",
+              "right": "believes in their own abilities"
+            },
+            {
+              "left": "bad-tempered",
+              "right": "gets angry easily"
+            },
+            {
+              "left": "well-behaved",
+              "right": "polite and obedient"
+            }
+          ]
+        },
+        {
+          "id": "b2-1b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the best reply.",
+          "items": [
+            {
+              "question": "I've just won a competition!",
+              "options": [
+                "Have you? Congratulations!",
+                "Did you? Congratulations!",
+                "Are you? Congratulations!"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I don't like coffee.",
+              "options": [
+                "So do I.",
+                "Neither do I.",
+                "Neither don't I."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I'm really tired today.",
+              "options": [
+                "So am I.",
+                "So do I.",
+                "Neither am I."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "b2-1b-r",
+          "type": "reading",
+          "instruction": "Read the article and answer.",
+          "title": "Why do we interrupt?",
+          "text": "We often think of interrupting as rude, but linguists say the picture is more complicated. In many conversations, short interruptions such as 'Do you?', 'Really?' or 'So did I!' are actually signs of engagement. Researchers call this 'cooperative overlap': the listener isn't trying to take over, but to show interest.\n\nThe problem arises when people from different conversational cultures meet. A speaker who expects silence while they talk may feel constantly cut off, while a speaker who uses overlap may interpret silence as boredom. The more aware we are of these differences, the less likely we are to misjudge each other.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "'Cooperative overlap' shows…",
+              "options": [
+                "rudeness",
+                "interest",
+                "boredom"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "All interruptions are rude, according to linguists.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "A speaker who uses overlap may think silence means…",
+              "options": [
+                "respect",
+                "boredom",
+                "agreement"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The more aware we are, the ___ likely we are to misjudge each other.",
+              "answers": [
+                "less"
+              ]
+            }
+          ],
+          "image": "💬"
+        },
+        {
+          "id": "b2-1b-l",
+          "type": "listening",
+          "instruction": "Listen to two colleagues chatting and answer.",
+          "title": "Small talk at work",
+          "script": [
+            {
+              "speaker": "Sara",
+              "text": "I went to that new Thai place last night."
+            },
+            {
+              "speaker": "Tom",
+              "text": "Did you? So did I! What did you have?"
+            },
+            {
+              "speaker": "Sara",
+              "text": "The green curry. It was amazing, but I didn't like the dessert."
+            },
+            {
+              "speaker": "Tom",
+              "text": "Neither did I. And I don't usually eat spicy food, but I loved it."
+            },
+            {
+              "speaker": "Sara",
+              "text": "You don't? I do — the spicier, the better!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Tom also went to the restaurant last night.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "Sara had the green ___.",
+              "answers": [
+                "curry"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Tom liked the dessert.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Who usually eats spicy food?",
+              "options": [
+                "Sara",
+                "Tom",
+                "both"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🍛"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "b2-rc1-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "Could you tell me where ___?",
+            "options": [
+              "is the museum",
+              "the museum is",
+              "does the museum"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who ___ you about the party?",
+            "options": [
+              "told",
+              "did tell",
+              "did told"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "The sooner we start, ___ we'll finish.",
+            "options": [
+              "the soonest",
+              "the sooner",
+              "sooner"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She doesn't eat meat, and ___ do I.",
+            "options": [
+              "so",
+              "neither",
+              "either"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "b2-rc1-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "At the information desk",
+        "script": [
+          {
+            "speaker": "Visitor",
+            "text": "Could you tell me whether the museum is open on Mondays?"
+          },
+          {
+            "speaker": "Clerk",
+            "text": "It isn't, I'm afraid. But it's open late on Thursdays, until nine."
+          },
+          {
+            "speaker": "Visitor",
+            "text": "Do you know if students get a discount?"
+          },
+          {
+            "speaker": "Clerk",
+            "text": "They do — it's half price with a student card."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The museum is open on Mondays.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "It's open late on…",
+            "options": [
+              "Tuesdays",
+              "Thursdays",
+              "Fridays"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Students pay ___ price.",
+            "answers": [
+              "half"
+            ]
+          }
+        ],
+        "image": "🏛️"
+      }
+    ]
+  }
+}

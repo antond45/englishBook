@@ -1,0 +1,559 @@
+{
+  "id": "a2",
+  "cefr": "A2",
+  "name": "Elementary",
+  "book": "English File Elementary, 4th edition — Student's Book",
+  "workbook": "English File Elementary, 4th edition — Workbook",
+  "links": [
+    {
+      "title": "English File 4th edition — Online Practice",
+      "kind": "official-link",
+      "url": "https://englishfile4e.oxfordonlinepractice.com/",
+      "note": "Видео из уроков и Practical English, аудио и интерактивная практика к 4-му изданию. Вход по коду доступа из твоего учебника."
+    },
+    {
+      "title": "English File Student's Site — Elementary",
+      "kind": "official-link",
+      "url": "https://elt.oup.com/student/englishfile/elementary3/",
+      "note": "Бесплатные упражнения Oxford без кода. Сделаны для 3-го издания, но грамматика и лексика в основном те же."
+    },
+    {
+      "title": "Oxford English Hub",
+      "kind": "official-link",
+      "url": "https://englishhub.oup.com/",
+      "note": "Если твой комплект куплен с кодом для Oxford English Hub — материалы курса здесь."
+    },
+    {
+      "title": "Oxford Learner's Bookshelf — e-book учебника и тетради",
+      "kind": "official-link",
+      "url": "https://www.oxfordlearnersbookshelf.com/",
+      "note": "Электронные версии Student's Book и Workbook, если они входят в твой комплект."
+    }
+  ],
+  "files": [
+    {
+      "id": "1",
+      "title": "First meetings",
+      "lessons": [
+        {
+          "id": "1A",
+          "title": "My name's…",
+          "grammar": [
+            "verb be (+)",
+            "subject pronouns"
+          ],
+          "vocabulary": [
+            "days of the week",
+            "numbers"
+          ]
+        },
+        {
+          "id": "1B",
+          "title": "Where are you from?",
+          "grammar": [
+            "verb be (− / ?)"
+          ],
+          "vocabulary": [
+            "countries and nationalities"
+          ]
+        },
+        {
+          "id": "1C",
+          "title": "Personal details",
+          "grammar": [
+            "possessive adjectives"
+          ],
+          "vocabulary": [
+            "classroom language",
+            "the alphabet"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Arriving at a hotel",
+        "functions": [
+          "checking in",
+          "spelling",
+          "polite phrases"
+        ]
+      },
+      "cover": [
+        "🤝"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Things around us",
+      "lessons": [
+        {
+          "id": "2A",
+          "title": "In my bag",
+          "grammar": [
+            "a / an, plurals",
+            "this / that / these / those"
+          ],
+          "vocabulary": [
+            "things"
+          ]
+        },
+        {
+          "id": "2B",
+          "title": "Describing things",
+          "grammar": [
+            "adjectives"
+          ],
+          "vocabulary": [
+            "colours",
+            "opposite adjectives"
+          ]
+        },
+        {
+          "id": "2C",
+          "title": "Instructions",
+          "grammar": [
+            "imperatives",
+            "let's"
+          ],
+          "vocabulary": [
+            "feelings"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Ordering coffee",
+        "functions": [
+          "ordering",
+          "paying"
+        ]
+      },
+      "cover": [
+        "🔑"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Lifestyles",
+      "lessons": [
+        {
+          "id": "3A",
+          "title": "A typical lifestyle",
+          "grammar": [
+            "present simple (+ / −)"
+          ],
+          "vocabulary": [
+            "verb phrases"
+          ]
+        },
+        {
+          "id": "3B",
+          "title": "Work and jobs",
+          "grammar": [
+            "present simple (?)"
+          ],
+          "vocabulary": [
+            "jobs"
+          ]
+        },
+        {
+          "id": "3C",
+          "title": "Asking questions",
+          "grammar": [
+            "word order in questions"
+          ],
+          "vocabulary": [
+            "question words"
+          ]
+        }
+      ],
+      "cover": [
+        "🏙️"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Family and routine",
+      "lessons": [
+        {
+          "id": "4A",
+          "title": "Family",
+          "grammar": [
+            "possessive 's"
+          ],
+          "vocabulary": [
+            "family"
+          ]
+        },
+        {
+          "id": "4B",
+          "title": "My day",
+          "grammar": [
+            "prepositions of time (at, in, on)"
+          ],
+          "vocabulary": [
+            "daily routine"
+          ]
+        },
+        {
+          "id": "4C",
+          "title": "How often?",
+          "grammar": [
+            "adverbs and expressions of frequency"
+          ],
+          "vocabulary": [
+            "free time activities"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "In a clothes shop",
+        "functions": [
+          "buying clothes"
+        ]
+      },
+      "cover": [
+        "👨‍👩‍👧"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Abilities and now",
+      "lessons": [
+        {
+          "id": "5A",
+          "title": "What can you do?",
+          "grammar": [
+            "can / can't"
+          ],
+          "vocabulary": [
+            "verb phrases"
+          ]
+        },
+        {
+          "id": "5B",
+          "title": "Right now",
+          "grammar": [
+            "present continuous"
+          ],
+          "vocabulary": [
+            "the weather and seasons"
+          ]
+        },
+        {
+          "id": "5C",
+          "title": "Usually or now?",
+          "grammar": [
+            "present simple or present continuous?"
+          ],
+          "vocabulary": [
+            "clothes"
+          ]
+        }
+      ],
+      "cover": [
+        "🌦️"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Likes and people",
+      "lessons": [
+        {
+          "id": "6A",
+          "title": "Talk to them",
+          "grammar": [
+            "object pronouns"
+          ],
+          "vocabulary": [
+            "phone language"
+          ]
+        },
+        {
+          "id": "6B",
+          "title": "I like cooking",
+          "grammar": [
+            "like, love, hate + -ing"
+          ],
+          "vocabulary": [
+            "the date",
+            "ordinal numbers"
+          ]
+        },
+        {
+          "id": "6C",
+          "title": "Be or do?",
+          "grammar": [
+            "revision: be or do"
+          ],
+          "vocabulary": [
+            "music"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Asking the way",
+        "functions": [
+          "directions"
+        ]
+      },
+      "cover": [
+        "🎵"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "The past",
+      "lessons": [
+        {
+          "id": "7A",
+          "title": "Where were you?",
+          "grammar": [
+            "past simple of be"
+          ],
+          "vocabulary": [
+            "word formation: painter, musician"
+          ]
+        },
+        {
+          "id": "7B",
+          "title": "A night out",
+          "grammar": [
+            "past simple: regular verbs"
+          ],
+          "vocabulary": [
+            "past time expressions"
+          ]
+        },
+        {
+          "id": "7C",
+          "title": "A bad day",
+          "grammar": [
+            "past simple: irregular verbs"
+          ],
+          "vocabulary": [
+            "go, have, get"
+          ]
+        }
+      ],
+      "cover": [
+        "🎨"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Stories and places",
+      "lessons": [
+        {
+          "id": "8A",
+          "title": "What happened?",
+          "grammar": [
+            "past simple: questions and negatives (review)"
+          ],
+          "vocabulary": [
+            "irregular verbs"
+          ]
+        },
+        {
+          "id": "8B",
+          "title": "A house to rent",
+          "grammar": [
+            "there is / there are, some / any + plural nouns"
+          ],
+          "vocabulary": [
+            "the house"
+          ]
+        },
+        {
+          "id": "8C",
+          "title": "A haunted house",
+          "grammar": [
+            "there was / there were"
+          ],
+          "vocabulary": [
+            "prepositions of place"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "At the chemist's",
+        "functions": [
+          "describing symptoms",
+          "buying medicine"
+        ]
+      },
+      "cover": [
+        "👻"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Food and plans",
+      "lessons": [
+        {
+          "id": "9A",
+          "title": "What's in the fridge?",
+          "grammar": [
+            "countable / uncountable nouns",
+            "a / an, some / any"
+          ],
+          "vocabulary": [
+            "food"
+          ]
+        },
+        {
+          "id": "9B",
+          "title": "How much sugar?",
+          "grammar": [
+            "quantifiers: how much / how many, a lot of"
+          ],
+          "vocabulary": [
+            "food containers"
+          ]
+        },
+        {
+          "id": "9C",
+          "title": "Next weekend",
+          "grammar": [
+            "be going to (plans)"
+          ],
+          "vocabulary": [
+            "future time expressions"
+          ]
+        }
+      ],
+      "cover": [
+        "🛒"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Comparing",
+      "lessons": [
+        {
+          "id": "10A",
+          "title": "Faster, cheaper",
+          "grammar": [
+            "comparative adjectives"
+          ],
+          "vocabulary": [
+            "personality adjectives"
+          ]
+        },
+        {
+          "id": "10B",
+          "title": "The best city",
+          "grammar": [
+            "superlative adjectives"
+          ],
+          "vocabulary": [
+            "places and buildings"
+          ]
+        },
+        {
+          "id": "10C",
+          "title": "It's going to rain",
+          "grammar": [
+            "be going to (predictions)"
+          ],
+          "vocabulary": [
+            "verb phrases"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Going out",
+        "functions": [
+          "making suggestions",
+          "accepting and refusing"
+        ]
+      },
+      "cover": [
+        "🏆"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "How and why",
+      "lessons": [
+        {
+          "id": "11A",
+          "title": "Slowly and carefully",
+          "grammar": [
+            "adverbs of manner"
+          ],
+          "vocabulary": [
+            "common adverbs"
+          ]
+        },
+        {
+          "id": "11B",
+          "title": "I want to travel",
+          "grammar": [
+            "verbs + infinitive"
+          ],
+          "vocabulary": [
+            "verbs that take the infinitive"
+          ]
+        },
+        {
+          "id": "11C",
+          "title": "The internet",
+          "grammar": [
+            "articles: a / an, the, no article"
+          ],
+          "vocabulary": [
+            "the internet"
+          ]
+        }
+      ],
+      "cover": [
+        "💻"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Experiences",
+      "lessons": [
+        {
+          "id": "12A",
+          "title": "Have you ever…?",
+          "grammar": [
+            "present perfect"
+          ],
+          "vocabulary": [
+            "past participles"
+          ]
+        },
+        {
+          "id": "12B",
+          "title": "When did you…?",
+          "grammar": [
+            "present perfect or past simple?"
+          ],
+          "vocabulary": [
+            "irregular past participles"
+          ]
+        },
+        {
+          "id": "12C",
+          "title": "Revision",
+          "grammar": [
+            "review of verb forms"
+          ],
+          "vocabulary": [
+            "question formation"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "At the airport",
+        "functions": [
+          "checking in",
+          "airport language"
+        ]
+      },
+      "cover": [
+        "🌋"
+      ]
+    }
+  ]
+}

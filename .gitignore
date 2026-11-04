@@ -1,0 +1,14 @@
+node_modules
+dist
+*.tsbuildinfo
+data/
+tools/tts/.venv/
+tools/tts/python/
+tools/tts/hf-cache/
+tools/tts/samples/
+dev-account.example.txt
+.env
+.env.*
+*.session
+*.db
+*.db-*

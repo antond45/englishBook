@@ -1,0 +1,549 @@
+{
+  "id": "b1",
+  "cefr": "B1",
+  "name": "Pre-Intermediate",
+  "book": "English File Pre-Intermediate, 4th edition — Student's Book",
+  "workbook": "English File Pre-Intermediate, 4th edition — Workbook",
+  "links": [
+    {
+      "title": "English File 4th edition — Online Practice",
+      "kind": "official-link",
+      "url": "https://englishfile4e.oxfordonlinepractice.com/",
+      "note": "Видео из уроков и Practical English, аудио и интерактивная практика к 4-му изданию. Вход по коду доступа из твоего учебника."
+    },
+    {
+      "title": "English File Student's Site — Pre-Intermediate",
+      "kind": "official-link",
+      "url": "https://elt.oup.com/student/englishfile/preint3/",
+      "note": "Бесплатные упражнения Oxford без кода. Сделаны для 3-го издания, но грамматика и лексика в основном те же."
+    },
+    {
+      "title": "Oxford English Hub",
+      "kind": "official-link",
+      "url": "https://englishhub.oup.com/",
+      "note": "Если твой комплект куплен с кодом для Oxford English Hub — материалы курса здесь."
+    },
+    {
+      "title": "Oxford Learner's Bookshelf — e-book учебника и тетради",
+      "kind": "official-link",
+      "url": "https://www.oxfordlearnersbookshelf.com/",
+      "note": "Электронные версии Student's Book и Workbook, если они входят в твой комплект."
+    }
+  ],
+  "files": [
+    {
+      "id": "1",
+      "title": "Who we are",
+      "lessons": [
+        {
+          "id": "1A",
+          "title": "Getting to know you",
+          "grammar": [
+            "word order in questions"
+          ],
+          "vocabulary": [
+            "common verb phrases",
+            "spelling and numbers"
+          ]
+        },
+        {
+          "id": "1B",
+          "title": "Habits",
+          "grammar": [
+            "present simple"
+          ],
+          "vocabulary": [
+            "describing people: appearance and personality"
+          ]
+        },
+        {
+          "id": "1C",
+          "title": "What's happening?",
+          "grammar": [
+            "present continuous"
+          ],
+          "vocabulary": [
+            "clothes",
+            "prepositions of place"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Hotel problems",
+        "functions": [
+          "complaining politely",
+          "explaining a problem"
+        ]
+      },
+      "cover": [
+        "🙋"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Stories",
+      "lessons": [
+        {
+          "id": "2A",
+          "title": "Holidays",
+          "grammar": [
+            "past simple: regular and irregular verbs"
+          ],
+          "vocabulary": [
+            "holidays"
+          ]
+        },
+        {
+          "id": "2B",
+          "title": "A moment in time",
+          "grammar": [
+            "past continuous"
+          ],
+          "vocabulary": [
+            "prepositions of time and place: at, in, on"
+          ]
+        },
+        {
+          "id": "2C",
+          "title": "Telling a story",
+          "grammar": [
+            "time sequencers and connectors"
+          ],
+          "vocabulary": [
+            "verb phrases"
+          ]
+        }
+      ],
+      "cover": [
+        "📷"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "The future",
+      "lessons": [
+        {
+          "id": "3A",
+          "title": "Plans and arrangements",
+          "grammar": [
+            "be going to, present continuous (future)"
+          ],
+          "vocabulary": [
+            "airports"
+          ]
+        },
+        {
+          "id": "3B",
+          "title": "Predictions",
+          "grammar": [
+            "will / won't (predictions)"
+          ],
+          "vocabulary": [
+            "opposite verbs"
+          ]
+        },
+        {
+          "id": "3C",
+          "title": "I'll help you",
+          "grammar": [
+            "will / won't (decisions, offers, promises)"
+          ],
+          "vocabulary": [
+            "verb + back"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Restaurant problems",
+        "functions": [
+          "ordering",
+          "complaining in a restaurant"
+        ]
+      },
+      "cover": [
+        "🔮"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Recent events",
+      "lessons": [
+        {
+          "id": "4A",
+          "title": "Housework",
+          "grammar": [
+            "present perfect + yet, just, already"
+          ],
+          "vocabulary": [
+            "housework",
+            "make or do?"
+          ]
+        },
+        {
+          "id": "4B",
+          "title": "Shopping",
+          "grammar": [
+            "present perfect or past simple?"
+          ],
+          "vocabulary": [
+            "shopping"
+          ]
+        },
+        {
+          "id": "4C",
+          "title": "Something, nothing",
+          "grammar": [
+            "something, anything, nothing, etc."
+          ],
+          "vocabulary": [
+            "adjectives ending -ed and -ing"
+          ]
+        }
+      ],
+      "cover": [
+        "🧹"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Comparisons",
+      "lessons": [
+        {
+          "id": "5A",
+          "title": "Faster lives",
+          "grammar": [
+            "comparative adjectives and adverbs, as…as"
+          ],
+          "vocabulary": [
+            "time expressions: spend, waste, save"
+          ]
+        },
+        {
+          "id": "5B",
+          "title": "The best and the worst",
+          "grammar": [
+            "superlatives (+ ever + present perfect)"
+          ],
+          "vocabulary": [
+            "describing a town or city"
+          ]
+        },
+        {
+          "id": "5C",
+          "title": "How much is too much?",
+          "grammar": [
+            "quantifiers, too, not enough"
+          ],
+          "vocabulary": [
+            "health and the body"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "The wrong shoes",
+        "functions": [
+          "taking something back to a shop"
+        ]
+      },
+      "cover": [
+        "⏱️"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Rules and choices",
+      "lessons": [
+        {
+          "id": "6A",
+          "title": "I want to learn",
+          "grammar": [
+            "uses of the infinitive with to"
+          ],
+          "vocabulary": [
+            "verbs + infinitive: try, forget, learn"
+          ]
+        },
+        {
+          "id": "6B",
+          "title": "I love reading",
+          "grammar": [
+            "uses of the -ing form"
+          ],
+          "vocabulary": [
+            "verbs + -ing"
+          ]
+        },
+        {
+          "id": "6C",
+          "title": "Rules",
+          "grammar": [
+            "have to, don't have to, must, mustn't"
+          ],
+          "vocabulary": [
+            "modifiers: a bit, really, etc."
+          ]
+        }
+      ],
+      "cover": [
+        "📏"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Advice and results",
+      "lessons": [
+        {
+          "id": "7A",
+          "title": "What should I do?",
+          "grammar": [
+            "should"
+          ],
+          "vocabulary": [
+            "get"
+          ]
+        },
+        {
+          "id": "7B",
+          "title": "If it rains…",
+          "grammar": [
+            "first conditional: if + present, will + infinitive"
+          ],
+          "vocabulary": [
+            "confusing verbs"
+          ]
+        },
+        {
+          "id": "7C",
+          "title": "Whose is it?",
+          "grammar": [
+            "possessive pronouns"
+          ],
+          "vocabulary": [
+            "adverbs of manner"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "At the pharmacy",
+        "functions": [
+          "describing symptoms",
+          "asking for advice"
+        ]
+      },
+      "cover": [
+        "💡"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Imagine",
+      "lessons": [
+        {
+          "id": "8A",
+          "title": "What would you do?",
+          "grammar": [
+            "second conditional: if + past, would + infinitive"
+          ],
+          "vocabulary": [
+            "animals",
+            "phobias"
+          ]
+        },
+        {
+          "id": "8B",
+          "title": "How long have you…?",
+          "grammar": [
+            "present perfect + for / since"
+          ],
+          "vocabulary": [
+            "words related to fear"
+          ]
+        },
+        {
+          "id": "8C",
+          "title": "Life stories",
+          "grammar": [
+            "present perfect or past simple? (2)"
+          ],
+          "vocabulary": [
+            "biographies"
+          ]
+        }
+      ],
+      "cover": [
+        "🕷️"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Inventions and the past",
+      "lessons": [
+        {
+          "id": "9A",
+          "title": "Who invented it?",
+          "grammar": [
+            "passive (be + past participle)"
+          ],
+          "vocabulary": [
+            "verbs: invent, discover, design"
+          ]
+        },
+        {
+          "id": "9B",
+          "title": "I used to…",
+          "grammar": [
+            "used to"
+          ],
+          "vocabulary": [
+            "school subjects"
+          ]
+        },
+        {
+          "id": "9C",
+          "title": "I might…",
+          "grammar": [
+            "might"
+          ],
+          "vocabulary": [
+            "word building: noun formation"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Getting around",
+        "functions": [
+          "asking how to get somewhere",
+          "public transport"
+        ]
+      },
+      "cover": [
+        "🚲"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Movement",
+      "lessons": [
+        {
+          "id": "10A",
+          "title": "Up and down",
+          "grammar": [
+            "expressing movement: go up, run across, etc."
+          ],
+          "vocabulary": [
+            "prepositions of movement",
+            "sports"
+          ]
+        },
+        {
+          "id": "10B",
+          "title": "Phrasal verbs",
+          "grammar": [
+            "word order of phrasal verbs"
+          ],
+          "vocabulary": [
+            "phrasal verbs"
+          ]
+        },
+        {
+          "id": "10C",
+          "title": "So do I",
+          "grammar": [
+            "so, neither + auxiliaries"
+          ],
+          "vocabulary": [
+            "similarities"
+          ]
+        }
+      ],
+      "cover": [
+        "🧗"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Reports",
+      "lessons": [
+        {
+          "id": "11A",
+          "title": "When I arrived, she had left",
+          "grammar": [
+            "past perfect"
+          ],
+          "vocabulary": [
+            "verb phrases"
+          ]
+        },
+        {
+          "id": "11B",
+          "title": "She said…",
+          "grammar": [
+            "reported speech"
+          ],
+          "vocabulary": [
+            "say or tell?"
+          ]
+        },
+        {
+          "id": "11C",
+          "title": "Who wrote it?",
+          "grammar": [
+            "questions without auxiliaries"
+          ],
+          "vocabulary": [
+            "revision of question words"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Time to go home",
+        "functions": [
+          "saying goodbye",
+          "thanking"
+        ]
+      },
+      "cover": [
+        "📰"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "People and things",
+      "lessons": [
+        {
+          "id": "12A",
+          "title": "The man who…",
+          "grammar": [
+            "defining relative clauses: who, which, that, where"
+          ],
+          "vocabulary": [
+            "paraphrasing"
+          ]
+        },
+        {
+          "id": "12B",
+          "title": "You're new here, aren't you?",
+          "grammar": [
+            "question tags"
+          ],
+          "vocabulary": [
+            "crime"
+          ]
+        },
+        {
+          "id": "12C",
+          "title": "Review",
+          "grammar": [
+            "review of tenses"
+          ],
+          "vocabulary": [
+            "word families"
+          ]
+        }
+      ],
+      "cover": [
+        "🔍"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "fileId": "7",
+  "lessons": {
+    "7A": {
+      "theory": [
+        {
+          "title": "Модальные глаголы о прошлом",
+          "table": {
+            "head": [
+              "Форма",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "must have + V3",
+                "наверняка (уверенный вывод)",
+                "The streets are wet. It must have rained."
+              ],
+              [
+                "might / may / could have + V3",
+                "возможно",
+                "She might have missed the bus."
+              ],
+              [
+                "can't / couldn't have + V3",
+                "не может быть",
+                "He can't have seen me — he didn't say hello."
+              ],
+              [
+                "should have + V3",
+                "следовало (но не сделал)",
+                "You should have told me!"
+              ],
+              [
+                "shouldn't have + V3",
+                "не следовало (но сделал)",
+                "I shouldn't have eaten so much."
+              ],
+              [
+                "needn't have + V3",
+                "не нужно было (но сделал)",
+                "You needn't have brought a gift."
+              ]
+            ]
+          },
+          "tip": "В речи have звучит слабо: must've /ˈmʌstəv/, should've, could've. Писать must of — ошибка!"
+        },
+        {
+          "title": "Глаголы, которые путают",
+          "text": "remind (напомнить) / remember; prevent (предотвратить) / avoid (избегать); rob (ограбить кого-то) / steal (украсть что-то); raise (поднимать что-то) / rise (подниматься); lie (лежать) / lay (класть); argue / discuss."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Past modals of deduction",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=must+have+might+have+can't+have+past+modals"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7a-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the best option.",
+          "items": [
+            {
+              "question": "She's not answering. She ___ gone to bed.",
+              "options": [
+                "must have",
+                "can't have",
+                "should have"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He ___ stolen it — he was with me all evening.",
+              "options": [
+                "must have",
+                "can't have",
+                "might have"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "You ___ called! I was worried.",
+              "options": [
+                "should have",
+                "must have",
+                "can't have"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I'm not sure where my keys are. I ___ left them at work.",
+              "options": [
+                "can't have",
+                "might have",
+                "should have"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "7a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a past modal and the verb in brackets.",
+          "items": [
+            {
+              "text": "The ground is wet. It ___ in the night.",
+              "hint": "must / rain",
+              "answers": [
+                "must have rained",
+                "must've rained"
+              ]
+            },
+            {
+              "text": "I ___ so much coffee. Now I can't sleep.",
+              "hint": "shouldn't / drink",
+              "answers": [
+                "shouldn't have drunk",
+                "should not have drunk"
+              ]
+            },
+            {
+              "text": "You ___ a taxi — I could have picked you up.",
+              "hint": "needn't / take",
+              "answers": [
+                "needn't have taken",
+                "need not have taken"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct verb.",
+          "items": [
+            {
+              "question": "Can you ___ me to call Mum?",
+              "options": [
+                "remember",
+                "remind"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They ___ a bank.",
+              "options": [
+                "robbed",
+                "stole"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Prices continue to ___.",
+              "options": [
+                "raise",
+                "rise"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Seat belts help ___ serious injuries.",
+              "options": [
+                "avoid",
+                "prevent"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "7a-4",
+          "type": "transform",
+          "instruction": "Rewrite with a past modal.",
+          "items": [
+            {
+              "prompt": "I'm sure he forgot. (must)",
+              "answers": [
+                "He must have forgotten.",
+                "He must've forgotten."
+              ]
+            },
+            {
+              "prompt": "It's impossible that she said that. (can't)",
+              "answers": [
+                "She can't have said that.",
+                "She cannot have said that."
+              ]
+            },
+            {
+              "prompt": "It was a mistake not to book a table. (should)",
+              "answers": [
+                "We should have booked a table.",
+                "I should have booked a table.",
+                "We should've booked a table."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The mystery of the Mary Celeste",
+          "text": "In 1872 the ship Mary Celeste was found floating in the Atlantic with nobody on board. The cargo was untouched, there was food for six months, and the crew's belongings were still there. One lifeboat was missing. What could have happened? Pirates can't have attacked — nothing was stolen. Some historians think the captain might have feared that the cargo of alcohol was about to explode and ordered everyone into the lifeboat. If so, they must have been lost at sea.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The ship was found in ___.",
+              "answers": [
+                "1872"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The cargo had been stolen.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "One theory is that the captain feared…",
+              "options": [
+                "pirates",
+                "an explosion",
+                "a storm"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚢"
+        },
+        {
+          "id": "7a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Where's my phone?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "I can't find my phone anywhere!"
+            },
+            {
+              "speaker": "B",
+              "text": "You must have left it in the café. You were texting there."
+            },
+            {
+              "speaker": "A",
+              "text": "No, I can't have — I called you from the bus."
+            },
+            {
+              "speaker": "B",
+              "text": "Then you might have dropped it on the bus. You should have put it in your bag!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B first thinks the phone is in the…",
+              "options": [
+                "bus",
+                "café",
+                "office"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "A used the phone on the bus.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "B says A should have put it in the ___.",
+              "answers": [
+                "bag"
+              ]
+            }
+          ],
+          "image": "📱"
+        }
+      ]
+    },
+    "7B": {
+      "theory": [
+        {
+          "title": "Глаголы чувств: look, feel, smell, sound, taste",
+          "table": {
+            "head": [
+              "Структура",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+ прилагательное",
+                "You look tired. This soup tastes delicious."
+              ],
+              [
+                "+ like + существительное",
+                "It smells like coffee. She looks like her mother."
+              ],
+              [
+                "+ as if / as though + предложение",
+                "It sounds as if they're arguing. You look as though you've seen a ghost."
+              ]
+            ]
+          },
+          "tip": "После глаголов чувств — прилагательное, а не наречие: It smells good (не well). look like = быть похожим внешне; be like = быть похожим по характеру."
+        },
+        {
+          "title": "Тело и действия",
+          "text": "nod (кивать), shake your head, wink, frown, stare, yawn, bite your nails, clap, wave, shrug your shoulders, raise your eyebrows."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "This milk smells ___.",
+              "options": [
+                "bad",
+                "badly"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "You look ___ a film star!",
+              "options": [
+                "as",
+                "like"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "It sounds ___ there's a party next door.",
+              "options": [
+                "like as",
+                "as if"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He looks ___ his father — same eyes.",
+              "options": [
+                "like",
+                "as"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "7b-pic",
+          "type": "picture",
+          "instruction": "The body: write the verb.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "👏",
+              "answers": [
+                "clap"
+              ]
+            },
+            {
+              "emoji": "👋",
+              "answers": [
+                "wave"
+              ]
+            },
+            {
+              "emoji": "🤷",
+              "answers": [
+                "shrug"
+              ]
+            },
+            {
+              "emoji": "😉",
+              "answers": [
+                "wink"
+              ]
+            },
+            {
+              "emoji": "🥱",
+              "answers": [
+                "yawn"
+              ]
+            },
+            {
+              "emoji": "🙄",
+              "answers": [
+                "roll your eyes",
+                "roll eyes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-2",
+          "type": "gap-fill",
+          "instruction": "Complete with like or as if.",
+          "items": [
+            {
+              "text": "That smells ___ burnt toast.",
+              "answers": [
+                "like"
+              ]
+            },
+            {
+              "text": "You look ___ you haven't slept for days.",
+              "answers": [
+                "as if",
+                "as though"
+              ]
+            },
+            {
+              "text": "It tastes ___ chicken.",
+              "answers": [
+                "like"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-3",
+          "type": "matching",
+          "instruction": "Match the actions and their meanings.",
+          "pairs": [
+            {
+              "left": "yawn",
+              "right": "open your mouth when tired"
+            },
+            {
+              "left": "shrug",
+              "right": "move your shoulders to show you don't know"
+            },
+            {
+              "left": "frown",
+              "right": "look worried or angry with your forehead"
+            },
+            {
+              "left": "nod",
+              "right": "move your head up and down to say yes"
+            },
+            {
+              "left": "wink",
+              "right": "close one eye quickly"
+            }
+          ]
+        },
+        {
+          "id": "7b-4",
+          "type": "transform",
+          "instruction": "Rewrite using a verb of the senses.",
+          "items": [
+            {
+              "prompt": "From what I hear, the concert was amazing. (sound)",
+              "answers": [
+                "The concert sounds amazing.",
+                "It sounds as if the concert was amazing.",
+                "It sounds like the concert was amazing."
+              ]
+            },
+            {
+              "prompt": "Your perfume has a nice smell. (smell)",
+              "answers": [
+                "Your perfume smells nice."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Body language at interviews",
+          "text": "Within the first seven seconds, interviewers form an impression based mostly on body language. Candidates who look nervous — biting their nails, avoiding eye contact, crossing their arms — seem less confident, even when their answers are excellent. Experts recommend a firm handshake, nodding occasionally to show you're listening, and leaning slightly forward. But don't overdo it: staring without blinking looks as if you're trying too hard.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Interviewers form an impression within ___ seconds.",
+              "answers": [
+                "seven",
+                "7"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Which of these makes you seem less confident?",
+              "options": [
+                "nodding",
+                "crossing your arms",
+                "leaning forward"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Staring without blinking is recommended.",
+              "answer": false
+            }
+          ],
+          "image": "🤝"
+        },
+        {
+          "id": "7b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Cooking show",
+          "script": [
+            {
+              "speaker": "Judge",
+              "text": "Well, it looks beautiful. It smells like a Moroccan market — cinnamon, cumin. Let me taste… Mmm. The lamb tastes wonderful, but the sauce is a bit too salty. It feels as if you rushed the last step."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "It smells like…",
+              "options": [
+                "an Italian kitchen",
+                "a Moroccan market",
+                "a bakery"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The sauce is a bit too ___.",
+              "answers": [
+                "salty"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The judge thinks the last step was rushed.",
+              "answer": true
+            }
+          ],
+          "image": "🍳"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc7-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "The lights are off. They ___ out.",
+            "options": [
+              "must have gone",
+              "should have gone",
+              "needn't have gone"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "You ___ told her! It was a secret!",
+            "options": [
+              "shouldn't have",
+              "can't have",
+              "must have"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "This fabric feels ___.",
+            "options": [
+              "softly",
+              "soft",
+              "like soft"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Please ___ me to buy bread.",
+            "options": [
+              "remember",
+              "remind"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc7-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A strange noise",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "It sounded as if someone was walking upstairs. But it can't have been a person — the house was locked. It must have been the cat. I shouldn't have watched that horror film before bed!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "What does she think made the noise?",
+            "options": [
+              "a burglar",
+              "the cat",
+              "the wind"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "She watched a ___ film before bed.",
+            "answers": [
+              "horror"
+            ]
+          }
+        ],
+        "image": "👻"
+      }
+    ]
+  }
+}

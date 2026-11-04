@@ -1,0 +1,926 @@
+{
+  "fileId": "12",
+  "lessons": {
+    "12A": {
+      "theory": [
+        {
+          "title": "Present Perfect: опыт",
+          "text": "have / has + 3-я форма глагола (past participle). Используем, чтобы рассказать об опыте в жизни, не говоря когда.",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I've been to Paris. She's seen this film."
+              ],
+              [
+                "−",
+                "I haven't tried sushi. He hasn't met her."
+              ],
+              [
+                "?",
+                "Have you ever been to Japan? — Yes, I have. / No, I haven't."
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Have you ever ridden a horse?",
+              "ru": "Ты когда-нибудь ездил верхом?"
+            },
+            {
+              "en": "I've never flown in a helicopter.",
+              "ru": "Я никогда не летал на вертолёте."
+            }
+          ],
+          "tip": "been vs gone: She's been to London (была и вернулась). She's gone to London (уехала и сейчас там)."
+        },
+        {
+          "title": "Третья форма",
+          "text": "Правильные: = Past (worked, visited). Неправильные: be → been, do → done, see → seen, eat → eaten, write → written, fly → flown, meet → met, buy → bought, win → won, break → broken."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Present perfect for experience",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=present+perfect+have+you+ever+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12a-1",
+          "type": "matching",
+          "instruction": "Match the verbs and their past participles.",
+          "pairs": [
+            {
+              "left": "eat",
+              "right": "eaten"
+            },
+            {
+              "left": "write",
+              "right": "written"
+            },
+            {
+              "left": "fly",
+              "right": "flown"
+            },
+            {
+              "left": "break",
+              "right": "broken"
+            },
+            {
+              "left": "win",
+              "right": "won"
+            },
+            {
+              "left": "be",
+              "right": "been"
+            }
+          ]
+        },
+        {
+          "id": "12a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the present perfect.",
+          "items": [
+            {
+              "text": "I ___ to Spain three times.",
+              "hint": "be",
+              "answers": [
+                "'ve been",
+                "have been"
+              ]
+            },
+            {
+              "text": "She ___ a famous person.",
+              "hint": "never meet",
+              "answers": [
+                "'s never met",
+                "has never met"
+              ]
+            },
+            {
+              "text": "Have you ever ___ a marathon?",
+              "hint": "run",
+              "answers": [
+                "run"
+              ]
+            },
+            {
+              "text": "We ___ this film. Let's watch something else.",
+              "hint": "see",
+              "answers": [
+                "'ve seen",
+                "have seen"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-3",
+          "type": "transform",
+          "instruction": "Make questions with ever.",
+          "items": [
+            {
+              "prompt": "you / eat / snails",
+              "answers": [
+                "Have you ever eaten snails?"
+              ]
+            },
+            {
+              "prompt": "she / be / to Japan",
+              "answers": [
+                "Has she ever been to Japan?"
+              ]
+            },
+            {
+              "prompt": "they / win / a prize",
+              "answers": [
+                "Have they ever won a prize?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-4",
+          "type": "multiple-choice",
+          "instruction": "been or gone?",
+          "items": [
+            {
+              "question": "Where's Tom? — He's ___ to the shop. He'll be back soon.",
+              "options": [
+                "been",
+                "gone"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I've ___ to Kazan twice. It's a lovely city.",
+              "options": [
+                "been",
+                "gone"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "12a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Bucket list",
+          "text": "Sveta, 35, has a 'bucket list' — things to do before she's old. 'I've done a lot of things on it. I've seen the Northern Lights and I've swum with dolphins in Egypt. I've climbed Mount Elbrus — that was hard! But I've never been to South America, and I've never tried skydiving. Maybe next year!'",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Sveta has seen the Northern Lights.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "She swam with dolphins in ___.",
+              "answers": [
+                "Egypt"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "She has never…",
+              "options": [
+                "climbed a mountain",
+                "been to South America",
+                "travelled abroad"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "✅"
+        },
+        {
+          "id": "12a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Have you ever…?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Have you ever been on TV?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I have! I was on a quiz show once."
+            },
+            {
+              "speaker": "A",
+              "text": "Have you ever won anything?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I haven't. I've never been lucky!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "B has been on TV.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "B was on a ___ show.",
+              "answers": [
+                "quiz"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "B has won a prize.",
+              "answer": false
+            }
+          ],
+          "image": "🎬"
+        }
+      ]
+    },
+    "12B": {
+      "theory": [
+        {
+          "title": "Present Perfect или Past Simple?",
+          "table": {
+            "head": [
+              "Present Perfect",
+              "Past Simple"
+            ],
+            "rows": [
+              [
+                "опыт, без «когда»",
+                "конкретное время в прошлом"
+              ],
+              [
+                "Have you ever been to Rome?",
+                "When did you go there?"
+              ],
+              [
+                "I've seen that film.",
+                "I saw it last year."
+              ]
+            ]
+          },
+          "text": "Разговор часто начинается с Present Perfect (общий вопрос), а детали — в Past Simple.",
+          "examples": [
+            {
+              "en": "Have you ever lost your passport? — Yes, I have. I lost it in Spain in 2019.",
+              "ru": "Ты когда-нибудь терял паспорт? — Да. Потерял в Испании в 2019."
+            }
+          ],
+          "tip": "С yesterday, last…, ago, in 2010, when… — только Past Simple."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "I ___ to Paris last summer.",
+              "options": [
+                "have been",
+                "went"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ you ever ___ a celebrity?",
+              "options": [
+                "Did … meet",
+                "Have … met"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She ___ her keys yesterday.",
+              "options": [
+                "has lost",
+                "lost"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I ___ this book. It's great.",
+              "options": [
+                "'ve read",
+                "read yesterday"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "12b-2",
+          "type": "gap-fill",
+          "instruction": "Complete the conversation.",
+          "items": [
+            {
+              "text": "A: Have you ever ___ an accident? (have)",
+              "answers": [
+                "had"
+              ]
+            },
+            {
+              "text": "B: Yes, I ___. (short answer)",
+              "answers": [
+                "have"
+              ]
+            },
+            {
+              "text": "A: When ___ it happen?",
+              "answers": [
+                "did"
+              ]
+            },
+            {
+              "text": "B: It ___ two years ago. I fell off my bike. (happen)",
+              "answers": [
+                "happened"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12b-3",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I have seen him yesterday.",
+              "answers": [
+                "I saw him yesterday."
+              ]
+            },
+            {
+              "prompt": "Did you ever try sushi?",
+              "answers": [
+                "Have you ever tried sushi?"
+              ]
+            },
+            {
+              "prompt": "When have you arrived?",
+              "answers": [
+                "When did you arrive?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12b-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "Have you ever been to Italy?"
+            },
+            {
+              "answer": "I went there in 2018."
+            }
+          ]
+        },
+        {
+          "id": "12b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Travel stories",
+          "text": "Have you ever missed a flight? I have — twice! The first time was in 2015. I went to the wrong airport in Moscow. The second time I fell asleep in the airport café and didn't hear the announcement. Now I always arrive three hours early and I never drink coffee before a flight!",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The writer has missed a flight ___ times.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The first time, the writer…",
+              "options": [
+                "fell asleep",
+                "went to the wrong airport",
+                "lost the ticket"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Now the writer arrives three hours early.",
+              "answer": true
+            }
+          ],
+          "image": "✈️"
+        },
+        {
+          "id": "12b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Have you ever met someone famous?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Have you ever met someone famous?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I have. I met a famous footballer at the airport."
+            },
+            {
+              "speaker": "A",
+              "text": "Really? When was that?"
+            },
+            {
+              "speaker": "B",
+              "text": "Last March. He signed my boarding pass!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B met a famous…",
+              "options": [
+                "singer",
+                "footballer",
+                "actor"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "When?",
+              "options": [
+                "last March",
+                "last May",
+                "two years ago"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "He signed B's boarding ___.",
+              "answers": [
+                "pass"
+              ]
+            }
+          ],
+          "image": "⭐"
+        }
+      ]
+    },
+    "12C": {
+      "theory": [
+        {
+          "title": "Повторение времён",
+          "table": {
+            "head": [
+              "Время",
+              "Когда",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Present Simple",
+                "привычки, факты",
+                "I work in a bank."
+              ],
+              [
+                "Present Continuous",
+                "сейчас, временно",
+                "I'm working from home this week."
+              ],
+              [
+                "Past Simple",
+                "законченное в прошлом",
+                "I worked in a shop in 2015."
+              ],
+              [
+                "Present Perfect",
+                "опыт",
+                "I've worked abroad."
+              ],
+              [
+                "be going to",
+                "планы",
+                "I'm going to change jobs."
+              ]
+            ]
+          },
+          "tip": "Ищи слова-подсказки: usually → Simple, now → Continuous, yesterday / ago → Past, ever / never → Perfect, next → going to."
+        },
+        {
+          "title": "Порядок слов в вопросах (повторение)",
+          "text": "Вопросительное слово + вспомогательный глагол (do/does/did/am/is/are/have/has) + подлежащее + глагол."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "Look! It ___.",
+              "options": [
+                "snows",
+                "'s snowing",
+                "snowed"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I ___ a cold last week.",
+              "options": [
+                "have",
+                "had",
+                "'ve had"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We ___ to Spain next month.",
+              "options": [
+                "go",
+                "'re going to go",
+                "went"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She ___ fish — she's vegetarian.",
+              "options": [
+                "doesn't eat",
+                "isn't eating",
+                "didn't eat"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ you ever ___ in a tent?",
+              "options": [
+                "Did … sleep",
+                "Have … slept",
+                "Do … sleep"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "12c-2",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "What are you going to do tomorrow?"
+            },
+            {
+              "answer": "How long did you live there?"
+            },
+            {
+              "answer": "Where does your sister work?"
+            },
+            {
+              "answer": "What are you reading at the moment?"
+            }
+          ]
+        },
+        {
+          "id": "12c-3",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct auxiliary.",
+          "items": [
+            {
+              "text": "What ___ you do last weekend?",
+              "answers": [
+                "did"
+              ]
+            },
+            {
+              "text": "___ she ever been to London?",
+              "answers": [
+                "Has"
+              ]
+            },
+            {
+              "text": "Where ___ you going?",
+              "answers": [
+                "are"
+              ]
+            },
+            {
+              "text": "How often ___ he play tennis?",
+              "answers": [
+                "does"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12c-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I am living here since 2010.",
+              "answers": [
+                "I have lived here since 2010.",
+                "I've lived here since 2010.",
+                "I've been living here since 2010."
+              ]
+            },
+            {
+              "prompt": "Where you went yesterday?",
+              "answers": [
+                "Where did you go yesterday?"
+              ]
+            },
+            {
+              "prompt": "She don't like coffee.",
+              "answers": [
+                "She doesn't like coffee.",
+                "She does not like coffee."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "A year abroad",
+          "text": "Hi everyone! I'm writing from Toronto. I arrived here in September and I'm studying business at the university. I've made some great friends and I've tried a lot of new food. Last weekend we went to Niagara Falls — amazing! Next month I'm going to visit Vancouver. I usually study in the library, but today I'm sitting in a café. Miss you all!",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The writer is in ___.",
+              "answers": [
+                "Toronto",
+                "Canada"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Last weekend they went to…",
+              "options": [
+                "Vancouver",
+                "Niagara Falls",
+                "Montreal"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Today the writer is in the library.",
+              "answer": false
+            }
+          ],
+          "image": "🍁"
+        },
+        {
+          "id": "12c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Catching up",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "What are you doing these days?"
+            },
+            {
+              "speaker": "B",
+              "text": "I'm working as a designer. I started in January."
+            },
+            {
+              "speaker": "A",
+              "text": "Have you moved?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I have. I live near the river now. And I'm going to get a dog next month!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "B works as a ___.",
+              "answers": [
+                "designer"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "B started in…",
+              "options": [
+                "January",
+                "June",
+                "July"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "B is going to get a cat.",
+              "answer": false
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "В аэропорту",
+        "examples": [
+          {
+            "en": "Can I see your passport, please?",
+            "ru": "Ваш паспорт, пожалуйста."
+          },
+          {
+            "en": "Did you pack your bag yourself?",
+            "ru": "Вы сами собирали сумку?"
+          },
+          {
+            "en": "Window or aisle?",
+            "ru": "У окна или у прохода?"
+          },
+          {
+            "en": "Boarding is at gate 12.",
+            "ru": "Посадка у выхода 12."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe12-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 12.",
+        "video": {
+          "title": "Practical English, File 12 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "I'd like an aisle seat.",
+          "How many bags are you checking in?",
+          "What time does boarding start?",
+          "Have a good flight!"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Разыграл(а) регистрацию на рейс",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe12-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Check-in",
+        "script": [
+          {
+            "speaker": "Agent",
+            "text": "Good morning. Where are you flying today?"
+          },
+          {
+            "speaker": "Passenger",
+            "text": "To Dubai."
+          },
+          {
+            "speaker": "Agent",
+            "text": "How many bags are you checking in?"
+          },
+          {
+            "speaker": "Passenger",
+            "text": "Just one. Can I have a window seat, please?"
+          },
+          {
+            "speaker": "Agent",
+            "text": "Sure. Boarding is at ten fifteen from gate twenty-two."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The passenger is flying to ___.",
+            "answers": [
+              "Dubai"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Seat:",
+            "options": [
+              "window",
+              "aisle"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "Gate:",
+            "options": [
+              "12",
+              "22",
+              "20"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "✈️"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc12-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "Have you ever ___ a camel?",
+            "options": [
+              "rode",
+              "ridden",
+              "ride"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I ___ him two days ago.",
+            "options": [
+              "have seen",
+              "saw",
+              "see"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ to the gym. She'll be back at six.",
+            "options": [
+              "has been",
+              "has gone"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "They've ___ been to Asia.",
+            "options": [
+              "ever",
+              "never",
+              "yet"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc12-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Adventures",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "I've done some crazy things in my life. I've jumped out of a plane and I've slept in an ice hotel. But I've never eaten insects. Last year in Thailand I tried, but I couldn't do it!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "She has jumped out of a plane.",
+            "answer": true
+          },
+          {
+            "kind": "gap",
+            "text": "She has slept in an ___ hotel.",
+            "answers": [
+              "ice"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "She has eaten insects.",
+            "answer": false
+          }
+        ],
+        "image": "🪂"
+      }
+    ]
+  }
+}

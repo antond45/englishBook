@@ -1,0 +1,832 @@
+{
+  "fileId": "9",
+  "lessons": {
+    "9A": {
+      "theory": [
+        {
+          "title": "Исчисляемые и неисчисляемые",
+          "text": "Исчисляемые: an egg, two eggs. Неисчисляемые: rice, pasta, cheese, bread, meat, fruit, milk, sugar, money, information — без a/an и без -s.",
+          "table": {
+            "head": [
+              "",
+              "Исчисляемые",
+              "Неисчисляемые"
+            ],
+            "rows": [
+              [
+                "+",
+                "a banana / some bananas",
+                "some rice"
+              ],
+              [
+                "−",
+                "any bananas",
+                "any rice"
+              ],
+              [
+                "?",
+                "any bananas?",
+                "any rice?"
+              ]
+            ]
+          },
+          "tip": "fruit обычно неисчисляемое: I eat a lot of fruit (не fruits)."
+        },
+        {
+          "title": "Еда",
+          "text": "beef, chicken, lamb, salmon, prawns; carrots, onions, peppers, mushrooms; pears, grapes, cherries; cereal, biscuits, crisps, butter, yoghurt."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Countable and uncountable nouns (A2)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=countable+uncountable+nouns+food+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9a-1",
+          "type": "multiple-choice",
+          "instruction": "Countable (C) or uncountable (U)?",
+          "items": [
+            {
+              "question": "an onion",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "butter",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "a biscuit",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "pasta",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "information",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9a-pic",
+          "type": "picture",
+          "instruction": "Food: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🍇",
+              "answers": [
+                "grapes"
+              ]
+            },
+            {
+              "emoji": "🍐",
+              "answers": [
+                "a pear",
+                "pear"
+              ]
+            },
+            {
+              "emoji": "🍒",
+              "answers": [
+                "cherries"
+              ]
+            },
+            {
+              "emoji": "🧅",
+              "answers": [
+                "an onion",
+                "onion",
+                "onions"
+              ]
+            },
+            {
+              "emoji": "🍄",
+              "answers": [
+                "mushrooms",
+                "a mushroom"
+              ]
+            },
+            {
+              "emoji": "🦐",
+              "answers": [
+                "prawns"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a, an, some or any.",
+          "items": [
+            {
+              "text": "Would you like ___ cereal for breakfast?",
+              "answers": [
+                "some"
+              ]
+            },
+            {
+              "text": "There isn't ___ butter left.",
+              "answers": [
+                "any"
+              ]
+            },
+            {
+              "text": "I had ___ orange for breakfast.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "Are there ___ mushrooms in the soup?",
+              "answers": [
+                "any"
+              ]
+            },
+            {
+              "text": "Can I have ___ glass of water?",
+              "answers": [
+                "a"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-3",
+          "type": "matching",
+          "instruction": "Match the food and the group.",
+          "pairs": [
+            {
+              "left": "salmon",
+              "right": "fish"
+            },
+            {
+              "left": "lamb",
+              "right": "meat"
+            },
+            {
+              "left": "prawns",
+              "right": "seafood"
+            },
+            {
+              "left": "grapes",
+              "right": "fruit"
+            },
+            {
+              "left": "peppers",
+              "right": "vegetables"
+            }
+          ]
+        },
+        {
+          "id": "9a-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I'd like a bread.",
+              "answers": [
+                "I'd like some bread.",
+                "I would like some bread."
+              ]
+            },
+            {
+              "prompt": "We need some informations.",
+              "answers": [
+                "We need some information."
+              ]
+            },
+            {
+              "prompt": "There aren't some eggs.",
+              "answers": [
+                "There aren't any eggs.",
+                "There are not any eggs."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-r",
+          "type": "reading",
+          "instruction": "Read the food diary and answer.",
+          "title": "What did you eat yesterday?",
+          "text": "Breakfast: some cereal with milk and a banana. Coffee, no sugar.\nLunch: a chicken sandwich and some crisps at my desk — not very healthy!\nSnack: an apple and some biscuits.\nDinner: salmon with rice and some vegetables. A glass of water.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "For breakfast the writer had cereal and a ___.",
+              "answers": [
+                "banana"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer had lunch in a restaurant.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Dinner was…",
+              "options": [
+                "chicken with pasta",
+                "salmon with rice",
+                "beef with potatoes"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🥪"
+        },
+        {
+          "id": "9a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Shopping list",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Do we need any eggs?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, there are some in the fridge. But we need some butter and some cheese."
+            },
+            {
+              "speaker": "A",
+              "text": "Is there any bread?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, there isn't. Get a loaf, please. And some grapes for the kids."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "They need eggs.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "They need…",
+              "options": [
+                "butter and cheese",
+                "milk and eggs",
+                "rice and pasta"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "The grapes are for the ___.",
+              "answers": [
+                "kids",
+                "children"
+              ]
+            }
+          ],
+          "image": "🛒"
+        }
+      ]
+    },
+    "9B": {
+      "theory": [
+        {
+          "title": "Количество",
+          "table": {
+            "head": [
+              "",
+              "Исчисляемые",
+              "Неисчисляемые"
+            ],
+            "rows": [
+              [
+                "Сколько?",
+                "How many eggs?",
+                "How much sugar?"
+              ],
+              [
+                "Много",
+                "a lot of / lots of eggs",
+                "a lot of sugar"
+              ],
+              [
+                "Немного",
+                "not many eggs",
+                "not much sugar"
+              ],
+              [
+                "Совсем нет",
+                "no eggs / not any",
+                "no sugar / not any"
+              ]
+            ]
+          },
+          "tip": "much и many обычно в вопросах и отрицаниях. В утверждениях — a lot of: I drink a lot of coffee."
+        },
+        {
+          "title": "Упаковки",
+          "text": "a bottle of, a can of, a carton of, a packet of, a jar of, a tin of, a bag of, a box of."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct word.",
+          "items": [
+            {
+              "question": "How ___ coffee do you drink?",
+              "options": [
+                "much",
+                "many"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I don't eat ___ sweets.",
+              "options": [
+                "much",
+                "many"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She drinks ___ water.",
+              "options": [
+                "a lot of",
+                "many"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "There isn't ___ milk.",
+              "options": [
+                "much",
+                "many"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "9b-2",
+          "type": "matching",
+          "instruction": "Match the containers and the food.",
+          "pairs": [
+            {
+              "left": "a tin of",
+              "right": "tuna"
+            },
+            {
+              "left": "a jar of",
+              "right": "honey"
+            },
+            {
+              "left": "a carton of",
+              "right": "orange juice"
+            },
+            {
+              "left": "a box of",
+              "right": "chocolates"
+            },
+            {
+              "left": "a bag of",
+              "right": "potatoes"
+            }
+          ]
+        },
+        {
+          "id": "9b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with much, many or a lot of.",
+          "items": [
+            {
+              "text": "How ___ sugar do you take?",
+              "answers": [
+                "much"
+              ]
+            },
+            {
+              "text": "There aren't ___ people here today.",
+              "answers": [
+                "many"
+              ]
+            },
+            {
+              "text": "He eats ___ meat.",
+              "answers": [
+                "a lot of",
+                "lots of"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "How many eggs do we need?"
+            },
+            {
+              "answer": "I don't drink much coffee."
+            },
+            {
+              "answer": "She eats a lot of fruit."
+            }
+          ]
+        },
+        {
+          "id": "9b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "How much sugar is in your food?",
+          "text": "Doctors say adults shouldn't eat more than 30 grams of sugar a day. But there's a lot of hidden sugar in our food. A can of cola has about 35 grams — more than the whole day's limit! Even a carton of 'healthy' fruit juice can have 20 grams. And how many people check the sugar in ketchup? A spoon of ketchup has 4 grams.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Adults shouldn't eat more than ___ grams of sugar a day.",
+              "answers": [
+                "30",
+                "thirty"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "A can of cola has about…",
+              "options": [
+                "20 g",
+                "35 g",
+                "4 g"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Fruit juice has no sugar.",
+              "answer": false
+            }
+          ],
+          "image": "🍬"
+        },
+        {
+          "id": "9b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A recipe",
+          "script": [
+            {
+              "speaker": "Chef",
+              "text": "For this soup you need two onions, three carrots, a tin of tomatoes and a litre of water. You don't need much salt — just a little. And add a lot of fresh herbs at the end."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many carrots?",
+              "options": [
+                "two",
+                "three",
+                "four"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "You need a tin of ___.",
+              "answers": [
+                "tomatoes"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "You need a lot of salt.",
+              "answer": false
+            }
+          ],
+          "image": "🍲"
+        }
+      ]
+    },
+    "9C": {
+      "theory": [
+        {
+          "title": "be going to — планы",
+          "text": "am/is/are + going to + глагол — уже решённые планы на будущее.",
+          "examples": [
+            {
+              "en": "I'm going to start a diet on Monday.",
+              "ru": "С понедельника я сажусь на диету."
+            },
+            {
+              "en": "We aren't going to buy a car this year.",
+              "ru": "В этом году мы не будем покупать машину."
+            },
+            {
+              "en": "What are you going to do this summer?",
+              "ru": "Что ты собираешься делать летом?"
+            }
+          ],
+          "tip": "С go часто говорят просто: I'm going to the cinema (вместо I'm going to go to…)."
+        },
+        {
+          "title": "Слова будущего",
+          "text": "tonight, tomorrow morning, this weekend, next week, next month, in two years, soon, one day."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with be going to.",
+          "items": [
+            {
+              "text": "I ___ learn to drive this year.",
+              "answers": [
+                "'m going to",
+                "am going to"
+              ]
+            },
+            {
+              "text": "She ___ have a party next Saturday.",
+              "answers": [
+                "'s going to",
+                "is going to"
+              ]
+            },
+            {
+              "text": "We ___ eat out tonight — we're too tired.",
+              "hint": "−",
+              "answers": [
+                "aren't going to",
+                "are not going to",
+                "'re not going to"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-2",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "You're going to stay at home. → ___?",
+              "answers": [
+                "Are you going to stay at home?"
+              ]
+            },
+            {
+              "prompt": "He's going to sell his car. → ___?",
+              "answers": [
+                "Is he going to sell his car?"
+              ]
+            },
+            {
+              "prompt": "They're going to visit Prague. → Where ___?",
+              "answers": [
+                "Where are they going to visit?",
+                "Where are they going to go?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I'm going ___ a new phone.",
+              "options": [
+                "buy",
+                "to buy",
+                "buying"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We ___ going to move next month.",
+              "options": [
+                "is",
+                "are",
+                "do"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What are you going to do ___?",
+              "options": [
+                "last weekend",
+                "yesterday",
+                "next weekend"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "9c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "When are you going to finish?"
+            },
+            {
+              "answer": "She isn't going to come tonight."
+            }
+          ]
+        },
+        {
+          "id": "9c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Changes",
+          "text": "Andrei is 45 and he's going to change his life. 'I'm going to leave my job in the bank. I'm not going to work in an office again! My wife and I are going to buy a small farm near the sea. We're going to grow vegetables and keep goats. Our children think we're crazy, but they're going to visit us every summer.'",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Andrei is going to work in a bank.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "They're going to buy a small ___.",
+              "answers": [
+                "farm"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The children are going to visit…",
+              "options": [
+                "every weekend",
+                "every summer",
+                "never"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🐐"
+        },
+        {
+          "id": "9c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "New Year's plans",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Are you going to make any New Year's resolutions?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I'm going to eat less sugar and I'm going to read a book every month."
+            },
+            {
+              "speaker": "A",
+              "text": "Are you going to join a gym?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I'm not. I'm going to cycle to work instead."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "B is going to eat less ___.",
+              "answers": [
+                "sugar"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "B is going to join a gym.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "B is going to go to work by…",
+              "options": [
+                "bus",
+                "bike",
+                "car"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🎆"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc9-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "How ___ apples do you want?",
+            "options": [
+              "much",
+              "many"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "There isn't ___ rice.",
+            "options": [
+              "some",
+              "any",
+              "a"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "a ___ of jam",
+            "options": [
+              "jar",
+              "carton",
+              "can"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "They're going ___ married.",
+            "options": [
+              "get",
+              "to get",
+              "getting"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc9-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "Party planning",
+        "text": "We're going to have a barbecue on Saturday. We need a lot of meat and some vegetables for the vegetarians. There isn't much space in the fridge, so we're going to buy the drinks on Saturday morning. How many people are coming? About twenty!",
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The barbecue is on…",
+            "options": [
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "There's a lot of space in the fridge.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "About ___ people are coming.",
+            "answers": [
+              "twenty",
+              "20"
+            ]
+          }
+        ],
+        "image": "🍖"
+      }
+    ]
+  }
+}

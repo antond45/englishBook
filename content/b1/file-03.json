@@ -1,0 +1,950 @@
+{
+  "fileId": "3",
+  "lessons": {
+    "3A": {
+      "theory": [
+        {
+          "title": "Будущее: be going to и Present Continuous",
+          "table": {
+            "head": [
+              "Форма",
+              "Когда",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "be going to",
+                "план, намерение (решение уже принято)",
+                "I'm going to look for a new job."
+              ],
+              [
+                "Present Continuous",
+                "договорённость: время/место уже назначены",
+                "I'm meeting Anna at 6 tomorrow."
+              ],
+              [
+                "be going to",
+                "предсказание по видимым признакам",
+                "Look at the clouds — it's going to rain."
+              ]
+            ]
+          },
+          "tip": "Если в планах есть билет, бронь или встреча в календаре — чаще Present Continuous: We're flying to Rome on Friday."
+        },
+        {
+          "title": "Аэропорт",
+          "text": "check in, check-in desk, hand luggage, baggage reclaim, boarding pass, departures / arrivals, gate, security, customs, delayed, cancelled, land, take off."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Future: going to vs present continuous",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=going+to+vs+present+continuous+future+arrangements"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3a-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the best form.",
+          "items": [
+            {
+              "question": "I've booked a table. We ___ at 8.",
+              "options": [
+                "'re having dinner",
+                "have dinner"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "One day I ___ a book about my life.",
+              "options": [
+                "'m writing",
+                "'m going to write"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Watch out! You ___ that glass!",
+              "options": [
+                "'re going to drop",
+                "drop"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What ___ this weekend? Any plans?",
+              "options": [
+                "do you do",
+                "are you doing"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "3a-pic",
+          "type": "picture",
+          "instruction": "At the airport: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🛂",
+              "answers": [
+                "passport control",
+                "passport"
+              ]
+            },
+            {
+              "emoji": "🛃",
+              "answers": [
+                "customs"
+              ]
+            },
+            {
+              "emoji": "🛄",
+              "answers": [
+                "baggage reclaim"
+              ]
+            },
+            {
+              "emoji": "🛫",
+              "answers": [
+                "departures",
+                "take off"
+              ]
+            },
+            {
+              "emoji": "🛬",
+              "answers": [
+                "arrivals",
+                "land",
+                "landing"
+              ]
+            },
+            {
+              "emoji": "🎫",
+              "answers": [
+                "a ticket",
+                "ticket",
+                "a boarding pass",
+                "boarding pass"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-2",
+          "type": "matching",
+          "instruction": "Match the airport words and definitions.",
+          "pairs": [
+            {
+              "left": "boarding pass",
+              "right": "a card you show to get on the plane"
+            },
+            {
+              "left": "hand luggage",
+              "right": "a small bag you take on the plane"
+            },
+            {
+              "left": "baggage reclaim",
+              "right": "where you collect your suitcase"
+            },
+            {
+              "left": "gate",
+              "right": "where you get on the plane"
+            },
+            {
+              "left": "customs",
+              "right": "where officers check what you bring into a country"
+            }
+          ]
+        },
+        {
+          "id": "3a-3",
+          "type": "gap-fill",
+          "instruction": "Complete with the present continuous (arrangements).",
+          "items": [
+            {
+              "text": "My parents ___ on Friday. I've bought their tickets.",
+              "hint": "arrive",
+              "answers": [
+                "are arriving",
+                "'re arriving"
+              ]
+            },
+            {
+              "text": "I ___ the dentist at four.",
+              "hint": "see",
+              "answers": [
+                "'m seeing",
+                "am seeing"
+              ]
+            },
+            {
+              "text": "We ___ tonight — we're too tired.",
+              "hint": "not go out",
+              "answers": [
+                "aren't going out",
+                "are not going out",
+                "'re not going out"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-4",
+          "type": "transform",
+          "instruction": "Rewrite with be going to.",
+          "items": [
+            {
+              "prompt": "My plan is to save money this year.",
+              "answers": [
+                "I'm going to save money this year.",
+                "I am going to save money this year."
+              ]
+            },
+            {
+              "prompt": "Her plan is to study medicine.",
+              "answers": [
+                "She's going to study medicine.",
+                "She is going to study medicine."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Airport secrets",
+          "text": "Why are airports so tiring? Designers say it's partly deliberate. After security you usually have to walk through a big duty-free shop — the path is curved so you see more products. There are few clocks, so passengers don't worry about time and spend more. And the gate number often appears on the screen only 40 minutes before boarding: until then, you stay near the shops and cafés. Experienced travellers have a tip: check your gate on the airline's app — it's often there earlier.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Why is the path in the shop curved?",
+              "options": [
+                "to save space",
+                "so you see more products",
+                "for safety"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Airports have a lot of clocks.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The gate often appears ___ minutes before boarding.",
+              "answers": [
+                "40",
+                "forty"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The tip is to…",
+              "options": [
+                "arrive later",
+                "check the airline's app",
+                "ask at the desk"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "✈️"
+        },
+        {
+          "id": "3a-l",
+          "type": "listening",
+          "instruction": "Listen to the announcements and answer.",
+          "title": "Airport announcements",
+          "script": [
+            {
+              "speaker": "Announcer",
+              "text": "Flight BA four one two to London is now boarding at gate fifteen."
+            },
+            {
+              "speaker": "Announcer",
+              "text": "Passengers on flight SU two three nine to Novosibirsk: this flight is delayed. The new departure time is eighteen forty."
+            },
+            {
+              "speaker": "Announcer",
+              "text": "Please do not leave your luggage unattended."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The London flight is boarding at gate…",
+              "options": [
+                "5",
+                "15",
+                "50"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The Novosibirsk flight is cancelled.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "New departure time: ___",
+              "answers": [
+                "18:40",
+                "18.40",
+                "eighteen forty",
+                "1840"
+              ]
+            }
+          ],
+          "image": "✈️"
+        }
+      ]
+    },
+    "3B": {
+      "theory": [
+        {
+          "title": "will / won't: предсказания",
+          "text": "will + инфинитив — предсказание, основанное на мнении. Часто с I think…, I'm sure…, probably, definitely.",
+          "examples": [
+            {
+              "en": "I think it'll be a great party.",
+              "ru": "Думаю, вечеринка будет отличной."
+            },
+            {
+              "en": "You won't like the film. It's very slow.",
+              "ru": "Тебе не понравится фильм."
+            },
+            {
+              "en": "She'll probably be late.",
+              "ru": "Она, скорее всего, опоздает."
+            }
+          ],
+          "tip": "«Я думаю, что не…» = I don't think + will: I don't think he'll come (а не I think he won't come). probably ставится после will, но перед won't: He'll probably win / He probably won't win."
+        },
+        {
+          "title": "Глаголы-противоположности",
+          "text": "win ↔ lose, pass ↔ fail, push ↔ pull, remember ↔ forget, borrow ↔ lend, teach ↔ learn, turn on ↔ turn off, buy ↔ sell."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with will / won't + verb.",
+          "items": [
+            {
+              "text": "Don't worry, you ___ the exam.",
+              "hint": "pass",
+              "answers": [
+                "'ll pass",
+                "will pass"
+              ]
+            },
+            {
+              "text": "I'm sure they ___ — they're the best team.",
+              "hint": "win",
+              "answers": [
+                "'ll win",
+                "will win"
+              ]
+            },
+            {
+              "text": "Take a jumper. It ___ warm in the evening.",
+              "hint": "not be",
+              "answers": [
+                "won't be",
+                "will not be"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-2",
+          "type": "matching",
+          "instruction": "Match the opposites.",
+          "pairs": [
+            {
+              "left": "borrow",
+              "right": "lend"
+            },
+            {
+              "left": "push",
+              "right": "pull"
+            },
+            {
+              "left": "pass",
+              "right": "fail"
+            },
+            {
+              "left": "teach",
+              "right": "learn"
+            },
+            {
+              "left": "remember",
+              "right": "forget"
+            }
+          ]
+        },
+        {
+          "id": "3b-3",
+          "type": "transform",
+          "instruction": "Rewrite with I don't think … will.",
+          "items": [
+            {
+              "prompt": "I think it won't rain.",
+              "answers": [
+                "I don't think it'll rain.",
+                "I don't think it will rain."
+              ]
+            },
+            {
+              "prompt": "I think she won't come.",
+              "answers": [
+                "I don't think she'll come.",
+                "I don't think she will come."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "He ___ get the job.",
+              "options": [
+                "probably won't",
+                "won't probably"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Can you ___ me some money?",
+              "options": [
+                "borrow",
+                "lend"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I think robots ___ most of our jobs one day.",
+              "options": [
+                "do",
+                "will do",
+                "are doing"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "3b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Predictions that were wrong",
+          "text": "Experts are not always right about the future. In 1943 the head of IBM supposedly said there would be a world market 'for maybe five computers'. In the 1990s a famous economist predicted that the internet would have no more effect on the economy than the fax machine. And in 2007 a mobile phone company boss laughed at the first iPhone: 'Nobody will buy a phone without a keyboard.' So when someone says 'That will never happen', be careful!",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "IBM's head predicted a market for maybe ___ computers.",
+              "answers": [
+                "five",
+                "5"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The economist compared the internet to…",
+              "options": [
+                "the telephone",
+                "the fax machine",
+                "television"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The phone boss thought people would love the iPhone.",
+              "answer": false
+            }
+          ],
+          "image": "🔮"
+        },
+        {
+          "id": "3b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Nervous before the exam",
+          "script": [
+            {
+              "speaker": "Anna",
+              "text": "I'm sure I'll fail tomorrow. I'll forget everything!"
+            },
+            {
+              "speaker": "Max",
+              "text": "No, you won't. You've studied for weeks. I think you'll get a really good mark."
+            },
+            {
+              "speaker": "Anna",
+              "text": "And what if the questions are about the topics I didn't revise?"
+            },
+            {
+              "speaker": "Max",
+              "text": "They probably won't be. Go to bed early — you'll feel better."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Anna is optimistic.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Max thinks Anna will…",
+              "options": [
+                "fail",
+                "get a good mark",
+                "not go"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Max says: go to bed ___.",
+              "answers": [
+                "early"
+              ]
+            }
+          ],
+          "image": "🏫"
+        }
+      ]
+    },
+    "3C": {
+      "theory": [
+        {
+          "title": "will: решения, предложения, обещания",
+          "table": {
+            "head": [
+              "Функция",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "мгновенное решение",
+                "It's cold. I'll close the window."
+              ],
+              [
+                "предложение помощи",
+                "I'll carry your bag."
+              ],
+              [
+                "обещание",
+                "I'll call you tonight. I won't tell anyone."
+              ],
+              [
+                "Shall I / we…? (предложить)",
+                "Shall I open the door? Shall we go?"
+              ]
+            ]
+          },
+          "tip": "Решение «на месте» — will; заранее принятое — be going to. «Ой, телефон звонит. Я отвечу» — I'll get it."
+        },
+        {
+          "title": "Глагол + back",
+          "text": "call back, come back, give back, pay back, take back, send back, get back, write back."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3c-1",
+          "type": "matching",
+          "instruction": "Match the situations and responses.",
+          "pairs": [
+            {
+              "left": "The phone's ringing.",
+              "right": "I'll get it."
+            },
+            {
+              "left": "I've forgotten my wallet!",
+              "right": "Don't worry, I'll pay."
+            },
+            {
+              "left": "This box is very heavy.",
+              "right": "I'll help you."
+            },
+            {
+              "left": "Please don't tell Mum.",
+              "right": "I won't say a word."
+            },
+            {
+              "left": "It's dark in here.",
+              "right": "Shall I turn on the light?"
+            }
+          ]
+        },
+        {
+          "id": "3c-2",
+          "type": "multiple-choice",
+          "instruction": "will or be going to?",
+          "items": [
+            {
+              "question": "We've decided. We ___ sell the house.",
+              "options": [
+                "'ll",
+                "'re going to"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Oh no, I've spilled the coffee! — Don't worry, I ___ get a cloth.",
+              "options": [
+                "'ll",
+                "'m going to"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ I make you a sandwich?",
+              "options": [
+                "Will",
+                "Shall"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "3c-3",
+          "type": "gap-fill",
+          "instruction": "Complete with a verb + back.",
+          "items": [
+            {
+              "text": "Can you lend me £10? I'll pay you ___ tomorrow.",
+              "answers": [
+                "back"
+              ]
+            },
+            {
+              "text": "I'm busy now. Can I call you ___ later?",
+              "answers": [
+                "back"
+              ]
+            },
+            {
+              "text": "These shoes are too small. I'm going to ___ them back to the shop.",
+              "answers": [
+                "take",
+                "send"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3c-4",
+          "type": "transform",
+          "instruction": "Make a promise with will / won't.",
+          "items": [
+            {
+              "prompt": "(not forget) your birthday",
+              "answers": [
+                "I won't forget your birthday.",
+                "I will not forget your birthday."
+              ]
+            },
+            {
+              "prompt": "(be) on time",
+              "answers": [
+                "I'll be on time.",
+                "I will be on time."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Promises we break",
+          "text": "A survey asked 2,000 people about promises. The most common broken promise? 'I'll start going to the gym on Monday.' In second place: 'I'll call you back in five minutes.' Most people said they break small promises every week, but they feel very bad about breaking big ones, like 'I'll pay you back.' Psychologists suggest a simple rule: only promise what you can do today.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The survey asked ___ people.",
+              "answers": [
+                "2,000",
+                "2000",
+                "two thousand"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The most common broken promise is about…",
+              "options": [
+                "calling back",
+                "the gym",
+                "money"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "People feel bad about breaking big promises.",
+              "answer": true
+            }
+          ],
+          "image": "🤞"
+        },
+        {
+          "id": "3c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Moving day",
+          "script": [
+            {
+              "speaker": "Sara",
+              "text": "I'm moving flat on Saturday and I don't have a car."
+            },
+            {
+              "speaker": "Tom",
+              "text": "I'll help you! I'll bring my van."
+            },
+            {
+              "speaker": "Sara",
+              "text": "Really? Thanks! I'll buy you lunch."
+            },
+            {
+              "speaker": "Tom",
+              "text": "Deal. Shall I come at nine?"
+            },
+            {
+              "speaker": "Sara",
+              "text": "Perfect."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Sara is moving on…",
+              "options": [
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Tom will bring his ___.",
+              "answers": [
+                "van"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Tom will come at…",
+              "options": [
+                "8",
+                "9",
+                "10"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "📦"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Проблемы в ресторане",
+        "examples": [
+          {
+            "en": "Excuse me, this isn't what I ordered.",
+            "ru": "Простите, это не то, что я заказывал."
+          },
+          {
+            "en": "My steak is undercooked / overcooked.",
+            "ru": "Стейк недожарен / пережарен."
+          },
+          {
+            "en": "Could we see the manager, please?",
+            "ru": "Можно позвать менеджера?"
+          },
+          {
+            "en": "I'm so sorry. I'll change it right away.",
+            "ru": "Извините, сейчас заменю."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe3-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 3.",
+        "video": {
+          "title": "Practical English, File 3 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Pre-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "Excuse me, I asked for…",
+          "It's a bit cold.",
+          "Could you bring us…?",
+          "I'm afraid there's a mistake on the bill."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Сформулировал(а) 3 вежливые жалобы в ресторане",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe3-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A problem with the bill",
+        "script": [
+          {
+            "speaker": "Customer",
+            "text": "Excuse me, I think there's a mistake on the bill. We had two coffees, not three."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Oh, I'm very sorry. Let me check… You're right. I'll bring you a new bill."
+          },
+          {
+            "speaker": "Customer",
+            "text": "Thank you. And the soup was a bit cold."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "I do apologise. Your desserts are free today."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "How many coffees did they have?",
+            "options": [
+              "one",
+              "two",
+              "three"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The soup was a bit ___.",
+            "answers": [
+              "cold"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The desserts are free.",
+            "answer": true
+          }
+        ],
+        "image": "🧾"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc3-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "I ___ my grandparents this Sunday. It's all arranged.",
+            "options": [
+              "'ll visit",
+              "'m visiting",
+              "visit"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I don't think it ___ tomorrow.",
+            "options": [
+              "will snow",
+              "won't snow",
+              "snows"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "The bag looks heavy. I ___ help you.",
+            "options": [
+              "'ll",
+              "'m going to",
+              "shall"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Can you ___ me your car?",
+            "options": [
+              "borrow",
+              "lend",
+              "rent"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc3-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Weekend plans",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "This weekend is busy. On Saturday morning I'm playing tennis with my brother — we've booked a court. In the afternoon I'm going to clean the flat. And on Sunday? I think I'll just stay in bed!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "On Saturday morning he's playing…",
+            "options": [
+              "football",
+              "tennis",
+              "golf"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "In the afternoon he's going to clean the ___.",
+            "answers": [
+              "flat"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "He has big plans for Sunday.",
+            "answer": false
+          }
+        ],
+        "image": "🎾"
+      }
+    ]
+  }
+}

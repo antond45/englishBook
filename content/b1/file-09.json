@@ -1,0 +1,992 @@
+{
+  "fileId": "9",
+  "lessons": {
+    "9A": {
+      "theory": [
+        {
+          "title": "Пассивный залог",
+          "text": "be + V3. Используем, когда важно действие или результат, а не кто его сделал. Исполнителя (если нужно) вводим через by.",
+          "table": {
+            "head": [
+              "Время",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Present Simple",
+                "English is spoken all over the world."
+              ],
+              [
+                "Past Simple",
+                "The telephone was invented by Bell."
+              ],
+              [
+                "Present Perfect",
+                "The bridge has been repaired."
+              ],
+              [
+                "will",
+                "The results will be announced tomorrow."
+              ]
+            ]
+          },
+          "tip": "Вопрос: When was it built? Who was it designed by? В русском часто «-ся» или неопределённо-личное: «Здесь говорят по-английски»."
+        },
+        {
+          "title": "Изобретения",
+          "text": "invent (изобрести), discover (открыть то, что существовало), design (спроектировать), create, develop, launch; an invention, a discovery, an inventor."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Passive voice (B1)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=passive+voice+present+past+pre-intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the passive (present or past simple).",
+          "items": [
+            {
+              "text": "Penicillin ___ by Alexander Fleming in 1928.",
+              "hint": "discover",
+              "answers": [
+                "was discovered"
+              ]
+            },
+            {
+              "text": "Millions of smartphones ___ every year.",
+              "hint": "sell",
+              "answers": [
+                "are sold"
+              ]
+            },
+            {
+              "text": "The Eiffel Tower ___ for the 1889 World's Fair.",
+              "hint": "build",
+              "answers": [
+                "was built"
+              ]
+            },
+            {
+              "text": "Coffee ___ in many countries.",
+              "hint": "grow",
+              "answers": [
+                "is grown"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-pic",
+          "type": "picture",
+          "instruction": "Inventions: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "💡",
+              "answers": [
+                "a light bulb",
+                "light bulb",
+                "lightbulb"
+              ]
+            },
+            {
+              "emoji": "☎️",
+              "answers": [
+                "a telephone",
+                "telephone",
+                "phone"
+              ]
+            },
+            {
+              "emoji": "📻",
+              "answers": [
+                "a radio",
+                "radio"
+              ]
+            },
+            {
+              "emoji": "🚲",
+              "answers": [
+                "a bicycle",
+                "bicycle",
+                "a bike",
+                "bike"
+              ]
+            },
+            {
+              "emoji": "✈️",
+              "answers": [
+                "an aeroplane",
+                "aeroplane",
+                "a plane",
+                "plane",
+                "an airplane"
+              ]
+            },
+            {
+              "emoji": "📺",
+              "answers": [
+                "a television",
+                "television",
+                "a TV",
+                "TV"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-2",
+          "type": "transform",
+          "instruction": "Rewrite in the passive.",
+          "items": [
+            {
+              "prompt": "Leonardo da Vinci painted the Mona Lisa.",
+              "answers": [
+                "The Mona Lisa was painted by Leonardo da Vinci."
+              ]
+            },
+            {
+              "prompt": "They make these watches in Switzerland.",
+              "answers": [
+                "These watches are made in Switzerland."
+              ]
+            },
+            {
+              "prompt": "Someone stole my bike yesterday.",
+              "answers": [
+                "My bike was stolen yesterday."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-3",
+          "type": "multiple-choice",
+          "instruction": "invent, discover or design?",
+          "items": [
+            {
+              "question": "Columbus ___ America (for Europeans).",
+              "options": [
+                "invented",
+                "discovered",
+                "designed"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Who ___ the light bulb?",
+              "options": [
+                "invented",
+                "discovered",
+                "designed"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "This dress was ___ by Coco Chanel.",
+              "options": [
+                "invented",
+                "discovered",
+                "designed"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "9a-4",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "When was the first email sent?"
+            },
+            {
+              "answer": "Where are these phones made?"
+            }
+          ]
+        },
+        {
+          "id": "9a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Accidental inventions",
+          "text": "Some of the world's most famous inventions were discovered by accident. The microwave oven was invented after an engineer noticed that a chocolate bar in his pocket had melted near a radar machine. Post-it notes were created when a scientist tried to make a very strong glue — but made a very weak one instead. And potato crisps were first made in 1853 by a chef who was annoyed with a customer who complained that his chips were too thick.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The microwave was invented after…",
+              "options": [
+                "a chocolate bar melted",
+                "a cake burned",
+                "a radar broke"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "Post-it notes were made with a very strong glue.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Crisps were first made in ___.",
+              "answers": [
+                "1853"
+              ]
+            }
+          ],
+          "image": "🔬"
+        },
+        {
+          "id": "9a-l",
+          "type": "listening",
+          "instruction": "Listen to the museum guide and answer.",
+          "title": "Museum of everyday things",
+          "script": [
+            {
+              "speaker": "Guide",
+              "text": "This is the first ballpoint pen. It was invented in 1938 by László Bíró, a Hungarian journalist. He noticed that newspaper ink dried quickly. Today, about fourteen million ballpoint pens are sold every day around the world. In many countries they're still called 'biros'."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The ballpoint pen was invented in ___.",
+              "answers": [
+                "1938"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Bíró was a…",
+              "options": [
+                "scientist",
+                "journalist",
+                "teacher"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "How many pens are sold every day?",
+              "options": [
+                "fourteen thousand",
+                "four million",
+                "fourteen million"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🖊️"
+        }
+      ]
+    },
+    "9B": {
+      "theory": [
+        {
+          "title": "used to",
+          "text": "used to + инфинитив — привычки и состояния в прошлом, которых больше нет. Отрицание и вопрос — с did и use (без -d).",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I used to play the piano."
+              ],
+              [
+                "−",
+                "She didn't use to like coffee."
+              ],
+              [
+                "?",
+                "Did you use to have long hair?"
+              ]
+            ]
+          },
+          "tip": "Для одного события в прошлом used to не подходит: I went to Paris in 2015 (не I used to go…). Для настоящего привычного — usually: I usually get up at 7."
+        },
+        {
+          "title": "Школьные предметы",
+          "text": "maths, physics, chemistry, biology, history, geography, literature, IT, PE (физкультура), art, music; strict, fail an exam, pass, revise, cheat, be good at."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with used to or didn't use to.",
+          "items": [
+            {
+              "text": "I ___ hate vegetables, but now I love them.",
+              "answers": [
+                "used to"
+              ]
+            },
+            {
+              "text": "We ___ have a car — we went everywhere by bus.",
+              "answers": [
+                "didn't use to"
+              ]
+            },
+            {
+              "text": "___ you use to wear a uniform at school?",
+              "answers": [
+                "Did"
+              ]
+            },
+            {
+              "text": "There ___ be a cinema here. Now it's a supermarket.",
+              "answers": [
+                "used to"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-pic",
+          "type": "picture",
+          "instruction": "School subjects: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🧪",
+              "answers": [
+                "chemistry"
+              ]
+            },
+            {
+              "emoji": "🧮",
+              "answers": [
+                "maths",
+                "math",
+                "mathematics"
+              ]
+            },
+            {
+              "emoji": "🌍",
+              "answers": [
+                "geography"
+              ]
+            },
+            {
+              "emoji": "🎨",
+              "answers": [
+                "art"
+              ]
+            },
+            {
+              "emoji": "🎵",
+              "answers": [
+                "music"
+              ]
+            },
+            {
+              "emoji": "🧬",
+              "answers": [
+                "biology"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-2",
+          "type": "transform",
+          "instruction": "Rewrite with used to.",
+          "items": [
+            {
+              "prompt": "When I was a child, I played chess every day. (but not now)",
+              "answers": [
+                "I used to play chess every day."
+              ]
+            },
+            {
+              "prompt": "She wasn't interested in sport before. (didn't)",
+              "answers": [
+                "She didn't use to be interested in sport."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-3",
+          "type": "matching",
+          "instruction": "Match the school subjects and topics.",
+          "pairs": [
+            {
+              "left": "chemistry",
+              "right": "elements and reactions"
+            },
+            {
+              "left": "geography",
+              "right": "countries and climate"
+            },
+            {
+              "left": "PE",
+              "right": "sport and exercise"
+            },
+            {
+              "left": "literature",
+              "right": "novels and poems"
+            },
+            {
+              "left": "biology",
+              "right": "plants and animals"
+            }
+          ]
+        },
+        {
+          "id": "9b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "Did you use to ___ your teachers?",
+              "options": [
+                "like",
+                "liked",
+                "liking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I ___ to Spain in 2010. (one time)",
+              "options": [
+                "used to go",
+                "went"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She ___ a very strict teacher.",
+              "options": [
+                "use to be",
+                "used to be"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "School in the 1970s",
+          "text": "My grandfather often tells me about his school. 'We used to sit in rows and nobody spoke unless the teacher asked a question. We didn't use to have computers, of course — we wrote everything by hand. The teachers used to be very strict: if you were late, you had to stand in the corner. But we used to play football every break, and I loved that.'",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Students could talk freely in class.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "If you were late, you had to…",
+              "options": [
+                "go home",
+                "stand in the corner",
+                "write a letter"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "He used to play ___ every break.",
+              "answers": [
+                "football"
+              ]
+            }
+          ],
+          "image": "🏫"
+        },
+        {
+          "id": "9b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "How have you changed?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Did you use to be shy at school?"
+            },
+            {
+              "speaker": "B",
+              "text": "Very! I used to sit at the back and never say anything. And I used to be terrible at maths."
+            },
+            {
+              "speaker": "A",
+              "text": "But you're an accountant now!"
+            },
+            {
+              "speaker": "B",
+              "text": "I know. People change!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "B used to be shy.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "B used to be terrible at ___.",
+              "answers": [
+                "maths",
+                "math"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Now B is…",
+              "options": [
+                "a teacher",
+                "an accountant",
+                "a student"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏫"
+        }
+      ]
+    },
+    "9C": {
+      "theory": [
+        {
+          "title": "might / might not",
+          "text": "might + инфинитив — «может быть», возможность (примерно 50%). Синоним: may. В отличие от will — нет уверенности.",
+          "examples": [
+            {
+              "en": "Take an umbrella. It might rain.",
+              "ru": "Возьми зонт. Может пойти дождь."
+            },
+            {
+              "en": "I might not come to the party — I'm very tired.",
+              "ru": "Я, возможно, не приду."
+            },
+            {
+              "en": "She might be at home. Try calling her.",
+              "ru": "Может быть, она дома."
+            }
+          ],
+          "tip": "Не путай: maybe (наречие, в начале) и might (глагол): Maybe I'll go = I might go."
+        },
+        {
+          "title": "Словообразование: существительные",
+          "table": {
+            "head": [
+              "Суффикс",
+              "Примеры"
+            ],
+            "rows": [
+              [
+                "-ment",
+                "improve → improvement, agree → agreement"
+              ],
+              [
+                "-tion / -sion",
+                "decide → decision, educate → education"
+              ],
+              [
+                "-ness",
+                "happy → happiness, kind → kindness"
+              ],
+              [
+                "-ity",
+                "possible → possibility, popular → popularity"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with might or might not + verb.",
+          "items": [
+            {
+              "text": "Don't wait for me. I ___ late.",
+              "hint": "be",
+              "answers": [
+                "might be"
+              ]
+            },
+            {
+              "text": "She ___ the job — she's not sure she wants it.",
+              "hint": "not accept",
+              "answers": [
+                "might not accept"
+              ]
+            },
+            {
+              "text": "Ask Pavel. He ___ the answer.",
+              "hint": "know",
+              "answers": [
+                "might know"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-2",
+          "type": "transform",
+          "instruction": "Make nouns.",
+          "items": [
+            {
+              "prompt": "decide",
+              "answers": [
+                "decision"
+              ]
+            },
+            {
+              "prompt": "happy",
+              "answers": [
+                "happiness"
+              ]
+            },
+            {
+              "prompt": "improve",
+              "answers": [
+                "improvement"
+              ]
+            },
+            {
+              "prompt": "possible",
+              "answers": [
+                "possibility"
+              ]
+            },
+            {
+              "prompt": "educate",
+              "answers": [
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the best option.",
+          "items": [
+            {
+              "question": "I'm not sure. I ___ go to the cinema.",
+              "options": [
+                "will",
+                "might",
+                "am going to"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ I'll see you tomorrow.",
+              "options": [
+                "Might",
+                "Maybe",
+                "May be"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "It's a big ___ for us.",
+              "options": [
+                "decide",
+                "decision",
+                "decisive"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9c-4",
+          "type": "transform",
+          "instruction": "Rewrite with might.",
+          "items": [
+            {
+              "prompt": "Maybe they'll come.",
+              "answers": [
+                "They might come."
+              ]
+            },
+            {
+              "prompt": "Maybe it won't snow.",
+              "answers": [
+                "It might not snow."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Jobs of the future",
+          "text": "Which jobs might disappear in the next twenty years? Experts say that cashiers, drivers and factory workers might be replaced by machines. But new jobs will appear too: we might need 'robot trainers', 'digital detox coaches' and 'space tourism guides'. One thing is certain: education will be more important than ever, because people might change careers several times in their lives.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Which job might disappear?",
+              "options": [
+                "cashier",
+                "robot trainer",
+                "space guide"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "One new job might be a 'digital detox ___'.",
+              "answers": [
+                "coach"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Experts think education will be less important.",
+              "answer": false
+            }
+          ],
+          "image": "🤖"
+        },
+        {
+          "id": "9c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Weekend plans?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "What are you doing this weekend?"
+            },
+            {
+              "speaker": "B",
+              "text": "I'm not sure. I might go to my parents', or I might stay here and paint the kitchen."
+            },
+            {
+              "speaker": "A",
+              "text": "There's a concert on Saturday. You might like it."
+            },
+            {
+              "speaker": "B",
+              "text": "Maybe. I might come if I finish the painting!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "B has definite plans.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "B might paint the ___.",
+              "answers": [
+                "kitchen"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The concert is on…",
+              "options": [
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🎨"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Как добраться",
+        "examples": [
+          {
+            "en": "Excuse me, how do I get to the airport?",
+            "ru": "Как добраться до аэропорта?"
+          },
+          {
+            "en": "Which line do I take?",
+            "ru": "На какую линию садиться?"
+          },
+          {
+            "en": "You need to change at Victoria.",
+            "ru": "Нужно пересесть на Виктории."
+          },
+          {
+            "en": "How long does it take?",
+            "ru": "Сколько ехать?"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe9-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 9.",
+        "video": {
+          "title": "Practical English, File 9 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Pre-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "Could you tell me how to get to…?",
+          "Is it far from here?",
+          "Get off at the third stop.",
+          "You can't miss it."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Объяснил(а) по-английски, как доехать от дома до центра",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe9-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "On the underground",
+        "script": [
+          {
+            "speaker": "Tourist",
+            "text": "Excuse me, how do I get to the British Museum?"
+          },
+          {
+            "speaker": "Man",
+            "text": "Take the Central line to Tottenham Court Road. It's four stops. Then it's about a five-minute walk."
+          },
+          {
+            "speaker": "Tourist",
+            "text": "Do I need to change?"
+          },
+          {
+            "speaker": "Man",
+            "text": "No, it's direct."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Which line?",
+            "options": [
+              "Victoria",
+              "Central",
+              "Northern"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "It's ___ stops.",
+            "answers": [
+              "four",
+              "4"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The tourist needs to change.",
+            "answer": false
+          }
+        ],
+        "image": "🚆"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc9-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "This church ___ in the 14th century.",
+            "options": [
+              "built",
+              "was built",
+              "is building"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I ___ to have a beard.",
+            "options": [
+              "use",
+              "used",
+              "was used"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ be at work — I'm not sure.",
+            "options": [
+              "might",
+              "will",
+              "used to"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Who was the telephone invented ___?",
+            "options": [
+              "from",
+              "by",
+              "of"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc9-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "My town then and now",
+        "text": "My town used to be very quiet. There didn't use to be any tourists. Then, ten years ago, an old castle was discovered under the main square. Since then, a museum has been built and thousands of people visit every summer. In the future, a new hotel might be opened.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The town used to have many tourists.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "An old ___ was discovered.",
+            "answers": [
+              "castle"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "In the future…",
+            "options": [
+              "a hotel will definitely open",
+              "a hotel might open",
+              "the museum will close"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🏰"
+      }
+    ]
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "fileId": "10",
+  "lessons": {
+    "10A": {
+      "theory": [
+        {
+          "title": "Квантификаторы",
+          "table": {
+            "head": [
+              "Слово",
+              "С чем",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "all / every / each",
+                "all + мн. ч.; every/each + ед. ч.",
+                "All students passed. Every student passed. Each student got a certificate."
+              ],
+              [
+                "both / either / neither",
+                "о двух",
+                "Both answers are right. Either day is fine. Neither option works."
+              ],
+              [
+                "no / none (of)",
+                "ни один",
+                "No one came. None of my friends came."
+              ],
+              [
+                "few / a few, little / a little",
+                "мало / немного",
+                "Few people know (почти никто). A few people know (несколько)."
+              ]
+            ]
+          },
+          "tip": "neither — с утвердительным глаголом: Neither of them is coming (не isn't). every / each + глагол в ед. ч.: Every student has a laptop."
+        },
+        {
+          "title": "Наука",
+          "text": "carry out an experiment, a theory, a hypothesis, prove, a discovery, a breakthrough, research (неисчисл.), a laboratory, a scientist, data, side effects, a clinical trial."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Quantifiers: both, either, neither, all, every",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=quantifiers+both+either+neither+all+every+upper+intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10a-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "___ of my parents speak English.",
+              "options": [
+                "Both",
+                "Either",
+                "Neither"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "You can take ___ bus — they both go to the centre.",
+              "options": [
+                "both",
+                "either",
+                "neither"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ of the hotels had free rooms, so we slept in the car.",
+              "options": [
+                "Both",
+                "Either",
+                "Neither"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "___ student has to complete the form.",
+              "options": [
+                "All",
+                "Every",
+                "Both"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "There's very ___ milk left. We need to buy some.",
+              "options": [
+                "little",
+                "few",
+                "a few"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "10a-pic",
+          "type": "picture",
+          "instruction": "Science: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🔬",
+              "answers": [
+                "a microscope",
+                "microscope"
+              ]
+            },
+            {
+              "emoji": "🧪",
+              "answers": [
+                "a test tube",
+                "test tube"
+              ]
+            },
+            {
+              "emoji": "🧬",
+              "answers": [
+                "DNA"
+              ]
+            },
+            {
+              "emoji": "🔭",
+              "answers": [
+                "a telescope",
+                "telescope"
+              ]
+            },
+            {
+              "emoji": "🧲",
+              "answers": [
+                "a magnet",
+                "magnet"
+              ]
+            },
+            {
+              "emoji": "🦠",
+              "answers": [
+                "bacteria",
+                "a virus",
+                "virus",
+                "germs"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with all, every, both, either, neither, none or a few.",
+          "items": [
+            {
+              "text": "___ of the answers were correct — I got 0/10.",
+              "answers": [
+                "None"
+              ]
+            },
+            {
+              "text": "I go running ___ morning.",
+              "answers": [
+                "every"
+              ]
+            },
+            {
+              "text": "I invited ___ friends, about four or five.",
+              "answers": [
+                "a few"
+              ]
+            },
+            {
+              "text": "I have two sisters. ___ of them lives near me — they're both abroad.",
+              "answers": [
+                "Neither"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-3",
+          "type": "matching",
+          "instruction": "Match the science words and definitions.",
+          "pairs": [
+            {
+              "left": "a breakthrough",
+              "right": "an important new discovery"
+            },
+            {
+              "left": "a hypothesis",
+              "right": "an idea that needs to be tested"
+            },
+            {
+              "left": "side effects",
+              "right": "unwanted results of a medicine"
+            },
+            {
+              "left": "carry out",
+              "right": "do (an experiment)"
+            },
+            {
+              "left": "data",
+              "right": "facts and numbers collected"
+            }
+          ]
+        },
+        {
+          "id": "10a-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "Neither of them aren't coming.",
+              "answers": [
+                "Neither of them is coming.",
+                "Neither of them are coming."
+              ]
+            },
+            {
+              "prompt": "Every students have a book.",
+              "answers": [
+                "Every student has a book.",
+                "All students have a book.",
+                "All the students have a book."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The placebo effect",
+          "text": "In a famous series of experiments, patients were divided into two groups. Both groups were told they were receiving a new painkiller, but only one group actually got the drug. The other received sugar pills. Surprisingly, many people in both groups reported less pain. This is the 'placebo effect'. Few scientists doubt it exists, but none can fully explain it. Interestingly, placebos seem to work even when patients know they're taking one — as long as they're given by a caring doctor.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The second group received…",
+              "options": [
+                "a stronger drug",
+                "sugar pills",
+                "nothing"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "People in both groups reported less pain.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "Scientists can fully explain the placebo effect.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Placebos work best when given by a caring ___.",
+              "answers": [
+                "doctor"
+              ]
+            }
+          ],
+          "image": "💊"
+        },
+        {
+          "id": "10a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A science podcast",
+          "script": [
+            {
+              "speaker": "Host",
+              "text": "Every year, thousands of experiments are carried out, but only a few lead to real breakthroughs. Today we're talking to two scientists. Both of them work on new antibiotics, and neither of them expected their research to become so important so quickly."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many experiments lead to breakthroughs?",
+              "options": [
+                "all",
+                "a few",
+                "none"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Both scientists work on new ___.",
+              "answers": [
+                "antibiotics"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "They expected their research to become important quickly.",
+              "answer": false
+            }
+          ],
+          "image": "🎙️"
+        }
+      ]
+    },
+    "10B": {
+      "theory": [
+        {
+          "title": "Артикли: продвинутые правила",
+          "table": {
+            "head": [
+              "Случай",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "the + единственное в своём роде, океаны, реки, горные цепи, страны-союзы",
+                "the sun, the Pacific, the Volga, the Alps, the USA, the UK"
+              ],
+              [
+                "без артикля: континенты, большинство стран, города, озёра, отдельные горы",
+                "Asia, Russia, Paris, Lake Baikal, Mount Elbrus"
+              ],
+              [
+                "без артикля в общем смысле",
+                "Life is short. History is fascinating. I love dogs."
+              ],
+              [
+                "the — конкретное",
+                "The history of Rome. The dogs next door bark all night."
+              ],
+              [
+                "школа, больница, тюрьма, церковь — по назначению без артикля",
+                "go to school / hospital / prison; но: I visited the hospital (как здание)"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Устойчивые пары слов",
+          "text": "black and white, salt and pepper, sooner or later, peace and quiet, ups and downs, now and then, safe and sound, pros and cons, rock and roll — порядок слов фиксирован."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10b-1",
+          "type": "multiple-choice",
+          "instruction": "the or no article?",
+          "items": [
+            {
+              "question": "We sailed across ___ Atlantic.",
+              "options": [
+                "the",
+                "—"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "She lives in ___ Canada.",
+              "options": [
+                "the",
+                "—"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I love ___ nature.",
+              "options": [
+                "the",
+                "—"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ Nile is the longest river in Africa.",
+              "options": [
+                "The",
+                "—"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "My grandfather is in ___ hospital. (he's ill)",
+              "options": [
+                "the",
+                "—"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "10b-2",
+          "type": "gap-fill",
+          "instruction": "Complete the pairs.",
+          "items": [
+            {
+              "text": "Sooner or ___, you'll have to decide.",
+              "answers": [
+                "later"
+              ]
+            },
+            {
+              "text": "Every relationship has its ups and ___.",
+              "answers": [
+                "downs"
+              ]
+            },
+            {
+              "text": "Pass me the salt and ___, please.",
+              "answers": [
+                "pepper"
+              ]
+            },
+            {
+              "text": "Let's look at the pros and ___.",
+              "answers": [
+                "cons"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-3",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "The life is too short.",
+              "answers": [
+                "Life is too short."
+              ]
+            },
+            {
+              "prompt": "We climbed the Mount Everest.",
+              "answers": [
+                "We climbed Mount Everest."
+              ]
+            },
+            {
+              "prompt": "She lives in UK.",
+              "answers": [
+                "She lives in the UK."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-4",
+          "type": "matching",
+          "instruction": "Match the pairs and their meanings.",
+          "pairs": [
+            {
+              "left": "safe and sound",
+              "right": "not hurt"
+            },
+            {
+              "left": "peace and quiet",
+              "right": "calm, without noise"
+            },
+            {
+              "left": "now and then",
+              "right": "sometimes"
+            },
+            {
+              "left": "black and white",
+              "right": "very clear, without doubt"
+            }
+          ]
+        },
+        {
+          "id": "10b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The history of the fork",
+          "text": "The fork seems so ordinary that we rarely think about its history. In fact, forks were used in the Byzantine Empire over a thousand years ago, but when a Byzantine princess used one at a wedding in Venice in the 11th century, the locals were shocked: eating with anything other than your fingers was considered a sign of arrogance. The fork only became common in England in the 18th century. Today, of course, most of the world eats with one — though billions of people prefer chopsticks or their hands.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Where was the princess from?",
+              "options": [
+                "Venice",
+                "the Byzantine Empire",
+                "England"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The people of Venice were impressed.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Forks became common in England in the ___ century.",
+              "answers": [
+                "18th",
+                "eighteenth"
+              ]
+            }
+          ],
+          "image": "🍴"
+        },
+        {
+          "id": "10b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A geography quiz",
+          "script": [
+            {
+              "speaker": "Host",
+              "text": "Which is the deepest lake in the world?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Lake Baikal."
+            },
+            {
+              "speaker": "Host",
+              "text": "Correct. And which mountain range separates Europe from Asia?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The Urals."
+            },
+            {
+              "speaker": "Host",
+              "text": "Right again! Sooner or later someone will beat you, but not today!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The deepest lake: Lake ___.",
+              "answers": [
+                "Baikal"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The mountain range between Europe and Asia:",
+              "options": [
+                "the Alps",
+                "the Urals",
+                "the Caucasus"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏔️"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Как объяснить процесс",
+        "examples": [
+          {
+            "en": "First of all, … Then … Once that's done, …",
+            "ru": "Сначала… Потом… Когда это сделано…"
+          },
+          {
+            "en": "The key thing is to…",
+            "ru": "Главное — …"
+          },
+          {
+            "en": "What happens is that…",
+            "ru": "Происходит вот что…"
+          },
+          {
+            "en": "In other words, …",
+            "ru": "Другими словами…"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe10-1",
+        "type": "video-task",
+        "instruction": "Watch the Colloquial English episode for Files 9–10.",
+        "video": {
+          "title": "Colloquial English, Files 9–10 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Интервью из курса Upper-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "What happens is that…",
+          "The key thing is…",
+          "In other words…",
+          "Basically, …"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Объяснил(а) вслух по-английски, как работает любое устройство (2 минуты)",
+          "Использовал(а) 3 новые фразы"
+        ]
+      },
+      {
+        "id": "pe10-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "How vaccines work",
+        "script": [
+          {
+            "speaker": "Scientist",
+            "text": "Basically, what happens is that a vaccine shows your immune system a harmless version of a virus. Your body then produces antibodies. In other words, it learns to recognise the virus. So if the real virus ever arrives, your body can fight it much faster. The key thing is that this memory can last for years."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "A vaccine shows the immune system…",
+            "options": [
+              "a dangerous virus",
+              "a harmless version of a virus",
+              "bacteria"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The body produces ___.",
+            "answers": [
+              "antibodies"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The memory lasts only a few days.",
+            "answer": false
+          }
+        ],
+        "image": "💉"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc10-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "___ of the two films was good. I didn't like them.",
+            "options": [
+              "Both",
+              "Either",
+              "Neither"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Very ___ people know the answer.",
+            "options": [
+              "few",
+              "little",
+              "a little"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "We spent a week in ___ Alps.",
+            "options": [
+              "the",
+              "—"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I need some peace and ___.",
+            "options": [
+              "calm",
+              "quiet",
+              "silence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc10-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "Two scientists",
+        "text": "Both Marie and Pierre Curie were physicists, and both won the Nobel Prize. Neither of them patented their discoveries, because they believed science should be free for everyone. Marie later became the first person to win the Nobel Prize in two different sciences.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "Only Marie won the Nobel Prize.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "They didn't patent their discoveries because…",
+            "options": [
+              "it was too expensive",
+              "they believed science should be free",
+              "they forgot"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Marie won the prize in two different ___.",
+            "answers": [
+              "sciences"
+            ]
+          }
+        ],
+        "image": "🔬"
+      }
+    ]
+  }
+}

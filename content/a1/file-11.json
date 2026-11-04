@@ -1,0 +1,1043 @@
+{
+  "fileId": "11",
+  "lessons": {
+    "11A": {
+      "theory": [
+        {
+          "title": "be going to — планы",
+          "text": "be going to + глагол — так говорят о том, что уже решили сделать в будущем (план, намерение).",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I'm going to learn Spanish. / She's going to buy a car."
+              ],
+              [
+                "−",
+                "I'm not going to watch TV. / They aren't going to come."
+              ],
+              [
+                "?",
+                "Are you going to stay? / Is he going to call?"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "We're going to visit our parents next weekend.",
+              "ru": "В следующие выходные мы собираемся навестить родителей."
+            }
+          ],
+          "tip": "Не забывай be: I'm going to… (не I going to…). А после to — глагол в начальной форме."
+        },
+        {
+          "title": "Слова будущего времени",
+          "text": "tonight (сегодня вечером), tomorrow (завтра), next week / month / year (на следующей неделе / в следующем месяце / году), in two days (через два дня), soon (скоро)."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Be going to for future plans",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=be+going+to+future+plans+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with am, is or are + going to.",
+          "items": [
+            {
+              "text": "I ___ study tonight.",
+              "answers": [
+                "am going to",
+                "'m going to"
+              ]
+            },
+            {
+              "text": "She ___ buy a car.",
+              "answers": [
+                "is going to",
+                "'s going to"
+              ]
+            },
+            {
+              "text": "We ___ have a party.",
+              "answers": [
+                "are going to",
+                "'re going to"
+              ]
+            },
+            {
+              "text": "They ___ travel to Japan.",
+              "answers": [
+                "are going to",
+                "'re going to"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11a-2",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "I'm going to watch TV.",
+              "answers": [
+                "I'm not going to watch TV.",
+                "I am not going to watch TV."
+              ]
+            },
+            {
+              "prompt": "He's going to work tomorrow.",
+              "answers": [
+                "He isn't going to work tomorrow.",
+                "He's not going to work tomorrow.",
+                "He is not going to work tomorrow."
+              ]
+            },
+            {
+              "prompt": "We're going to stay at home.",
+              "answers": [
+                "We aren't going to stay at home.",
+                "We're not going to stay at home.",
+                "We are not going to stay at home."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11a-3",
+          "type": "matching",
+          "instruction": "Put the future time expressions in order: match the number.",
+          "pairs": [
+            {
+              "left": "1 (soonest)",
+              "right": "tonight"
+            },
+            {
+              "left": "2",
+              "right": "tomorrow"
+            },
+            {
+              "left": "3",
+              "right": "next week"
+            },
+            {
+              "left": "4",
+              "right": "next month"
+            },
+            {
+              "left": "5 (latest)",
+              "right": "next year"
+            }
+          ]
+        },
+        {
+          "id": "11a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "I going to learn French.",
+                "I'm going to learn French.",
+                "I'm go to learn French."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "She's going to visiting us.",
+                "She's going visit us.",
+                "She's going to visit us."
+              ],
+              "answer": 2
+            },
+            {
+              "question": "3",
+              "options": [
+                "We aren't going to stay.",
+                "We don't going to stay.",
+                "We not going to stay."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "11a-r",
+          "type": "reading",
+          "instruction": "Read the New Year's resolutions and answer.",
+          "title": "New Year, new me!",
+          "text": "Dan: This year I'm going to get fit. I'm going to run three times a week, and I'm not going to eat chocolate.\n\nIra: I'm going to learn to drive! I'm also going to read twenty books.\n\nMax: I'm not going to make any plans. I'm going to enjoy life!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Dan is going to run…",
+              "options": [
+                "every day",
+                "three times a week",
+                "once a week"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Dan is going to eat chocolate.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Ira is going to read ___ books.",
+              "answers": [
+                "twenty",
+                "20"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Who has no plans?",
+              "options": [
+                "Dan",
+                "Ira",
+                "Max"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🎆"
+        },
+        {
+          "id": "11a-l",
+          "type": "listening",
+          "instruction": "Listen to Olga's plans and answer.",
+          "title": "Plans for the summer",
+          "script": [
+            {
+              "speaker": "Olga",
+              "text": "This summer I'm going to work in a hotel in Croatia. I'm going to work in the restaurant. I'm not going to stay there all summer — in August I'm going to travel with my boyfriend. We're going to visit Italy and France."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Olga is going to work in…",
+              "options": [
+                "Italy",
+                "Croatia",
+                "France"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "She's going to work in the ___.",
+              "answers": [
+                "restaurant"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "She's going to stay in Croatia all summer.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "In August she's going to travel with…",
+              "options": [
+                "her sister",
+                "her boyfriend",
+                "friends"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "☀️"
+        }
+      ]
+    },
+    "11B": {
+      "theory": [
+        {
+          "title": "Вопросы с be going to",
+          "examples": [
+            {
+              "en": "Are you going to stay at home? — Yes, I am. / No, I'm not.",
+              "ru": "Ты собираешься остаться дома?"
+            },
+            {
+              "en": "Is she going to come? — Yes, she is. / No, she isn't.",
+              "ru": "Она собирается прийти?"
+            },
+            {
+              "en": "What are you going to do tomorrow?",
+              "ru": "Что ты собираешься делать завтра?"
+            },
+            {
+              "en": "Where are they going to stay?",
+              "ru": "Где они собираются остановиться?"
+            }
+          ],
+          "tip": "Порядок как в вопросах с be: вопросительное слово → am/is/are → подлежащее → going to → глагол."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11b-1",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "You're going to call him. → ___?",
+              "answers": [
+                "Are you going to call him?"
+              ]
+            },
+            {
+              "prompt": "She's going to come. → ___?",
+              "answers": [
+                "Is she going to come?"
+              ]
+            },
+            {
+              "prompt": "They're going to fly. → ___?",
+              "answers": [
+                "Are they going to fly?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11b-2",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "Where are you going to stay?"
+            },
+            {
+              "answer": "What are you going to do tomorrow?"
+            },
+            {
+              "answer": "How long is she going to stay?"
+            }
+          ]
+        },
+        {
+          "id": "11b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct short answer.",
+          "items": [
+            {
+              "question": "Are you going to rent a car? (✗)",
+              "options": [
+                "No, I'm not.",
+                "No, I don't.",
+                "No, I amn't."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Is he going to come? (✓)",
+              "options": [
+                "Yes, he does.",
+                "Yes, he is.",
+                "Yes, he going."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Are they going to stay with you? (✓)",
+              "options": [
+                "Yes, they are.",
+                "Yes, they're.",
+                "Yes, they do."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "11b-4",
+          "type": "true-false",
+          "instruction": "Read about Nina's plans. True or False?",
+          "text": "Next summer I'm going to travel around Scotland with my friend Jo. We aren't going to stay in hotels — they're too expensive. We're going to sleep in a tent! We're going to rent a car in Edinburgh and drive to the mountains.",
+          "items": [
+            {
+              "statement": "Nina is going to travel alone.",
+              "answer": false
+            },
+            {
+              "statement": "They are going to stay in hotels.",
+              "answer": false
+            },
+            {
+              "statement": "They are going to rent a car.",
+              "answer": true
+            },
+            {
+              "statement": "They are going to start in Edinburgh.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "11b-r",
+          "type": "reading",
+          "instruction": "Read the chat and answer.",
+          "title": "Weekend plans",
+          "text": "Lena: What are you going to do this weekend?\n\nNick: I'm going to paint my flat. Are you going to help me? 😊\n\nLena: Sorry! I'm going to visit my aunt in Tver. I'm going to take the train on Saturday morning.\n\nNick: How long are you going to stay?\n\nLena: Just one night. I'm going to come back on Sunday evening.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Nick is going to paint his ___.",
+              "answers": [
+                "flat"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Lena is going to help Nick.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Lena is going to travel by…",
+              "options": [
+                "bus",
+                "car",
+                "train"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "choice",
+              "question": "She's going to stay…",
+              "options": [
+                "one night",
+                "two nights",
+                "a week"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🎨"
+        },
+        {
+          "id": "11b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Holiday plans",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Are you going to go away this summer?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, we're going to go to Georgia."
+            },
+            {
+              "speaker": "A",
+              "text": "Are you going to stay in a hotel?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, we aren't. We're going to rent a flat in Tbilisi."
+            },
+            {
+              "speaker": "A",
+              "text": "How long are you going to stay?"
+            },
+            {
+              "speaker": "B",
+              "text": "Ten days."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "They're going to go to ___.",
+              "answers": [
+                "Georgia"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "They're going to stay in a hotel.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "How long?",
+              "options": [
+                "a week",
+                "ten days",
+                "two weeks"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏔️"
+        }
+      ]
+    },
+    "11C": {
+      "theory": [
+        {
+          "title": "Present Continuous — то, что происходит сейчас",
+          "text": "am / is / are + глагол-ing. Используем для действий в момент речи.",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I'm reading. She's cooking. They're playing."
+              ],
+              [
+                "−",
+                "I'm not working. He isn't sleeping."
+              ],
+              [
+                "?",
+                "Are you listening? What are you doing?"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Look! It's raining.",
+              "ru": "Смотри! Идёт дождь."
+            },
+            {
+              "en": "Shh! The baby is sleeping.",
+              "ru": "Тише! Ребёнок спит."
+            }
+          ]
+        },
+        {
+          "title": "Present Simple или Present Continuous?",
+          "table": {
+            "head": [
+              "Present Simple",
+              "Present Continuous"
+            ],
+            "rows": [
+              [
+                "обычно, регулярно",
+                "прямо сейчас"
+              ],
+              [
+                "I work every day.",
+                "I'm working now."
+              ],
+              [
+                "She usually drinks tea.",
+                "Today she's drinking coffee."
+              ]
+            ]
+          },
+          "tip": "Подсказки: now, at the moment, Look!, Listen! → Continuous; every day, usually, often → Simple."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Present continuous for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=present+continuous+for+beginners+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the present continuous.",
+          "items": [
+            {
+              "text": "Be quiet! The baby ___.",
+              "hint": "sleep",
+              "answers": [
+                "is sleeping",
+                "'s sleeping"
+              ]
+            },
+            {
+              "text": "I ___ dinner right now.",
+              "hint": "cook",
+              "answers": [
+                "am cooking",
+                "'m cooking"
+              ]
+            },
+            {
+              "text": "They ___ football in the park.",
+              "hint": "play",
+              "answers": [
+                "are playing",
+                "'re playing"
+              ]
+            },
+            {
+              "text": "Look! It ___.",
+              "hint": "rain",
+              "answers": [
+                "is raining",
+                "'s raining"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-2",
+          "type": "multiple-choice",
+          "instruction": "Present simple or present continuous?",
+          "items": [
+            {
+              "question": "I ___ to work every day.",
+              "options": [
+                "walk",
+                "am walking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Shh! I ___ a film.",
+              "options": [
+                "watch",
+                "'m watching"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She usually ___ tea.",
+              "options": [
+                "drinks",
+                "is drinking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What ___ now?",
+              "options": [
+                "do you do",
+                "are you doing"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "11c-3",
+          "type": "transform",
+          "instruction": "Write the -ing form.",
+          "items": [
+            {
+              "prompt": "sit",
+              "answers": [
+                "sitting"
+              ]
+            },
+            {
+              "prompt": "make",
+              "answers": [
+                "making"
+              ]
+            },
+            {
+              "prompt": "wait",
+              "answers": [
+                "waiting"
+              ]
+            },
+            {
+              "prompt": "lie",
+              "answers": [
+                "lying"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "What are you doing?"
+            },
+            {
+              "answer": "She isn't working today."
+            },
+            {
+              "answer": "Are they waiting for us?"
+            }
+          ]
+        },
+        {
+          "id": "11c-r",
+          "type": "reading",
+          "instruction": "Read the messages and answer.",
+          "title": "What are you doing?",
+          "text": "Mum: Hi! What are you doing?\n\nTim: I'm sitting in a café with Alex. We're having lunch.\n\nMum: Are you studying for your exam?\n\nTim: Not now! But we're going to the library after lunch.\n\nMum: OK. Dad is cooking dinner and your sister is doing her homework. Come home at seven!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Tim is in a…",
+              "options": [
+                "library",
+                "café",
+                "park"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Tim is studying now.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Dad is cooking ___.",
+              "answers": [
+                "dinner"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "His sister is…",
+              "options": [
+                "sleeping",
+                "doing her homework",
+                "cooking"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "☕"
+        },
+        {
+          "id": "11c-l",
+          "type": "listening",
+          "instruction": "Listen to the phone call. What are people doing?",
+          "title": "A busy house",
+          "script": [
+            {
+              "speaker": "Dad",
+              "text": "Hi, love. I'm on the train. What's happening at home?"
+            },
+            {
+              "speaker": "Mum",
+              "text": "Oh, it's crazy! Tom is playing the drums, the dog is barking, and Lucy is watching a film very loudly."
+            },
+            {
+              "speaker": "Dad",
+              "text": "And what are you doing?"
+            },
+            {
+              "speaker": "Mum",
+              "text": "I'm making a cake for your birthday!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Dad is…",
+              "options": [
+                "at work",
+                "on the train",
+                "at home"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Tom is playing the…",
+              "options": [
+                "guitar",
+                "piano",
+                "drums"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "gap",
+              "text": "Mum is making a ___.",
+              "answers": [
+                "cake"
+              ]
+            }
+          ],
+          "image": "🥁"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Invitations: accepting and refusing",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=invitations+would+you+like+to+accepting+refusing+english"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe11-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 11.",
+        "video": {
+          "title": "Practical English, File 11 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Would you like to come to dinner on Friday?",
+          "I'd love to.",
+          "Sorry, I can't. I'm busy.",
+          "What time?",
+          "See you then!"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Пригласил(а) кого-то по-английски (вслух или письменно)",
+          "Придумал(а) вежливый отказ"
+        ]
+      },
+      {
+        "id": "pe11-2",
+        "type": "multiple-choice",
+        "instruction": "Choose the best answer.",
+        "items": [
+          {
+            "question": "Would you like to come to the cinema?",
+            "options": [
+              "I'd love to.",
+              "Yes, I like.",
+              "I would like."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Would you like a coffee?",
+            "options": [
+              "Yes, please.",
+              "Yes, I would like.",
+              "Yes, I'd love."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Would you like to go out tonight? (No)",
+            "options": [
+              "No, I don't.",
+              "Sorry, I can't. I'm busy.",
+              "No, I wouldn't like."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "pe11-l",
+        "type": "listening",
+        "instruction": "Listen to the invitation and answer.",
+        "title": "An invitation",
+        "script": [
+          {
+            "speaker": "Kate",
+            "text": "Hi Mark! Would you like to come to my party on Saturday?"
+          },
+          {
+            "speaker": "Mark",
+            "text": "I'd love to! What time?"
+          },
+          {
+            "speaker": "Kate",
+            "text": "At eight o'clock, at my flat."
+          },
+          {
+            "speaker": "Mark",
+            "text": "Great. Can I bring something?"
+          },
+          {
+            "speaker": "Kate",
+            "text": "Maybe some juice. See you then!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The party is on…",
+            "options": [
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "Mark says no.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "Mark can bring some ___.",
+            "answers": [
+              "juice"
+            ]
+          }
+        ],
+        "image": "🎉"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Приглашения",
+        "examples": [
+          {
+            "en": "Would you like to come to dinner on Friday?",
+            "ru": "Хочешь прийти на ужин в пятницу?"
+          },
+          {
+            "en": "I'd love to! / That sounds great!",
+            "ru": "С удовольствием! / Звучит отлично!"
+          },
+          {
+            "en": "Sorry, I can't. I'm busy.",
+            "ru": "Извини, не могу. Я занят."
+          },
+          {
+            "en": "What time? — At about eight.",
+            "ru": "Во сколько? — Примерно в восемь."
+          }
+        ],
+        "tip": "Would you like…? — это вежливое «Хочешь…?». Отвечают I'd love to, а не Yes, I would like."
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc11-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "I'm going ___ a new phone.",
+            "options": [
+              "buy",
+              "to buy",
+              "buying"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ you going to come?",
+            "options": [
+              "Do",
+              "Are",
+              "Will"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Look! The children ___.",
+            "options": [
+              "are dancing",
+              "dance",
+              "dancing"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "We're going to visit them ___.",
+            "options": [
+              "last week",
+              "next week",
+              "yesterday"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc11-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "She going to study medicine.",
+            "answers": [
+              "She's going to study medicine.",
+              "She is going to study medicine."
+            ]
+          },
+          {
+            "prompt": "What you are doing?",
+            "answers": [
+              "What are you doing?"
+            ]
+          },
+          {
+            "prompt": "I'm siting in the garden.",
+            "answers": [
+              "I'm sitting in the garden.",
+              "I am sitting in the garden."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc11-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Moving house",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "We're very busy at the moment — we're packing boxes because we're going to move house next week! Our new flat is bigger and it has a garden. My husband is going to paint the kitchen yellow, and I'm going to buy a new sofa."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "They are packing boxes now.",
+            "answer": true
+          },
+          {
+            "kind": "choice",
+            "question": "They're going to move…",
+            "options": [
+              "tomorrow",
+              "next week",
+              "next month"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Her husband is going to paint the kitchen ___.",
+            "answers": [
+              "yellow"
+            ]
+          }
+        ],
+        "image": "📦"
+      }
+    ]
+  }
+}

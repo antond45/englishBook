@@ -1,0 +1,873 @@
+{
+  "fileId": "12",
+  "lessons": {
+    "12A": {
+      "theory": [
+        {
+          "title": "Определительные придаточные: who, which, that, where",
+          "table": {
+            "head": [
+              "Слово",
+              "Для чего",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "who",
+                "люди",
+                "She's the woman who lives next door."
+              ],
+              [
+                "which",
+                "вещи, животные",
+                "It's a machine which makes coffee."
+              ],
+              [
+                "that",
+                "люди и вещи (в разговоре)",
+                "The book that I'm reading is great."
+              ],
+              [
+                "where",
+                "места",
+                "That's the café where we met."
+              ]
+            ]
+          },
+          "tip": "Если who/which/that — дополнение (после него есть подлежащее), его можно опустить: The book (that) I'm reading… Если подлежащее — нельзя: The man who called…"
+        },
+        {
+          "title": "Перефразирование",
+          "text": "Когда не знаешь слова, опиши его: It's a thing which you use to…, It's a person who…, It's a place where…, It's like a… but…"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Relative clauses who which where",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=defining+relative+clauses+who+which+where"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with who, which or where.",
+          "items": [
+            {
+              "text": "A vet is a person ___ looks after sick animals.",
+              "answers": [
+                "who",
+                "that"
+              ]
+            },
+            {
+              "text": "A library is a place ___ you can borrow books.",
+              "answers": [
+                "where"
+              ]
+            },
+            {
+              "text": "A corkscrew is a thing ___ you use to open wine.",
+              "answers": [
+                "which",
+                "that"
+              ]
+            },
+            {
+              "text": "That's the hotel ___ we stayed last year.",
+              "answers": [
+                "where"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-2",
+          "type": "transform",
+          "instruction": "Join the sentences with who, which or where.",
+          "items": [
+            {
+              "prompt": "That's the man. He stole my bag.",
+              "answers": [
+                "That's the man who stole my bag.",
+                "That's the man that stole my bag."
+              ]
+            },
+            {
+              "prompt": "This is the restaurant. We had our first date there.",
+              "answers": [
+                "This is the restaurant where we had our first date."
+              ]
+            },
+            {
+              "prompt": "I lost the ring. My grandmother gave it to me.",
+              "answers": [
+                "I lost the ring which my grandmother gave me.",
+                "I lost the ring that my grandmother gave me.",
+                "I lost the ring my grandmother gave me.",
+                "I lost the ring which my grandmother gave to me."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-3",
+          "type": "matching",
+          "instruction": "Match the words and definitions.",
+          "pairs": [
+            {
+              "left": "a landlord",
+              "right": "a person who rents you a flat"
+            },
+            {
+              "left": "a lighthouse",
+              "right": "a tower which helps ships at night"
+            },
+            {
+              "left": "a launderette",
+              "right": "a place where you wash clothes"
+            },
+            {
+              "left": "a stranger",
+              "right": "a person who you don't know"
+            }
+          ]
+        },
+        {
+          "id": "12a-4",
+          "type": "multiple-choice",
+          "instruction": "Can you leave out the relative pronoun?",
+          "items": [
+            {
+              "question": "The film that we saw was great.",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "The girl who won the race is my sister.",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The cake which you made was delicious.",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "12a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Words that don't exist in English",
+          "text": "Some languages have words which English needs a whole sentence to translate. In Japanese, 'tsundoku' describes a person who buys books but never reads them. In Swedish, 'fika' is a break where you drink coffee and eat something sweet with colleagues. And in Russian, 'pochemuchka' is a child who asks too many questions. Maybe English will borrow some of them one day!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "'Tsundoku' describes someone who…",
+              "options": [
+                "reads a lot",
+                "buys books but doesn't read them",
+                "writes books"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "'Fika' is a Swedish word for a coffee ___.",
+              "answers": [
+                "break"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "'Pochemuchka' is a child who asks many questions.",
+              "answer": true
+            }
+          ],
+          "image": "📖"
+        },
+        {
+          "id": "12a-l",
+          "type": "listening",
+          "instruction": "Listen to the word game and answer.",
+          "title": "Guess the word",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "It's a person who works on a plane and brings you food and drinks."
+            },
+            {
+              "speaker": "B",
+              "text": "A flight attendant!"
+            },
+            {
+              "speaker": "A",
+              "text": "Right. Next: it's a place where you can see old and valuable things."
+            },
+            {
+              "speaker": "B",
+              "text": "A museum!"
+            },
+            {
+              "speaker": "A",
+              "text": "And it's a thing which you use to cut paper."
+            },
+            {
+              "speaker": "B",
+              "text": "Scissors!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Word 1: a flight ___.",
+              "answers": [
+                "attendant"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Word 2:",
+              "options": [
+                "a library",
+                "a museum",
+                "a shop"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Word 3: ___",
+              "answers": [
+                "scissors"
+              ]
+            }
+          ],
+          "image": "🔤"
+        }
+      ]
+    },
+    "12B": {
+      "theory": [
+        {
+          "title": "Разделительные вопросы (question tags)",
+          "text": "Короткий вопрос в конце («не так ли?», «да?»): утверждение + отрицательный хвост, отрицание + положительный хвост. Хвост повторяет вспомогательный глагол.",
+          "table": {
+            "head": [
+              "Предложение",
+              "Хвост"
+            ],
+            "rows": [
+              [
+                "You're French,",
+                "aren't you?"
+              ],
+              [
+                "She lives here,",
+                "doesn't she?"
+              ],
+              [
+                "They didn't come,",
+                "did they?"
+              ],
+              [
+                "You've been to Rome,",
+                "haven't you?"
+              ],
+              [
+                "He can swim,",
+                "can't he?"
+              ],
+              [
+                "I'm late,",
+                "aren't I?"
+              ]
+            ]
+          },
+          "tip": "Интонация вниз ↘ — ждём согласия; вверх ↗ — настоящий вопрос."
+        },
+        {
+          "title": "Преступления",
+          "text": "a thief / steal, a burglar / break into, a robber / rob, a pickpocket, a vandal; arrest, charge, a witness, a fine, prison, guilty / innocent."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12b-1",
+          "type": "gap-fill",
+          "instruction": "Add the question tag.",
+          "items": [
+            {
+              "text": "It's cold today, ___?",
+              "answers": [
+                "isn't it"
+              ]
+            },
+            {
+              "text": "You don't eat meat, ___?",
+              "answers": [
+                "do you"
+              ]
+            },
+            {
+              "text": "She went to Spain, ___?",
+              "answers": [
+                "didn't she"
+              ]
+            },
+            {
+              "text": "They haven't arrived yet, ___?",
+              "answers": [
+                "have they"
+              ]
+            },
+            {
+              "text": "You can drive, ___?",
+              "answers": [
+                "can't you"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12b-2",
+          "type": "matching",
+          "instruction": "Match the criminals and crimes.",
+          "pairs": [
+            {
+              "left": "a burglar",
+              "right": "breaks into houses"
+            },
+            {
+              "left": "a pickpocket",
+              "right": "steals from people's pockets"
+            },
+            {
+              "left": "a robber",
+              "right": "steals from banks or people using violence"
+            },
+            {
+              "left": "a vandal",
+              "right": "damages public property"
+            },
+            {
+              "left": "a shoplifter",
+              "right": "steals from shops"
+            }
+          ]
+        },
+        {
+          "id": "12b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct tag.",
+          "items": [
+            {
+              "question": "I'm right, ___?",
+              "options": [
+                "am not I",
+                "aren't I",
+                "isn't I"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He works here, ___?",
+              "options": [
+                "isn't he",
+                "doesn't he",
+                "don't he"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Let's go, ___?",
+              "options": [
+                "shall we",
+                "will we",
+                "don't we"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "12b-4",
+          "type": "transform",
+          "instruction": "Make a question with a tag.",
+          "items": [
+            {
+              "prompt": "You're Olga. (check)",
+              "answers": [
+                "You're Olga, aren't you?",
+                "You are Olga, aren't you?"
+              ]
+            },
+            {
+              "prompt": "He didn't call. (check)",
+              "answers": [
+                "He didn't call, did he?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The most polite burglar",
+          "text": "A burglar who broke into a house in Manchester last week left a very unusual note. He hadn't taken anything valuable — only some food from the fridge. On the kitchen table the owners found a message: 'Sorry, I was very hungry. Your soup was delicious. I've washed the bowl.' The police are still looking for him, but the owners say they feel more amused than angry.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The burglar only took some ___.",
+              "answers": [
+                "food"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "He took valuable things.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The owners feel…",
+              "options": [
+                "very angry",
+                "more amused than angry",
+                "frightened"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚓"
+        },
+        {
+          "id": "12b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A witness",
+          "script": [
+            {
+              "speaker": "Officer",
+              "text": "You saw the robbery, didn't you?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "Yes. A tall man with a black hat ran out of the bank with a bag."
+            },
+            {
+              "speaker": "Officer",
+              "text": "He didn't have a car, did he?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "No, he jumped onto a motorbike."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The man had a black ___.",
+              "answers": [
+                "hat"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "He escaped on…",
+              "options": [
+                "a car",
+                "a bike",
+                "a motorbike"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "choice",
+              "question": "The robbery was at a…",
+              "options": [
+                "shop",
+                "bank",
+                "house"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚓"
+        }
+      ]
+    },
+    "12C": {
+      "theory": [
+        {
+          "title": "Повторение времён B1",
+          "table": {
+            "head": [
+              "Время",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Present Simple / Continuous",
+                "I usually walk, but today I'm taking the bus."
+              ],
+              [
+                "Past Simple / Continuous",
+                "I was reading when the lights went out."
+              ],
+              [
+                "Present Perfect",
+                "I've lived here for five years."
+              ],
+              [
+                "Past Perfect",
+                "When I arrived, they had left."
+              ],
+              [
+                "Future: will / going to / Present Continuous",
+                "I'll help you. I'm going to study. I'm meeting her at 6."
+              ],
+              [
+                "Passive",
+                "It was built in 1990."
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Семьи слов",
+          "table": {
+            "head": [
+              "Глагол",
+              "Существительное",
+              "Прилагательное"
+            ],
+            "rows": [
+              [
+                "succeed",
+                "success",
+                "successful"
+              ],
+              [
+                "decide",
+                "decision",
+                "decisive"
+              ],
+              [
+                "create",
+                "creation / creativity",
+                "creative"
+              ],
+              [
+                "enjoy",
+                "enjoyment",
+                "enjoyable"
+              ],
+              [
+                "danger (-)",
+                "danger",
+                "dangerous"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "I ___ him since we were at school.",
+              "options": [
+                "know",
+                "knew",
+                "'ve known"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "When the police arrived, the thief ___.",
+              "options": [
+                "escaped",
+                "had escaped",
+                "has escaped"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Look out! You ___ fall!",
+              "options": [
+                "will",
+                "'re going to",
+                "are falling"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "This bridge ___ in 1990.",
+              "options": [
+                "built",
+                "was built",
+                "has built"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I ___ dinner when you called.",
+              "options": [
+                "cooked",
+                "was cooking",
+                "had cooked"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "12c-2",
+          "type": "transform",
+          "instruction": "Write the word in the correct form.",
+          "items": [
+            {
+              "prompt": "Her new business is very ___. (success)",
+              "answers": [
+                "successful"
+              ]
+            },
+            {
+              "prompt": "It was a difficult ___. (decide)",
+              "answers": [
+                "decision"
+              ]
+            },
+            {
+              "prompt": "We had a really ___ evening. (enjoy)",
+              "answers": [
+                "enjoyable"
+              ]
+            },
+            {
+              "prompt": "Children are naturally ___. (create)",
+              "answers": [
+                "creative"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12c-3",
+          "type": "gap-fill",
+          "instruction": "Complete the text with the correct form of the verb.",
+          "items": [
+            {
+              "text": "I ___ in Kazan for three years now.",
+              "hint": "live",
+              "answers": [
+                "'ve lived",
+                "have lived",
+                "'ve been living",
+                "have been living"
+              ]
+            },
+            {
+              "text": "Before that I ___ in Samara.",
+              "hint": "live",
+              "answers": [
+                "lived"
+              ]
+            },
+            {
+              "text": "Next year I ___ to move to St Petersburg.",
+              "hint": "go",
+              "answers": [
+                "'m going",
+                "am going"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "How long have you been learning English?"
+            },
+            {
+              "answer": "What were you doing at eight o'clock?"
+            }
+          ]
+        },
+        {
+          "id": "12c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "My English journey",
+          "text": "I started learning English at school, but I didn't use to enjoy it — the lessons were boring. Ten years later I got a job in an international company and realised I had forgotten almost everything. Since then I've studied every day. Last year I went to a conference in London and gave a presentation in English. Next year I'm going to take an exam to get a certificate. If I pass, I might apply for a job abroad.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The writer always enjoyed English lessons.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Last year the writer…",
+              "options": [
+                "took an exam",
+                "gave a presentation in London",
+                "moved abroad"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Next year the writer is going to take an ___.",
+              "answers": [
+                "exam"
+              ]
+            }
+          ],
+          "image": "🎓"
+        },
+        {
+          "id": "12c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Then and now",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "When I was a student, I used to work in a café at night. I was studying law, but I'd always dreamed of being a chef. After university I worked in a law firm for two years. Then I decided to follow my dream. I've been a chef for eight years now, and next month I'm opening my own restaurant."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "She studied ___.",
+              "answers": [
+                "law"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "She has been a chef for…",
+              "options": [
+                "two years",
+                "eight years",
+                "ten years"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "She is opening a restaurant next month.",
+              "answer": true
+            }
+          ],
+          "image": "🧑‍🍳"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc12-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "That's the shop ___ I bought my dress.",
+            "options": [
+              "which",
+              "where",
+              "who"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "You're coming tonight, ___?",
+            "options": [
+              "are you",
+              "aren't you",
+              "don't you"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He's a very ___ businessman.",
+            "options": [
+              "success",
+              "successful",
+              "succeed"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "The man ___ helped me was very kind.",
+            "options": [
+              "which",
+              "who",
+              "where"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc12-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Lost and found",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "This is the wallet that I lost last week! The woman who found it left it at the café where I always have breakfast. She didn't take any money, did she? No — everything's here!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "He lost his wallet…",
+            "options": [
+              "yesterday",
+              "last week",
+              "last month"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The woman left it at the ___.",
+            "answers": [
+              "café",
+              "cafe"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "Some money was missing.",
+            "answer": false
+          }
+        ],
+        "image": "👛"
+      }
+    ]
+  }
+}

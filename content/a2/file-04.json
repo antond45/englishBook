@@ -1,0 +1,929 @@
+{
+  "fileId": "4",
+  "lessons": {
+    "4A": {
+      "theory": [
+        {
+          "title": "Притяжательный 's",
+          "text": "Владелец + 's + предмет: Kate's car (машина Кейт). Если существительное во множественном числе на -s — только апостроф: my parents' house. Для неправильных множественных — 's: the children's toys.",
+          "examples": [
+            {
+              "en": "my sister's husband",
+              "ru": "муж моей сестры"
+            },
+            {
+              "en": "my grandparents' farm",
+              "ru": "ферма моих бабушки и дедушки"
+            },
+            {
+              "en": "Whose is this? — It's Tom's.",
+              "ru": "Чьё это? — Тома."
+            }
+          ]
+        },
+        {
+          "title": "Семья",
+          "examples": [
+            {
+              "en": "stepmother, stepfather",
+              "ru": "мачеха, отчим"
+            },
+            {
+              "en": "mother-in-law, brother-in-law",
+              "ru": "свекровь/тёща, шурин/деверь/зять"
+            },
+            {
+              "en": "an only child, twins",
+              "ru": "единственный ребёнок, близнецы"
+            },
+            {
+              "en": "relatives",
+              "ru": "родственники"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4a-1",
+          "type": "transform",
+          "instruction": "Rewrite with 's or '.",
+          "items": [
+            {
+              "prompt": "the husband of my sister",
+              "answers": [
+                "my sister's husband"
+              ]
+            },
+            {
+              "prompt": "the house of my parents",
+              "answers": [
+                "my parents' house"
+              ]
+            },
+            {
+              "prompt": "the toys of the children",
+              "answers": [
+                "the children's toys"
+              ]
+            },
+            {
+              "prompt": "the car of my boss",
+              "answers": [
+                "my boss's car"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-2",
+          "type": "gap-fill",
+          "instruction": "Complete the family words.",
+          "items": [
+            {
+              "text": "Your husband's mother is your mother-in-___.",
+              "answers": [
+                "law"
+              ]
+            },
+            {
+              "text": "Two brothers born on the same day are ___.",
+              "answers": [
+                "twins"
+              ]
+            },
+            {
+              "text": "Your father's new wife is your ___.",
+              "answers": [
+                "stepmother"
+              ]
+            },
+            {
+              "text": "A person with no brothers or sisters is an ___ child.",
+              "answers": [
+                "only"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "This is ___ room.",
+              "options": [
+                "the boys'",
+                "the boys's",
+                "the boy's's"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ is this bag? — It's Maria's.",
+              "options": [
+                "Who",
+                "Whose",
+                "Who's"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "My ___ name is Ivan.",
+              "options": [
+                "fathers",
+                "father's",
+                "fathers'"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "4a-4",
+          "type": "matching",
+          "instruction": "Match.",
+          "pairs": [
+            {
+              "left": "your aunt's son",
+              "right": "your cousin"
+            },
+            {
+              "left": "your sister's daughter",
+              "right": "your niece"
+            },
+            {
+              "left": "your brother's son",
+              "right": "your nephew"
+            },
+            {
+              "left": "your wife's brother",
+              "right": "your brother-in-law"
+            }
+          ]
+        },
+        {
+          "id": "4a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Big families",
+          "text": "Olga is one of eight children. 'Our house was always noisy,' she says. 'I shared a room with my three sisters. My brothers' room was next to ours. I never felt lonely!' Now Olga has her own family — a husband and two children. 'My children's cousins live in the same street, so they play together every day.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Olga has ___ sisters.",
+              "answers": [
+                "three",
+                "3"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Olga often felt lonely.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Olga has … children now.",
+              "options": [
+                "two",
+                "three",
+                "eight"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "Her children's cousins live far away.",
+              "answer": false
+            }
+          ],
+          "image": "👨‍👩‍👧‍👦"
+        },
+        {
+          "id": "4a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A wedding photo",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Who's that next to the bride?"
+            },
+            {
+              "speaker": "B",
+              "text": "That's her mother-in-law."
+            },
+            {
+              "speaker": "A",
+              "text": "And the little girl?"
+            },
+            {
+              "speaker": "B",
+              "text": "She's the bride's niece, her sister's daughter."
+            },
+            {
+              "speaker": "A",
+              "text": "And whose dog is that?"
+            },
+            {
+              "speaker": "B",
+              "text": "It's the groom's!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Next to the bride is her…",
+              "options": [
+                "mother",
+                "mother-in-law",
+                "aunt"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The little girl is the bride's ___.",
+              "answers": [
+                "niece"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The dog is…",
+              "options": [
+                "the bride's",
+                "the groom's",
+                "the niece's"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "💒"
+        }
+      ]
+    },
+    "4B": {
+      "theory": [
+        {
+          "title": "Предлоги времени: at, in, on",
+          "table": {
+            "head": [
+              "Предлог",
+              "С чем",
+              "Примеры"
+            ],
+            "rows": [
+              [
+                "at",
+                "время, праздники, выходные",
+                "at 7 o'clock, at night, at the weekend, at Christmas"
+              ],
+              [
+                "in",
+                "части дня, месяцы, годы, времена года",
+                "in the morning, in May, in 2010, in winter"
+              ],
+              [
+                "on",
+                "дни, даты",
+                "on Monday, on 5th March, on my birthday"
+              ]
+            ]
+          },
+          "tip": "Без предлога: today, tomorrow, every day, next week, last year."
+        },
+        {
+          "title": "Распорядок дня",
+          "examples": [
+            {
+              "en": "wake up — get up — have breakfast — leave home — get to work",
+              "ru": "проснуться — встать — позавтракать — выйти из дома — добраться до работы"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with at, in or on.",
+          "items": [
+            {
+              "text": "I get up ___ 7 o'clock.",
+              "answers": [
+                "at"
+              ]
+            },
+            {
+              "text": "We go skiing ___ winter.",
+              "answers": [
+                "in"
+              ]
+            },
+            {
+              "text": "The shop is closed ___ Sundays.",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "I don't work ___ the weekend.",
+              "answers": [
+                "at"
+              ]
+            },
+            {
+              "text": "My birthday is ___ June.",
+              "answers": [
+                "in"
+              ]
+            },
+            {
+              "text": "We have a party ___ New Year's Eve.",
+              "answers": [
+                "on"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I study ___ the evening.",
+              "options": [
+                "at",
+                "in",
+                "on"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "See you ___ tomorrow.",
+              "options": [
+                "on",
+                "at",
+                "—"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "She was born ___ 1995.",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I can't sleep ___ night.",
+              "options": [
+                "at",
+                "in",
+                "on"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "4b-3",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "I leave home at eight in the morning."
+            },
+            {
+              "answer": "We have lunch at one on Sundays."
+            },
+            {
+              "answer": "What do you do in the evening?"
+            }
+          ]
+        },
+        {
+          "id": "4b-4",
+          "type": "matching",
+          "instruction": "Match the beginnings and ends.",
+          "pairs": [
+            {
+              "left": "I wake up",
+              "right": "but I stay in bed for ten minutes."
+            },
+            {
+              "left": "I leave home",
+              "right": "at quarter past eight."
+            },
+            {
+              "left": "I get to work",
+              "right": "at nine."
+            },
+            {
+              "left": "I have a nap",
+              "right": "in the afternoon on Saturdays."
+            }
+          ]
+        },
+        {
+          "id": "4b-r",
+          "type": "reading",
+          "instruction": "Read about a pilot's routine.",
+          "title": "A pilot's week",
+          "text": "Katya is a pilot. Her routine changes every week. On Mondays she sometimes gets up at three in the morning for an early flight. She usually flies four days a week and has three days off. In summer she works more, because a lot of people go on holiday. On her days off she sleeps a lot and goes running in the park.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Katya's routine is always the same.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "She usually flies … days a week.",
+              "options": [
+                "three",
+                "four",
+                "five"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "She works more in ___.",
+              "answers": [
+                "summer"
+              ]
+            }
+          ],
+          "image": "✈️"
+        },
+        {
+          "id": "4b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Making an appointment",
+          "script": [
+            {
+              "speaker": "Receptionist",
+              "text": "The dentist can see you on Thursday at ten."
+            },
+            {
+              "speaker": "Patient",
+              "text": "Sorry, I work in the morning. Is there anything in the afternoon?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Yes, on Friday at half past four."
+            },
+            {
+              "speaker": "Patient",
+              "text": "Perfect, thank you."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The patient can come on Thursday morning.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The appointment is on…",
+              "options": [
+                "Thursday",
+                "Friday",
+                "Monday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Time:",
+              "options": [
+                "4:30",
+                "4:15",
+                "10:00"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🦷"
+        }
+      ]
+    },
+    "4C": {
+      "theory": [
+        {
+          "title": "Наречия и выражения частоты",
+          "text": "always, usually, often, sometimes, hardly ever, never — перед основным глаголом, но после be. Выражения every day, once a week, twice a month, three times a year — обычно в конце.",
+          "examples": [
+            {
+              "en": "I hardly ever eat out.",
+              "ru": "Я почти никогда не ем в ресторанах."
+            },
+            {
+              "en": "She's usually at home on Sundays.",
+              "ru": "По воскресеньям она обычно дома."
+            },
+            {
+              "en": "We go swimming twice a week.",
+              "ru": "Мы ходим плавать дважды в неделю."
+            }
+          ],
+          "tip": "Вопрос: How often do you…? Ответ: Every day / Once a week / Never."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4c-1",
+          "type": "transform",
+          "instruction": "Put the adverb in the correct place.",
+          "items": [
+            {
+              "prompt": "I go to the theatre. (hardly ever)",
+              "answers": [
+                "I hardly ever go to the theatre."
+              ]
+            },
+            {
+              "prompt": "He is tired after work. (always)",
+              "answers": [
+                "He is always tired after work.",
+                "He's always tired after work."
+              ]
+            },
+            {
+              "prompt": "We eat out. (sometimes)",
+              "answers": [
+                "We sometimes eat out.",
+                "Sometimes we eat out."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c-2",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "How often do you go to the cinema?"
+            },
+            {
+              "answer": "I play tennis twice a week."
+            },
+            {
+              "answer": "She is never late for work."
+            }
+          ]
+        },
+        {
+          "id": "4c-3",
+          "type": "matching",
+          "instruction": "Match the free time activities.",
+          "pairs": [
+            {
+              "left": "go",
+              "right": "dancing"
+            },
+            {
+              "left": "play",
+              "right": "chess"
+            },
+            {
+              "left": "do",
+              "right": "yoga"
+            },
+            {
+              "left": "watch",
+              "right": "series"
+            },
+            {
+              "left": "meet",
+              "right": "friends"
+            }
+          ]
+        },
+        {
+          "id": "4c-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I visit my grandmother ___.",
+              "options": [
+                "once a week",
+                "a week once",
+                "once week"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "They ___ watch TV — they don't have one.",
+              "options": [
+                "always",
+                "never",
+                "often"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She ___ late.",
+              "options": [
+                "is often",
+                "often is",
+                "often"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "4c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "How do you relax?",
+          "text": "Ilya: I do yoga three times a week and I hardly ever watch TV.\nMarina: I always listen to music on the way to work, and I go dancing every Friday.\nDan: Relax? I never relax! I work six days a week. But on Sundays I sometimes go fishing.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Ilya does yoga ___ times a week.",
+              "answers": [
+                "three",
+                "3"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Who goes dancing?",
+              "options": [
+                "Ilya",
+                "Marina",
+                "Dan"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Dan works five days a week.",
+              "answer": false
+            }
+          ],
+          "image": "🧘"
+        },
+        {
+          "id": "4c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A healthy lifestyle?",
+          "script": [
+            {
+              "speaker": "Doctor",
+              "text": "How often do you do exercise?"
+            },
+            {
+              "speaker": "Patient",
+              "text": "Hardly ever, I'm afraid."
+            },
+            {
+              "speaker": "Doctor",
+              "text": "And how often do you eat fast food?"
+            },
+            {
+              "speaker": "Patient",
+              "text": "About three times a week."
+            },
+            {
+              "speaker": "Doctor",
+              "text": "Try to walk every day for thirty minutes."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The patient does exercise…",
+              "options": [
+                "often",
+                "hardly ever",
+                "every day"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "He eats fast food about ___ times a week.",
+              "answers": [
+                "three",
+                "3"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The doctor says: walk every day for…",
+              "options": [
+                "20 minutes",
+                "30 minutes",
+                "an hour"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🩺"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "В магазине одежды",
+        "examples": [
+          {
+            "en": "What size are you? — I'm a medium.",
+            "ru": "Какой у вас размер? — M."
+          },
+          {
+            "en": "Can I try this on?",
+            "ru": "Можно примерить?"
+          },
+          {
+            "en": "It's too small. Do you have a bigger size?",
+            "ru": "Маловато. Есть размер побольше?"
+          },
+          {
+            "en": "How would you like to pay?",
+            "ru": "Как будете платить?"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe4-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 4.",
+        "video": {
+          "title": "Practical English, File 4 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "Can I try this on?",
+          "What size are you?",
+          "It's too big.",
+          "I'll take it."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Разыграл(а) покупку одежды",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe4-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Returning a shirt",
+        "script": [
+          {
+            "speaker": "Customer",
+            "text": "Hi, I bought this shirt yesterday, but it's too small."
+          },
+          {
+            "speaker": "Assistant",
+            "text": "Would you like a bigger size or your money back?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "A bigger size, please. A large."
+          },
+          {
+            "speaker": "Assistant",
+            "text": "Here you are. The changing rooms are on the left."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The shirt is too big.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "The customer wants…",
+            "options": [
+              "money back",
+              "a bigger size",
+              "a different colour"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The changing rooms are on the ___.",
+            "answers": [
+              "left"
+            ]
+          }
+        ],
+        "image": "🛍️"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc4-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "This is my ___ car.",
+            "options": [
+              "parents",
+              "parents'",
+              "parent's's"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I was born ___ April.",
+            "options": [
+              "on",
+              "in",
+              "at"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "We meet ___ Fridays.",
+            "options": [
+              "in",
+              "at",
+              "on"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "I ___ go to bed late.",
+            "options": [
+              "never",
+              "am never",
+              "never am"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc4-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Sunday lunch",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "Every Sunday we have lunch at my mother-in-law's house. My husband's brother always comes with his wife and their twins. We usually eat at two o'clock and stay until evening."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "They have lunch at…",
+            "options": [
+              "her mother's",
+              "her mother-in-law's",
+              "her sister's"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The brother-in-law has ___.",
+            "answers": [
+              "twins"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "They eat at…",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🍲"
+      }
+    ]
+  }
+}

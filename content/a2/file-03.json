@@ -1,0 +1,908 @@
+{
+  "fileId": "3",
+  "lessons": {
+    "3A": {
+      "theory": [
+        {
+          "title": "Present Simple: + и −",
+          "table": {
+            "head": [
+              "",
+              "I / you / we / they",
+              "he / she / it"
+            ],
+            "rows": [
+              [
+                "+",
+                "I work",
+                "she works"
+              ],
+              [
+                "−",
+                "I don't work",
+                "she doesn't work"
+              ]
+            ]
+          },
+          "text": "Present Simple — привычки, факты, постоянные ситуации. В 3-м лице ед. числа + s (+es после s, sh, ch, x, o; y → ies; have → has).",
+          "tip": "В отрицании -s «уходит» в doesn't: She doesn't like (не doesn't likes)."
+        },
+        {
+          "title": "Полезные глагольные фразы",
+          "examples": [
+            {
+              "en": "cook dinner, do housework, go out",
+              "ru": "готовить ужин, делать уборку, выходить развлечься"
+            },
+            {
+              "en": "have a pet, spend time with friends, read the news",
+              "ru": "держать животное, проводить время с друзьями, читать новости"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Present simple (elementary)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=present+simple+elementary+english+lesson"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the present simple.",
+          "items": [
+            {
+              "text": "My brother ___ in a hospital.",
+              "hint": "work",
+              "answers": [
+                "works"
+              ]
+            },
+            {
+              "text": "We ___ out on weekdays.",
+              "hint": "not go",
+              "answers": [
+                "don't go",
+                "do not go"
+              ]
+            },
+            {
+              "text": "She ___ the news every morning.",
+              "hint": "read",
+              "answers": [
+                "reads"
+              ]
+            },
+            {
+              "text": "He ___ a pet.",
+              "hint": "not have",
+              "answers": [
+                "doesn't have",
+                "does not have"
+              ]
+            },
+            {
+              "text": "My parents ___ a lot of time with their grandchildren.",
+              "hint": "spend",
+              "answers": [
+                "spend"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-2",
+          "type": "matching",
+          "instruction": "Match to make verb phrases.",
+          "pairs": [
+            {
+              "left": "cook",
+              "right": "dinner"
+            },
+            {
+              "left": "do",
+              "right": "housework"
+            },
+            {
+              "left": "spend",
+              "right": "time with friends"
+            },
+            {
+              "left": "go",
+              "right": "out"
+            },
+            {
+              "left": "wear",
+              "right": "glasses"
+            },
+            {
+              "left": "play",
+              "right": "video games"
+            }
+          ]
+        },
+        {
+          "id": "3a-3",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "She drinks coffee.",
+              "answers": [
+                "She doesn't drink coffee.",
+                "She does not drink coffee."
+              ]
+            },
+            {
+              "prompt": "They watch TV in the evening.",
+              "answers": [
+                "They don't watch TV in the evening.",
+                "They do not watch TV in the evening."
+              ]
+            },
+            {
+              "prompt": "He goes to the gym.",
+              "answers": [
+                "He doesn't go to the gym.",
+                "He does not go to the gym."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "My sister ___ two languages.",
+              "options": [
+                "speak",
+                "speaks",
+                "speakes"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He ___ his homework in the evening.",
+              "options": [
+                "dos",
+                "does",
+                "do"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I ___ like fish.",
+              "options": [
+                "don't",
+                "doesn't",
+                "not"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "3a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Stereotypes: true or false?",
+          "text": "People say that British people drink tea all day, talk about the weather and never cook. Is it true? Tom, from Bristol, says: 'I don't drink tea — I prefer coffee! But yes, we talk about the weather a lot, because it changes every hour.' His wife, Jo, cooks every day: 'I love cooking. My husband doesn't cook, but he does the washing up.'",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Tom drinks a lot of tea.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Why do British people talk about the weather?",
+              "options": [
+                "It's always sunny",
+                "It changes a lot",
+                "They don't like it"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Jo cooks every day.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "Tom does the ___ up.",
+              "answers": [
+                "washing"
+              ]
+            }
+          ],
+          "image": "🫖"
+        },
+        {
+          "id": "3a-l",
+          "type": "listening",
+          "instruction": "Listen to Sara and answer.",
+          "title": "A typical week",
+          "script": [
+            {
+              "speaker": "Sara",
+              "text": "I work from home, so I don't go to an office. I start at nine and finish at five. My husband works in a restaurant, so he works in the evenings. We don't have much time together during the week, but at the weekend we always go out for lunch."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Sara works in an office.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "She finishes at…",
+              "options": [
+                "4",
+                "5",
+                "6"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Her husband works in a ___.",
+              "answers": [
+                "restaurant"
+              ]
+            }
+          ],
+          "image": "💻"
+        }
+      ]
+    },
+    "3B": {
+      "theory": [
+        {
+          "title": "Present Simple: вопросы",
+          "table": {
+            "head": [
+              "Вопрос",
+              "Краткий ответ"
+            ],
+            "rows": [
+              [
+                "Do you work?",
+                "Yes, I do. / No, I don't."
+              ],
+              [
+                "Does she work?",
+                "Yes, she does. / No, she doesn't."
+              ],
+              [
+                "Where does he work?",
+                "In a bank."
+              ]
+            ]
+          },
+          "tip": "В вопросе с does глагол без -s: Does she live…? (не Does she lives…?)"
+        },
+        {
+          "title": "Профессии",
+          "examples": [
+            {
+              "en": "a lawyer, an accountant, a receptionist",
+              "ru": "юрист, бухгалтер, администратор"
+            },
+            {
+              "en": "a builder, a cleaner, a hairdresser",
+              "ru": "строитель, уборщик, парикмахер"
+            },
+            {
+              "en": "He works for a big company. / He's self-employed.",
+              "ru": "Он работает в большой компании. / Он работает на себя."
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3b-1",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "She works at night. → ___?",
+              "answers": [
+                "Does she work at night?"
+              ]
+            },
+            {
+              "prompt": "They wear a uniform. → ___?",
+              "answers": [
+                "Do they wear a uniform?"
+              ]
+            },
+            {
+              "prompt": "He earns a lot of money. → ___?",
+              "answers": [
+                "Does he earn a lot of money?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-pic",
+          "type": "picture",
+          "instruction": "Jobs: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "💇",
+              "answers": [
+                "a hairdresser",
+                "hairdresser"
+              ]
+            },
+            {
+              "emoji": "👷",
+              "answers": [
+                "a builder",
+                "builder"
+              ]
+            },
+            {
+              "emoji": "🧑‍🚒",
+              "answers": [
+                "a firefighter",
+                "firefighter"
+              ]
+            },
+            {
+              "emoji": "🧑‍🔧",
+              "answers": [
+                "a mechanic",
+                "mechanic"
+              ]
+            },
+            {
+              "emoji": "🧑‍🏭",
+              "answers": [
+                "a factory worker",
+                "factory worker"
+              ]
+            },
+            {
+              "emoji": "🧑‍⚖️",
+              "answers": [
+                "a judge",
+                "judge"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-2",
+          "type": "matching",
+          "instruction": "Match the jobs and the descriptions.",
+          "pairs": [
+            {
+              "left": "a hairdresser",
+              "right": "cuts people's hair"
+            },
+            {
+              "left": "a receptionist",
+              "right": "answers the phone in a hotel"
+            },
+            {
+              "left": "an accountant",
+              "right": "works with numbers and money"
+            },
+            {
+              "left": "a builder",
+              "right": "makes houses"
+            },
+            {
+              "left": "a lawyer",
+              "right": "helps people with legal problems"
+            }
+          ]
+        },
+        {
+          "id": "3b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "___ your sister work with children?",
+              "options": [
+                "Do",
+                "Does",
+                "Is"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Do you work at the weekend? — No, I ___.",
+              "options": [
+                "don't",
+                "doesn't",
+                "not"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Where ___ they live?",
+              "options": [
+                "does",
+                "do",
+                "are"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "3b-4",
+          "type": "gap-fill",
+          "instruction": "Complete the job interview.",
+          "items": [
+            {
+              "text": "___ you speak English? — Yes, I do.",
+              "answers": [
+                "Do"
+              ]
+            },
+            {
+              "text": "___ your current job include working with customers? — Yes, it does.",
+              "answers": [
+                "Does"
+              ]
+            },
+            {
+              "text": "Do you have a driving licence? — No, I ___.",
+              "answers": [
+                "don't"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-r",
+          "type": "reading",
+          "instruction": "Read the quiz and answer.",
+          "title": "Guess my job",
+          "text": "I work in a hospital, but I'm not a doctor or a nurse. I don't wear a uniform. I work in the kitchen, and I start very early. I make food for patients and doctors. My job is hard, but I like it. What do I do? I'm a cook!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The person is a nurse.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "The person wears a uniform.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The person works in the ___.",
+              "answers": [
+                "kitchen"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The job is…",
+              "options": [
+                "easy",
+                "hard",
+                "boring"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🧑‍🍳"
+        },
+        {
+          "id": "3b-l",
+          "type": "listening",
+          "instruction": "Listen to the game 'What's my job?' and answer.",
+          "title": "What's my job?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Do you work inside?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I don't. I work outside."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you work with animals?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I don't."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you drive a vehicle?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I do. A big red one."
+            },
+            {
+              "speaker": "A",
+              "text": "Are you a firefighter?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I am!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "B works inside.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "B drives a big ___ vehicle.",
+              "answers": [
+                "red"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "B is a…",
+              "options": [
+                "farmer",
+                "firefighter",
+                "bus driver"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚒"
+        }
+      ]
+    },
+    "3C": {
+      "theory": [
+        {
+          "title": "Порядок слов в вопросах",
+          "table": {
+            "head": [
+              "Вопр. слово",
+              "Вспом.",
+              "Подлежащее",
+              "Глагол"
+            ],
+            "rows": [
+              [
+                "Where",
+                "do",
+                "you",
+                "live?"
+              ],
+              [
+                "What time",
+                "does",
+                "she",
+                "get up?"
+              ],
+              [
+                "How many brothers",
+                "do",
+                "you",
+                "have?"
+              ]
+            ]
+          },
+          "tip": "С be: вопросительное слово + be + подлежащее: Where are you from? What's your job?"
+        },
+        {
+          "title": "Вопросительные слова",
+          "text": "What, Where, When, Who, Why, How, How many, How much, How often, What time, Which."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3c-1",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "What time do you get up?"
+            },
+            {
+              "answer": "How often does she go swimming?"
+            },
+            {
+              "answer": "Why do you want to learn English?"
+            },
+            {
+              "answer": "Which bus do you take?"
+            }
+          ]
+        },
+        {
+          "id": "3c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a question word.",
+          "items": [
+            {
+              "text": "___ do you live? — In Samara.",
+              "answers": [
+                "Where"
+              ]
+            },
+            {
+              "text": "___ is your birthday? — In May.",
+              "answers": [
+                "When"
+              ]
+            },
+            {
+              "text": "___ do you go to the gym? — Twice a week.",
+              "answers": [
+                "How often"
+              ]
+            },
+            {
+              "text": "___ do you like this town? — Because it's quiet.",
+              "answers": [
+                "Why"
+              ]
+            },
+            {
+              "text": "___ languages do you speak? — Three.",
+              "answers": [
+                "How many"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3c-3",
+          "type": "transform",
+          "instruction": "Correct the question.",
+          "items": [
+            {
+              "prompt": "Where you work?",
+              "answers": [
+                "Where do you work?"
+              ]
+            },
+            {
+              "prompt": "What time she finishes work?",
+              "answers": [
+                "What time does she finish work?"
+              ]
+            },
+            {
+              "prompt": "How old you are?",
+              "answers": [
+                "How old are you?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3c-4",
+          "type": "matching",
+          "instruction": "Match the questions and answers.",
+          "pairs": [
+            {
+              "left": "How do you get to work?",
+              "right": "By metro."
+            },
+            {
+              "left": "Who do you live with?",
+              "right": "My parents."
+            },
+            {
+              "left": "Which do you prefer, tea or coffee?",
+              "right": "Tea."
+            },
+            {
+              "left": "How much is a ticket?",
+              "right": "Fifty roubles."
+            }
+          ]
+        },
+        {
+          "id": "3c-r",
+          "type": "reading",
+          "instruction": "Read the interview and answer.",
+          "title": "20 questions with a chef",
+          "text": "Where do you work? — In a small Italian restaurant in Kazan.\nWhat time do you start? — At ten in the morning, and I finish at midnight.\nHow often do you cook at home? — Never! My wife cooks.\nWhat do you eat for breakfast? — Just coffee… no, I'm joking! Porridge.\nWhy did you become a chef? — Because my grandmother taught me to cook.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The restaurant is…",
+              "options": [
+                "Italian",
+                "Japanese",
+                "French"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "He finishes at ___.",
+              "answers": [
+                "midnight",
+                "12",
+                "twelve"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "He often cooks at home.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Who taught him to cook?",
+              "options": [
+                "his mother",
+                "his wife",
+                "his grandmother"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🧑‍🍳"
+        },
+        {
+          "id": "3c-l",
+          "type": "listening",
+          "instruction": "Listen to the survey and answer.",
+          "title": "A street survey",
+          "script": [
+            {
+              "speaker": "Interviewer",
+              "text": "How do you usually get to work?"
+            },
+            {
+              "speaker": "Man",
+              "text": "By bike."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "How long does it take?"
+            },
+            {
+              "speaker": "Man",
+              "text": "About twenty-five minutes."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "Why don't you drive?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Because parking is very expensive."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "He goes to work by…",
+              "options": [
+                "car",
+                "bike",
+                "bus"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "It takes about ___ minutes.",
+              "answers": [
+                "twenty-five",
+                "25"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "He doesn't drive because…",
+              "options": [
+                "he can't",
+                "parking is expensive",
+                "he likes sport"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚲"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc3-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "She ___ in a bank.",
+            "options": [
+              "work",
+              "works",
+              "working"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ he speak French?",
+            "options": [
+              "Do",
+              "Does",
+              "Is"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "They ___ have children.",
+            "options": [
+              "don't",
+              "doesn't",
+              "aren't"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "___ do you go to the cinema? — Once a month.",
+            "options": [
+              "How much",
+              "How often",
+              "When"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc3-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "My neighbour",
+        "text": "My neighbour, Mr Ross, is a retired teacher. He lives alone with his cat. He gets up at six every day and walks in the park. He doesn't watch TV, but he reads two newspapers. On Sundays his daughter visits him.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "Mr Ross works as a teacher now.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "He lives with his ___.",
+            "answers": [
+              "cat"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "His daughter visits on…",
+            "options": [
+              "Saturdays",
+              "Sundays",
+              "Fridays"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🐈"
+      }
+    ]
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "fileId": "8",
+  "lessons": {
+    "8A": {
+      "theory": [
+        {
+          "title": "Past Simple: вопросы и отрицания (повторение)",
+          "table": {
+            "head": [
+              "Схема",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Wh- + did + подлеж. + глагол?",
+                "Where did you go? What did she say?"
+              ],
+              [
+                "Did + подлеж. + глагол?",
+                "Did they win?"
+              ],
+              [
+                "подлеж. + didn't + глагол",
+                "He didn't call."
+              ]
+            ]
+          },
+          "tip": "Вопрос к подлежащему без did: Who called you? What happened?"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Past simple questions",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=past+simple+questions+negatives+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8a-1",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "What time did you get home?"
+            },
+            {
+              "answer": "Who did you go with?"
+            },
+            {
+              "answer": "Did you have a good time?"
+            },
+            {
+              "answer": "How much did it cost?"
+            }
+          ]
+        },
+        {
+          "id": "8a-2",
+          "type": "transform",
+          "instruction": "Write the question. Start with the words in brackets.",
+          "items": [
+            {
+              "prompt": "She went to Paris. (Where…?)",
+              "answers": [
+                "Where did she go?"
+              ]
+            },
+            {
+              "prompt": "They left at ten. (What time…?)",
+              "answers": [
+                "What time did they leave?"
+              ]
+            },
+            {
+              "prompt": "He bought a jacket. (What…?)",
+              "answers": [
+                "What did he buy?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct question.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "Who did call you?",
+                "Who called you?",
+                "Who did called you?"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "What happened?",
+                "What did happen?",
+                "What happen?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "Where you went?",
+                "Where did you went?",
+                "Where did you go?"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "8a-4",
+          "type": "gap-fill",
+          "instruction": "Complete the conversation.",
+          "items": [
+            {
+              "text": "A: ___ you see the match? B: Yes, I did.",
+              "answers": [
+                "Did"
+              ]
+            },
+            {
+              "text": "A: Who ___? B: Spartak won 2–1.",
+              "answers": [
+                "won"
+              ]
+            },
+            {
+              "text": "A: Where ___ you watch it? B: In a bar with friends.",
+              "answers": [
+                "did"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-r",
+          "type": "reading",
+          "instruction": "Read the police interview and answer.",
+          "title": "The missing painting",
+          "text": "Inspector: Where were you on Saturday evening?\nGuard: At the museum. I started work at six.\nInspector: Did you see anybody?\nGuard: Yes, a man came in at seven. He said he was an electrician.\nInspector: Did you check his documents?\nGuard: No, I didn't. He had a uniform…\nInspector: And when did he leave?\nGuard: About half an hour later. With a big box.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The guard started work at…",
+              "options": [
+                "6",
+                "7",
+                "8"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "The man said he was an ___.",
+              "answers": [
+                "electrician"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The guard checked the man's documents.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The man left with…",
+              "options": [
+                "nothing",
+                "a big box",
+                "the guard"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🖼️"
+        },
+        {
+          "id": "8a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Lost luggage",
+          "script": [
+            {
+              "speaker": "Clerk",
+              "text": "When did you arrive?"
+            },
+            {
+              "speaker": "Passenger",
+              "text": "This morning, from Istanbul."
+            },
+            {
+              "speaker": "Clerk",
+              "text": "What colour is your suitcase?"
+            },
+            {
+              "speaker": "Passenger",
+              "text": "It's dark blue, with a yellow ribbon."
+            },
+            {
+              "speaker": "Clerk",
+              "text": "Did you have anything valuable in it?"
+            },
+            {
+              "speaker": "Passenger",
+              "text": "Just my laptop charger."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The passenger flew from ___.",
+              "answers": [
+                "Istanbul"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The suitcase is…",
+              "options": [
+                "dark blue",
+                "black",
+                "yellow"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Inside there was a laptop ___.",
+              "answers": [
+                "charger"
+              ]
+            }
+          ],
+          "image": "🧳"
+        }
+      ]
+    },
+    "8B": {
+      "theory": [
+        {
+          "title": "there is / there are + some / any",
+          "table": {
+            "head": [
+              "",
+              "Ед. число",
+              "Мн. число"
+            ],
+            "rows": [
+              [
+                "+",
+                "There's a fireplace.",
+                "There are some plants."
+              ],
+              [
+                "−",
+                "There isn't a garden.",
+                "There aren't any chairs."
+              ],
+              [
+                "?",
+                "Is there a lift?",
+                "Are there any shops?"
+              ]
+            ]
+          },
+          "tip": "some — в утверждениях, any — в отрицаниях и вопросах. В предложении с перечислением: There's a sofa and two armchairs (выбираем по первому предмету)."
+        },
+        {
+          "title": "Дом",
+          "text": "upstairs, downstairs, ground floor, first floor, a balcony, a garage, a fireplace, a wardrobe, a shelf, a carpet, a mirror, curtains."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with there's, there are, is there or are there.",
+          "items": [
+            {
+              "text": "___ a big mirror in the hall.",
+              "answers": [
+                "There's",
+                "There is"
+              ]
+            },
+            {
+              "text": "___ any towels in the bathroom?",
+              "answers": [
+                "Are there"
+              ]
+            },
+            {
+              "text": "___ three bedrooms upstairs.",
+              "answers": [
+                "There are"
+              ]
+            },
+            {
+              "text": "___ a garage? — No, there isn't.",
+              "answers": [
+                "Is there"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-pic",
+          "type": "picture",
+          "instruction": "In the house: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🪞",
+              "answers": [
+                "a mirror",
+                "mirror"
+              ]
+            },
+            {
+              "emoji": "🖼️",
+              "answers": [
+                "a picture",
+                "picture"
+              ]
+            },
+            {
+              "emoji": "🛋️",
+              "answers": [
+                "a sofa",
+                "sofa"
+              ]
+            },
+            {
+              "emoji": "🛁",
+              "answers": [
+                "a bath",
+                "bath"
+              ]
+            },
+            {
+              "emoji": "🪜",
+              "answers": [
+                "a ladder",
+                "ladder"
+              ]
+            },
+            {
+              "emoji": "🕯️",
+              "answers": [
+                "a candle",
+                "candle"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-2",
+          "type": "multiple-choice",
+          "instruction": "some or any?",
+          "items": [
+            {
+              "question": "There are ___ books on the shelf.",
+              "options": [
+                "some",
+                "any"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "There aren't ___ curtains.",
+              "options": [
+                "some",
+                "any"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Are there ___ good restaurants near here?",
+              "options": [
+                "some",
+                "any"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8b-3",
+          "type": "matching",
+          "instruction": "Match the furniture and the rooms.",
+          "pairs": [
+            {
+              "left": "a wardrobe",
+              "right": "the bedroom"
+            },
+            {
+              "left": "a fridge",
+              "right": "the kitchen"
+            },
+            {
+              "left": "a bath",
+              "right": "the bathroom"
+            },
+            {
+              "left": "a fireplace",
+              "right": "the living room"
+            },
+            {
+              "left": "a car",
+              "right": "the garage"
+            }
+          ]
+        },
+        {
+          "id": "8b-4",
+          "type": "transform",
+          "instruction": "Make negative.",
+          "items": [
+            {
+              "prompt": "There are some plants.",
+              "answers": [
+                "There aren't any plants.",
+                "There are not any plants."
+              ]
+            },
+            {
+              "prompt": "There's a dishwasher.",
+              "answers": [
+                "There isn't a dishwasher.",
+                "There is not a dishwasher."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-r",
+          "type": "reading",
+          "instruction": "Read the advert and answer.",
+          "title": "House to rent",
+          "text": "Beautiful old house in the country. On the ground floor there's a large kitchen, a living room with a fireplace and a small toilet. Upstairs there are three bedrooms and a bathroom with a bath. There isn't a garage, but there's a big garden with some apple trees. There aren't any shops in the village, but there's a bus to town every hour.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The living room has a ___.",
+              "answers": [
+                "fireplace"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "How many bedrooms?",
+              "options": [
+                "two",
+                "three",
+                "four"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "There's a garage.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "There are shops in the village.",
+              "answer": false
+            }
+          ],
+          "image": "🏡"
+        },
+        {
+          "id": "8b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Viewing a flat",
+          "script": [
+            {
+              "speaker": "Agent",
+              "text": "And this is the kitchen. There's a new cooker and a dishwasher."
+            },
+            {
+              "speaker": "Client",
+              "text": "Is there a washing machine?"
+            },
+            {
+              "speaker": "Agent",
+              "text": "No, there isn't, but there's a launderette downstairs."
+            },
+            {
+              "speaker": "Client",
+              "text": "Are there any parking spaces?"
+            },
+            {
+              "speaker": "Agent",
+              "text": "Yes, there are two behind the building."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "There's a dishwasher.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "There's a washing machine.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "How many parking spaces?",
+              "options": [
+                "one",
+                "two",
+                "none"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏢"
+        }
+      ]
+    },
+    "8C": {
+      "theory": [
+        {
+          "title": "there was / there were",
+          "text": "Прошедшее время от there is / there are.",
+          "table": {
+            "head": [
+              "",
+              "Ед. число",
+              "Мн. число"
+            ],
+            "rows": [
+              [
+                "+",
+                "There was a party.",
+                "There were a lot of people."
+              ],
+              [
+                "−",
+                "There wasn't a lift.",
+                "There weren't any taxis."
+              ],
+              [
+                "?",
+                "Was there a problem?",
+                "Were there any tickets?"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Предлоги места",
+          "text": "in, on, under, next to, between, opposite, behind, in front of, above (над), below (под, ниже), in the corner, at the top / bottom."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with was / were / wasn't / weren't.",
+          "items": [
+            {
+              "text": "There ___ a lot of snow last winter.",
+              "answers": [
+                "was"
+              ]
+            },
+            {
+              "text": "There ___ any taxis, so we walked.",
+              "answers": [
+                "weren't",
+                "were not"
+              ]
+            },
+            {
+              "text": "___ there many people at the concert?",
+              "answers": [
+                "Were"
+              ]
+            },
+            {
+              "text": "There ___ a lift, so we used the stairs.",
+              "answers": [
+                "wasn't",
+                "was not"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8c-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct preposition.",
+          "items": [
+            {
+              "question": "There's a lamp ___ the table. (над)",
+              "options": [
+                "above",
+                "under",
+                "on"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "The cat is sleeping ___ the corner.",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The bank is ___ the café and the shop.",
+              "options": [
+                "between",
+                "opposite",
+                "next"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "8c-3",
+          "type": "transform",
+          "instruction": "Put into the past.",
+          "items": [
+            {
+              "prompt": "There's a problem.",
+              "answers": [
+                "There was a problem."
+              ]
+            },
+            {
+              "prompt": "There are some birds in the garden.",
+              "answers": [
+                "There were some birds in the garden."
+              ]
+            },
+            {
+              "prompt": "Is there any milk?",
+              "answers": [
+                "Was there any milk?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "There was a strange noise upstairs."
+            },
+            {
+              "answer": "Were there any people in the house?"
+            }
+          ]
+        },
+        {
+          "id": "8c-r",
+          "type": "reading",
+          "instruction": "Read the ghost story and answer.",
+          "title": "A night in the castle",
+          "text": "Last October we stayed in an old castle in Scotland. Our room was at the top of a tower. There was a big bed, an old mirror above the fireplace and a portrait of a woman in a long white dress. At midnight there was a strange noise. I looked at the portrait — the woman wasn't there! In the morning the owner told us: 'Ah, you met Lady Anne.'",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They stayed in…",
+              "options": [
+                "a hotel in London",
+                "a castle in Scotland",
+                "a house in Ireland"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The mirror was above the ___.",
+              "answers": [
+                "fireplace"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "At midnight the woman in the portrait wasn't there.",
+              "answer": true
+            }
+          ],
+          "image": "🏰"
+        },
+        {
+          "id": "8c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "My grandmother's house",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "When I was a child, I spent every summer at my grandmother's house. There wasn't a bathroom inside, and there weren't any computers. But there was a big garden with a river behind it, and there were always lots of children to play with."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "There was a bathroom inside.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "There was a river behind the ___.",
+              "answers": [
+                "garden"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "There were lots of children.",
+              "answer": true
+            }
+          ],
+          "image": "🏡"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "В аптеке",
+        "examples": [
+          {
+            "en": "I have a headache / a sore throat / a cough.",
+            "ru": "У меня болит голова / горло / кашель."
+          },
+          {
+            "en": "Have you got anything for a cold?",
+            "ru": "У вас есть что-нибудь от простуды?"
+          },
+          {
+            "en": "Take two tablets three times a day.",
+            "ru": "Принимайте по две таблетки три раза в день."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe8-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 8.",
+        "video": {
+          "title": "Practical English, File 8 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "I don't feel well.",
+          "I have a temperature.",
+          "How often do I take them?",
+          "Do I need a prescription?"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Описал(а) по-английски симптомы простуды",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe8-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "At the chemist's",
+        "script": [
+          {
+            "speaker": "Customer",
+            "text": "Hello, I have a sore throat and a cough. Have you got anything for that?"
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Do you have a temperature?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "No, I don't."
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Then try this syrup. Take one spoon three times a day. If you don't feel better in five days, see a doctor."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The customer has…",
+            "options": [
+              "a headache",
+              "a sore throat and a cough",
+              "a temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Take one spoon ___ times a day.",
+            "answers": [
+              "three",
+              "3"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "See a doctor if no better in…",
+            "options": [
+              "three days",
+              "five days",
+              "a week"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🩺"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc8-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "Who ___ the window?",
+            "options": [
+              "did break",
+              "broke",
+              "breaked"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "There ___ any milk in the fridge.",
+            "options": [
+              "isn't",
+              "aren't",
+              "not"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "There ___ two cats in the garden yesterday.",
+            "options": [
+              "was",
+              "were",
+              "are"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "What time ___ the film start?",
+            "options": [
+              "did",
+              "was",
+              "were"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc8-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "The party",
+        "script": [
+          {
+            "speaker": "Girl",
+            "text": "The party was great! There were about fifty people and there was a live band. There wasn't enough food, but nobody cared. We danced until two in the morning."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "There were about ___ people.",
+            "answers": [
+              "fifty",
+              "50"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "There was enough food.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "They danced until…",
+            "options": [
+              "midnight",
+              "1 a.m.",
+              "2 a.m."
+            ],
+            "answer": 2
+          }
+        ],
+        "image": "🎉"
+      }
+    ]
+  }
+}

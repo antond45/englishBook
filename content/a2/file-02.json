@@ -1,0 +1,1034 @@
+{
+  "fileId": "2",
+  "lessons": {
+    "2A": {
+      "theory": [
+        {
+          "title": "a / an и множественное число",
+          "text": "a — перед согласным звуком, an — перед гласным: a phone, an umbrella, an hour. Множественное число: + s (keys), + es после s/sh/ch/x (watches), y → ies (diaries). Исключения: men, women, children, people.",
+          "examples": [
+            {
+              "en": "an ID card, a wallet, two coins",
+              "ru": "удостоверение, кошелёк, две монеты"
+            },
+            {
+              "en": "These are my keys.",
+              "ru": "Это мои ключи."
+            }
+          ]
+        },
+        {
+          "title": "this / that / these / those",
+          "table": {
+            "head": [
+              "",
+              "Рядом",
+              "Далеко"
+            ],
+            "rows": [
+              [
+                "Один",
+                "this",
+                "that"
+              ],
+              [
+                "Много",
+                "these",
+                "those"
+              ]
+            ]
+          },
+          "tip": "В вопросах о предметах часто опускают существительное: What's that? What are those?"
+        }
+      ],
+      "videos": [
+        {
+          "title": "This, that, these, those",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=this+that+these+those+english+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2a-1",
+          "type": "transform",
+          "instruction": "Write the plural.",
+          "items": [
+            {
+              "prompt": "a diary",
+              "answers": [
+                "diaries"
+              ]
+            },
+            {
+              "prompt": "a glass",
+              "answers": [
+                "glasses"
+              ]
+            },
+            {
+              "prompt": "a knife",
+              "answers": [
+                "knives"
+              ]
+            },
+            {
+              "prompt": "a child",
+              "answers": [
+                "children"
+              ]
+            },
+            {
+              "prompt": "a tissue",
+              "answers": [
+                "tissues"
+              ]
+            },
+            {
+              "prompt": "a man",
+              "answers": [
+                "men"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a or an.",
+          "items": [
+            {
+              "text": "Have you got ___ ID card?",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "I need ___ new wallet.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "It's ___ hour from here.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "She's ___ university student.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "That's ___ expensive watch.",
+              "answers": [
+                "an"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct word.",
+          "items": [
+            {
+              "question": "(in your hand) ___ is my new phone.",
+              "options": [
+                "This",
+                "That",
+                "These"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "(far away) Who are ___ people?",
+              "options": [
+                "these",
+                "those",
+                "that"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "(near you) Are ___ your glasses?",
+              "options": [
+                "this",
+                "these",
+                "that"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "(across the room) What's ___?",
+              "options": [
+                "this",
+                "that",
+                "those"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "2a-4",
+          "type": "matching",
+          "instruction": "Match the things and what you do with them.",
+          "pairs": [
+            {
+              "left": "a charger",
+              "right": "you charge your phone with it"
+            },
+            {
+              "left": "a passport",
+              "right": "you need it to travel abroad"
+            },
+            {
+              "left": "a lighter",
+              "right": "you make fire with it"
+            },
+            {
+              "left": "a purse",
+              "right": "a woman keeps money in it"
+            },
+            {
+              "left": "a comb",
+              "right": "you use it for your hair"
+            }
+          ]
+        },
+        {
+          "id": "2a-r",
+          "type": "reading",
+          "instruction": "Read the article and answer.",
+          "title": "What's in your bag?",
+          "text": "We asked three people to empty their bags.\n\nLaura, 34: 'There's always a lot of stuff in my bag — my purse, keys, two lipsticks, some tissues and a book. And these are my son's toys!'\n\nMike, 22: 'I don't carry a bag. My phone, wallet and keys are in my pockets. That's all I need.'\n\nRita, 58: 'My glasses, an umbrella, a diary — I still write everything on paper — and a small bottle of water.'",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Who has toys in her bag?",
+              "options": [
+                "Laura",
+                "Rita"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "Mike carries a big bag.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Rita writes everything in a ___.",
+              "answers": [
+                "diary"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Rita has an umbrella.",
+              "answer": true
+            }
+          ],
+          "image": "👜"
+        },
+        {
+          "id": "2a-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation at airport security.",
+          "title": "At security",
+          "script": [
+            {
+              "speaker": "Officer",
+              "text": "Is this your bag, madam?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "Yes, it is."
+            },
+            {
+              "speaker": "Officer",
+              "text": "What are these?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "They're batteries for my camera."
+            },
+            {
+              "speaker": "Officer",
+              "text": "And what's that bottle?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "Oh, it's water. Sorry, I can drink it now!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The batteries are for her ___.",
+              "answers": [
+                "camera"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The bottle has…",
+              "options": [
+                "juice",
+                "water",
+                "perfume"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The bag isn't hers.",
+              "answer": false
+            }
+          ],
+          "image": "🛂"
+        }
+      ]
+    },
+    "2B": {
+      "theory": [
+        {
+          "title": "Прилагательные",
+          "text": "Прилагательные не меняются по числу: an old car — old cars. Стоят перед существительным или после be. Усиление: very, really; ослабление: quite, a bit (только с негативными: a bit cold).",
+          "examples": [
+            {
+              "en": "It's a really beautiful city.",
+              "ru": "Это очень красивый город."
+            },
+            {
+              "en": "The hotel was quite cheap.",
+              "ru": "Отель был довольно дешёвым."
+            }
+          ]
+        },
+        {
+          "title": "Противоположности",
+          "table": {
+            "head": [
+              "",
+              ""
+            ],
+            "rows": [
+              [
+                "empty",
+                "full"
+              ],
+              [
+                "easy",
+                "difficult"
+              ],
+              [
+                "dangerous",
+                "safe"
+              ],
+              [
+                "rich",
+                "poor"
+              ],
+              [
+                "strong",
+                "weak"
+              ],
+              [
+                "clean",
+                "dirty"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2b-1",
+          "type": "matching",
+          "instruction": "Match the opposites.",
+          "pairs": [
+            {
+              "left": "empty",
+              "right": "full"
+            },
+            {
+              "left": "easy",
+              "right": "difficult"
+            },
+            {
+              "left": "dangerous",
+              "right": "safe"
+            },
+            {
+              "left": "rich",
+              "right": "poor"
+            },
+            {
+              "left": "strong",
+              "right": "weak"
+            },
+            {
+              "left": "clean",
+              "right": "dirty"
+            }
+          ]
+        },
+        {
+          "id": "2b-2",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "It's a very old building."
+            },
+            {
+              "answer": "They're really expensive shoes."
+            },
+            {
+              "answer": "The film was quite long."
+            },
+            {
+              "answer": "Is it a dangerous city?"
+            }
+          ]
+        },
+        {
+          "id": "2b-3",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "They're news phones.",
+              "answers": [
+                "They're new phones.",
+                "They are new phones."
+              ]
+            },
+            {
+              "prompt": "It's a car very fast.",
+              "answers": [
+                "It's a very fast car.",
+                "It is a very fast car."
+              ]
+            },
+            {
+              "prompt": "Is a good restaurant.",
+              "answers": [
+                "It's a good restaurant.",
+                "It is a good restaurant."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the best word.",
+          "items": [
+            {
+              "question": "The bus is ___. There aren't any seats.",
+              "options": [
+                "empty",
+                "full",
+                "clean"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "This exercise is ___. I can do it in a minute.",
+              "options": [
+                "easy",
+                "difficult",
+                "weak"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Don't swim here — it's ___.",
+              "options": [
+                "safe",
+                "dangerous",
+                "rich"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Wash your hands — they're ___.",
+              "options": [
+                "dirty",
+                "full",
+                "poor"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "2b-r",
+          "type": "reading",
+          "instruction": "Read the hotel reviews and answer.",
+          "title": "Hotel reviews",
+          "text": "★★★★★ 'A really lovely hotel. The rooms are big and clean, and the staff are very friendly. The breakfast is fantastic.' — Ana\n\n★★ 'The location is good, but my room was small and quite dirty. The wifi was very slow and the walls are thin — it's a noisy hotel.' — Pete",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Ana thinks the staff are friendly.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "Pete's room was…",
+              "options": [
+                "big and clean",
+                "small and dirty",
+                "big and noisy"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Pete says the wifi was very ___.",
+              "answers": [
+                "slow"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Both like the location.",
+              "answer": false
+            }
+          ],
+          "image": "🏨"
+        },
+        {
+          "id": "2b-l",
+          "type": "listening",
+          "instruction": "Listen to two friends talking about a flat.",
+          "title": "The new flat",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "So, how's your new flat?"
+            },
+            {
+              "speaker": "B",
+              "text": "It's great! It's quite small, but it's very light and modern."
+            },
+            {
+              "speaker": "A",
+              "text": "Is it expensive?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, it's really cheap. But the street is a bit noisy."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The flat is…",
+              "options": [
+                "big and old",
+                "small and modern",
+                "dark and cheap"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The flat is expensive.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The street is a bit ___.",
+              "answers": [
+                "noisy"
+              ]
+            }
+          ],
+          "image": "🏠"
+        }
+      ]
+    },
+    "2C": {
+      "theory": [
+        {
+          "title": "Повелительное наклонение (imperatives)",
+          "text": "Глагол в начальной форме — приказ, совет, инструкция. Отрицание: Don't + глагол. Чтобы звучало вежливо, добавляй please.",
+          "examples": [
+            {
+              "en": "Open the window, please.",
+              "ru": "Открой окно, пожалуйста."
+            },
+            {
+              "en": "Don't worry!",
+              "ru": "Не волнуйся!"
+            },
+            {
+              "en": "Be careful!",
+              "ru": "Будь осторожен!"
+            }
+          ]
+        },
+        {
+          "title": "Let's…",
+          "text": "Let's + глагол — предложение сделать что-то вместе. Let's not… — давай не будем.",
+          "examples": [
+            {
+              "en": "Let's go to the cinema.",
+              "ru": "Давай сходим в кино."
+            },
+            {
+              "en": "Let's not take a taxi.",
+              "ru": "Давай не будем брать такси."
+            }
+          ]
+        },
+        {
+          "title": "Чувства",
+          "text": "hungry, thirsty, tired, cold, hot, bored, angry, worried, stressed, happy. Говорим с be: I'm hungry (не I have hungry)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2c-1",
+          "type": "matching",
+          "instruction": "Match the feelings and the advice.",
+          "pairs": [
+            {
+              "left": "I'm hungry.",
+              "right": "Have a sandwich."
+            },
+            {
+              "left": "I'm thirsty.",
+              "right": "Drink some water."
+            },
+            {
+              "left": "I'm tired.",
+              "right": "Go to bed early."
+            },
+            {
+              "left": "I'm cold.",
+              "right": "Put on a jumper."
+            },
+            {
+              "left": "I'm bored.",
+              "right": "Let's go out!"
+            }
+          ]
+        },
+        {
+          "id": "2c-pic",
+          "type": "picture",
+          "instruction": "How do they feel? Choose.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "😴",
+              "answers": [
+                "tired"
+              ]
+            },
+            {
+              "emoji": "😋",
+              "answers": [
+                "hungry"
+              ]
+            },
+            {
+              "emoji": "🥶",
+              "answers": [
+                "cold"
+              ]
+            },
+            {
+              "emoji": "🥵",
+              "answers": [
+                "hot"
+              ]
+            },
+            {
+              "emoji": "😠",
+              "answers": [
+                "angry"
+              ]
+            },
+            {
+              "emoji": "😨",
+              "answers": [
+                "scared",
+                "frightened"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with Don't or Let's.",
+          "items": [
+            {
+              "text": "___ forget your keys!",
+              "answers": [
+                "Don't"
+              ]
+            },
+            {
+              "text": "___ have a pizza tonight.",
+              "answers": [
+                "Let's"
+              ]
+            },
+            {
+              "text": "___ touch that — it's hot!",
+              "answers": [
+                "Don't"
+              ]
+            },
+            {
+              "text": "It's sunny. ___ go to the park.",
+              "answers": [
+                "Let's"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2c-3",
+          "type": "transform",
+          "instruction": "Make the instructions negative.",
+          "items": [
+            {
+              "prompt": "Park here.",
+              "answers": [
+                "Don't park here."
+              ]
+            },
+            {
+              "prompt": "Be late.",
+              "answers": [
+                "Don't be late."
+              ]
+            },
+            {
+              "prompt": "Use your phone in class.",
+              "answers": [
+                "Don't use your phone in class."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2c-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I'm ___. Is there anything to eat?",
+              "options": [
+                "thirsty",
+                "hungry",
+                "bored"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Let's ___ a taxi.",
+              "options": [
+                "take",
+                "to take",
+                "taking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ worry. It's not a problem.",
+              "options": [
+                "Not",
+                "No",
+                "Don't"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "2c-r",
+          "type": "reading",
+          "instruction": "Read the tips and answer.",
+          "title": "How to sleep better",
+          "text": "Can't sleep? Try these tips. Go to bed at the same time every day. Don't drink coffee after 3 p.m. Don't look at your phone in bed — the light keeps you awake. Keep your bedroom cool and dark. And if you can't sleep after twenty minutes, get up and read a book.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "You can drink coffee in the evening.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Your bedroom should be…",
+              "options": [
+                "warm and light",
+                "cool and dark",
+                "hot and dark"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "If you can't sleep after ___ minutes, get up.",
+              "answers": [
+                "twenty",
+                "20"
+              ]
+            }
+          ],
+          "image": "😴"
+        },
+        {
+          "id": "2c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "What shall we do?",
+          "script": [
+            {
+              "speaker": "Tom",
+              "text": "I'm so bored. Let's do something."
+            },
+            {
+              "speaker": "Kate",
+              "text": "Let's go for a walk."
+            },
+            {
+              "speaker": "Tom",
+              "text": "No, it's cold. Let's watch a film."
+            },
+            {
+              "speaker": "Kate",
+              "text": "OK, but don't choose a horror film. I hate them!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Tom feels…",
+              "options": [
+                "tired",
+                "bored",
+                "hungry"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They go for a walk.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Kate hates ___ films.",
+              "answers": [
+                "horror"
+              ]
+            }
+          ],
+          "image": "🎬"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Заказ в кафе",
+        "examples": [
+          {
+            "en": "Can I have a latte, please?",
+            "ru": "Можно латте?"
+          },
+          {
+            "en": "Regular or large?",
+            "ru": "Обычный или большой?"
+          },
+          {
+            "en": "Anything else?",
+            "ru": "Что-нибудь ещё?"
+          },
+          {
+            "en": "Eat in or take away?",
+            "ru": "Здесь или с собой?"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe2-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 2.",
+        "video": {
+          "title": "Practical English, File 2 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "Can I have a…, please?",
+          "Regular or large?",
+          "Eat in or take away?",
+          "That's £3.80."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Разыграл(а) заказ в кафе",
+          "Повторил(а) фразы вслух"
+        ]
+      },
+      {
+        "id": "pe2-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Coffee to go",
+        "script": [
+          {
+            "speaker": "Barista",
+            "text": "Hi! What can I get you?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "A large latte and a croissant, please."
+          },
+          {
+            "speaker": "Barista",
+            "text": "Eat in or take away?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Take away."
+          },
+          {
+            "speaker": "Barista",
+            "text": "That's five pounds sixty."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Size:",
+            "options": [
+              "regular",
+              "large"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The customer also buys a ___.",
+            "answers": [
+              "croissant"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Price:",
+            "options": [
+              "£5.60",
+              "£6.50",
+              "£5.16"
+            ],
+            "answer": 0
+          }
+        ],
+        "image": "☕"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc2-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "Two ___ are in the garden.",
+            "options": [
+              "childs",
+              "children",
+              "childrens"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "It's ___ interesting book.",
+            "options": [
+              "a",
+              "an"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ are my sunglasses.",
+            "options": [
+              "This",
+              "These",
+              "That"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ be late!",
+            "options": [
+              "Not",
+              "Don't",
+              "No"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I'm ___. Can I have some water?",
+            "options": [
+              "thirsty",
+              "hungry",
+              "tired"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc2-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "They're bigs houses.",
+            "answers": [
+              "They're big houses.",
+              "They are big houses."
+            ]
+          },
+          {
+            "prompt": "I have cold.",
+            "answers": [
+              "I'm cold.",
+              "I am cold."
+            ]
+          },
+          {
+            "prompt": "Let's to go home.",
+            "answers": [
+              "Let's go home."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

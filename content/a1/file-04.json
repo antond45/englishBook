@@ -1,0 +1,1183 @@
+{
+  "fileId": "4",
+  "lessons": {
+    "4A": {
+      "theory": [
+        {
+          "title": "Present Simple: когда используем",
+          "text": "Present Simple (настоящее простое) описывает то, что верно всегда, или то, что происходит регулярно: где живёшь, где работаешь, что любишь.",
+          "examples": [
+            {
+              "en": "I live in a flat.",
+              "ru": "Я живу в квартире."
+            },
+            {
+              "en": "We work in an office.",
+              "ru": "Мы работаем в офисе."
+            },
+            {
+              "en": "They like pizza.",
+              "ru": "Они любят пиццу."
+            }
+          ]
+        },
+        {
+          "title": "Утверждение и отрицание (I, you, we, they)",
+          "text": "С I, you, we, they глагол стоит в начальной форме. Для отрицания нужен вспомогательный глагол do + not = don't.",
+          "table": {
+            "head": [
+              "+",
+              "−"
+            ],
+            "rows": [
+              [
+                "I work",
+                "I don't work"
+              ],
+              [
+                "you live",
+                "you don't live"
+              ],
+              [
+                "we have",
+                "we don't have"
+              ],
+              [
+                "they eat",
+                "they don't eat"
+              ]
+            ]
+          },
+          "tip": "Нельзя сказать I not work или I no work. Только I don't work."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Present simple for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=present+simple+I+you+we+they+for+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the verb in brackets: positive (+) or negative (−).",
+          "items": [
+            {
+              "text": "I ___ in a flat.",
+              "hint": "live +",
+              "answers": [
+                "live"
+              ]
+            },
+            {
+              "text": "We ___ meat.",
+              "hint": "eat −",
+              "answers": [
+                "don't eat",
+                "do not eat"
+              ]
+            },
+            {
+              "text": "They ___ two children.",
+              "hint": "have +",
+              "answers": [
+                "have"
+              ]
+            },
+            {
+              "text": "You ___ coffee.",
+              "hint": "drink −",
+              "answers": [
+                "don't drink",
+                "do not drink"
+              ]
+            },
+            {
+              "text": "I ___ English at school.",
+              "hint": "study +",
+              "answers": [
+                "study"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-2",
+          "type": "matching",
+          "instruction": "Match the verbs and the words to make phrases.",
+          "pairs": [
+            {
+              "left": "live",
+              "right": "in a flat"
+            },
+            {
+              "left": "watch",
+              "right": "TV"
+            },
+            {
+              "left": "speak",
+              "right": "English"
+            },
+            {
+              "left": "listen to",
+              "right": "music"
+            },
+            {
+              "left": "drive",
+              "right": "a car"
+            },
+            {
+              "left": "read",
+              "right": "a newspaper"
+            }
+          ]
+        },
+        {
+          "id": "4a-3",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "I work in a bank.",
+              "answers": [
+                "I don't work in a bank.",
+                "I do not work in a bank."
+              ]
+            },
+            {
+              "prompt": "We like fish.",
+              "answers": [
+                "We don't like fish.",
+                "We do not like fish."
+              ]
+            },
+            {
+              "prompt": "They live near here.",
+              "answers": [
+                "They don't live near here.",
+                "They do not live near here."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-4",
+          "type": "true-false",
+          "instruction": "Read about Mia and Leo. True or False?",
+          "text": "We're Mia and Leo. We live in a small flat in Bristol. We don't have a car — we ride bikes. We work in a café. We don't watch TV, but we read a lot.",
+          "items": [
+            {
+              "statement": "They live in a big house.",
+              "answer": false
+            },
+            {
+              "statement": "They have a car.",
+              "answer": false
+            },
+            {
+              "statement": "They work in a café.",
+              "answer": true
+            },
+            {
+              "statement": "They read a lot.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "4a-r",
+          "type": "reading",
+          "instruction": "Read about a student's life and answer.",
+          "title": "Student life",
+          "text": "My name's Ali. I'm a student in Leeds. I live with three friends in a small house. We don't have a TV, but we have a big kitchen. We cook together in the evenings. I study engineering. I don't work, but in the summer I work in a hotel. I love my life here!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Ali lives with…",
+              "options": [
+                "his family",
+                "three friends",
+                "two friends"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They have a TV.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Ali studies ___.",
+              "answers": [
+                "engineering"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "In the summer Ali works in a hotel.",
+              "answer": true
+            }
+          ],
+          "image": "🎓"
+        },
+        {
+          "id": "4a-l",
+          "type": "listening",
+          "instruction": "Listen to Rita and answer.",
+          "title": "Where I live",
+          "script": [
+            {
+              "speaker": "Rita",
+              "text": "I live in a flat in the city centre. I live with my sister. We have a cat, but we don't have a car. We go to work by bike. I work in a bank and my sister works in a shop. We don't cook much — we eat in cafés."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Rita lives with her…",
+              "options": [
+                "mother",
+                "sister",
+                "friend"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They have a car.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Rita works in a…",
+              "options": [
+                "shop",
+                "bank",
+                "café"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They cook a lot.",
+              "answer": false
+            }
+          ],
+          "image": "🏢"
+        }
+      ]
+    },
+    "4B": {
+      "theory": [
+        {
+          "title": "Вопросы в Present Simple",
+          "text": "Вопрос строится с помощью do. Порядок: (вопросительное слово) + do + подлежащее + глагол.",
+          "table": {
+            "head": [
+              "Вопрос",
+              "Краткий ответ"
+            ],
+            "rows": [
+              [
+                "Do you like coffee?",
+                "Yes, I do. / No, I don't."
+              ],
+              [
+                "Do they live here?",
+                "Yes, they do. / No, they don't."
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Where do you live?",
+              "ru": "Где ты живёшь?"
+            },
+            {
+              "en": "What do you have for breakfast?",
+              "ru": "Что ты ешь на завтрак?"
+            }
+          ],
+          "tip": "В кратком ответе не повторяем основной глагол: Yes, I do (а не Yes, I like)."
+        },
+        {
+          "title": "Еда и напитки",
+          "examples": [
+            {
+              "en": "breakfast / lunch / dinner",
+              "ru": "завтрак / обед / ужин"
+            },
+            {
+              "en": "bread, cheese, eggs, fruit, vegetables",
+              "ru": "хлеб, сыр, яйца, фрукты, овощи"
+            },
+            {
+              "en": "tea, coffee, juice, water, milk",
+              "ru": "чай, кофе, сок, вода, молоко"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4b-1",
+          "type": "transform",
+          "instruction": "Make questions with do.",
+          "items": [
+            {
+              "prompt": "You like tea. → ___?",
+              "answers": [
+                "Do you like tea?"
+              ]
+            },
+            {
+              "prompt": "They eat meat. → ___?",
+              "answers": [
+                "Do they eat meat?"
+              ]
+            },
+            {
+              "prompt": "You have a dog. → ___?",
+              "answers": [
+                "Do you have a dog?"
+              ]
+            },
+            {
+              "prompt": "We need bread. → ___?",
+              "answers": [
+                "Do we need bread?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-pic",
+          "type": "picture",
+          "instruction": "Food and drink: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "☕",
+              "answers": [
+                "coffee"
+              ]
+            },
+            {
+              "emoji": "🍵",
+              "answers": [
+                "tea"
+              ]
+            },
+            {
+              "emoji": "🍞",
+              "answers": [
+                "bread"
+              ]
+            },
+            {
+              "emoji": "🧀",
+              "answers": [
+                "cheese"
+              ]
+            },
+            {
+              "emoji": "🥚",
+              "answers": [
+                "eggs",
+                "an egg"
+              ]
+            },
+            {
+              "emoji": "🐟",
+              "answers": [
+                "fish"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct short answer.",
+          "items": [
+            {
+              "question": "Do you like cheese? (✓)",
+              "options": [
+                "Yes, I like.",
+                "Yes, I do.",
+                "Yes, I am."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Do they speak French? (✗)",
+              "options": [
+                "No, they don't.",
+                "No, they aren't.",
+                "No, they not."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Do you drink milk? (✗)",
+              "options": [
+                "No, I don't.",
+                "No, I'm not.",
+                "No, I don't drink."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Are you hungry? (✓)",
+              "options": [
+                "Yes, I do.",
+                "Yes, I am.",
+                "Yes, I'm."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "4b-3",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "What do you have for breakfast?"
+            },
+            {
+              "answer": "Where do your parents live?"
+            },
+            {
+              "answer": "Do you drink coffee in the morning?"
+            }
+          ]
+        },
+        {
+          "id": "4b-4",
+          "type": "matching",
+          "instruction": "Food and drink: match the words to the groups.",
+          "pairs": [
+            {
+              "left": "orange juice",
+              "right": "a cold drink"
+            },
+            {
+              "left": "tea",
+              "right": "a hot drink"
+            },
+            {
+              "left": "chicken",
+              "right": "meat"
+            },
+            {
+              "left": "salmon",
+              "right": "fish"
+            },
+            {
+              "left": "an apple",
+              "right": "fruit"
+            },
+            {
+              "left": "a potato",
+              "right": "a vegetable"
+            }
+          ]
+        },
+        {
+          "id": "4b-r",
+          "type": "reading",
+          "instruction": "Read the interview and answer.",
+          "title": "What do you eat?",
+          "text": "Q: Do you have breakfast?\nA: Yes, I do. I have coffee and toast.\n\nQ: Where do you have lunch?\nA: At work. I have a salad or soup.\n\nQ: Do you cook dinner?\nA: No, I don't. My husband cooks. He's a great cook!\n\nQ: Do you eat meat?\nA: No, I don't. I'm a vegetarian.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "She has breakfast.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "She has lunch…",
+              "options": [
+                "at home",
+                "at work",
+                "in a restaurant"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Her ___ cooks dinner.",
+              "answers": [
+                "husband"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "She eats meat.",
+              "answer": false
+            }
+          ],
+          "image": "🍲"
+        },
+        {
+          "id": "4b-l",
+          "type": "listening",
+          "instruction": "Listen to the questions and answers.",
+          "title": "A quick survey",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Excuse me, do you drink coffee?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I do. Two cups a day."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you eat fast food?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I don't. I don't like it."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you like fish?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I love fish!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many cups of coffee a day?",
+              "options": [
+                "one",
+                "two",
+                "three"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The man eats fast food.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "He likes fish.",
+              "answer": true
+            }
+          ],
+          "image": "📋"
+        }
+      ]
+    },
+    "4C": {
+      "theory": [
+        {
+          "title": "Профессии и артикль a/an",
+          "text": "Перед профессией в единственном числе обязательно a или an. По-русски «Я врач», по-английски I'm a doctor.",
+          "examples": [
+            {
+              "en": "I'm a teacher.",
+              "ru": "Я учитель."
+            },
+            {
+              "en": "She's an engineer.",
+              "ru": "Она инженер."
+            },
+            {
+              "en": "They're nurses.",
+              "ru": "Они медсёстры. (во множественном числе без артикля)"
+            }
+          ]
+        },
+        {
+          "title": "Как спросить о работе",
+          "examples": [
+            {
+              "en": "What do you do? — I'm a nurse.",
+              "ru": "Кем ты работаешь? — Я медсестра."
+            },
+            {
+              "en": "Where do you work? — In a hospital.",
+              "ru": "Где ты работаешь? — В больнице."
+            },
+            {
+              "en": "Do you like your job?",
+              "ru": "Тебе нравится твоя работа?"
+            }
+          ],
+          "tip": "What do you do? — это вопрос о профессии, а не «что ты делаешь сейчас»."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Jobs vocabulary for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=jobs+vocabulary+english+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4c-1",
+          "type": "matching",
+          "instruction": "Match the jobs and the places of work.",
+          "pairs": [
+            {
+              "left": "a doctor",
+              "right": "a hospital"
+            },
+            {
+              "left": "a teacher",
+              "right": "a school"
+            },
+            {
+              "left": "a waiter",
+              "right": "a restaurant"
+            },
+            {
+              "left": "a shop assistant",
+              "right": "a shop"
+            },
+            {
+              "left": "a pilot",
+              "right": "a plane"
+            },
+            {
+              "left": "a factory worker",
+              "right": "a factory"
+            }
+          ]
+        },
+        {
+          "id": "4c-pic",
+          "type": "picture",
+          "instruction": "Jobs: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🧑‍⚕️",
+              "answers": [
+                "a doctor",
+                "doctor"
+              ]
+            },
+            {
+              "emoji": "🧑‍🏫",
+              "answers": [
+                "a teacher",
+                "teacher"
+              ]
+            },
+            {
+              "emoji": "🧑‍🍳",
+              "answers": [
+                "a chef",
+                "chef",
+                "a cook"
+              ]
+            },
+            {
+              "emoji": "👮",
+              "answers": [
+                "a police officer",
+                "police officer"
+              ]
+            },
+            {
+              "emoji": "🧑‍✈️",
+              "answers": [
+                "a pilot",
+                "pilot"
+              ]
+            },
+            {
+              "emoji": "🧑‍🌾",
+              "answers": [
+                "a farmer",
+                "farmer"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a or an.",
+          "items": [
+            {
+              "text": "She's ___ actor.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "I'm ___ student.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "He's ___ engineer.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "My mum is ___ lawyer.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "Is he ___ architect?",
+              "answers": [
+                "an"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "I'm doctor.",
+                "I'm a doctor.",
+                "I a doctor."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "What do you do?",
+                "What are you do?",
+                "What you do?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "I work in a hospital.",
+                "I work at hospital.",
+                "I working in a hospital."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "4c-4",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "My brother is a police officer."
+            },
+            {
+              "answer": "What does your father do?"
+            },
+            {
+              "answer": "I don't work at the weekend."
+            }
+          ]
+        },
+        {
+          "id": "4c-r",
+          "type": "reading",
+          "instruction": "Read about three people and their jobs.",
+          "title": "Unusual jobs",
+          "text": "Sam is a dog walker. He walks ten dogs every day in the park. He loves animals.\n\nRosa is a chef on a ship. She cooks for 300 people! She doesn't have a day off for two months.\n\nKen is a game tester. He plays new video games and finds problems. He works at home.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Who works with animals?",
+              "options": [
+                "Sam",
+                "Rosa",
+                "Ken"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Rosa cooks for ___ people.",
+              "answers": [
+                "300",
+                "three hundred"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Ken works in an office.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Rosa works on a…",
+              "options": [
+                "train",
+                "plane",
+                "ship"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "💼"
+        },
+        {
+          "id": "4c-l",
+          "type": "listening",
+          "instruction": "Listen to two people meeting. Answer the questions.",
+          "title": "What do you do?",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "So, what do you do, Julia?"
+            },
+            {
+              "speaker": "Julia",
+              "text": "I'm a vet. I work in an animal hospital."
+            },
+            {
+              "speaker": "Man",
+              "text": "Do you like your job?"
+            },
+            {
+              "speaker": "Julia",
+              "text": "Yes, I love it. And you?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm a pilot. I work for a small airline."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Julia is a…",
+              "options": [
+                "nurse",
+                "vet",
+                "doctor"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Julia doesn't like her job.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The man is a ___.",
+              "answers": [
+                "pilot"
+              ]
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Telling the time in English",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=telling+the+time+in+english+for+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe4-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 4.",
+        "video": {
+          "title": "Practical English, File 4 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Excuse me, what time is it?",
+          "It's half past three.",
+          "It's quarter to eight.",
+          "It's ten past nine."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Назвал(а) вслух время на часах 5 раз в течение дня",
+          "Повторил(а) фразы из списка"
+        ]
+      },
+      {
+        "id": "pe4-2",
+        "type": "matching",
+        "instruction": "Match the times.",
+        "pairs": [
+          {
+            "left": "3:30",
+            "right": "half past three"
+          },
+          {
+            "left": "7:15",
+            "right": "quarter past seven"
+          },
+          {
+            "left": "8:45",
+            "right": "quarter to nine"
+          },
+          {
+            "left": "10:05",
+            "right": "five past ten"
+          },
+          {
+            "left": "6:00",
+            "right": "six o'clock"
+          }
+        ]
+      },
+      {
+        "id": "pe4-l",
+        "type": "listening",
+        "instruction": "Listen. What time is it?",
+        "title": "What time is it?",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Excuse me, what time is it?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's quarter past ten."
+          },
+          {
+            "speaker": "A",
+            "text": "And what time is the film?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's at half past eleven."
+          },
+          {
+            "speaker": "A",
+            "text": "And the train is at ten to six."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The time now:",
+            "options": [
+              "10:15",
+              "10:45",
+              "9:45"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "The film:",
+            "options": [
+              "11:30",
+              "12:30",
+              "10:30"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "The train:",
+            "options": [
+              "6:10",
+              "5:50",
+              "6:50"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🕒"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Который час?",
+        "table": {
+          "head": [
+            "Время",
+            "Как сказать"
+          ],
+          "rows": [
+            [
+              "3:00",
+              "three o'clock"
+            ],
+            [
+              "3:15",
+              "quarter past three"
+            ],
+            [
+              "3:30",
+              "half past three"
+            ],
+            [
+              "3:45",
+              "quarter to four"
+            ],
+            [
+              "3:10",
+              "ten past three"
+            ],
+            [
+              "3:50",
+              "ten to four"
+            ]
+          ]
+        },
+        "tip": "past — «после» (первая половина часа), to — «до» (вторая половина). Можно и проще: 3:45 — three forty-five."
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc4-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "We ___ in London.",
+            "options": [
+              "lives",
+              "live",
+              "living"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I ___ like fish.",
+            "options": [
+              "not",
+              "don't",
+              "doesn't"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ you have a car?",
+            "options": [
+              "Are",
+              "Do",
+              "Does"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She's ___ engineer.",
+            "options": [
+              "a",
+              "an",
+              "—"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "A ___ works in a restaurant.",
+            "options": [
+              "nurse",
+              "waiter",
+              "pilot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc4-2",
+        "type": "gap-fill",
+        "instruction": "Complete the conversation.",
+        "items": [
+          {
+            "text": "A: What ___ you do?",
+            "answers": [
+              "do"
+            ]
+          },
+          {
+            "text": "B: I'm ___ teacher.",
+            "answers": [
+              "a"
+            ]
+          },
+          {
+            "text": "A: ___ you like your job?",
+            "answers": [
+              "Do"
+            ]
+          },
+          {
+            "text": "B: Yes, I ___. It's great.",
+            "answers": [
+              "do"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc4-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "Twins, different lives",
+        "text": "Lily and Rose are twins, but they're very different. Lily lives in London. She's a lawyer and she works in a big office. She doesn't have a car. Rose lives in a village. She's a farmer. She has a lot of animals and she drives a big car. They don't see each other often, but they talk on the phone every day.",
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Lily is a…",
+            "options": [
+              "farmer",
+              "lawyer",
+              "teacher"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "Lily has a car.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "Rose lives in a ___.",
+            "answers": [
+              "village"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "They talk on the phone every day.",
+            "answer": true
+          }
+        ],
+        "image": "👯"
+      }
+    ]
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "fileId": "8",
+  "lessons": {
+    "8A": {
+      "theory": [
+        {
+          "title": "Пассив во всех временах",
+          "table": {
+            "head": [
+              "Время",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Present Continuous",
+                "The suspect is being questioned."
+              ],
+              [
+                "Present Perfect",
+                "Two men have been arrested."
+              ],
+              [
+                "Past Perfect",
+                "The car had been stolen before the robbery."
+              ],
+              [
+                "Future / modal",
+                "He will be sentenced tomorrow. It must be done."
+              ],
+              [
+                "Infinitive / gerund",
+                "He hopes to be released. She hates being photographed."
+              ]
+            ]
+          }
+        },
+        {
+          "title": "It is said that… / He is thought to…",
+          "text": "Безличные конструкции для слухов и новостей (по-русски «говорят, что…», «считается, что…»): say, believe, think, report, expect, know.",
+          "examples": [
+            {
+              "en": "It is believed that the thief was a former employee.",
+              "ru": "Считается, что вор — бывший сотрудник."
+            },
+            {
+              "en": "The thief is believed to be a former employee.",
+              "ru": "То же, через личную форму."
+            },
+            {
+              "en": "He is said to have escaped to Spain.",
+              "ru": "Говорят, что он сбежал в Испанию (в прошлом → to have + V3)."
+            }
+          ]
+        },
+        {
+          "title": "Преступление и наказание",
+          "text": "commit a crime, be charged with, be accused of, plead guilty, a trial, a jury, a verdict, be sentenced to, be acquitted, a fine, community service, life imprisonment."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Passive reporting structures",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=it+is+said+that+he+is+believed+to+passive+reporting"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the passive.",
+          "items": [
+            {
+              "text": "The road ___ at the moment, so take another route.",
+              "hint": "repair",
+              "answers": [
+                "is being repaired"
+              ]
+            },
+            {
+              "text": "Three suspects ___ so far.",
+              "hint": "arrest",
+              "answers": [
+                "have been arrested"
+              ]
+            },
+            {
+              "text": "The winner ___ next Monday.",
+              "hint": "announce",
+              "answers": [
+                "will be announced"
+              ]
+            },
+            {
+              "text": "I hate ___ what to do.",
+              "hint": "tell",
+              "answers": [
+                "being told"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-pic",
+          "type": "picture",
+          "instruction": "Crime and punishment: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "⚖️",
+              "answers": [
+                "justice",
+                "the law",
+                "law",
+                "a court",
+                "court"
+              ]
+            },
+            {
+              "emoji": "🚓",
+              "answers": [
+                "a police car",
+                "police car"
+              ]
+            },
+            {
+              "emoji": "🧑‍⚖️",
+              "answers": [
+                "a judge",
+                "judge"
+              ]
+            },
+            {
+              "emoji": "🕵️",
+              "answers": [
+                "a detective",
+                "detective"
+              ]
+            },
+            {
+              "emoji": "🚨",
+              "answers": [
+                "an alarm",
+                "alarm",
+                "a siren",
+                "siren"
+              ]
+            },
+            {
+              "emoji": "⛓️",
+              "answers": [
+                "prison",
+                "chains",
+                "handcuffs"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-2",
+          "type": "transform",
+          "instruction": "Rewrite starting with the words given.",
+          "items": [
+            {
+              "prompt": "People say that he is very rich. → He is said ___.",
+              "answers": [
+                "He is said to be very rich.",
+                "to be very rich"
+              ]
+            },
+            {
+              "prompt": "People believe that the painting was stolen in 1990. → The painting is believed ___.",
+              "answers": [
+                "The painting is believed to have been stolen in 1990.",
+                "to have been stolen in 1990"
+              ]
+            },
+            {
+              "prompt": "People think the prisoner escaped by boat. → It is thought ___.",
+              "answers": [
+                "It is thought that the prisoner escaped by boat.",
+                "that the prisoner escaped by boat"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-3",
+          "type": "matching",
+          "instruction": "Match the legal words and definitions.",
+          "pairs": [
+            {
+              "left": "a verdict",
+              "right": "the decision: guilty or not guilty"
+            },
+            {
+              "left": "acquitted",
+              "right": "found not guilty"
+            },
+            {
+              "left": "a jury",
+              "right": "12 ordinary people who decide a case"
+            },
+            {
+              "left": "community service",
+              "right": "unpaid work as a punishment"
+            },
+            {
+              "left": "plead guilty",
+              "right": "admit you did the crime"
+            }
+          ]
+        },
+        {
+          "id": "8a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct preposition.",
+          "items": [
+            {
+              "question": "He was charged ___ fraud.",
+              "options": [
+                "of",
+                "with",
+                "for"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She was accused ___ stealing.",
+              "options": [
+                "of",
+                "with",
+                "for"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He was sentenced ___ five years in prison.",
+              "options": [
+                "for",
+                "to",
+                "with"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The great art theft",
+          "text": "In 1911 the Mona Lisa was stolen from the Louvre. At first nobody noticed — it was assumed that the painting had been taken away to be photographed. The thief, Vincenzo Peruggia, is believed to have hidden in a cupboard overnight and walked out with the painting under his coat. It was kept in his flat in Paris for two years. He was finally caught when he tried to sell it to a gallery in Florence. He was sentenced to just a few months in prison — and the theft made the Mona Lisa the most famous painting in the world.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The Mona Lisa was stolen in ___.",
+              "answers": [
+                "1911"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "At first people thought it had been…",
+              "options": [
+                "destroyed",
+                "taken to be photographed",
+                "sold"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "He was caught in…",
+              "options": [
+                "Paris",
+                "Florence",
+                "Rome"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He was sentenced to many years in prison.",
+              "answer": false
+            }
+          ],
+          "image": "🖼️"
+        },
+        {
+          "id": "8a-l",
+          "type": "listening",
+          "instruction": "Listen to the news and answer.",
+          "title": "News report",
+          "script": [
+            {
+              "speaker": "Newsreader",
+              "text": "Jewellery worth two million pounds has been stolen from a shop in central London. The robbery is thought to have taken place early on Sunday morning. Two men have been arrested and are being questioned by police. It is believed that the thieves entered through the roof."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Jewellery worth ___ million pounds was stolen.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "When?",
+              "options": [
+                "Saturday night",
+                "early Sunday morning",
+                "Monday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "The thieves entered through the…",
+              "options": [
+                "window",
+                "roof",
+                "back door"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "💎"
+        }
+      ]
+    },
+    "8B": {
+      "theory": [
+        {
+          "title": "Глаголы косвенной речи",
+          "table": {
+            "head": [
+              "Структура",
+              "Глаголы",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+ to + V",
+                "agree, offer, promise, refuse, threaten",
+                "He promised to call."
+              ],
+              [
+                "+ sb + to + V",
+                "advise, ask, convince, encourage, invite, remind, tell, warn",
+                "She warned me not to go."
+              ],
+              [
+                "+ -ing",
+                "admit, deny, recommend, suggest",
+                "He denied taking the money."
+              ],
+              [
+                "+ предлог + -ing",
+                "apologise for, accuse sb of, insist on, blame sb for",
+                "She apologised for being late."
+              ]
+            ]
+          },
+          "tip": "suggest НЕ используется с инфинитивом: He suggested going (или suggested that we go), а не suggested us to go."
+        },
+        {
+          "title": "Медиа",
+          "text": "a headline, a journalist, a reporter, a correspondent, a critic, the press, a tabloid, a broadsheet, clickbait, biased, sensational, accurate, a podcast, a feed."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8b-1",
+          "type": "transform",
+          "instruction": "Report using the verb in brackets.",
+          "items": [
+            {
+              "prompt": "\"I'll help you,\" he said. (offer)",
+              "answers": [
+                "He offered to help me."
+              ]
+            },
+            {
+              "prompt": "\"Don't touch it!\" she said to me. (warn)",
+              "answers": [
+                "She warned me not to touch it."
+              ]
+            },
+            {
+              "prompt": "\"I didn't break it,\" he said. (deny)",
+              "answers": [
+                "He denied breaking it.",
+                "He denied having broken it."
+              ]
+            },
+            {
+              "prompt": "\"Sorry I'm late,\" she said. (apologise)",
+              "answers": [
+                "She apologised for being late.",
+                "She apologized for being late."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "He suggested ___ a taxi.",
+              "options": [
+                "us to take",
+                "taking",
+                "to take"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She accused me ___ lying.",
+              "options": [
+                "for",
+                "of",
+                "about"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They convinced me ___ the job.",
+              "options": [
+                "to accept",
+                "accepting",
+                "accept"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He admitted ___ the email.",
+              "options": [
+                "to delete",
+                "deleting",
+                "delete"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8b-3",
+          "type": "matching",
+          "instruction": "Match the media words and definitions.",
+          "pairs": [
+            {
+              "left": "a headline",
+              "right": "the title of a news story"
+            },
+            {
+              "left": "clickbait",
+              "right": "a misleading title to get clicks"
+            },
+            {
+              "left": "biased",
+              "right": "supporting one side unfairly"
+            },
+            {
+              "left": "a tabloid",
+              "right": "a popular newspaper with sensational stories"
+            },
+            {
+              "left": "a critic",
+              "right": "someone who reviews films, books, etc."
+            }
+          ]
+        },
+        {
+          "id": "8b-4",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form.",
+          "items": [
+            {
+              "text": "She refused ___ the question.",
+              "hint": "answer",
+              "answers": [
+                "to answer"
+              ]
+            },
+            {
+              "text": "He insisted on ___ for dinner.",
+              "hint": "pay",
+              "answers": [
+                "paying"
+              ]
+            },
+            {
+              "text": "My doctor advised me ___ more exercise.",
+              "hint": "do",
+              "answers": [
+                "to do"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "How to spot fake news",
+          "text": "Fact-checkers recommend asking a few simple questions before sharing a story. Who wrote it, and are they a real journalist? Is the headline sensational, promising 'shocking' secrets? Is the same story reported by other reliable sources? Researchers found that false news spreads six times faster than true news on social media, mainly because it provokes strong emotions. They warn readers not to share anything that makes them instantly angry without checking it first.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "False news spreads … than true news.",
+              "options": [
+                "twice as fast",
+                "six times faster",
+                "slower"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "False news spreads fast because it provokes strong ___.",
+              "answers": [
+                "emotions"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Researchers advise sharing angry stories immediately.",
+              "answer": false
+            }
+          ],
+          "image": "📰"
+        },
+        {
+          "id": "8b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "An interview gone wrong",
+          "script": [
+            {
+              "speaker": "Reporter",
+              "text": "I asked the minister about the missing money. At first he refused to comment. Then he denied knowing anything about it and accused journalists of inventing the story. Finally, after a long pause, he admitted making 'some mistakes' and promised to publish all the documents."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "At first the minister…",
+              "options": [
+                "admitted everything",
+                "refused to comment",
+                "apologised"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He accused journalists of inventing the story.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "He promised to publish all the ___.",
+              "answers": [
+                "documents"
+              ]
+            }
+          ],
+          "image": "📰"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Как реагировать на новости",
+        "examples": [
+          {
+            "en": "You're joking! / No way!",
+            "ru": "Шутишь! / Не может быть!"
+          },
+          {
+            "en": "That's outrageous!",
+            "ru": "Это возмутительно!"
+          },
+          {
+            "en": "I can't believe it.",
+            "ru": "Не могу поверить."
+          },
+          {
+            "en": "Apparently, … / Supposedly, …",
+            "ru": "Судя по всему… / Якобы…"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe8-1",
+        "type": "video-task",
+        "instruction": "Watch the Colloquial English episode for Files 7–8.",
+        "video": {
+          "title": "Colloquial English, Files 7–8 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Интервью из курса Upper-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "Apparently…",
+          "No way!",
+          "That's outrageous!",
+          "I read somewhere that…"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Пересказал(а) по-английски одну свежую новость",
+          "Использовал(а) 3 фразы-реакции"
+        ]
+      },
+      {
+        "id": "pe8-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Did you hear?",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Did you hear? Apparently, the old cinema is going to be turned into a car park."
+          },
+          {
+            "speaker": "B",
+            "text": "No way! That's outrageous. It's over a hundred years old!"
+          },
+          {
+            "speaker": "A",
+            "text": "Some people are organising a petition. Supposedly they've already got five thousand signatures."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The cinema will become a car ___.",
+            "answers": [
+              "park"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "How old is the cinema?",
+            "options": [
+              "fifty years",
+              "over a hundred years",
+              "ten years"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The petition has ___ thousand signatures.",
+            "answers": [
+              "five",
+              "5"
+            ]
+          }
+        ],
+        "image": "🎬"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc8-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "The house ___ when we arrived.",
+            "options": [
+              "was being painted",
+              "was painting",
+              "had painted"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "She is said ___ a fortune.",
+            "options": [
+              "to make",
+              "to have made",
+              "making"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He apologised ___ the mess.",
+            "options": [
+              "of",
+              "for",
+              "about"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "They threatened ___ the police.",
+            "options": [
+              "calling",
+              "to call",
+              "call"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc8-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A courtroom",
+        "text": "The defendant was accused of stealing from his employer. He denied taking anything, but a witness claimed to have seen him. After a two-day trial, the jury reached a verdict: not guilty. He was acquitted and thanked his lawyer for believing in him.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The defendant admitted the theft.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "The trial lasted ___ days.",
+            "answers": [
+              "two",
+              "2"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "The verdict was…",
+            "options": [
+              "guilty",
+              "not guilty"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "⚖️"
+      }
+    ]
+  }
+}

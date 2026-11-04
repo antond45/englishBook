@@ -1,0 +1,638 @@
+{
+  "fileId": "3",
+  "lessons": {
+    "3A": {
+      "theory": [
+        {
+          "title": "Повествовательные времена",
+          "table": {
+            "head": [
+              "Время",
+              "Роль в рассказе",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Past Simple",
+                "основные события по порядку",
+                "We landed, collected our bags and left."
+              ],
+              [
+                "Past Continuous",
+                "фон, действие в процессе",
+                "It was raining and people were rushing."
+              ],
+              [
+                "Past Perfect",
+                "событие раньше основного",
+                "We'd missed the connecting flight."
+              ],
+              [
+                "Past Perfect Continuous",
+                "длительный процесс до момента в прошлом",
+                "We'd been waiting for six hours when they cancelled it."
+              ]
+            ]
+          },
+          "tip": "Past Perfect Continuous (had been + -ing) объясняет состояние: She was exhausted because she'd been travelling all night."
+        },
+        {
+          "title": "Авиаперелёты",
+          "text": "a connecting flight, a layover, turbulence, an aisle seat, an overhead locker, jet lag, a long-haul flight, take off, land, be diverted, be overbooked, upgrade."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Narrative tenses",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=narrative+tenses+past+perfect+continuous+upper+intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3a-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the best form.",
+          "items": [
+            {
+              "question": "When we got to the gate, the plane ___.",
+              "options": [
+                "left",
+                "had left",
+                "was leaving"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I was exhausted because I ___ for 20 hours.",
+              "options": [
+                "travelled",
+                "had been travelling",
+                "was travelling"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "While we ___ over the Alps, we hit turbulence.",
+              "options": [
+                "flew",
+                "were flying",
+                "had flown"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The pilot ___ and we all clapped.",
+              "options": [
+                "landed",
+                "had been landing",
+                "was landing"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "3a-pic",
+          "type": "picture",
+          "instruction": "Air travel: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🛫",
+              "answers": [
+                "take off",
+                "take-off",
+                "departure"
+              ]
+            },
+            {
+              "emoji": "🛬",
+              "answers": [
+                "land",
+                "landing",
+                "arrival"
+              ]
+            },
+            {
+              "emoji": "🧳",
+              "answers": [
+                "luggage",
+                "baggage",
+                "a suitcase"
+              ]
+            },
+            {
+              "emoji": "🛂",
+              "answers": [
+                "passport control"
+              ]
+            },
+            {
+              "emoji": "💺",
+              "answers": [
+                "a seat",
+                "seat",
+                "an aisle seat",
+                "a window seat"
+              ]
+            },
+            {
+              "emoji": "🌐",
+              "answers": [
+                "a long-haul flight",
+                "long-haul"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the past perfect continuous.",
+          "items": [
+            {
+              "text": "Her eyes were red because she ___.",
+              "hint": "cry",
+              "answers": [
+                "had been crying",
+                "'d been crying"
+              ]
+            },
+            {
+              "text": "We ___ for three hours when the flight was finally cancelled.",
+              "hint": "wait",
+              "answers": [
+                "had been waiting",
+                "'d been waiting"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-3",
+          "type": "matching",
+          "instruction": "Match the air travel words and definitions.",
+          "pairs": [
+            {
+              "left": "jet lag",
+              "right": "tiredness after flying across time zones"
+            },
+            {
+              "left": "a layover",
+              "right": "a stop between two flights"
+            },
+            {
+              "left": "overbooked",
+              "right": "with more passengers than seats"
+            },
+            {
+              "left": "diverted",
+              "right": "sent to a different airport"
+            },
+            {
+              "left": "turbulence",
+              "right": "sudden movements of the plane in the air"
+            }
+          ]
+        },
+        {
+          "id": "3a-4",
+          "type": "transform",
+          "instruction": "Join the sentences using the tense in brackets.",
+          "items": [
+            {
+              "prompt": "I ran for the bus. I was out of breath. (past perfect continuous)",
+              "answers": [
+                "I was out of breath because I had been running for the bus.",
+                "I was out of breath because I'd been running for the bus."
+              ]
+            },
+            {
+              "prompt": "The film started. Then we arrived. (past perfect)",
+              "answers": [
+                "When we arrived, the film had started.",
+                "When we arrived, the film had already started.",
+                "The film had started when we arrived.",
+                "The film had already started when we arrived."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The longest journey home",
+          "text": "Last December Dmitry was flying home from Bangkok for his sister's wedding. He had booked a cheap ticket with two layovers. Everything had been going smoothly until his second flight was diverted because of a snowstorm. He spent the night on an airport floor in Helsinki. By the time he finally reached Moscow, he had been travelling for 52 hours and had missed the ceremony. But he arrived in time for the dance — still wearing the same T-shirt.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Why was he travelling?",
+              "options": [
+                "a business trip",
+                "his sister's wedding",
+                "a holiday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "He spent the night in ___.",
+              "answers": [
+                "Helsinki"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "How long had he been travelling?",
+              "options": [
+                "25 hours",
+                "52 hours",
+                "a week"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He arrived in time for the ceremony.",
+              "answer": false
+            }
+          ],
+          "image": "✈️"
+        },
+        {
+          "id": "3a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A flight to remember",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "We'd been flying for about two hours when the captain announced that one of the engines had stopped working. Everyone went silent. I was holding my husband's hand so tightly that he had marks for days. We landed safely in Warsaw, and the whole plane started clapping. I hadn't realised how frightened I'd been until I stood up and my legs were shaking."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They had been flying for about…",
+              "options": [
+                "one hour",
+                "two hours",
+                "five hours"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "They landed in ___.",
+              "answers": [
+                "Warsaw"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Her legs were shaking when she stood up.",
+              "answer": true
+            }
+          ],
+          "image": "✈️"
+        }
+      ]
+    },
+    "3B": {
+      "theory": [
+        {
+          "title": "Наречия и их место",
+          "table": {
+            "head": [
+              "Тип",
+              "Обычное место",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "частоты",
+                "перед основным глаголом / после be",
+                "I rarely drive. She's always late."
+              ],
+              [
+                "степени",
+                "перед прилагательным/наречием",
+                "It's incredibly expensive."
+              ],
+              [
+                "образа действия, места, времени",
+                "в конце (как? где? когда?)",
+                "He spoke quietly in the meeting yesterday."
+              ],
+              [
+                "комментария",
+                "в начале",
+                "Unfortunately, we missed the train."
+              ]
+            ]
+          },
+          "tip": "Наречие не ставится между глаголом и дополнением: She speaks English well (не She speaks well English)."
+        },
+        {
+          "title": "Наречия, которые путают",
+          "table": {
+            "head": [
+              "",
+              ""
+            ],
+            "rows": [
+              [
+                "hard (усердно) / hardly (едва)",
+                "late (поздно) / lately (в последнее время)"
+              ],
+              [
+                "near (близко) / nearly (почти)",
+                "actually (на самом деле) / currently (в настоящее время)"
+              ],
+              [
+                "especially (особенно) / specially (специально)",
+                "eventually (в конце концов) / at the end"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct adverb.",
+          "items": [
+            {
+              "question": "I've been feeling tired ___.",
+              "options": [
+                "late",
+                "lately"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I could ___ hear him — it was so noisy.",
+              "options": [
+                "hard",
+                "hardly"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We ___ missed the train — we got on just in time.",
+              "options": [
+                "near",
+                "nearly"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He seems shy, but ___ he's very funny.",
+              "options": [
+                "actually",
+                "currently"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "After months of searching, they ___ found a flat.",
+              "options": [
+                "eventually",
+                "actually"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "3b-2",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "Unfortunately, the museum was closed."
+            },
+            {
+              "answer": "She speaks Spanish very well."
+            },
+            {
+              "answer": "I hardly ever go to the theatre."
+            }
+          ]
+        },
+        {
+          "id": "3b-3",
+          "type": "transform",
+          "instruction": "Correct the word order.",
+          "items": [
+            {
+              "prompt": "He drives always too fast.",
+              "answers": [
+                "He always drives too fast."
+              ]
+            },
+            {
+              "prompt": "I like very much this song.",
+              "answers": [
+                "I like this song very much.",
+                "I really like this song."
+              ]
+            },
+            {
+              "prompt": "She is late never.",
+              "answers": [
+                "She is never late.",
+                "She's never late."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-4",
+          "type": "gap-fill",
+          "instruction": "Complete with especially or specially.",
+          "items": [
+            {
+              "text": "I made this cake ___ for you.",
+              "answers": [
+                "specially"
+              ]
+            },
+            {
+              "text": "I love Italian food, ___ pasta.",
+              "answers": [
+                "especially"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The slow travel movement",
+          "text": "Lately, more and more travellers have been rejecting cheap flights and choosing to travel slowly — by train, bike or even on foot. 'Actually, the journey is the best part,' says Lena, who recently cycled from Moscow to Lisbon. 'When you fly, you hardly see anything. On a bike you notice everything — especially the people.' It took her nearly four months, and she eventually arrived with a much better understanding of Europe than any plane could give her.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Slow travellers reject…",
+              "options": [
+                "trains",
+                "cheap flights",
+                "bikes"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Lena cycled from Moscow to ___.",
+              "answers": [
+                "Lisbon"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The journey took her nearly…",
+              "options": [
+                "four weeks",
+                "four months",
+                "a year"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚲"
+        },
+        {
+          "id": "3b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A busy colleague",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "Have you seen Tom lately? He's been working incredibly hard — he hardly ever leaves the office before ten. Actually, I'm a bit worried about him. He's nearly finished the project, though, so hopefully he'll take a holiday eventually."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Tom has been working very hard.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "He hardly ever leaves before ___.",
+              "answers": [
+                "ten",
+                "10"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The project is…",
+              "options": [
+                "just started",
+                "nearly finished",
+                "cancelled"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc3-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "By the time the taxi came, we ___ for an hour.",
+            "options": [
+              "waited",
+              "had been waiting",
+              "were waiting"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I ___ recognised her — she'd changed so much.",
+            "options": [
+              "hard",
+              "hardly"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ asleep when the phone rang.",
+            "options": [
+              "had fallen",
+              "was falling",
+              "fell"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I ___ go to the cinema.",
+            "options": [
+              "rarely",
+              "rarely am",
+              "am rarely"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc3-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A lost passport",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "We had been queuing at passport control for half an hour when I realised I'd left my passport on the plane. Luckily, a flight attendant had found it and was already walking towards me with it. I nearly hugged her!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "They had been queuing for half an ___.",
+            "answers": [
+              "hour"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "He had left his passport…",
+            "options": [
+              "at home",
+              "on the plane",
+              "in a taxi"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "choice",
+            "question": "Who found it?",
+            "options": [
+              "a police officer",
+              "a flight attendant",
+              "his wife"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🛂"
+      }
+    ]
+  }
+}

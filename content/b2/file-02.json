@@ -1,0 +1,698 @@
+{
+  "fileId": "2",
+  "lessons": {
+    "2A": {
+      "theory": [
+        {
+          "title": "Present Perfect Simple и Continuous",
+          "table": {
+            "head": [
+              "Present Perfect Simple",
+              "Present Perfect Continuous"
+            ],
+            "rows": [
+              [
+                "результат, количество: I've written three emails.",
+                "процесс, длительность: I've been writing emails all morning."
+              ],
+              [
+                "законченное действие: I've painted the room.",
+                "незаконченное или следы: I've been painting (у меня краска на руках)."
+              ],
+              [
+                "глаголы состояния: I've known her for years.",
+                "активные действия: I've been learning Spanish for a year."
+              ]
+            ]
+          },
+          "tip": "С know, like, have (владеть), be, believe — только Simple. How many / how much → Simple; How long → чаще Continuous."
+        },
+        {
+          "title": "Болезни и травмы",
+          "text": "a rash, a blister, a bruise, a sprained ankle, a high temperature, be sick (vomit), faint, cough, sneeze, choke, burn yourself; it's swollen, it hurts, it's itchy."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Present perfect simple vs continuous",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=present+perfect+simple+vs+continuous+upper+intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2a-1",
+          "type": "multiple-choice",
+          "instruction": "Simple or continuous?",
+          "items": [
+            {
+              "question": "I ___ this book three times.",
+              "options": [
+                "'ve read",
+                "'ve been reading"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "You look exhausted. ___ you ___ out?",
+              "options": [
+                "Have … worked",
+                "Have … been working"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "How long ___ you ___ each other?",
+              "options": [
+                "have … known",
+                "have … been knowing"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "She ___ since she broke her leg.",
+              "options": [
+                "hasn't run",
+                "hasn't been running"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "It ___ all day. The streets are flooded.",
+              "options": [
+                "'s rained",
+                "'s been raining"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "2a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the present perfect simple or continuous.",
+          "items": [
+            {
+              "text": "I ___ to call you all morning! Where were you?",
+              "hint": "try",
+              "answers": [
+                "'ve been trying",
+                "have been trying"
+              ]
+            },
+            {
+              "text": "My ankle is swollen. I think I ___ it.",
+              "hint": "sprain",
+              "answers": [
+                "'ve sprained",
+                "have sprained"
+              ]
+            },
+            {
+              "text": "He ___ a cough for two weeks.",
+              "hint": "have",
+              "answers": [
+                "'s had",
+                "has had"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-3",
+          "type": "matching",
+          "instruction": "Match the symptoms and definitions.",
+          "pairs": [
+            {
+              "left": "a blister",
+              "right": "a bubble of skin, often from new shoes"
+            },
+            {
+              "left": "a bruise",
+              "right": "a blue mark after you hit yourself"
+            },
+            {
+              "left": "faint",
+              "right": "lose consciousness for a short time"
+            },
+            {
+              "left": "a rash",
+              "right": "red spots on the skin"
+            },
+            {
+              "left": "swollen",
+              "right": "bigger than usual"
+            }
+          ]
+        },
+        {
+          "id": "2a-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I've been knowing him since school.",
+              "answers": [
+                "I've known him since school.",
+                "I have known him since school."
+              ]
+            },
+            {
+              "prompt": "She's been writing four reports today.",
+              "answers": [
+                "She's written four reports today.",
+                "She has written four reports today."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Cyberchondria",
+          "text": "Have you ever searched your symptoms online and convinced yourself you had a rare disease? Doctors have been seeing more and more patients with 'cyberchondria' — anxiety caused by medical internet searches. The problem is that search engines show dramatic results first: a simple headache might appear next to articles about brain tumours. Researchers have found that people who search repeatedly become more anxious, not less. Their advice: if you've been worrying about a symptom for days, call a doctor rather than opening another tab.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Cyberchondria is anxiety caused by medical internet ___.",
+              "answers": [
+                "searches"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Why do searches cause anxiety?",
+              "options": [
+                "They are slow",
+                "Dramatic results appear first",
+                "They are too technical"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Repeated searching makes people calmer.",
+              "answer": false
+            }
+          ],
+          "image": "🩺"
+        },
+        {
+          "id": "2a-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation with a doctor and answer.",
+          "title": "At the GP",
+          "script": [
+            {
+              "speaker": "Doctor",
+              "text": "So, how long have you been feeling like this?"
+            },
+            {
+              "speaker": "Patient",
+              "text": "About a week. I've been sleeping badly and I've had a headache every afternoon."
+            },
+            {
+              "speaker": "Doctor",
+              "text": "Have you been working long hours?"
+            },
+            {
+              "speaker": "Patient",
+              "text": "Yes, I've been staying at the office until nine most days. And I've drunk far too much coffee."
+            },
+            {
+              "speaker": "Doctor",
+              "text": "I think it's stress. You need some rest — I'll sign you off work for three days."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How long has the patient felt ill?",
+              "options": [
+                "a day",
+                "about a week",
+                "a month"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The patient has been staying at the office until ___.",
+              "answers": [
+                "nine",
+                "9"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The doctor thinks the problem is…",
+              "options": [
+                "a virus",
+                "stress",
+                "coffee allergy"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🩺"
+        }
+      ]
+    },
+    "2B": {
+      "theory": [
+        {
+          "title": "Прилагательные как существительные",
+          "text": "the + прилагательное = группа людей (множественное число): the rich, the poor, the elderly, the young, the unemployed, the homeless. Национальности на -sh, -ch, -ese: the British, the French, the Japanese.",
+          "examples": [
+            {
+              "en": "The elderly need more support.",
+              "ru": "Пожилым людям нужна большая поддержка."
+            }
+          ],
+          "tip": "Глагол во множественном числе: The rich are getting richer. Об одном человеке — a rich man, an elderly woman."
+        },
+        {
+          "title": "Порядок прилагательных",
+          "text": "Мнение → размер → возраст → форма → цвет → происхождение → материал → назначение + существительное.",
+          "examples": [
+            {
+              "en": "a beautiful long black silk evening dress",
+              "ru": "мнение-размер-цвет-материал-назначение"
+            },
+            {
+              "en": "a nice old Italian leather bag",
+              "ru": "мнение-возраст-происхождение-материал"
+            }
+          ]
+        },
+        {
+          "title": "Одежда и мода",
+          "text": "tight / loose, striped / checked / patterned, plain, sleeveless, hooded, leather, silk, wool, cotton; get dressed up, go out of fashion, it suits you, it doesn't fit."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct order.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "a wool red long scarf",
+                "a long red wool scarf",
+                "a red long wool scarf"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "some beautiful old Japanese plates",
+                "some Japanese beautiful old plates",
+                "some old beautiful Japanese plates"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "a leather black new jacket",
+                "a new black leather jacket",
+                "a black new leather jacket"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "2b-pic",
+          "type": "picture",
+          "instruction": "Fashion: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "👠",
+              "answers": [
+                "high heels",
+                "heels"
+              ]
+            },
+            {
+              "emoji": "👜",
+              "answers": [
+                "a handbag",
+                "handbag"
+              ]
+            },
+            {
+              "emoji": "👔",
+              "answers": [
+                "a tie",
+                "tie"
+              ]
+            },
+            {
+              "emoji": "🕶️",
+              "answers": [
+                "sunglasses"
+              ]
+            },
+            {
+              "emoji": "👒",
+              "answers": [
+                "a hat",
+                "hat",
+                "a sun hat"
+              ]
+            },
+            {
+              "emoji": "🧦",
+              "answers": [
+                "socks"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the + adjective.",
+          "items": [
+            {
+              "text": "The government should do more to help ___ (people without jobs).",
+              "answers": [
+                "the unemployed"
+              ]
+            },
+            {
+              "text": "___ (old people) often feel lonely.",
+              "answers": [
+                "The elderly",
+                "The old"
+              ]
+            },
+            {
+              "text": "___ (people from Britain) love talking about the weather.",
+              "answers": [
+                "The British"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-3",
+          "type": "matching",
+          "instruction": "Match the clothes words and descriptions.",
+          "pairs": [
+            {
+              "left": "loose",
+              "right": "not tight"
+            },
+            {
+              "left": "checked",
+              "right": "with a pattern of squares"
+            },
+            {
+              "left": "striped",
+              "right": "with lines"
+            },
+            {
+              "left": "plain",
+              "right": "one colour, no pattern"
+            },
+            {
+              "left": "hooded",
+              "right": "with something to cover your head"
+            }
+          ]
+        },
+        {
+          "id": "2b-4",
+          "type": "transform",
+          "instruction": "Put the adjectives in the correct order.",
+          "items": [
+            {
+              "prompt": "a (cotton / white / lovely) shirt",
+              "answers": [
+                "a lovely white cotton shirt"
+              ]
+            },
+            {
+              "prompt": "an (wooden / old / small) box",
+              "answers": [
+                "a small old wooden box"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Fast fashion",
+          "text": "The average person now buys 60% more clothes than fifteen years ago, but keeps them for half as long. This is 'fast fashion': cheap, trendy clothes produced quickly and sold in huge quantities. The environmental cost is enormous — making a single cotton T-shirt uses about 2,700 litres of water. Some young people are fighting back by buying second-hand, renting clothes for special occasions or simply wearing the same plain, good-quality items for years.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "People buy ___% more clothes than fifteen years ago.",
+              "answers": [
+                "60",
+                "sixty"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "A cotton T-shirt uses about…",
+              "options": [
+                "270 litres",
+                "2,700 litres",
+                "27,000 litres"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Some young people rent clothes for special occasions.",
+              "answer": true
+            }
+          ],
+          "image": "🛍️"
+        },
+        {
+          "id": "2b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "What shall I wear?",
+          "script": [
+            {
+              "speaker": "Anna",
+              "text": "What do you think of this dress for the wedding?"
+            },
+            {
+              "speaker": "Kate",
+              "text": "The colour suits you, but it's a bit tight, isn't it?"
+            },
+            {
+              "speaker": "Anna",
+              "text": "Maybe. What about this long blue silk one?"
+            },
+            {
+              "speaker": "Kate",
+              "text": "That's gorgeous! Wear it with your old silver earrings."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The first dress is too loose.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The second dress is long, blue and made of ___.",
+              "answers": [
+                "silk"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Kate suggests…",
+              "options": [
+                "gold earrings",
+                "old silver earrings",
+                "a hat"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "👗"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Разговорный английский: интервью",
+        "text": "В естественной речи много связок и пауз: well, you know, I mean, actually, kind of, sort of, to be honest. Они дают время подумать и смягчают высказывание.",
+        "examples": [
+          {
+            "en": "Well, I mean, it's kind of difficult to say.",
+            "ru": "Ну, то есть, сложно сказать."
+          },
+          {
+            "en": "To be honest, I don't really agree.",
+            "ru": "Честно говоря, я не совсем согласен."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe2-1",
+        "type": "video-task",
+        "instruction": "Watch the Colloquial English episode for Files 1–2.",
+        "video": {
+          "title": "Colloquial English, Files 1–2 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Интервью и разговоры из курса Upper-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "Well, …",
+          "I mean, …",
+          "To be honest, …",
+          "It depends on…"
+        ],
+        "tasks": [
+          "Посмотрел(а) интервью",
+          "Выписал(а) 5 разговорных связок",
+          "Ответил(а) вслух на вопрос интервью о здоровом образе жизни"
+        ]
+      },
+      {
+        "id": "pe2-l",
+        "type": "listening",
+        "instruction": "Listen to the interview and answer.",
+        "title": "A nurse talks about her job",
+        "script": [
+          {
+            "speaker": "Interviewer",
+            "text": "What's the hardest part of being a nurse?"
+          },
+          {
+            "speaker": "Nurse",
+            "text": "Well, I mean, the night shifts are tough, obviously. But to be honest, the hardest thing is when you can't help someone. You know, you've been looking after them for weeks and… it's hard."
+          },
+          {
+            "speaker": "Interviewer",
+            "text": "And the best part?"
+          },
+          {
+            "speaker": "Nurse",
+            "text": "When a patient comes back to say thank you. That kind of makes it all worth it."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The hardest thing for her is…",
+            "options": [
+              "night shifts",
+              "when she can't help someone",
+              "the pay"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "The best part is when patients come back to say thank you.",
+            "answer": true
+          }
+        ],
+        "image": "🩺"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc2-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "We ___ for this moment for years!",
+            "options": [
+              "'ve waited",
+              "'ve been waiting",
+              "waited"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ often have difficulty finding a job.",
+            "options": [
+              "The young",
+              "The youngs",
+              "Young"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "a ___ dress",
+            "options": [
+              "cotton lovely blue",
+              "lovely blue cotton",
+              "blue lovely cotton"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I've ___ three cups of coffee already.",
+            "options": [
+              "drunk",
+              "been drinking"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc2-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A health app",
+        "text": "I've been using a health app for six months. It counts my steps, and I've walked over a million so far! I've also been sleeping better since it started reminding me to go to bed. The only problem? I've become a bit obsessed with the numbers.",
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The writer has used the app for ___ months.",
+            "answers": [
+              "six",
+              "6"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The writer has been sleeping worse.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "The problem is that the writer…",
+            "options": [
+              "walks too little",
+              "is obsessed with numbers",
+              "lost the phone"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "⌚"
+      }
+    ]
+  }
+}

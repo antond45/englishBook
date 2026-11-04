@@ -1,0 +1,1086 @@
+{
+  "fileId": "1",
+  "lessons": {
+    "1A": {
+      "theory": [
+        {
+          "title": "Порядок слов в вопросах: формула",
+          "text": "Почти все вопросы строятся по одной схеме. Если её запомнить, ошибок станет намного меньше.",
+          "table": {
+            "head": [
+              "Вопр. слово",
+              "Вспом. глагол",
+              "Подлежащее",
+              "Глагол",
+              "…"
+            ],
+            "rows": [
+              [
+                "Where",
+                "do",
+                "you",
+                "live",
+                "?"
+              ],
+              [
+                "What",
+                "did",
+                "you",
+                "do",
+                "last weekend?"
+              ],
+              [
+                "How often",
+                "does",
+                "she",
+                "go",
+                "to the gym?"
+              ],
+              [
+                "—",
+                "Are",
+                "you",
+                "going",
+                "to study next year?"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Три важных случая",
+          "examples": [
+            {
+              "en": "Where are you from? (be — без do)",
+              "ru": "С глаголом be вспомогательный глагол не нужен."
+            },
+            {
+              "en": "Who do you live with? (предлог в конце)",
+              "ru": "Предлог обычно уходит в конец вопроса."
+            },
+            {
+              "en": "What kind of music do you like?",
+              "ru": "What kind of / What sort of — «какой (тип)»."
+            }
+          ],
+          "tip": "Частая ошибка русскоязычных — пропуск вспомогательного глагола: Where you work? Правильно: Where do you work?"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Word order in questions (pre-intermediate)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=word+order+in+questions+english+pre-intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-1a-1",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "Where did you go to school?"
+            },
+            {
+              "answer": "Who do you live with?"
+            },
+            {
+              "answer": "What kind of music do you like?"
+            },
+            {
+              "answer": "How often do you go to the gym?"
+            },
+            {
+              "answer": "What are you interested in?"
+            }
+          ]
+        },
+        {
+          "id": "b1-1a-2",
+          "type": "transform",
+          "instruction": "Correct the mistake in each question.",
+          "items": [
+            {
+              "prompt": "Where you work?",
+              "answers": [
+                "Where do you work?"
+              ]
+            },
+            {
+              "prompt": "What time you got up yesterday?",
+              "answers": [
+                "What time did you get up yesterday?"
+              ]
+            },
+            {
+              "prompt": "Does she speaks French?",
+              "answers": [
+                "Does she speak French?"
+              ]
+            },
+            {
+              "prompt": "With who do you live?",
+              "answers": [
+                "Who do you live with?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-1a-3",
+          "type": "matching",
+          "instruction": "Match the questions and the answers.",
+          "pairs": [
+            {
+              "left": "How many brothers and sisters do you have?",
+              "right": "Just one sister."
+            },
+            {
+              "left": "What do you do in your free time?",
+              "right": "I play the guitar."
+            },
+            {
+              "left": "Where did you go on your last holiday?",
+              "right": "To Sochi."
+            },
+            {
+              "left": "Are you going to study English next year?",
+              "right": "Yes, I hope so."
+            },
+            {
+              "left": "What's your favourite food?",
+              "right": "Probably sushi."
+            }
+          ]
+        },
+        {
+          "id": "b1-1a-4",
+          "type": "gap-fill",
+          "instruction": "Complete the questions with do, does, did, are or is.",
+          "items": [
+            {
+              "text": "Where ___ your parents live?",
+              "answers": [
+                "do"
+              ]
+            },
+            {
+              "text": "What ___ you doing at the moment?",
+              "answers": [
+                "are"
+              ]
+            },
+            {
+              "text": "When ___ you start learning English?",
+              "answers": [
+                "did"
+              ]
+            },
+            {
+              "text": "___ your brother like football?",
+              "answers": [
+                "Does"
+              ]
+            },
+            {
+              "text": "What ___ your favourite film?",
+              "answers": [
+                "is"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-1a-r",
+          "type": "reading",
+          "instruction": "Read the article and answer.",
+          "title": "The 36 questions",
+          "text": "Can you fall in love with a stranger by asking questions? In a famous experiment, a psychologist asked pairs of strangers to ask each other 36 personal questions. They started with easy ones, like 'What would be a perfect day for you?' and moved to more personal ones, like 'What are you most grateful for?' At the end, they looked into each other's eyes for four minutes. Six months later, one couple got married!\n\nThe experiment shows that asking good questions — and really listening to the answers — helps people feel closer.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many questions were there?",
+              "options": [
+                "16",
+                "36",
+                "63"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The questions started very personal.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "At the end they looked into each other's eyes for ___ minutes.",
+              "answers": [
+                "four",
+                "4"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The main idea is that…",
+              "options": [
+                "strangers are dangerous",
+                "good questions and listening bring people closer",
+                "marriage is easy"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "💞"
+        },
+        {
+          "id": "b1-1a-l",
+          "type": "listening",
+          "instruction": "Listen to the speed-friending event and answer.",
+          "title": "Speed-friending",
+          "script": [
+            {
+              "speaker": "Jack",
+              "text": "So, what do you do in your free time?"
+            },
+            {
+              "speaker": "Mia",
+              "text": "I do a lot of climbing. I go to a climbing wall twice a week. What about you?"
+            },
+            {
+              "speaker": "Jack",
+              "text": "I'm into photography. Where did you grow up?"
+            },
+            {
+              "speaker": "Mia",
+              "text": "In a small town near Edinburgh. I moved to London three years ago."
+            },
+            {
+              "speaker": "Jack",
+              "text": "Who do you live with?"
+            },
+            {
+              "speaker": "Mia",
+              "text": "With two friends from university, and a very lazy cat."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Mia goes climbing…",
+              "options": [
+                "once a week",
+                "twice a week",
+                "every day"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Jack is into ___.",
+              "answers": [
+                "photography"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Mia moved to London…",
+              "options": [
+                "a year ago",
+                "three years ago",
+                "last month"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Mia lives alone.",
+              "answer": false
+            }
+          ],
+          "image": "🤝"
+        }
+      ]
+    },
+    "1B": {
+      "theory": [
+        {
+          "title": "Present Simple: употребление",
+          "examples": [
+            {
+              "en": "She works in a bank.",
+              "ru": "Постоянное состояние, факт."
+            },
+            {
+              "en": "He usually gets up at 7.",
+              "ru": "Привычка, регулярное действие."
+            },
+            {
+              "en": "Water boils at 100°C.",
+              "ru": "Общая истина."
+            }
+          ],
+          "tip": "Не забывай -s в 3-м лице (she works) и does / doesn't в вопросах и отрицаниях."
+        },
+        {
+          "title": "Описание людей",
+          "table": {
+            "head": [
+              "Вопрос",
+              "Что спрашиваем",
+              "Ответ"
+            ],
+            "rows": [
+              [
+                "What does she look like?",
+                "внешность",
+                "She's tall and has long dark hair."
+              ],
+              [
+                "What's she like?",
+                "характер",
+                "She's kind and very talkative."
+              ],
+              [
+                "What does she like?",
+                "интересы",
+                "She likes jazz and hiking."
+              ]
+            ]
+          },
+          "tip": "Внешность описываем с has: has blue eyes, has a beard. С be — рост и телосложение: is tall, is slim."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-1b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the present simple (+ or −).",
+          "items": [
+            {
+              "text": "My sister ___ coffee — she hates it.",
+              "hint": "not drink",
+              "answers": [
+                "doesn't drink",
+                "does not drink"
+              ]
+            },
+            {
+              "text": "Tom ___ his friends on Fridays.",
+              "hint": "meet",
+              "answers": [
+                "meets"
+              ]
+            },
+            {
+              "text": "My parents ___ near the sea.",
+              "hint": "live",
+              "answers": [
+                "live"
+              ]
+            },
+            {
+              "text": "She ___ much free time.",
+              "hint": "not have",
+              "answers": [
+                "doesn't have",
+                "does not have"
+              ]
+            },
+            {
+              "text": "He ___ very hard.",
+              "hint": "study",
+              "answers": [
+                "studies"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-1b-2",
+          "type": "matching",
+          "instruction": "Match the personality adjectives and the definitions.",
+          "pairs": [
+            {
+              "left": "generous",
+              "right": "likes giving things to other people"
+            },
+            {
+              "left": "talkative",
+              "right": "talks a lot"
+            },
+            {
+              "left": "shy",
+              "right": "feels nervous with new people"
+            },
+            {
+              "left": "lazy",
+              "right": "doesn't like working"
+            },
+            {
+              "left": "stubborn",
+              "right": "never changes their opinion"
+            },
+            {
+              "left": "funny",
+              "right": "makes people laugh"
+            }
+          ]
+        },
+        {
+          "id": "b1-1b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "She ___ long curly hair.",
+              "options": [
+                "is",
+                "has",
+                "have"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He's ___ — he goes to the gym every day.",
+              "options": [
+                "slim",
+                "overweight",
+                "bald"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What ___ he look like?",
+              "options": [
+                "is",
+                "does",
+                "do"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What's she like? — ___",
+              "options": [
+                "She likes tennis.",
+                "She's very kind.",
+                "She's like her mum."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "b1-1b-4",
+          "type": "true-false",
+          "instruction": "Read and answer True or False.",
+          "text": "My best friend Dasha is quite tall and has short red hair. She's very sociable — she knows everybody in our town! She's also a bit stubborn: when she decides something, nobody can change her mind. She works as a nurse and she never complains, even after a night shift.",
+          "items": [
+            {
+              "statement": "Dasha has long hair.",
+              "answer": false
+            },
+            {
+              "statement": "She knows a lot of people.",
+              "answer": true
+            },
+            {
+              "statement": "She often changes her mind.",
+              "answer": false
+            },
+            {
+              "statement": "She complains about her job.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "id": "b1-1b-r",
+          "type": "reading",
+          "instruction": "Read the article and answer.",
+          "title": "Are you a morning person?",
+          "text": "Scientists say that people are either 'larks' or 'owls'. Larks wake up early, feel energetic in the morning and usually go to bed before ten. Owls find it hard to get up; they don't feel fully awake until lunchtime, but they're at their most creative late at night.\n\nThe problem is that most schools and offices start early, which suits larks. Some companies now offer flexible hours, so owls can start work at eleven and finish later. Researchers say this makes employees happier and more productive.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Larks…",
+              "options": [
+                "go to bed late",
+                "feel energetic in the morning",
+                "are creative at night"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Owls feel awake early in the morning.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "With flexible hours, owls can start work at ___.",
+              "answers": [
+                "eleven",
+                "11"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Flexible hours make employees more productive.",
+              "answer": true
+            }
+          ],
+          "image": "🌅"
+        },
+        {
+          "id": "b1-1b-l",
+          "type": "listening",
+          "instruction": "Listen to someone describing a friend.",
+          "title": "My best friend",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "My best friend is called Pavel. He's quite tall and slim, and he has short curly hair and a beard. He's very generous — he always pays for coffee! He's also a bit absent-minded: he forgets his keys every week. He works as a vet, and he loves animals more than people, I think!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Pavel has…",
+              "options": [
+                "long straight hair",
+                "short curly hair",
+                "no hair"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "He's very ___ — he always pays for coffee.",
+              "answers": [
+                "generous"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "He often forgets his keys.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "His job:",
+              "options": [
+                "doctor",
+                "vet",
+                "teacher"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🧔"
+        }
+      ]
+    },
+    "1C": {
+      "theory": [
+        {
+          "title": "Present Continuous: употребление",
+          "examples": [
+            {
+              "en": "Look! She's wearing my jacket.",
+              "ru": "Действие прямо сейчас."
+            },
+            {
+              "en": "I'm reading a great book at the moment.",
+              "ru": "Временная ситуация «в эти дни»."
+            },
+            {
+              "en": "They're staying in a hotel this week.",
+              "ru": "Временное положение дел."
+            }
+          ]
+        },
+        {
+          "title": "Глаголы состояния",
+          "text": "Некоторые глаголы описывают состояние, а не действие, и обычно не используются в Continuous: like, love, hate, want, need, know, understand, believe, remember, belong, seem.",
+          "examples": [
+            {
+              "en": "I know what you mean. (не I'm knowing)",
+              "ru": "Я понимаю, о чём ты."
+            },
+            {
+              "en": "She has two children. (не is having)",
+              "ru": "have = «иметь» — состояние."
+            },
+            {
+              "en": "She's having lunch. (have = есть — действие)",
+              "ru": "А здесь Continuous можно."
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-1c-1",
+          "type": "multiple-choice",
+          "instruction": "Present simple or present continuous?",
+          "items": [
+            {
+              "question": "Look! She ___ the same dress as you.",
+              "options": [
+                "wears",
+                "'s wearing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He usually ___ jeans to work.",
+              "options": [
+                "wears",
+                "is wearing"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I ___ what you mean.",
+              "options": [
+                "know",
+                "'m knowing"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "They ___ in a hotel this week.",
+              "options": [
+                "stay",
+                "'re staying"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Do you ___ any help?",
+              "options": [
+                "need",
+                "needing"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "1c-pic",
+          "type": "picture",
+          "instruction": "Write the word for each item of clothing.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🧥",
+              "answers": [
+                "a coat",
+                "coat",
+                "a jacket",
+                "jacket"
+              ]
+            },
+            {
+              "emoji": "🧣",
+              "answers": [
+                "a scarf",
+                "scarf"
+              ]
+            },
+            {
+              "emoji": "🧤",
+              "answers": [
+                "gloves"
+              ]
+            },
+            {
+              "emoji": "🧢",
+              "answers": [
+                "a cap",
+                "cap"
+              ]
+            },
+            {
+              "emoji": "👟",
+              "answers": [
+                "trainers",
+                "sneakers"
+              ]
+            },
+            {
+              "emoji": "👗",
+              "answers": [
+                "a dress",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-1c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a preposition of place.",
+          "items": [
+            {
+              "text": "The man ___ the left is my uncle.",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "She's standing ___ front of the door.",
+              "answers": [
+                "in"
+              ]
+            },
+            {
+              "text": "The photo is ___ the top of the page.",
+              "answers": [
+                "at"
+              ]
+            },
+            {
+              "text": "My sister is sitting ___ my parents.",
+              "answers": [
+                "between"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-1c-3",
+          "type": "matching",
+          "instruction": "Match the clothes and the parts of the body.",
+          "pairs": [
+            {
+              "left": "a scarf",
+              "right": "neck"
+            },
+            {
+              "left": "gloves",
+              "right": "hands"
+            },
+            {
+              "left": "a cap",
+              "right": "head"
+            },
+            {
+              "left": "trainers",
+              "right": "feet"
+            },
+            {
+              "left": "a belt",
+              "right": "waist"
+            }
+          ]
+        },
+        {
+          "id": "b1-1c-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I'm wanting a new jacket.",
+              "answers": [
+                "I want a new jacket."
+              ]
+            },
+            {
+              "prompt": "What do you do now? — I'm cooking.",
+              "answers": [
+                "What are you doing now? — I'm cooking.",
+                "What are you doing now?"
+              ]
+            },
+            {
+              "prompt": "She is having two children.",
+              "answers": [
+                "She has two children.",
+                "She's got two children."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-1c-r",
+          "type": "reading",
+          "instruction": "Read the description of a photo and answer.",
+          "title": "Describing a photo",
+          "text": "In this photo you can see my family at my cousin's wedding. On the left, my grandfather is sitting on a chair — he's wearing a grey suit and he's laughing. In the middle, the bride and groom are dancing. My little brother is standing in front of them; he's holding a balloon. On the right, my aunt is taking a photo with her phone. I'm not in the picture because I'm the photographer!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The grandfather is…",
+              "options": [
+                "dancing",
+                "sitting and laughing",
+                "taking a photo"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The little brother is holding a ___.",
+              "answers": [
+                "balloon"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Who is on the right?",
+              "options": [
+                "the aunt",
+                "the bride",
+                "the grandfather"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer is in the photo.",
+              "answer": false
+            }
+          ],
+          "image": "🎉"
+        },
+        {
+          "id": "b1-1c-l",
+          "type": "listening",
+          "instruction": "Listen to the phone call and answer.",
+          "title": "Where are you?",
+          "script": [
+            {
+              "speaker": "Anna",
+              "text": "Hi, where are you? The film starts in ten minutes!"
+            },
+            {
+              "speaker": "Ben",
+              "text": "I'm standing outside the cinema. I can't see you."
+            },
+            {
+              "speaker": "Anna",
+              "text": "I'm near the entrance. I'm wearing a red coat and a black hat."
+            },
+            {
+              "speaker": "Ben",
+              "text": "Oh, I see you now! You're talking to a man with a dog."
+            },
+            {
+              "speaker": "Anna",
+              "text": "Yes, he's asking me for directions."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The film starts in…",
+              "options": [
+                "5 minutes",
+                "10 minutes",
+                "15 minutes"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Anna is wearing a red ___.",
+              "answers": [
+                "coat"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The man is asking Anna for directions.",
+              "answer": true
+            }
+          ],
+          "image": "🎬"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Complaining politely at a hotel",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=complaining+politely+hotel+english+conversation"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "b1-pe1-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 1.",
+        "video": {
+          "title": "Practical English, File 1 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса Pre-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "I'm afraid there's a problem with my room.",
+          "The air conditioning doesn't work.",
+          "Could you send someone to look at it?",
+          "I'll sort it out right away."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Сформулировал(а) 3 вежливые жалобы по-английски",
+          "Разыграл(а) диалог с администратором"
+        ]
+      },
+      {
+        "id": "b1-pe1-2",
+        "type": "multiple-choice",
+        "instruction": "Choose the most polite option.",
+        "items": [
+          {
+            "question": "1",
+            "options": [
+              "Fix my shower!",
+              "I'm afraid the shower doesn't work.",
+              "Your shower is terrible."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "2",
+            "options": [
+              "Could you send someone to help?",
+              "Send someone now.",
+              "You must help me."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "3",
+            "options": [
+              "Give me another room.",
+              "I want another room now.",
+              "Would it be possible to change rooms?"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "id": "b1-pe1-l",
+        "type": "listening",
+        "instruction": "Listen to the complaint and answer.",
+        "title": "A problem with the room",
+        "script": [
+          {
+            "speaker": "Guest",
+            "text": "Hello, I'm in room four two five. I'm afraid there's a problem — the air conditioning doesn't work, and it's really hot."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "I'm very sorry about that. I'll send someone to look at it right away."
+          },
+          {
+            "speaker": "Guest",
+            "text": "Thank you. And there aren't any towels in the bathroom."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Oh, I do apologise. Housekeeping will bring some in five minutes."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Room:",
+            "options": [
+              "245",
+              "425",
+              "452"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The ___ doesn't work.",
+            "answers": [
+              "air conditioning"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "There are no towels.",
+            "answer": true
+          },
+          {
+            "kind": "choice",
+            "question": "Towels will arrive in…",
+            "options": [
+              "5 minutes",
+              "15 minutes",
+              "an hour"
+            ],
+            "answer": 0
+          }
+        ],
+        "image": "🏨"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "b1-rc1-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "What ___ you do last night?",
+            "options": [
+              "do",
+              "did",
+              "were"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ a lot of books.",
+            "options": [
+              "is reading",
+              "reads",
+              "read"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Shh! The baby ___.",
+            "options": [
+              "sleeps",
+              "is sleeping",
+              "sleep"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He never stops talking. He's very ___.",
+            "options": [
+              "shy",
+              "talkative",
+              "quiet"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who ___ you go on holiday with?",
+            "options": [
+              "did",
+              "were",
+              "are"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  }
+}

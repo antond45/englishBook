@@ -1,0 +1,1273 @@
+{
+  "fileId": "2",
+  "lessons": {
+    "2A": {
+      "theory": [
+        {
+          "title": "Глагол be во множественном числе",
+          "text": "С we (мы), you (вы) и they (они) используется are. Обрати внимание: you — это и «ты», и «вы», форма всегда are.",
+          "table": {
+            "head": [
+              "+",
+              "−",
+              "?"
+            ],
+            "rows": [
+              [
+                "we're (we are)",
+                "we aren't",
+                "Are we…?"
+              ],
+              [
+                "you're (you are)",
+                "you aren't",
+                "Are you…?"
+              ],
+              [
+                "they're (they are)",
+                "they aren't",
+                "Are they…?"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "We're friends.",
+              "ru": "Мы друзья."
+            },
+            {
+              "en": "They aren't from London.",
+              "ru": "Они не из Лондона."
+            },
+            {
+              "en": "Are they students? — Yes, they are.",
+              "ru": "Они студенты? — Да."
+            }
+          ],
+          "tip": "Не путай they're (они есть), their (их) и there (там). Звучат они одинаково!"
+        },
+        {
+          "title": "Числа 20–100",
+          "text": "Десятки заканчиваются на -ty: twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety. Составные числа пишутся через дефис: 21 twenty-one, 45 forty-five, 99 ninety-nine. 100 — a hundred / one hundred.",
+          "tip": "Обрати внимание: forty пишется без u, хотя four — с u."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Numbers 20–100 in English",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=numbers+20-100+english+for+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with 're (are) or aren't.",
+          "items": [
+            {
+              "text": "We ___ in the same class. (+)",
+              "answers": [
+                "'re",
+                "are"
+              ]
+            },
+            {
+              "text": "They ___ from London. (−)",
+              "answers": [
+                "aren't",
+                "are not"
+              ]
+            },
+            {
+              "text": "You ___ very nice. (+)",
+              "answers": [
+                "'re",
+                "are"
+              ]
+            },
+            {
+              "text": "We ___ teachers. We're students. (−)",
+              "answers": [
+                "aren't",
+                "are not"
+              ]
+            },
+            {
+              "text": "They ___ my friends. (+)",
+              "answers": [
+                "'re",
+                "are"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-2",
+          "type": "matching",
+          "instruction": "Match the numbers and the words.",
+          "pairs": [
+            {
+              "left": "30",
+              "right": "thirty"
+            },
+            {
+              "left": "13",
+              "right": "thirteen"
+            },
+            {
+              "left": "45",
+              "right": "forty-five"
+            },
+            {
+              "left": "50",
+              "right": "fifty"
+            },
+            {
+              "left": "99",
+              "right": "ninety-nine"
+            },
+            {
+              "left": "100",
+              "right": "a hundred"
+            }
+          ]
+        },
+        {
+          "id": "2a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "___ they from Spain?",
+              "options": [
+                "Is",
+                "Are",
+                "Am"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "No, they ___.",
+              "options": [
+                "aren't",
+                "isn't",
+                "not"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "We ___ in room 12.",
+              "options": [
+                "is",
+                "are",
+                "am"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Are you and Tom brothers? — Yes, ___.",
+              "options": [
+                "we are",
+                "they are",
+                "you are"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "2a-4",
+          "type": "transform",
+          "instruction": "Write the short form.",
+          "items": [
+            {
+              "prompt": "We are friends.",
+              "answers": [
+                "We're friends."
+              ]
+            },
+            {
+              "prompt": "They are not here.",
+              "answers": [
+                "They aren't here.",
+                "They're not here."
+              ]
+            },
+            {
+              "prompt": "You are late.",
+              "answers": [
+                "You're late."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-r",
+          "type": "reading",
+          "instruction": "Read the text and answer the questions.",
+          "title": "The Taylor family band",
+          "text": "We're the Taylors, and we're a family band! I'm Jack, and I'm the singer. My sisters, Amy and Kate, are twins. They're twenty-two, and they're guitarists. Our dad is the drummer — he's fifty-five! We aren't famous, but we're very happy. Our concerts are in small cafés.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Jack is the drummer.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Amy and Kate are…",
+              "options": [
+                "22",
+                "25",
+                "52"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "The dad is ___ years old.",
+              "answers": [
+                "fifty-five",
+                "55"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The band is famous.",
+              "answer": false
+            }
+          ],
+          "image": "🎸"
+        },
+        {
+          "id": "2a-l",
+          "type": "listening",
+          "instruction": "Listen to the phone numbers and prices. Choose the right answer.",
+          "title": "Numbers",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "The bus number is forty-two."
+            },
+            {
+              "speaker": "B",
+              "text": "The ticket is thirteen pounds."
+            },
+            {
+              "speaker": "A",
+              "text": "My grandmother is ninety."
+            },
+            {
+              "speaker": "B",
+              "text": "Our class is in room seventy-eight."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Bus number:",
+              "options": [
+                "24",
+                "42",
+                "44"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Ticket price:",
+              "options": [
+                "£13",
+                "£30",
+                "£33"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "Grandmother's age:",
+              "options": [
+                "19",
+                "90",
+                "99"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Room:",
+              "options": [
+                "68",
+                "78",
+                "87"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🔢"
+        }
+      ]
+    },
+    "2B": {
+      "theory": [
+        {
+          "title": "Множественное число",
+          "table": {
+            "head": [
+              "Правило",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "обычно + s",
+                "a book → books, a key → keys"
+              ],
+              [
+                "после -s, -sh, -ch, -x + es",
+                "a watch → watches, a box → boxes"
+              ],
+              [
+                "согласная + y → ies",
+                "a city → cities"
+              ],
+              [
+                "исключения",
+                "a man → men, a woman → women, a child → children, a person → people"
+              ]
+            ]
+          },
+          "tip": "Слова glasses (очки), jeans, trousers всегда во множественном числе: My glasses are new."
+        },
+        {
+          "title": "this / that / these / those",
+          "table": {
+            "head": [
+              "",
+              "Рядом",
+              "Далеко"
+            ],
+            "rows": [
+              [
+                "Один предмет",
+                "this (этот)",
+                "that (тот)"
+              ],
+              [
+                "Несколько",
+                "these (эти)",
+                "those (те)"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "This is my phone.",
+              "ru": "Это мой телефон (у меня в руке)."
+            },
+            {
+              "en": "What are those?",
+              "ru": "Что это там такое?"
+            },
+            {
+              "en": "These keys are mine.",
+              "ru": "Эти ключи — мои."
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2b-1",
+          "type": "transform",
+          "instruction": "Write the plural.",
+          "items": [
+            {
+              "prompt": "a key",
+              "answers": [
+                "keys"
+              ]
+            },
+            {
+              "prompt": "a watch",
+              "answers": [
+                "watches"
+              ]
+            },
+            {
+              "prompt": "a city",
+              "answers": [
+                "cities"
+              ]
+            },
+            {
+              "prompt": "a box",
+              "answers": [
+                "boxes"
+              ]
+            },
+            {
+              "prompt": "a woman",
+              "answers": [
+                "women"
+              ]
+            },
+            {
+              "prompt": "a person",
+              "answers": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-pic",
+          "type": "picture",
+          "instruction": "What are they? Choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🔑",
+              "answers": [
+                "keys"
+              ]
+            },
+            {
+              "emoji": "👛",
+              "answers": [
+                "a purse",
+                "purse"
+              ]
+            },
+            {
+              "emoji": "⌚",
+              "answers": [
+                "a watch",
+                "watch"
+              ]
+            },
+            {
+              "emoji": "👓",
+              "answers": [
+                "glasses"
+              ]
+            },
+            {
+              "emoji": "📱",
+              "answers": [
+                "a phone",
+                "phone",
+                "a mobile phone"
+              ]
+            },
+            {
+              "emoji": "🎒",
+              "answers": [
+                "a bag",
+                "bag",
+                "a backpack"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose this, that, these or those.",
+          "items": [
+            {
+              "question": "(a pen in your hand) ___ is my pen.",
+              "options": [
+                "This",
+                "These",
+                "Those"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "(keys on the table near you) ___ are my keys.",
+              "options": [
+                "This",
+                "These",
+                "That"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "(a car across the street) Is ___ your car?",
+              "options": [
+                "this",
+                "that",
+                "those"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "(glasses far away) ___ are her glasses.",
+              "options": [
+                "That",
+                "This",
+                "Those"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "2b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with is or are.",
+          "items": [
+            {
+              "text": "This ___ my wallet.",
+              "answers": [
+                "is"
+              ]
+            },
+            {
+              "text": "These ___ my sunglasses.",
+              "answers": [
+                "are"
+              ]
+            },
+            {
+              "text": "What ___ those?",
+              "answers": [
+                "are"
+              ]
+            },
+            {
+              "text": "What ___ that?",
+              "answers": [
+                "is"
+              ]
+            },
+            {
+              "text": "Those ___ your books.",
+              "answers": [
+                "are"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-4",
+          "type": "matching",
+          "instruction": "Match the words and the descriptions.",
+          "pairs": [
+            {
+              "left": "keys",
+              "right": "you open a door with them"
+            },
+            {
+              "left": "a wallet",
+              "right": "you keep money in it"
+            },
+            {
+              "left": "glasses",
+              "right": "you read with them"
+            },
+            {
+              "left": "a watch",
+              "right": "it tells you the time"
+            },
+            {
+              "left": "an umbrella",
+              "right": "you use it when it rains"
+            }
+          ]
+        },
+        {
+          "id": "2b-r",
+          "type": "reading",
+          "instruction": "Read the conversation and answer.",
+          "title": "In the lost property office",
+          "text": "Man: Hello. My bag is lost. It's a black bag.\n\nWoman: Is this your bag?\n\nMan: No, that isn't my bag. My bag is small.\n\nWoman: What about these keys? Are they yours?\n\nMan: Yes! Those are my keys! And that umbrella is mine too.\n\nWoman: OK. Here you are.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The man's bag is…",
+              "options": [
+                "big and black",
+                "small and black",
+                "small and red"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The keys are the man's.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "The umbrella is the woman's.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Woman: Are they yours? Man: Yes! ___ are my keys!",
+              "answers": [
+                "Those"
+              ]
+            }
+          ],
+          "image": "🔑"
+        },
+        {
+          "id": "2b-l",
+          "type": "listening",
+          "instruction": "Listen. What is in Emma's bag?",
+          "title": "What's in your bag?",
+          "script": [
+            {
+              "speaker": "Interviewer",
+              "text": "Emma, what's in your bag?"
+            },
+            {
+              "speaker": "Emma",
+              "text": "Let's see. My wallet, my phone, and my keys. These are my sunglasses."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "And what are those?"
+            },
+            {
+              "speaker": "Emma",
+              "text": "Those are tissues. And this is a book — it's in English!"
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "Is there an umbrella?"
+            },
+            {
+              "speaker": "Emma",
+              "text": "No, there isn't. It's sunny today!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Emma has a wallet in her bag.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "She has an umbrella.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The book is in…",
+              "options": [
+                "Russian",
+                "English",
+                "French"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "The weather is…",
+              "options": [
+                "rainy",
+                "cold",
+                "sunny"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🎒"
+        }
+      ]
+    },
+    "2C": {
+      "theory": [
+        {
+          "title": "Прилагательные",
+          "text": "Английские прилагательные не меняются по числу и роду: a red car — red cars. Они стоят перед существительным или после глагола be.",
+          "examples": [
+            {
+              "en": "It's an old house.",
+              "ru": "Это старый дом."
+            },
+            {
+              "en": "The house is old.",
+              "ru": "Дом старый."
+            },
+            {
+              "en": "They're cheap shoes.",
+              "ru": "Это дешёвые туфли."
+            }
+          ],
+          "tip": "Нельзя сказать reds cars или a car red. Только red cars, a red car."
+        },
+        {
+          "title": "very и quite",
+          "text": "Чтобы усилить прилагательное, ставим перед ним very (очень), чтобы ослабить — quite (довольно).",
+          "examples": [
+            {
+              "en": "It's a very fast car.",
+              "ru": "Это очень быстрая машина."
+            },
+            {
+              "en": "The flat is quite small.",
+              "ru": "Квартира довольно маленькая."
+            }
+          ]
+        },
+        {
+          "title": "Цвета",
+          "text": "red, blue, green, yellow, black, white, brown, grey, orange, pink, purple. Вопрос: What colour is it? — It's green."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Colours and adjectives for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=colours+adjectives+english+for+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2c-1",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "It's a big house."
+            },
+            {
+              "answer": "They're cheap shoes."
+            },
+            {
+              "answer": "My car is old."
+            },
+            {
+              "answer": "Is it a good film?"
+            }
+          ]
+        },
+        {
+          "id": "2c-pic",
+          "type": "picture",
+          "instruction": "What colour is it? Choose.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🟥",
+              "answers": [
+                "red"
+              ]
+            },
+            {
+              "emoji": "🟦",
+              "answers": [
+                "blue"
+              ]
+            },
+            {
+              "emoji": "🟩",
+              "answers": [
+                "green"
+              ]
+            },
+            {
+              "emoji": "🟨",
+              "answers": [
+                "yellow"
+              ]
+            },
+            {
+              "emoji": "⬛",
+              "answers": [
+                "black"
+              ]
+            },
+            {
+              "emoji": "⬜",
+              "answers": [
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2c-2",
+          "type": "matching",
+          "instruction": "Match the opposites.",
+          "pairs": [
+            {
+              "left": "big",
+              "right": "small"
+            },
+            {
+              "left": "old",
+              "right": "new"
+            },
+            {
+              "left": "cheap",
+              "right": "expensive"
+            },
+            {
+              "left": "good",
+              "right": "bad"
+            },
+            {
+              "left": "long",
+              "right": "short"
+            },
+            {
+              "left": "fast",
+              "right": "slow"
+            }
+          ]
+        },
+        {
+          "id": "2c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "They're blues cars.",
+                "They're blue cars.",
+                "They're cars blue."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "It's a car very fast.",
+                "It's a very fast car.",
+                "It's very a fast car."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "3",
+              "options": [
+                "The bag is black.",
+                "The bag black is.",
+                "The black is bag."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "4",
+              "options": [
+                "These are news phones.",
+                "These are new phones.",
+                "These new are phones."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "2c-4",
+          "type": "gap-fill",
+          "instruction": "Complete with a colour.",
+          "items": [
+            {
+              "text": "The sky is ___.",
+              "answers": [
+                "blue"
+              ]
+            },
+            {
+              "text": "Snow is ___.",
+              "answers": [
+                "white"
+              ]
+            },
+            {
+              "text": "Grass is ___.",
+              "answers": [
+                "green"
+              ]
+            },
+            {
+              "text": "Bananas are ___.",
+              "answers": [
+                "yellow"
+              ]
+            },
+            {
+              "text": "Tomatoes are ___.",
+              "answers": [
+                "red"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2c-r",
+          "type": "reading",
+          "instruction": "Read the advert and answer.",
+          "title": "For sale",
+          "text": "FOR SALE: a small blue car. It isn't new — it's ten years old, but it's very good and quite fast. It's cheap: only £2,000! Also for sale: two big white chairs and an old brown table. Call Peter: 07700 900 456.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The car is…",
+              "options": [
+                "big and red",
+                "small and blue",
+                "new and blue"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The car is new.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The chairs are big and ___.",
+              "answers": [
+                "white"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The table is…",
+              "options": [
+                "new",
+                "old"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚗"
+        },
+        {
+          "id": "2c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "My new things",
+          "script": [
+            {
+              "speaker": "Kate",
+              "text": "Look! These are my new shoes."
+            },
+            {
+              "speaker": "Ben",
+              "text": "They're very nice. Are they expensive?"
+            },
+            {
+              "speaker": "Kate",
+              "text": "No, they're cheap! And this is my new coat."
+            },
+            {
+              "speaker": "Ben",
+              "text": "It's a lovely colour. Is it purple?"
+            },
+            {
+              "speaker": "Kate",
+              "text": "No, it's pink!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Kate's shoes are expensive.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Her coat is…",
+              "options": [
+                "purple",
+                "pink",
+                "red"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Ben likes the shoes.",
+              "answer": true
+            }
+          ],
+          "image": "🛍️"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Ordering in a café (English conversation)",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=ordering+in+a+cafe+english+conversation+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe2-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 2.",
+        "video": {
+          "title": "Practical English, File 2 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Can I have a coffee, please?",
+          "Large or small?",
+          "How much is it?",
+          "That's four pounds fifty.",
+          "Here you are."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Выписал(а) все цены, которые прозвучали",
+          "Разыграл(а) диалог заказа в кафе вслух"
+        ]
+      },
+      {
+        "id": "pe2-2",
+        "type": "matching",
+        "instruction": "Match the questions and the answers.",
+        "pairs": [
+          {
+            "left": "Can I help you?",
+            "right": "Yes, a tea, please."
+          },
+          {
+            "left": "Large or small?",
+            "right": "Small, please."
+          },
+          {
+            "left": "Anything else?",
+            "right": "No, thanks."
+          },
+          {
+            "left": "How much is it?",
+            "right": "Three pounds."
+          }
+        ]
+      },
+      {
+        "id": "pe2-l",
+        "type": "listening",
+        "instruction": "Listen to the conversation in a café.",
+        "title": "In a café",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Hi there. What can I get you?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Can I have a cappuccino, please?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Large or small?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Small, please. And a chocolate muffin."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "To have here or take away?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Take away, please. How much is it?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "That's four pounds twenty."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The customer wants a…",
+            "options": [
+              "latte",
+              "cappuccino",
+              "tea"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "choice",
+            "question": "Size:",
+            "options": [
+              "small",
+              "large"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "tf",
+            "statement": "The customer has the coffee in the café.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "Price:",
+            "options": [
+              "£4.20",
+              "£2.40",
+              "£4.12"
+            ],
+            "answer": 0
+          }
+        ],
+        "image": "☕"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Заказ в кафе",
+        "examples": [
+          {
+            "en": "Can I have a coffee, please?",
+            "ru": "Можно мне кофе, пожалуйста?"
+          },
+          {
+            "en": "Large or small?",
+            "ru": "Большой или маленький?"
+          },
+          {
+            "en": "To have here or take away?",
+            "ru": "Здесь или с собой?"
+          },
+          {
+            "en": "How much is it? — That's three pounds fifty.",
+            "ru": "Сколько стоит? — Три фунта пятьдесят."
+          }
+        ],
+        "tip": "Цены говорят так: £3.50 — three pounds fifty, £10 — ten pounds."
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc2-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "___ are my keys.",
+            "options": [
+              "This",
+              "These",
+              "That"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "They ___ from Italy.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "It's a ___.",
+            "options": [
+              "car red",
+              "red car",
+              "reds car"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "two ___",
+            "options": [
+              "watchs",
+              "watches",
+              "watch"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Sixty + twenty = …",
+            "options": [
+              "eighty",
+              "eighteen",
+              "seventy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc2-2",
+        "type": "transform",
+        "instruction": "Make questions.",
+        "items": [
+          {
+            "prompt": "They're students. → ___?",
+            "answers": [
+              "Are they students?"
+            ]
+          },
+          {
+            "prompt": "These are your glasses. → ___?",
+            "answers": [
+              "Are these your glasses?"
+            ]
+          },
+          {
+            "prompt": "That's a new phone. → ___?",
+            "answers": [
+              "Is that a new phone?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc2-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "My room",
+        "text": "This is my room. It's small but nice. These are my books — they're in English and Russian. That's my guitar. It's old, but it's very good. Those are my friends in the photo. They're from my school.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The room is big.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "The books are in…",
+            "options": [
+              "English",
+              "English and Russian",
+              "Russian"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "The guitar is new.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "The friends are from my ___.",
+            "answers": [
+              "school"
+            ]
+          }
+        ],
+        "image": "🛏️"
+      }
+    ]
+  }
+}

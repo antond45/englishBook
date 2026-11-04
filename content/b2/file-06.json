@@ -1,0 +1,756 @@
+{
+  "fileId": "6",
+  "lessons": {
+    "6A": {
+      "theory": [
+        {
+          "title": "used to / be used to / get used to",
+          "table": {
+            "head": [
+              "Структура",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "used to + V",
+                "раньше (привычка в прошлом)",
+                "I used to sleep eight hours a night."
+              ],
+              [
+                "be used to + -ing / сущ.",
+                "быть привыкшим",
+                "I'm used to getting up early."
+              ],
+              [
+                "get used to + -ing / сущ.",
+                "привыкать",
+                "I'm getting used to working nights."
+              ]
+            ]
+          },
+          "tip": "После be/get used to — -ing или существительное (to здесь предлог): I'm used to it / to driving on the left. Не I'm used to drive."
+        },
+        {
+          "title": "Сон",
+          "text": "fall asleep, be fast asleep, oversleep, have a nap, snore, sleepwalk, insomnia, a nightmare, be a light/heavy sleeper, toss and turn, set the alarm."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Used to, be used to, get used to",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=used+to+be+used+to+get+used+to"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6a-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I ___ live in a village, but now I live in a city.",
+              "options": [
+                "used to",
+                "am used to",
+                "get used to"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Don't worry, you'll soon get used to ___ on the left.",
+              "options": [
+                "drive",
+                "driving",
+                "drove"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She's a nurse, so she ___ working at night.",
+              "options": [
+                "used to",
+                "is used to",
+                "uses to"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "It took me months to ___ the noise.",
+              "options": [
+                "get used to",
+                "used to",
+                "be used"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6a-pic",
+          "type": "picture",
+          "instruction": "Sleep: write the word or phrase.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🥱",
+              "answers": [
+                "yawn"
+              ]
+            },
+            {
+              "emoji": "💤",
+              "answers": [
+                "snore",
+                "fall asleep",
+                "asleep"
+              ]
+            },
+            {
+              "emoji": "⏰",
+              "answers": [
+                "an alarm",
+                "alarm",
+                "set the alarm"
+              ]
+            },
+            {
+              "emoji": "🛌",
+              "answers": [
+                "have a nap",
+                "lie in",
+                "nap"
+              ]
+            },
+            {
+              "emoji": "🌙",
+              "answers": [
+                "night"
+              ]
+            },
+            {
+              "emoji": "😵‍💫",
+              "answers": [
+                "jet lag",
+                "insomnia"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form of be used to or get used to + verb.",
+          "items": [
+            {
+              "text": "I've lived here for years, so I ___ the cold.",
+              "answers": [
+                "'m used to",
+                "am used to"
+              ]
+            },
+            {
+              "text": "At first the new job was hard, but I'm slowly ___ it.",
+              "answers": [
+                "getting used to"
+              ]
+            },
+            {
+              "text": "He ___ have long hair when he was a student.",
+              "answers": [
+                "used to"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-3",
+          "type": "matching",
+          "instruction": "Match the sleep words and meanings.",
+          "pairs": [
+            {
+              "left": "oversleep",
+              "right": "sleep longer than planned"
+            },
+            {
+              "left": "snore",
+              "right": "make a noise while sleeping"
+            },
+            {
+              "left": "insomnia",
+              "right": "being unable to sleep"
+            },
+            {
+              "left": "a light sleeper",
+              "right": "someone who wakes up easily"
+            },
+            {
+              "left": "have a nap",
+              "right": "sleep for a short time in the day"
+            }
+          ]
+        },
+        {
+          "id": "6a-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I'm not used to get up so early.",
+              "answers": [
+                "I'm not used to getting up so early.",
+                "I am not used to getting up so early."
+              ]
+            },
+            {
+              "prompt": "I use to play tennis when I was younger.",
+              "answers": [
+                "I used to play tennis when I was younger."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Night shift",
+          "text": "Marina has worked night shifts at a hospital for five years. 'At first it was terrible,' she says. 'I couldn't get used to sleeping during the day — every noise woke me up. I used to drink four coffees a night just to stay awake.' Now she has blackout curtains, earplugs and a strict routine. 'I'm used to it now. Actually, I like the quiet of the hospital at 3 a.m. But my body will never be completely used to it.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Marina has worked nights for ___ years.",
+              "answers": [
+                "five",
+                "5"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "At first she used to drink … coffees a night.",
+              "options": [
+                "two",
+                "four",
+                "six"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "She thinks her body is completely used to it.",
+              "answer": false
+            }
+          ],
+          "image": "🌙"
+        },
+        {
+          "id": "6a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Moving to London",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "When I moved to London I had to get used to a lot of things — the traffic on the left, people queuing everywhere, the tiny flats. I used to get lost all the time. But after two years I'm used to it. The only thing I'll never get used to is the price of a coffee!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "She used to get lost a lot.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "She has lived there for ___ years.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "She'll never get used to…",
+              "options": [
+                "the traffic",
+                "queuing",
+                "the price of coffee"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🇬🇧"
+        }
+      ]
+    },
+    "6B": {
+      "theory": [
+        {
+          "title": "Герундий и инфинитив",
+          "table": {
+            "head": [
+              "Форма",
+              "После"
+            ],
+            "rows": [
+              [
+                "-ing",
+                "enjoy, avoid, mind, suggest, keep, finish, can't stand, admit, deny, consider, предлогов"
+              ],
+              [
+                "to + V",
+                "want, decide, refuse, manage, afford, promise, expect, seem, tend"
+              ],
+              [
+                "V без to",
+                "make, let, модальных глаголов"
+              ]
+            ]
+          },
+          "text": "Глаголы со сменой смысла:",
+          "examples": [
+            {
+              "en": "I remember locking the door. / Remember to lock the door.",
+              "ru": "Помню, что запер (раньше) / Не забудь запереть (потом)."
+            },
+            {
+              "en": "I stopped smoking. / I stopped to smoke.",
+              "ru": "Бросил курить / Остановился, чтобы покурить."
+            },
+            {
+              "en": "Try turning it off and on. / I tried to open it, but couldn't.",
+              "ru": "Попробуй (как эксперимент) / Пытался (с усилием)."
+            }
+          ]
+        },
+        {
+          "title": "Музыка",
+          "text": "a catchy tune, lyrics, a chorus, a gig, an orchestra, a conductor, a choir, play by ear, be tone-deaf, sing out of tune, a playlist, stream."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6b-1",
+          "type": "multiple-choice",
+          "instruction": "-ing or to?",
+          "items": [
+            {
+              "question": "I can't afford ___ a new car.",
+              "options": [
+                "to buy",
+                "buying"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He denied ___ the money.",
+              "options": [
+                "to take",
+                "taking"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She suggested ___ a taxi.",
+              "options": [
+                "to get",
+                "getting"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They let us ___ early.",
+              "options": [
+                "leave",
+                "to leave"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6b-pic",
+          "type": "picture",
+          "instruction": "Music: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🎼",
+              "answers": [
+                "sheet music",
+                "a score",
+                "score"
+              ]
+            },
+            {
+              "emoji": "🎤",
+              "answers": [
+                "a microphone",
+                "microphone"
+              ]
+            },
+            {
+              "emoji": "🎧",
+              "answers": [
+                "headphones"
+              ]
+            },
+            {
+              "emoji": "🎻",
+              "answers": [
+                "a violin",
+                "violin"
+              ]
+            },
+            {
+              "emoji": "🥁",
+              "answers": [
+                "drums"
+              ]
+            },
+            {
+              "emoji": "🎹",
+              "answers": [
+                "a keyboard",
+                "keyboard",
+                "piano"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct meaning.",
+          "items": [
+            {
+              "question": "I stopped to buy a coffee.",
+              "options": [
+                "I don't drink coffee any more.",
+                "I stopped in order to buy coffee."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I remember meeting him in 2010.",
+              "options": [
+                "I have a memory of it.",
+                "I mustn't forget to meet him."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Try restarting the computer.",
+              "options": [
+                "Do it as an experiment.",
+                "Make a big effort."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form of the verb.",
+          "items": [
+            {
+              "text": "I'll never forget ___ my favourite band live.",
+              "hint": "see",
+              "answers": [
+                "seeing"
+              ]
+            },
+            {
+              "text": "Don't forget ___ the tickets!",
+              "hint": "bring",
+              "answers": [
+                "to bring"
+              ]
+            },
+            {
+              "text": "The song keeps ___ in my head.",
+              "hint": "play",
+              "answers": [
+                "playing"
+              ]
+            },
+            {
+              "text": "I managed ___ tickets for the gig.",
+              "hint": "get",
+              "answers": [
+                "to get"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-4",
+          "type": "matching",
+          "instruction": "Match the music words and definitions.",
+          "pairs": [
+            {
+              "left": "a gig",
+              "right": "a live concert, usually small"
+            },
+            {
+              "left": "catchy",
+              "right": "easy to remember"
+            },
+            {
+              "left": "tone-deaf",
+              "right": "unable to hear musical notes correctly"
+            },
+            {
+              "left": "the chorus",
+              "right": "the part of a song that repeats"
+            },
+            {
+              "left": "play by ear",
+              "right": "play without reading music"
+            }
+          ]
+        },
+        {
+          "id": "6b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Why do songs get stuck in our heads?",
+          "text": "Almost everyone has experienced an 'earworm' — a song that keeps playing in your head. Researchers found that the most common earworms have a fast tempo, a simple melody and unusual intervals. Want to get rid of one? Studies suggest trying to listen to the whole song (earworms are usually short fragments), doing a puzzle, or — surprisingly — chewing gum, which seems to interfere with 'inner singing'.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "A song stuck in your head is called an ___.",
+              "answers": [
+                "earworm"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Common earworms have…",
+              "options": [
+                "a slow tempo",
+                "a fast tempo and simple melody",
+                "no lyrics"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Chewing gum may help.",
+              "answer": true
+            }
+          ],
+          "image": "🎵"
+        },
+        {
+          "id": "6b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Learning an instrument",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "I started learning the piano at 40. My wife suggested taking lessons because I kept saying I regretted giving up as a child. At first I couldn't stand practising scales, but I've managed to learn three pieces. I remember feeling so proud the first time I played for my kids."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "He started at ___.",
+              "answers": [
+                "40",
+                "forty"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Who suggested lessons?",
+              "options": [
+                "his kids",
+                "his wife",
+                "his teacher"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "How many pieces can he play?",
+              "options": [
+                "two",
+                "three",
+                "five"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🎹"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Как говорить о предпочтениях",
+        "examples": [
+          {
+            "en": "I'm really into jazz at the moment.",
+            "ru": "Сейчас я увлекаюсь джазом."
+          },
+          {
+            "en": "It's not really my thing.",
+            "ru": "Это не совсем моё."
+          },
+          {
+            "en": "I'd rather listen to something calm.",
+            "ru": "Я бы лучше послушал что-то спокойное."
+          },
+          {
+            "en": "I can take it or leave it.",
+            "ru": "Мне всё равно."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe6-1",
+        "type": "video-task",
+        "instruction": "Watch the Colloquial English episode for Files 5–6.",
+        "video": {
+          "title": "Colloquial English, Files 5–6 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Интервью из курса Upper-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "I'm really into…",
+          "It's not really my thing.",
+          "I'd rather…",
+          "It brings back memories."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Рассказал(а) вслух о песне, которая вызывает воспоминания",
+          "Использовал(а) 3 новые фразы"
+        ]
+      },
+      {
+        "id": "pe6-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Music tastes",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "What kind of music are you into?"
+          },
+          {
+            "speaker": "B",
+            "text": "Mostly indie rock. Opera isn't really my thing. What about you?"
+          },
+          {
+            "speaker": "A",
+            "text": "I can take it or leave it, honestly. I'd rather listen to podcasts."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "B is into indie ___.",
+            "answers": [
+              "rock"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "B loves opera.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "A would rather listen to…",
+            "options": [
+              "opera",
+              "podcasts",
+              "jazz"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🎵"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc6-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "I'm not used to ___ so much.",
+            "options": [
+              "work",
+              "working",
+              "worked"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "We ___ go camping every summer.",
+            "options": [
+              "used to",
+              "were used to",
+              "got used to"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I regret ___ him the truth.",
+            "options": [
+              "to tell",
+              "telling"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "My parents made me ___ the piano.",
+            "options": [
+              "to practise",
+              "practise",
+              "practising"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc6-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A new routine",
+        "text": "Since the baby arrived, I've had to get used to sleeping only five hours a night. I used to love lying in at weekends — now I can't remember doing it! But I've stopped worrying about it. It won't last forever.",
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The writer sleeps ___ hours a night.",
+            "answers": [
+              "five",
+              "5"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The writer still lies in at weekends.",
+            "answer": false
+          }
+        ],
+        "image": "👶"
+      }
+    ]
+  }
+}

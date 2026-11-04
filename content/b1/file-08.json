@@ -1,0 +1,820 @@
+{
+  "fileId": "8",
+  "lessons": {
+    "8A": {
+      "theory": [
+        {
+          "title": "Second Conditional",
+          "text": "Нереальная или маловероятная ситуация в настоящем/будущем: if + Past Simple, would + инфинитив.",
+          "examples": [
+            {
+              "en": "If I had more money, I'd travel the world.",
+              "ru": "Если бы у меня было больше денег, я бы путешествовал по миру."
+            },
+            {
+              "en": "What would you do if you saw a snake?",
+              "ru": "Что бы ты сделал, если бы увидел змею?"
+            },
+            {
+              "en": "If I were you, I'd accept the offer.",
+              "ru": "На твоём месте я бы согласился."
+            }
+          ],
+          "tip": "Сравни: If I win the lottery… (реально возможно — First) / If I won the lottery… (мечта — Second). If I were you — устойчивая фраза для совета."
+        },
+        {
+          "title": "Животные и фобии",
+          "text": "a spider, a snake, a bee, a wasp, a mosquito, a bat, a rat, a shark, a jellyfish; be scared of, be afraid of, be terrified of, a phobia."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Second conditional",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=second+conditional+pre-intermediate+lesson"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the second conditional.",
+          "items": [
+            {
+              "text": "If I ___ a shark, I'd swim away very fast.",
+              "hint": "see",
+              "answers": [
+                "saw"
+              ]
+            },
+            {
+              "text": "If she had a garden, she ___ a dog.",
+              "hint": "get",
+              "answers": [
+                "'d get",
+                "would get"
+              ]
+            },
+            {
+              "text": "What would you do if you ___ a million dollars?",
+              "hint": "win",
+              "answers": [
+                "won"
+              ]
+            },
+            {
+              "text": "If I ___ you, I'd talk to your boss.",
+              "hint": "be",
+              "answers": [
+                "were",
+                "was"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-pic",
+          "type": "picture",
+          "instruction": "Animals: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🕷️",
+              "answers": [
+                "a spider",
+                "spider"
+              ]
+            },
+            {
+              "emoji": "🐍",
+              "answers": [
+                "a snake",
+                "snake"
+              ]
+            },
+            {
+              "emoji": "🐝",
+              "answers": [
+                "a bee",
+                "bee"
+              ]
+            },
+            {
+              "emoji": "🦇",
+              "answers": [
+                "a bat",
+                "bat"
+              ]
+            },
+            {
+              "emoji": "🐀",
+              "answers": [
+                "a rat",
+                "rat"
+              ]
+            },
+            {
+              "emoji": "🦈",
+              "answers": [
+                "a shark",
+                "shark"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-2",
+          "type": "multiple-choice",
+          "instruction": "First or second conditional?",
+          "items": [
+            {
+              "question": "If it ___ tomorrow, we'll cancel the picnic. (likely)",
+              "options": [
+                "rains",
+                "rained"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "If I ___ a bird, I'd fly to Africa.",
+              "options": [
+                "am",
+                "were"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "If you met the president, what ___ you say?",
+              "options": [
+                "will",
+                "would"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8a-3",
+          "type": "matching",
+          "instruction": "Match the animals and descriptions.",
+          "pairs": [
+            {
+              "left": "a jellyfish",
+              "right": "a sea animal that can sting"
+            },
+            {
+              "left": "a bat",
+              "right": "it flies at night"
+            },
+            {
+              "left": "a wasp",
+              "right": "a yellow and black insect"
+            },
+            {
+              "left": "a shark",
+              "right": "a big dangerous fish"
+            },
+            {
+              "left": "a mosquito",
+              "right": "an insect that drinks blood"
+            }
+          ]
+        },
+        {
+          "id": "8a-4",
+          "type": "transform",
+          "instruction": "Rewrite as a second conditional.",
+          "items": [
+            {
+              "prompt": "I don't have a car, so I can't drive to work.",
+              "answers": [
+                "If I had a car, I could drive to work.",
+                "If I had a car, I'd drive to work.",
+                "If I had a car, I would drive to work."
+              ]
+            },
+            {
+              "prompt": "He doesn't speak English, so he doesn't get the job.",
+              "answers": [
+                "If he spoke English, he'd get the job.",
+                "If he spoke English, he would get the job."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Facing your fears",
+          "text": "About one in ten people has a phobia. The most common are fear of spiders, heights and flying. Psychologists treat phobias with 'exposure therapy': slowly, step by step, the patient meets what they're afraid of. Someone who is terrified of spiders first looks at photos, then watches videos, and finally sits near a real spider. 'If you avoided your fear all your life, it would only get stronger,' explains one therapist.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many people have a phobia?",
+              "options": [
+                "one in five",
+                "one in ten",
+                "one in a hundred"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The treatment is called ___ therapy.",
+              "answers": [
+                "exposure"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Patients meet a real spider on the first day.",
+              "answer": false
+            }
+          ],
+          "image": "🕷️"
+        },
+        {
+          "id": "8a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "What would you do?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "What would you do if you found a wallet in the street?"
+            },
+            {
+              "speaker": "B",
+              "text": "I'd take it to the police. What about you?"
+            },
+            {
+              "speaker": "A",
+              "text": "If there was an address inside, I'd return it myself."
+            },
+            {
+              "speaker": "B",
+              "text": "And if there was a lot of money in it?"
+            },
+            {
+              "speaker": "A",
+              "text": "I'd still return it! I'd feel terrible if I kept it."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B would take the wallet to…",
+              "options": [
+                "the bank",
+                "the police",
+                "a shop"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "A would keep the money.",
+              "answer": false
+            }
+          ],
+          "image": "👛"
+        }
+      ]
+    },
+    "8B": {
+      "theory": [
+        {
+          "title": "Present Perfect + for / since",
+          "text": "Действие или состояние началось в прошлом и продолжается сейчас. По-русски — настоящее время («живу 5 лет»), по-английски — Present Perfect.",
+          "table": {
+            "head": [
+              "",
+              "Значение",
+              "Примеры"
+            ],
+            "rows": [
+              [
+                "for",
+                "период",
+                "for two years, for ages, for a long time"
+              ],
+              [
+                "since",
+                "начальная точка",
+                "since 2019, since Monday, since I was a child"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "How long have you lived here? — I've lived here for ten years.",
+              "ru": "Сколько ты здесь живёшь? — Десять лет."
+            }
+          ],
+          "tip": "Ошибка русскоязычных: I live here for 10 years. Правильно: I've lived here for 10 years."
+        },
+        {
+          "title": "Страх",
+          "text": "scared, frightened, terrified, nervous, worried, panic, a nightmare, scream, shake, sweat."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with for or since.",
+          "items": [
+            {
+              "text": "I've had this car ___ 2018.",
+              "answers": [
+                "since"
+              ]
+            },
+            {
+              "text": "She's been a teacher ___ twenty years.",
+              "answers": [
+                "for"
+              ]
+            },
+            {
+              "text": "We've known each other ___ we were children.",
+              "answers": [
+                "since"
+              ]
+            },
+            {
+              "text": "I haven't seen him ___ ages.",
+              "answers": [
+                "for"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-2",
+          "type": "transform",
+          "instruction": "Make questions with How long…?",
+          "items": [
+            {
+              "prompt": "you / live / in this flat",
+              "answers": [
+                "How long have you lived in this flat?"
+              ]
+            },
+            {
+              "prompt": "she / be / married",
+              "answers": [
+                "How long has she been married?"
+              ]
+            },
+            {
+              "prompt": "they / have / their dog",
+              "answers": [
+                "How long have they had their dog?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I ___ here since January.",
+              "options": [
+                "work",
+                "'ve worked",
+                "worked"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "How long ___ him?",
+              "options": [
+                "do you know",
+                "have you known",
+                "did you know"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He's been ill ___ three days.",
+              "options": [
+                "since",
+                "for",
+                "from"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8b-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I know her for five years.",
+              "answers": [
+                "I've known her for five years.",
+                "I have known her for five years."
+              ]
+            },
+            {
+              "prompt": "We live here since 2015.",
+              "answers": [
+                "We've lived here since 2015.",
+                "We have lived here since 2015."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The man who hasn't flown for 20 years",
+          "text": "Oleg is a successful businessman, but he hasn't been on a plane since 2005. That year, a flight to Sochi hit terrible turbulence and he was terrified. Since then he has travelled only by train, car or boat. He's taken the Trans-Siberian railway three times and has crossed the Baltic Sea by ferry. 'I've missed some business opportunities,' he admits, 'but I've seen places most people only fly over.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "He hasn't flown since ___.",
+              "answers": [
+                "2005"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "He has taken the Trans-Siberian three times.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "He thinks he has…",
+              "options": [
+                "seen nothing",
+                "seen places others fly over",
+                "lost his job"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚂"
+        },
+        {
+          "id": "8b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Getting to know you",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "How long have you worked here?"
+            },
+            {
+              "speaker": "B",
+              "text": "For about three years. And you?"
+            },
+            {
+              "speaker": "A",
+              "text": "Only since March. Have you always lived in Kazan?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I've lived here since I got married — six years ago."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B has worked there for about…",
+              "options": [
+                "three months",
+                "three years",
+                "six years"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "A has worked there since ___.",
+              "answers": [
+                "March"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "B moved to Kazan when…",
+              "options": [
+                "she got a job",
+                "she got married",
+                "she was a child"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    },
+    "8C": {
+      "theory": [
+        {
+          "title": "Present Perfect или Past Simple: биографии",
+          "text": "О жизни человека, который жив и продолжает действовать — Present Perfect (результат на сегодня). О законченных периодах и умерших людях — Past Simple.",
+          "examples": [
+            {
+              "en": "She has written five novels. (она жива, может написать ещё)",
+              "ru": ""
+            },
+            {
+              "en": "Tolstoy wrote many novels. (жизнь закончена)",
+              "ru": ""
+            },
+            {
+              "en": "I've worked here since 2020. Before that I worked in a bank for five years.",
+              "ru": "Сейчас vs законченный период"
+            }
+          ]
+        },
+        {
+          "title": "Биография",
+          "text": "be born, grow up, go to school / university, graduate, get a job, get married, have children, retire, die; achieve, award, career, success."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "Pushkin ___ many poems.",
+              "options": [
+                "has written",
+                "wrote"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "My aunt is a singer. She ___ three albums so far.",
+              "options": [
+                "has recorded",
+                "recorded"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He ___ in Paris from 2010 to 2015.",
+              "options": [
+                "has lived",
+                "lived"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I ___ in this company since 2021.",
+              "options": [
+                "'ve worked",
+                "worked"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "8c-2",
+          "type": "matching",
+          "instruction": "Put the life events in order (1–5).",
+          "pairs": [
+            {
+              "left": "1",
+              "right": "was born"
+            },
+            {
+              "left": "2",
+              "right": "went to school"
+            },
+            {
+              "left": "3",
+              "right": "graduated from university"
+            },
+            {
+              "left": "4",
+              "right": "got married"
+            },
+            {
+              "left": "5",
+              "right": "retired"
+            }
+          ]
+        },
+        {
+          "id": "8c-3",
+          "type": "gap-fill",
+          "instruction": "Complete with the present perfect or past simple.",
+          "items": [
+            {
+              "text": "She ___ to university in 2012.",
+              "hint": "go",
+              "answers": [
+                "went"
+              ]
+            },
+            {
+              "text": "Since then she ___ in three countries.",
+              "hint": "work",
+              "answers": [
+                "'s worked",
+                "has worked"
+              ]
+            },
+            {
+              "text": "In 2020 she ___ a prize for her research.",
+              "hint": "win",
+              "answers": [
+                "won"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8c-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "Shakespeare has written Hamlet.",
+              "answers": [
+                "Shakespeare wrote Hamlet."
+              ]
+            },
+            {
+              "prompt": "I have graduated in 2019.",
+              "answers": [
+                "I graduated in 2019."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Two careers",
+          "text": "Svetlana Ivanova was born in Omsk in 1985. She studied medicine and worked as a doctor for ten years. In 2017 she decided to change her life completely: she left medicine and opened a bakery. Since then she has opened four more bakeries and has employed over fifty people. She has also written a cookbook, which has sold 20,000 copies. 'I've never regretted the change,' she says.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "She worked as a doctor for ___ years.",
+              "answers": [
+                "ten",
+                "10"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "How many bakeries does she have now?",
+              "options": [
+                "four",
+                "five",
+                "fifty"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "She regrets leaving medicine.",
+              "answer": false
+            }
+          ],
+          "image": "🥐"
+        },
+        {
+          "id": "8c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A famous athlete",
+          "script": [
+            {
+              "speaker": "Presenter",
+              "text": "She started swimming when she was five. She won her first national competition at fourteen and went to the Olympics in 2016. Since then she has won three world championships and has broken two world records. And she's only twenty-six!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "She started swimming at ___.",
+              "answers": [
+                "five",
+                "5"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "She went to the Olympics in…",
+              "options": [
+                "2012",
+                "2016",
+                "2020"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "World championships won:",
+              "options": [
+                "two",
+                "three",
+                "four"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏊"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc8-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "If I ___ taller, I'd play basketball.",
+            "options": [
+              "am",
+              "were",
+              "would be"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I've had this phone ___ two years.",
+            "options": [
+              "since",
+              "for",
+              "ago"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Mozart ___ his first symphony at the age of eight.",
+            "options": [
+              "has written",
+              "wrote"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How long ___ you been a vegetarian?",
+            "options": [
+              "are",
+              "have",
+              "did"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc8-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A dream",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "I've worked in an office for fifteen years. If I could change one thing, I'd work outside — maybe as a park ranger. I've always loved nature. If I had the courage, I'd do it tomorrow!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "He has worked in an office for ___ years.",
+            "answers": [
+              "fifteen",
+              "15"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "He would like to be a…",
+            "options": [
+              "park ranger",
+              "pilot",
+              "teacher"
+            ],
+            "answer": 0
+          }
+        ],
+        "image": "🌲"
+      }
+    ]
+  }
+}

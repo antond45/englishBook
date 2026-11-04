@@ -1,0 +1,618 @@
+{
+  "fileId": "9",
+  "lessons": {
+    "9A": {
+      "theory": [
+        {
+          "title": "Придаточные уступки",
+          "table": {
+            "head": [
+              "Связка",
+              "После неё",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "although / even though / though",
+                "предложение",
+                "Although it was raining, we went out."
+              ],
+              [
+                "despite / in spite of",
+                "существительное или -ing",
+                "Despite the rain, we went out. / In spite of feeling ill, she worked."
+              ],
+              [
+                "however / nevertheless",
+                "новое предложение",
+                "It was expensive. However, it was worth it."
+              ]
+            ]
+          },
+          "tip": "despite of — ошибка. Правильно: despite или in spite of. С предложением: despite the fact that…"
+        },
+        {
+          "title": "Придаточные цели",
+          "table": {
+            "head": [
+              "Связка",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "to / in order to / so as to + V",
+                "I left early (in order) to catch the train."
+              ],
+              [
+                "so that + can / could / would",
+                "I spoke slowly so that everyone could understand."
+              ],
+              [
+                "for + существительное / -ing",
+                "This knife is for cutting bread."
+              ]
+            ]
+          },
+          "tip": "Отрицание цели: so as not to / in order not to: I set two alarms so as not to oversleep."
+        },
+        {
+          "title": "Бизнес и реклама",
+          "text": "launch a product, a slogan, a brand, a target market, an advert / a commercial, a sponsor, a start-up, profit / loss, a competitor, go viral, a campaign."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Although, despite, in order to",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=although+despite+in+spite+of+clauses+of+contrast+purpose"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9a-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "___ the bad weather, the event was a success.",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ he's rich, he's very modest.",
+              "options": [
+                "Even though",
+                "In spite of",
+                "Despite"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I took notes ___ I wouldn't forget anything.",
+              "options": [
+                "to",
+                "so that",
+                "for"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She whispered ___ wake the baby.",
+              "options": [
+                "so as not to",
+                "for not",
+                "not to so"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "9a-2",
+          "type": "transform",
+          "instruction": "Rewrite using the word in brackets.",
+          "items": [
+            {
+              "prompt": "Although she was tired, she finished the report. (despite)",
+              "answers": [
+                "Despite being tired, she finished the report.",
+                "Despite feeling tired, she finished the report.",
+                "Despite her tiredness, she finished the report."
+              ]
+            },
+            {
+              "prompt": "He saved money because he wanted to buy a car. (in order to)",
+              "answers": [
+                "He saved money in order to buy a car."
+              ]
+            },
+            {
+              "prompt": "The film was long. It was very good. (however)",
+              "answers": [
+                "The film was long. However, it was very good."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-3",
+          "type": "matching",
+          "instruction": "Match the business words and definitions.",
+          "pairs": [
+            {
+              "left": "a slogan",
+              "right": "a short, memorable phrase for a brand"
+            },
+            {
+              "left": "a start-up",
+              "right": "a new small company"
+            },
+            {
+              "left": "a competitor",
+              "right": "a company selling similar products"
+            },
+            {
+              "left": "launch",
+              "right": "introduce a new product"
+            },
+            {
+              "left": "a target market",
+              "right": "the people a product is for"
+            }
+          ]
+        },
+        {
+          "id": "9a-4",
+          "type": "gap-fill",
+          "instruction": "Complete with although, despite, however, to or so that.",
+          "items": [
+            {
+              "text": "___ having little money, they travelled the world.",
+              "answers": [
+                "Despite"
+              ]
+            },
+            {
+              "text": "We went to the meeting early ___ get good seats.",
+              "answers": [
+                "to"
+              ]
+            },
+            {
+              "text": "I'll send you the map ___ you can find us easily.",
+              "answers": [
+                "so that"
+              ]
+            },
+            {
+              "text": "___ I'd never met her, I felt I knew her.",
+              "answers": [
+                "Although"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The ad that went wrong",
+          "text": "In 2017 a big drinks company launched an advert in order to show that its product could bring people together. However, despite a huge budget and a famous model, the commercial was attacked online within hours. Critics said it made light of serious protests in order to sell soft drinks. Although the company apologised the next day and removed the ad, it became one of the most famous marketing mistakes ever — proof that going viral isn't always good news.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The advert was launched in ___.",
+              "answers": [
+                "2017"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The advert was popular online.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The company…",
+              "options": [
+                "kept the ad",
+                "apologised and removed it",
+                "made a second ad"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "📺"
+        },
+        {
+          "id": "9a-l",
+          "type": "listening",
+          "instruction": "Listen to the pitch and answer.",
+          "title": "A start-up pitch",
+          "script": [
+            {
+              "speaker": "Founder",
+              "text": "Our app helps people share leftover food so that nothing is wasted. Although we only launched six months ago, we already have fifty thousand users. We're here today in order to find investors. Despite strong competitors, we believe our community approach makes us different."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The app helps people…",
+              "options": [
+                "order food",
+                "share leftover food",
+                "cook better"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "They have ___ thousand users.",
+              "answers": [
+                "fifty",
+                "50"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Why are they there today?",
+              "options": [
+                "to find investors",
+                "to hire staff",
+                "to win a prize"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🚀"
+        }
+      ]
+    },
+    "9B": {
+      "theory": [
+        {
+          "title": "Неисчисляемые и «множественные» существительные",
+          "table": {
+            "head": [
+              "Группа",
+              "Примеры",
+              "Как говорить"
+            ],
+            "rows": [
+              [
+                "всегда неисчисляемые (в русском — исчисляемые!)",
+                "advice, information, news, furniture, luggage, equipment, research, progress, accommodation",
+                "a piece of advice, some news (The news is good.)"
+              ],
+              [
+                "только мн. число",
+                "jeans, trousers, scissors, glasses, clothes, goods, belongings",
+                "a pair of jeans, My glasses are…"
+              ],
+              [
+                "меняют смысл",
+                "a paper (газета) / paper (бумага); a glass / glass; an experience / experience (опыт)",
+                ""
+              ]
+            ]
+          },
+          "tip": "Не говорят an advice, informations, a news. The police — всегда множественное число: The police are coming."
+        },
+        {
+          "title": "Приставки и суффиксы",
+          "text": "un-/in-/im-/dis-/ir- (не-): unreliable, impatient, dishonest, irresponsible. over-/under-: overpaid, underestimate. -ful/-less: careful/careless. -able: affordable. re-: rewrite, rebuild."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "Can I give you ___?",
+              "options": [
+                "an advice",
+                "some advice",
+                "some advices"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The news ___ very worrying.",
+              "options": [
+                "is",
+                "are"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "My trousers ___ too long.",
+              "options": [
+                "is",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We need ___ about the course.",
+              "options": [
+                "more informations",
+                "more information",
+                "an information"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The police ___ investigating.",
+              "options": [
+                "is",
+                "are"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9b-2",
+          "type": "transform",
+          "instruction": "Make the opposite with a prefix.",
+          "items": [
+            {
+              "prompt": "honest",
+              "answers": [
+                "dishonest"
+              ]
+            },
+            {
+              "prompt": "responsible",
+              "answers": [
+                "irresponsible"
+              ]
+            },
+            {
+              "prompt": "patient",
+              "answers": [
+                "impatient"
+              ]
+            },
+            {
+              "prompt": "reliable",
+              "answers": [
+                "unreliable"
+              ]
+            },
+            {
+              "prompt": "legal",
+              "answers": [
+                "illegal"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with a word formed from the word in brackets.",
+          "items": [
+            {
+              "text": "Flats in the centre aren't very ___.",
+              "hint": "afford",
+              "answers": [
+                "affordable"
+              ]
+            },
+            {
+              "text": "It was ___ of you to leave the door open.",
+              "hint": "care",
+              "answers": [
+                "careless"
+              ]
+            },
+            {
+              "text": "Nurses are often ___ for the work they do.",
+              "hint": "pay",
+              "answers": [
+                "underpaid"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I bought new furnitures for my flat.",
+              "answers": [
+                "I bought new furniture for my flat.",
+                "I bought some new furniture for my flat."
+              ]
+            },
+            {
+              "prompt": "Your luggages are very heavy.",
+              "answers": [
+                "Your luggage is very heavy."
+              ]
+            },
+            {
+              "prompt": "She has made a lot of progresses.",
+              "answers": [
+                "She has made a lot of progress.",
+                "She's made a lot of progress."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Travel light",
+          "text": "Airlines lose about 25 million pieces of luggage every year. That's why more travellers are choosing to take only hand luggage. Experts' advice is simple: pack clothes that can be combined, roll them instead of folding, and remember that most hotels provide basic equipment like hairdryers. 'The best piece of advice I ever got,' says one frequent flyer, 'was to lay out everything I wanted to take — and then put half of it back.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Airlines lose about ___ million pieces of luggage a year.",
+              "answers": [
+                "25",
+                "twenty-five"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Experts suggest…",
+              "options": [
+                "folding clothes",
+                "rolling clothes",
+                "taking two suitcases"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The frequent flyer advises taking half of what you planned.",
+              "answer": true
+            }
+          ],
+          "image": "🧳"
+        },
+        {
+          "id": "9b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "At the hotel desk",
+          "script": [
+            {
+              "speaker": "Guest",
+              "text": "Could you give me some information about tours?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Of course. Here's a leaflet. And a piece of advice: book the boat trip early."
+            },
+            {
+              "speaker": "Guest",
+              "text": "Thanks. Can I leave my luggage here after check-out?"
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "Yes, our equipment room is open until midnight."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The receptionist advises booking…",
+              "options": [
+                "a museum",
+                "the boat trip",
+                "a taxi"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The guest can leave luggage after check-out.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "The room is open until ___.",
+              "answers": [
+                "midnight",
+                "12"
+              ]
+            }
+          ],
+          "image": "🏨"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc9-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "___ the traffic, we arrived on time.",
+            "options": [
+              "Although",
+              "Despite",
+              "Even though"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I'm saving ___ buy a flat.",
+            "options": [
+              "for",
+              "so that",
+              "to"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Have you got any ___?",
+            "options": [
+              "news",
+              "new",
+              "a news"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "It's ___ to drive without a licence.",
+            "options": [
+              "unlegal",
+              "illegal",
+              "dislegal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc9-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A new product",
+        "script": [
+          {
+            "speaker": "Manager",
+            "text": "Despite strong competition, our new phone sold a million units in its first month. Although it's expensive, customers love the design. However, we've received some complaints about the battery, so the next model will be redesigned in order to fix that."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "It sold a ___ units in the first month.",
+            "answers": [
+              "million"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Complaints were about the…",
+            "options": [
+              "design",
+              "price",
+              "battery"
+            ],
+            "answer": 2
+          }
+        ],
+        "image": "📱"
+      }
+    ]
+  }
+}

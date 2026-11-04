@@ -1,0 +1,888 @@
+{
+  "fileId": "5",
+  "lessons": {
+    "5A": {
+      "theory": [
+        {
+          "title": "can / can't: умение и возможность",
+          "text": "can — умею, могу (есть возможность), можно (разрешение). После can — глагол без to. can одинаков для всех лиц.",
+          "examples": [
+            {
+              "en": "I can play the piano.",
+              "ru": "Я умею играть на пианино. (умение)"
+            },
+            {
+              "en": "You can't park here.",
+              "ru": "Здесь нельзя парковаться. (запрет)"
+            },
+            {
+              "en": "Can you come on Friday?",
+              "ru": "Сможешь прийти в пятницу? (возможность)"
+            }
+          ],
+          "tip": "В утверждении can звучит коротко /kən/, а can't — ударно /kɑːnt/."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Can and can't (elementary)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=can+can't+ability+possibility+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with can or can't.",
+          "items": [
+            {
+              "text": "Sorry, I ___ come tonight. I'm working.",
+              "answers": [
+                "can't",
+                "cannot"
+              ]
+            },
+            {
+              "text": "You ___ smoke in the restaurant. It's not allowed.",
+              "answers": [
+                "can't",
+                "cannot"
+              ]
+            },
+            {
+              "text": "My son is three, but he ___ already read.",
+              "answers": [
+                "can"
+              ]
+            },
+            {
+              "text": "___ you speak Chinese?",
+              "answers": [
+                "Can"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-2",
+          "type": "matching",
+          "instruction": "Match the verbs and phrases.",
+          "pairs": [
+            {
+              "left": "remember",
+              "right": "people's names"
+            },
+            {
+              "left": "run",
+              "right": "a marathon"
+            },
+            {
+              "left": "change",
+              "right": "a tyre"
+            },
+            {
+              "left": "speak",
+              "right": "in public"
+            },
+            {
+              "left": "fix",
+              "right": "a computer"
+            }
+          ]
+        },
+        {
+          "id": "5a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose: ability (A), possibility (P) or permission (R).",
+          "items": [
+            {
+              "question": "She can dance very well.",
+              "options": [
+                "A",
+                "P",
+                "R"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Can I use your pen?",
+              "options": [
+                "A",
+                "P",
+                "R"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "I can meet you at six.",
+              "options": [
+                "A",
+                "P",
+                "R"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "5a-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "He cans swim.",
+              "answers": [
+                "He can swim."
+              ]
+            },
+            {
+              "prompt": "I can to drive.",
+              "answers": [
+                "I can drive."
+              ]
+            },
+            {
+              "prompt": "Do you can help me?",
+              "answers": [
+                "Can you help me?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Skills for the future",
+          "text": "What skills do children need today? Many schools now teach children to code — they can make simple games at the age of eight. But experts say that 'soft skills' are important too: children need to work in teams, listen to other people and speak in public. 'A robot can do maths,' says one teacher, 'but it can't understand people's feelings.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Children can make simple games at the age of ___.",
+              "answers": [
+                "eight",
+                "8"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Soft skills include working in teams.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "According to the teacher, a robot can't…",
+              "options": [
+                "do maths",
+                "understand feelings",
+                "play games"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🤖"
+        },
+        {
+          "id": "5a-l",
+          "type": "listening",
+          "instruction": "Listen to the job interview and answer.",
+          "title": "Summer job",
+          "script": [
+            {
+              "speaker": "Manager",
+              "text": "Can you work at the weekends?"
+            },
+            {
+              "speaker": "Ivan",
+              "text": "Yes, I can."
+            },
+            {
+              "speaker": "Manager",
+              "text": "Can you drive?"
+            },
+            {
+              "speaker": "Ivan",
+              "text": "No, I can't, but I can ride a motorbike."
+            },
+            {
+              "speaker": "Manager",
+              "text": "Can you start on Monday?"
+            },
+            {
+              "speaker": "Ivan",
+              "text": "Yes, of course!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Ivan can work at weekends.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "Ivan can ride a…",
+              "options": [
+                "horse",
+                "motorbike",
+                "bike"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "He can start on ___.",
+              "answers": [
+                "Monday"
+              ]
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    },
+    "5B": {
+      "theory": [
+        {
+          "title": "Present Continuous",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I'm working. She's sleeping. They're playing."
+              ],
+              [
+                "−",
+                "He isn't listening. We aren't going."
+              ],
+              [
+                "?",
+                "Are you waiting? What's she doing?"
+              ]
+            ]
+          },
+          "text": "Действие, которое происходит сейчас или в текущий период: It's raining. I'm reading a good book this week.",
+          "tip": "Правописание: make → making, sit → sitting, lie → lying."
+        },
+        {
+          "title": "Погода и времена года",
+          "examples": [
+            {
+              "en": "It's sunny / cloudy / windy / foggy.",
+              "ru": "Солнечно / облачно / ветрено / туманно."
+            },
+            {
+              "en": "It's raining / snowing.",
+              "ru": "Идёт дождь / снег."
+            },
+            {
+              "en": "spring, summer, autumn, winter",
+              "ru": "весна, лето, осень, зима"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the present continuous.",
+          "items": [
+            {
+              "text": "Look! It ___.",
+              "hint": "snow",
+              "answers": [
+                "'s snowing",
+                "is snowing"
+              ]
+            },
+            {
+              "text": "I ___ to music right now.",
+              "hint": "listen",
+              "answers": [
+                "'m listening",
+                "am listening"
+              ]
+            },
+            {
+              "text": "They ___ — they're watching TV.",
+              "hint": "not study",
+              "answers": [
+                "aren't studying",
+                "are not studying",
+                "'re not studying"
+              ]
+            },
+            {
+              "text": "What ___ you doing?",
+              "hint": "be",
+              "answers": [
+                "are"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-pic",
+          "type": "picture",
+          "instruction": "What's the weather like? Choose.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "☀️",
+              "answers": [
+                "sunny"
+              ]
+            },
+            {
+              "emoji": "🌧️",
+              "answers": [
+                "rainy",
+                "it's raining"
+              ]
+            },
+            {
+              "emoji": "❄️",
+              "answers": [
+                "snowy",
+                "it's snowing"
+              ]
+            },
+            {
+              "emoji": "🌫️",
+              "answers": [
+                "foggy"
+              ]
+            },
+            {
+              "emoji": "🌬️",
+              "answers": [
+                "windy"
+              ]
+            },
+            {
+              "emoji": "☁️",
+              "answers": [
+                "cloudy"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-2",
+          "type": "matching",
+          "instruction": "Match the weather and the pictures in words.",
+          "pairs": [
+            {
+              "left": "foggy",
+              "right": "you can't see far"
+            },
+            {
+              "left": "windy",
+              "right": "the trees are moving"
+            },
+            {
+              "left": "sunny",
+              "right": "you need sunglasses"
+            },
+            {
+              "left": "freezing",
+              "right": "it's below zero"
+            },
+            {
+              "left": "cloudy",
+              "right": "you can't see the sun"
+            }
+          ]
+        },
+        {
+          "id": "5b-3",
+          "type": "transform",
+          "instruction": "Write the -ing form.",
+          "items": [
+            {
+              "prompt": "swim",
+              "answers": [
+                "swimming"
+              ]
+            },
+            {
+              "prompt": "write",
+              "answers": [
+                "writing"
+              ]
+            },
+            {
+              "prompt": "lie",
+              "answers": [
+                "lying"
+              ]
+            },
+            {
+              "prompt": "study",
+              "answers": [
+                "studying"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "Why are you wearing a coat?"
+            },
+            {
+              "answer": "It isn't raining now."
+            },
+            {
+              "answer": "Who is she talking to?"
+            }
+          ]
+        },
+        {
+          "id": "5b-r",
+          "type": "reading",
+          "instruction": "Read the messages and answer.",
+          "title": "Holiday messages",
+          "text": "Hi from Sochi! It's hot and sunny here and we're lying on the beach. The kids are swimming in the sea and Dad is reading a book. How are things in Moscow?\n\n— Not so good! It's raining and it's very windy. I'm sitting at work and I'm drinking my third coffee. Have fun!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "It's raining in Sochi.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The kids are…",
+              "options": [
+                "reading",
+                "swimming",
+                "sleeping"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "In Moscow it's raining and very ___.",
+              "answers": [
+                "windy"
+              ]
+            }
+          ],
+          "image": "🏖️"
+        },
+        {
+          "id": "5b-l",
+          "type": "listening",
+          "instruction": "Listen to the weather forecast and answer.",
+          "title": "Weather forecast",
+          "script": [
+            {
+              "speaker": "Presenter",
+              "text": "Good morning. It's a cold day in the north — it's snowing in Murmansk and the temperature is minus ten. In the centre it's cloudy and quite windy. But in the south it's warm and sunny, twenty degrees in Krasnodar."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "In Murmansk it's…",
+              "options": [
+                "raining",
+                "snowing",
+                "sunny"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The temperature in Krasnodar is ___ degrees.",
+              "answers": [
+                "twenty",
+                "20"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "In the centre it's…",
+              "options": [
+                "cloudy and windy",
+                "hot",
+                "foggy"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🌦️"
+        }
+      ]
+    },
+    "5C": {
+      "theory": [
+        {
+          "title": "Present Simple или Present Continuous?",
+          "table": {
+            "head": [
+              "Present Simple",
+              "Present Continuous"
+            ],
+            "rows": [
+              [
+                "регулярно, всегда",
+                "сейчас, в эти дни"
+              ],
+              [
+                "I usually wear jeans.",
+                "Today I'm wearing a suit."
+              ],
+              [
+                "every day, often, never",
+                "now, at the moment, today, Look!"
+              ]
+            ]
+          },
+          "tip": "Глаголы состояния (like, want, need, know, understand) не используются в Continuous: I want a coffee (не I'm wanting)."
+        },
+        {
+          "title": "Одежда",
+          "text": "a jacket, a coat, a suit, a dress, a skirt, a shirt, a T-shirt, a jumper, trousers, jeans, shorts, shoes, boots, trainers, a scarf, a hat."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "She ___ a uniform at work.",
+              "options": [
+                "wears",
+                "is wearing"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why ___ a suit today?",
+              "options": [
+                "do you wear",
+                "are you wearing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I ___ what you mean.",
+              "options": [
+                "understand",
+                "'m understanding"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Shh! The baby ___.",
+              "options": [
+                "sleeps",
+                "is sleeping"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We ___ to the beach every summer.",
+              "options": [
+                "go",
+                "are going"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "5c-pic",
+          "type": "picture",
+          "instruction": "Clothes: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🧣",
+              "answers": [
+                "a scarf",
+                "scarf"
+              ]
+            },
+            {
+              "emoji": "🧤",
+              "answers": [
+                "gloves"
+              ]
+            },
+            {
+              "emoji": "👢",
+              "answers": [
+                "boots"
+              ]
+            },
+            {
+              "emoji": "🩳",
+              "answers": [
+                "shorts"
+              ]
+            },
+            {
+              "emoji": "👔",
+              "answers": [
+                "a shirt and tie",
+                "a tie",
+                "tie"
+              ]
+            },
+            {
+              "emoji": "🧥",
+              "answers": [
+                "a coat",
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form of the verb.",
+          "items": [
+            {
+              "text": "I usually ___ the bus, but today I'm walking.",
+              "hint": "take",
+              "answers": [
+                "take"
+              ]
+            },
+            {
+              "text": "Look! Your dog ___ my shoe!",
+              "hint": "eat",
+              "answers": [
+                "'s eating",
+                "is eating"
+              ]
+            },
+            {
+              "text": "My brother ___ fish.",
+              "hint": "not like",
+              "answers": [
+                "doesn't like",
+                "does not like"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-3",
+          "type": "matching",
+          "instruction": "Match the clothes and where you wear them.",
+          "pairs": [
+            {
+              "left": "a scarf",
+              "right": "around your neck"
+            },
+            {
+              "left": "trainers",
+              "right": "on your feet"
+            },
+            {
+              "left": "a hat",
+              "right": "on your head"
+            },
+            {
+              "left": "a belt",
+              "right": "around your waist"
+            },
+            {
+              "left": "gloves",
+              "right": "on your hands"
+            }
+          ]
+        },
+        {
+          "id": "5c-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I'm needing a new coat.",
+              "answers": [
+                "I need a new coat."
+              ]
+            },
+            {
+              "prompt": "She is going to work by bus every day.",
+              "answers": [
+                "She goes to work by bus every day."
+              ]
+            },
+            {
+              "prompt": "Look! He wears a funny hat.",
+              "answers": [
+                "Look! He's wearing a funny hat.",
+                "Look! He is wearing a funny hat."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Street style",
+          "text": "Every day I photograph people in the street and ask them about their clothes. Today I'm talking to Lena, a student. She's wearing a long black coat, white trainers and a red scarf. 'I usually wear jeans,' she says, 'but today I'm wearing a skirt because I have a job interview.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Lena's scarf is ___.",
+              "answers": [
+                "red"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Lena usually wears skirts.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Why is she wearing a skirt today?",
+              "options": [
+                "it's hot",
+                "a job interview",
+                "a party"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🧥"
+        },
+        {
+          "id": "5c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "On the phone",
+          "script": [
+            {
+              "speaker": "Mum",
+              "text": "Hi! What are you doing?"
+            },
+            {
+              "speaker": "Son",
+              "text": "I'm studying for my exam."
+            },
+            {
+              "speaker": "Mum",
+              "text": "Really? I can hear music."
+            },
+            {
+              "speaker": "Son",
+              "text": "Yes, I always listen to music when I study."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The son is…",
+              "options": [
+                "watching TV",
+                "studying",
+                "playing games"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He always listens to music when he studies.",
+              "answer": true
+            }
+          ],
+          "image": "📱"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc5-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "I ___ swim, but I can ride a bike.",
+            "options": [
+              "can't",
+              "don't",
+              "am not"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "It ___ now. Take an umbrella.",
+            "options": [
+              "rains",
+              "is raining",
+              "rain"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He ___ jeans to work.",
+            "options": [
+              "never wears",
+              "is never wearing",
+              "never wear"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "What ___ at the moment?",
+            "options": [
+              "do you read",
+              "are you reading",
+              "you read"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc5-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A postcard",
+        "text": "We're in Norway! It's summer, but it isn't warm — it's cloudy and windy. We're staying in a small wooden house by a lake. I can't swim in the lake, it's too cold! But we're walking a lot and we're eating lots of fish.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The weather is warm.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "They're staying in a small wooden ___.",
+            "answers": [
+              "house"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The writer swims in the lake.",
+            "answer": false
+          }
+        ],
+        "image": "🏞️"
+      }
+    ]
+  }
+}

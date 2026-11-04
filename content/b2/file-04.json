@@ -1,0 +1,704 @@
+{
+  "fileId": "4",
+  "lessons": {
+    "4A": {
+      "theory": [
+        {
+          "title": "Future Continuous и Future Perfect",
+          "table": {
+            "head": [
+              "Форма",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "will be + -ing",
+                "процесс в определённый момент будущего",
+                "This time tomorrow I'll be lying on a beach."
+              ],
+              [
+                "will have + V3",
+                "будет завершено к моменту в будущем",
+                "By 2030 we'll have built 50 new schools."
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Don't call at 8 — we'll be having dinner.",
+              "ru": "Не звони в 8 — мы будем ужинать."
+            },
+            {
+              "en": "By the time you arrive, I'll have finished.",
+              "ru": "К твоему приходу я уже закончу."
+            }
+          ],
+          "tip": "Маркеры Future Perfect: by + время (by Friday, by the time…). Future Continuous: this time next week, at 10 tomorrow."
+        },
+        {
+          "title": "Окружающая среда",
+          "text": "climate change, global warming, carbon emissions, renewable energy, fossil fuels, deforestation, drought, flood, heatwave, endangered species, recycle, reduce, waste."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Future perfect and future continuous",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=future+perfect+future+continuous+upper+intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4a-1",
+          "type": "multiple-choice",
+          "instruction": "Future continuous or future perfect?",
+          "items": [
+            {
+              "question": "This time next month I ___ in Thailand.",
+              "options": [
+                "'ll be travelling",
+                "'ll have travelled"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "By the end of the year, I ___ 40 books.",
+              "options": [
+                "'ll be reading",
+                "'ll have read"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Don't phone at 9 — I ___ my driving test.",
+              "options": [
+                "'ll be taking",
+                "'ll have taken"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "By 2050, sea levels ___ significantly.",
+              "options": [
+                "will be rising",
+                "will have risen"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "4a-pic",
+          "type": "picture",
+          "instruction": "The environment: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🌊",
+              "answers": [
+                "a flood",
+                "flood",
+                "flooding"
+              ]
+            },
+            {
+              "emoji": "🏜️",
+              "answers": [
+                "a drought",
+                "drought",
+                "desert"
+              ]
+            },
+            {
+              "emoji": "🌪️",
+              "answers": [
+                "a tornado",
+                "tornado"
+              ]
+            },
+            {
+              "emoji": "🔥",
+              "answers": [
+                "a wildfire",
+                "wildfire",
+                "fire"
+              ]
+            },
+            {
+              "emoji": "♻️",
+              "answers": [
+                "recycling",
+                "recycle"
+              ]
+            },
+            {
+              "emoji": "🌞",
+              "answers": [
+                "a heatwave",
+                "heatwave"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the future perfect or continuous.",
+          "items": [
+            {
+              "text": "By the time we get there, the concert ___.",
+              "hint": "start",
+              "answers": [
+                "will have started",
+                "'ll have started"
+              ]
+            },
+            {
+              "text": "At midnight we ___ the New Year.",
+              "hint": "celebrate",
+              "answers": [
+                "will be celebrating",
+                "'ll be celebrating"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-3",
+          "type": "matching",
+          "instruction": "Match the environment words and definitions.",
+          "pairs": [
+            {
+              "left": "drought",
+              "right": "a long period without rain"
+            },
+            {
+              "left": "deforestation",
+              "right": "cutting down forests"
+            },
+            {
+              "left": "renewable energy",
+              "right": "power from sun, wind or water"
+            },
+            {
+              "left": "fossil fuels",
+              "right": "coal, oil and gas"
+            },
+            {
+              "left": "an endangered species",
+              "right": "an animal that might disappear"
+            }
+          ]
+        },
+        {
+          "id": "4a-4",
+          "type": "transform",
+          "instruction": "Rewrite using by + future perfect.",
+          "items": [
+            {
+              "prompt": "I'll finish the report before Friday.",
+              "answers": [
+                "I'll have finished the report by Friday.",
+                "I will have finished the report by Friday."
+              ]
+            },
+            {
+              "prompt": "They will complete the bridge before 2027.",
+              "answers": [
+                "They'll have completed the bridge by 2027.",
+                "They will have completed the bridge by 2027."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The world in 2050",
+          "text": "What will life be like in 2050? Scientists predict that, by then, the global population will have reached nearly ten billion. Many of us will be living in megacities, and most cars on the road will be electric. If current trends continue, the Arctic will have lost most of its summer ice. But there is hope: renewable energy is getting cheaper every year, and by 2050 many countries will have stopped burning coal completely.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The population will have reached nearly ___ billion.",
+              "answers": [
+                "ten",
+                "10"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Most cars will be electric.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "Why is there hope?",
+              "options": [
+                "population is falling",
+                "renewable energy is getting cheaper",
+                "ice is growing"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🌍"
+        },
+        {
+          "id": "4a-l",
+          "type": "listening",
+          "instruction": "Listen to the weather forecast and answer.",
+          "title": "Heatwave warning",
+          "script": [
+            {
+              "speaker": "Forecaster",
+              "text": "A heatwave is on its way. By Thursday, temperatures will have reached thirty-eight degrees in the south. This weekend many people will be heading to the coast, so expect heavy traffic. There's no rain in the forecast, and by next week the drought will have lasted over a month."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Temperatures will reach ___ degrees.",
+              "answers": [
+                "thirty-eight",
+                "38"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "By when?",
+              "options": [
+                "Tuesday",
+                "Thursday",
+                "Saturday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Rain is expected at the weekend.",
+              "answer": false
+            }
+          ],
+          "image": "🌡️"
+        }
+      ]
+    },
+    "4B": {
+      "theory": [
+        {
+          "title": "Zero и First Conditional, придаточные времени",
+          "table": {
+            "head": [
+              "Тип",
+              "Схема",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Zero",
+                "if + Present, Present (всегда так)",
+                "If you heat ice, it melts."
+              ],
+              [
+                "First",
+                "if + Present, will (реальное будущее)",
+                "If you leave now, you'll catch the train."
+              ]
+            ]
+          },
+          "text": "После when, as soon as, until, before, after, unless, in case, provided that — Present (не will), даже о будущем.",
+          "examples": [
+            {
+              "en": "I'll call you as soon as I land.",
+              "ru": "Позвоню, как только приземлюсь."
+            },
+            {
+              "en": "Take an umbrella in case it rains.",
+              "ru": "Возьми зонт на случай дождя."
+            },
+            {
+              "en": "You can borrow it provided that you return it.",
+              "ru": "Можешь взять при условии, что вернёшь."
+            }
+          ],
+          "tip": "unless = if not: Unless you hurry = If you don't hurry. in case ≠ if: in case — «на всякий случай»."
+        },
+        {
+          "title": "Выражения с take",
+          "text": "take part in, take place, take care of, take advantage of, take into account, take your time, take after (быть похожим на родителя), take up (начать хобби), take off (взлететь; снять)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I'll wait here until you ___.",
+              "options": [
+                "come back",
+                "will come back"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Take some cash ___ the card doesn't work.",
+              "options": [
+                "if",
+                "in case"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ you study, you won't pass.",
+              "options": [
+                "If",
+                "Unless"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "If you mix red and blue, you ___ purple.",
+              "options": [
+                "get",
+                "will got"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "4b-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form.",
+          "items": [
+            {
+              "text": "As soon as I ___ the results, I'll let you know.",
+              "hint": "get",
+              "answers": [
+                "get"
+              ]
+            },
+            {
+              "text": "We'll go for a walk provided that it ___.",
+              "hint": "not rain",
+              "answers": [
+                "doesn't rain",
+                "does not rain"
+              ]
+            },
+            {
+              "text": "She ___ angry if you're late again.",
+              "hint": "be",
+              "answers": [
+                "'ll be",
+                "will be"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-3",
+          "type": "matching",
+          "instruction": "Match the expressions with take and their meanings.",
+          "pairs": [
+            {
+              "left": "take after",
+              "right": "be similar to a parent"
+            },
+            {
+              "left": "take up",
+              "right": "start a new hobby"
+            },
+            {
+              "left": "take place",
+              "right": "happen"
+            },
+            {
+              "left": "take part in",
+              "right": "participate"
+            },
+            {
+              "left": "take advantage of",
+              "right": "use an opportunity"
+            }
+          ]
+        },
+        {
+          "id": "4b-4",
+          "type": "transform",
+          "instruction": "Rewrite with unless.",
+          "items": [
+            {
+              "prompt": "If you don't book now, there won't be any tickets.",
+              "answers": [
+                "Unless you book now, there won't be any tickets.",
+                "There won't be any tickets unless you book now."
+              ]
+            },
+            {
+              "prompt": "I won't go if you don't come with me.",
+              "answers": [
+                "I won't go unless you come with me.",
+                "Unless you come with me, I won't go."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "How to pass any exam",
+          "text": "If you want to remember something, test yourself — don't just reread it. Research shows that students who practise recalling information remember twice as much. Study in short sessions: unless you take breaks, your concentration drops after about 40 minutes. Sleep is essential too: as soon as you sleep, your brain starts organising what you've learned. And before the exam, eat something light in case nerves make you feel sick.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Testing yourself helps you remember…",
+              "options": [
+                "the same",
+                "twice as much",
+                "half as much"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Concentration drops after about ___ minutes.",
+              "answers": [
+                "40",
+                "forty"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Sleep helps the brain organise new information.",
+              "answer": true
+            }
+          ],
+          "image": "📝"
+        },
+        {
+          "id": "4b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Planning a hike",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "If the weather's good, we'll take the mountain path."
+            },
+            {
+              "speaker": "B",
+              "text": "OK, but let's take extra water in case it gets hot."
+            },
+            {
+              "speaker": "A",
+              "text": "And we won't go to the top unless everyone feels fine."
+            },
+            {
+              "speaker": "B",
+              "text": "Agreed. I'll message the group as soon as I get the forecast."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They'll take extra water in case…",
+              "options": [
+                "it rains",
+                "it gets hot",
+                "someone forgets"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They'll go to the top even if someone feels ill.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "B will message the group when B gets the ___.",
+              "answers": [
+                "forecast"
+              ]
+            }
+          ],
+          "image": "🥾"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Как выражать мнение и согласие",
+        "examples": [
+          {
+            "en": "As far as I'm concerned, …",
+            "ru": "Что касается меня, …"
+          },
+          {
+            "en": "I see your point, but…",
+            "ru": "Понимаю, но…"
+          },
+          {
+            "en": "I couldn't agree more.",
+            "ru": "Полностью согласен."
+          },
+          {
+            "en": "I'm not so sure about that.",
+            "ru": "Я не уверен."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe4-1",
+        "type": "video-task",
+        "instruction": "Watch the Colloquial English episode for Files 3–4.",
+        "video": {
+          "title": "Colloquial English, Files 3–4 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Интервью и разговоры из курса Upper-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "As far as I'm concerned…",
+          "I see your point, but…",
+          "That's a good point.",
+          "I'm not so sure."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Записал(а) своё мнение (1 минута) о будущем планеты",
+          "Использовал(а) 3 фразы согласия/несогласия"
+        ]
+      },
+      {
+        "id": "pe4-l",
+        "type": "listening",
+        "instruction": "Listen to the discussion and answer.",
+        "title": "Should we ban cars from city centres?",
+        "script": [
+          {
+            "speaker": "Ann",
+            "text": "As far as I'm concerned, cars should be banned from the centre. The air would be so much cleaner."
+          },
+          {
+            "speaker": "Dan",
+            "text": "I see your point, but what about people who can't walk far, or shops that need deliveries?"
+          },
+          {
+            "speaker": "Ann",
+            "text": "That's a good point. Maybe deliveries could be allowed early in the morning."
+          },
+          {
+            "speaker": "Dan",
+            "text": "That would work, I suppose."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Ann wants to…",
+            "options": [
+              "build more roads",
+              "ban cars from the centre",
+              "make parking free"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Ann suggests allowing deliveries early in the ___.",
+            "answers": [
+              "morning"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "Dan completely disagrees with the final idea.",
+            "answer": false
+          }
+        ],
+        "image": "🚗"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc4-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "By next June I ___ here for ten years.",
+            "options": [
+              "'ll work",
+              "'ll have worked",
+              "'ll be working"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Call me when you ___ home.",
+            "options": [
+              "get",
+              "'ll get",
+              "will have got"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "She really takes ___ her mother.",
+            "options": [
+              "up",
+              "after",
+              "off"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Bring a jacket ___ it gets cold.",
+            "options": [
+              "unless",
+              "in case",
+              "provided"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc4-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A green city",
+        "text": "Copenhagen aims to be carbon-neutral. By then, the city will have replaced coal with wind and biomass, and most people will be cycling to work — already more than 60% do. Unless other cities take similar steps, experts say, global targets will be impossible to reach.",
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "More than ___% of people already cycle to work.",
+            "answers": [
+              "60",
+              "sixty"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The city will keep using coal.",
+            "answer": false
+          }
+        ],
+        "image": "🚲"
+      }
+    ]
+  }
+}

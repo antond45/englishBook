@@ -1,0 +1,774 @@
+{
+  "fileId": "6",
+  "lessons": {
+    "6A": {
+      "theory": [
+        {
+          "title": "Инфинитив с to",
+          "table": {
+            "head": [
+              "Когда",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "после некоторых глаголов: want, need, decide, hope, plan, promise, offer, refuse, try, learn, forget, manage, pretend",
+                "I managed to finish on time."
+              ],
+              [
+                "после прилагательных",
+                "It's easy to make. Nice to meet you."
+              ],
+              [
+                "чтобы выразить цель (зачем?)",
+                "I went out to buy some bread."
+              ],
+              [
+                "после вопросительных слов",
+                "I don't know what to do."
+              ]
+            ]
+          },
+          "tip": "Цель по-русски «чтобы» → просто to: I came to help (не for help и не for to help)."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Infinitive with to",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=infinitive+with+to+uses+pre-intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with to + a verb from brackets.",
+          "items": [
+            {
+              "text": "Did you manage ___ tickets?",
+              "hint": "get",
+              "answers": [
+                "to get"
+              ]
+            },
+            {
+              "text": "She pretended ___ asleep.",
+              "hint": "be",
+              "answers": [
+                "to be"
+              ]
+            },
+            {
+              "text": "He refused ___ the bill.",
+              "hint": "pay",
+              "answers": [
+                "to pay"
+              ]
+            },
+            {
+              "text": "I don't know what ___. Can you help me?",
+              "hint": "say",
+              "answers": [
+                "to say"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-2",
+          "type": "transform",
+          "instruction": "Join the sentences using to (purpose).",
+          "items": [
+            {
+              "prompt": "I went to the bank. I wanted to get some money.",
+              "answers": [
+                "I went to the bank to get some money."
+              ]
+            },
+            {
+              "prompt": "She's saving money. She wants to buy a car.",
+              "answers": [
+                "She's saving money to buy a car.",
+                "She is saving money to buy a car."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "It's difficult ___ a job here.",
+              "options": [
+                "find",
+                "to find",
+                "finding"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I phoned her ___ her happy birthday.",
+              "options": [
+                "for wish",
+                "to wish",
+                "for wishing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He offered ___ me to the station.",
+              "options": [
+                "to drive",
+                "driving",
+                "drive"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6a-4",
+          "type": "matching",
+          "instruction": "Match the beginnings and ends.",
+          "pairs": [
+            {
+              "left": "I'm learning",
+              "right": "to cook Indian food."
+            },
+            {
+              "left": "We hope",
+              "right": "to see you soon."
+            },
+            {
+              "left": "It's important",
+              "right": "to drink enough water."
+            },
+            {
+              "left": "I went to the shop",
+              "right": "to buy some milk."
+            }
+          ]
+        },
+        {
+          "id": "6a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "How to learn a language in a month?",
+          "text": "Can you really learn a language in a month? Journalist Mark decided to try. He wanted to speak basic Spanish before a trip to Madrid. He promised himself to study two hours a day and refused to speak English with his Spanish friends. It wasn't easy to stay motivated, but he managed to have a twenty-minute conversation with a taxi driver on his first day in Madrid. 'I didn't learn to speak perfectly,' he says, 'but I learned not to be afraid.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Mark studied ___ hours a day.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "He spoke English with his Spanish friends.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "In Madrid he talked with a taxi driver for…",
+              "options": [
+                "five minutes",
+                "twenty minutes",
+                "an hour"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🗣️"
+        },
+        {
+          "id": "6a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Why are you here?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Why did you come to London?"
+            },
+            {
+              "speaker": "B",
+              "text": "To improve my English. I'm planning to apply to a British university."
+            },
+            {
+              "speaker": "A",
+              "text": "Is it easy to find accommodation here?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, it's very hard to find something cheap. I decided to share a flat with three people."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B came to London to…",
+              "options": [
+                "work",
+                "improve English",
+                "visit family"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "It's easy to find cheap accommodation.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "B shares a flat with ___ people.",
+              "answers": [
+                "three",
+                "3"
+              ]
+            }
+          ],
+          "image": "🎓"
+        }
+      ]
+    },
+    "6B": {
+      "theory": [
+        {
+          "title": "Форма -ing (герундий)",
+          "table": {
+            "head": [
+              "Когда",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "как подлежащее",
+                "Swimming is good for you."
+              ],
+              [
+                "после предлогов",
+                "I'm good at cooking. Thanks for coming."
+              ],
+              [
+                "после глаголов: enjoy, like, love, hate, don't mind, finish, stop, avoid, spend time, keep, feel like, can't stand",
+                "I can't stand waiting."
+              ]
+            ]
+          },
+          "tip": "После любого предлога — только -ing: interested in learning, before leaving, without saying."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the -ing form.",
+          "items": [
+            {
+              "text": "___ too much sugar is bad for you.",
+              "hint": "eat",
+              "answers": [
+                "Eating"
+              ]
+            },
+            {
+              "text": "I'm not very good at ___ names.",
+              "hint": "remember",
+              "answers": [
+                "remembering"
+              ]
+            },
+            {
+              "text": "He left without ___ goodbye.",
+              "hint": "say",
+              "answers": [
+                "saying"
+              ]
+            },
+            {
+              "text": "I don't feel like ___ out tonight.",
+              "hint": "go",
+              "answers": [
+                "going"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-2",
+          "type": "multiple-choice",
+          "instruction": "-ing or to?",
+          "items": [
+            {
+              "question": "I enjoy ___ to podcasts.",
+              "options": [
+                "to listen",
+                "listening"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We decided ___ a taxi.",
+              "options": [
+                "to take",
+                "taking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Have you finished ___ the report?",
+              "options": [
+                "to write",
+                "writing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She can't stand ___ in queues.",
+              "options": [
+                "to wait",
+                "waiting"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I need ___ to the bank.",
+              "options": [
+                "to go",
+                "going"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6b-3",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I'm interested in learn Japanese.",
+              "answers": [
+                "I'm interested in learning Japanese.",
+                "I am interested in learning Japanese."
+              ]
+            },
+            {
+              "prompt": "Smoke is bad for your health.",
+              "answers": [
+                "Smoking is bad for your health."
+              ]
+            },
+            {
+              "prompt": "Thanks for help me.",
+              "answers": [
+                "Thanks for helping me."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "I spend a lot of time reading."
+            },
+            {
+              "answer": "Do you feel like going for a walk?"
+            }
+          ]
+        },
+        {
+          "id": "6b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "What makes people happy?",
+          "text": "Researchers asked 5,000 people to record how they felt during the day. The activities that made people happiest were not expensive: spending time with friends, being outside in nature and doing exercise. Commuting and doing housework were the least enjoyable. Interestingly, people who spent a lot of time looking at their phones felt worse, even when they were doing something they normally enjoy.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The study asked ___ people.",
+              "answers": [
+                "5,000",
+                "5000",
+                "five thousand"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The happiest activities were expensive.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "One of the least enjoyable activities was…",
+              "options": [
+                "being in nature",
+                "commuting",
+                "doing exercise"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "😊"
+        },
+        {
+          "id": "6b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Likes and dislikes",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "I love getting up early at the weekend and going running before the city wakes up. I don't mind doing housework, actually — it helps me think. But I can't stand talking on the phone. I always prefer sending messages."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "At the weekend she goes…",
+              "options": [
+                "swimming",
+                "running",
+                "cycling"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "She hates housework.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "She can't stand talking on the ___.",
+              "answers": [
+                "phone"
+              ]
+            }
+          ],
+          "image": "🏃"
+        }
+      ]
+    },
+    "6C": {
+      "theory": [
+        {
+          "title": "have to / must / don't have to / mustn't",
+          "table": {
+            "head": [
+              "Форма",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "have to",
+                "обязан (правило, внешние обстоятельства)",
+                "I have to wear a uniform at work."
+              ],
+              [
+                "must",
+                "должен (личное мнение, сильный совет, надписи)",
+                "You must see this film!"
+              ],
+              [
+                "don't have to",
+                "не обязательно, нет необходимости",
+                "You don't have to come. It's optional."
+              ],
+              [
+                "mustn't",
+                "нельзя, запрещено",
+                "You mustn't smoke here."
+              ]
+            ]
+          },
+          "tip": "Главная ловушка: don't have to ≠ mustn't. «Не нужно» — don't have to, «нельзя» — mustn't. В прошедшем времени у must нет формы: had to."
+        },
+        {
+          "title": "Модификаторы",
+          "text": "a bit, quite, pretty, really, very, incredibly, extremely: It's a bit cold. The exam was incredibly difficult."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "You ___ pay — the museum is free on Sundays.",
+              "options": [
+                "mustn't",
+                "don't have to"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "You ___ use your phone during the exam.",
+              "options": [
+                "mustn't",
+                "don't have to"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Yesterday I ___ work late.",
+              "options": [
+                "must",
+                "had to"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Nurses ___ work at night.",
+              "options": [
+                "have to",
+                "mustn't"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with have to, has to, don't have to, doesn't have to or mustn't.",
+          "items": [
+            {
+              "text": "My brother is a pilot. He ___ wear a uniform.",
+              "answers": [
+                "has to"
+              ]
+            },
+            {
+              "text": "It's Saturday tomorrow, so I ___ get up early.",
+              "answers": [
+                "don't have to"
+              ]
+            },
+            {
+              "text": "You ___ drive faster than 60 km/h here.",
+              "answers": [
+                "mustn't"
+              ]
+            },
+            {
+              "text": "She works from home, so she ___ commute.",
+              "answers": [
+                "doesn't have to"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-3",
+          "type": "matching",
+          "instruction": "Match the signs and the meanings.",
+          "pairs": [
+            {
+              "left": "No parking",
+              "right": "You mustn't park here."
+            },
+            {
+              "left": "Tickets optional",
+              "right": "You don't have to buy a ticket."
+            },
+            {
+              "left": "Seat belts compulsory",
+              "right": "You have to wear a seat belt."
+            },
+            {
+              "left": "Quiet please",
+              "right": "You mustn't make a noise."
+            }
+          ]
+        },
+        {
+          "id": "6c-4",
+          "type": "transform",
+          "instruction": "Put into the past.",
+          "items": [
+            {
+              "prompt": "I must finish the report.",
+              "answers": [
+                "I had to finish the report."
+              ]
+            },
+            {
+              "prompt": "We don't have to wait.",
+              "answers": [
+                "We didn't have to wait.",
+                "We did not have to wait."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Strange school rules",
+          "text": "Schools around the world have some unusual rules. In some Japanese schools students have to clean the classrooms themselves — there are no cleaners. In parts of the UK pupils mustn't run in the corridors. In Finland children don't have to do much homework, but they have one of the best education systems in the world. And in one Australian school students mustn't do cartwheels in the playground!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "In some Japanese schools students have to…",
+              "options": [
+                "wear hats",
+                "clean the classrooms",
+                "study on Saturdays"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Finnish children have to do a lot of homework.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "In an Australian school students mustn't do ___.",
+              "answers": [
+                "cartwheels"
+              ]
+            }
+          ],
+          "image": "🏫"
+        },
+        {
+          "id": "6c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "First day at work",
+          "script": [
+            {
+              "speaker": "Manager",
+              "text": "Welcome to the team! A few rules: you have to start at eight thirty. You don't have to wear a suit — smart casual is fine. You mustn't eat at your desk; there's a kitchen for that. And you have to take your lunch break between twelve and two."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Start time: ___.",
+              "answers": [
+                "8:30",
+                "eight thirty",
+                "8.30"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "You have to wear a suit.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "You mustn't…",
+              "options": [
+                "eat at your desk",
+                "use the kitchen",
+                "take a break"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc6-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "I'm thinking of ___ my job.",
+            "options": [
+              "to change",
+              "changing",
+              "change"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She promised ___ me back.",
+            "options": [
+              "to call",
+              "calling",
+              "call"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "You ___ come if you're busy.",
+            "options": [
+              "mustn't",
+              "don't have to",
+              "have to"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "It was ___ cold, so we stayed in.",
+            "options": [
+              "incredibly",
+              "a bit too much",
+              "enough"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc6-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Going to a festival",
+        "script": [
+          {
+            "speaker": "Girl",
+            "text": "We're going to a music festival this summer. You don't have to bring food — there are lots of stalls — but you have to bring your own tent. You mustn't take glass bottles in. I can't wait to see my favourite band!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "You have to bring food.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "You have to bring your own ___.",
+            "answers": [
+              "tent"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "You mustn't take…",
+            "options": [
+              "tents",
+              "glass bottles",
+              "food"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🎉"
+      }
+    ]
+  }
+}

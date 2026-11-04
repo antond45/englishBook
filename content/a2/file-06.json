@@ -1,0 +1,988 @@
+{
+  "fileId": "6",
+  "lessons": {
+    "6A": {
+      "theory": [
+        {
+          "title": "Объектные местоимения",
+          "table": {
+            "head": [
+              "Подлежащее",
+              "Объект"
+            ],
+            "rows": [
+              [
+                "I",
+                "me"
+              ],
+              [
+                "you",
+                "you"
+              ],
+              [
+                "he",
+                "him"
+              ],
+              [
+                "she",
+                "her"
+              ],
+              [
+                "it",
+                "it"
+              ],
+              [
+                "we",
+                "us"
+              ],
+              [
+                "they",
+                "them"
+              ]
+            ]
+          },
+          "text": "Объектная форма стоит после глагола и после предлога: Call me. Come with us. I'm waiting for them.",
+          "tip": "her — и «её» (her bag), и «ей / её» после глагола (I love her)."
+        },
+        {
+          "title": "Телефон и сообщения",
+          "examples": [
+            {
+              "en": "call / ring someone, text someone",
+              "ru": "позвонить, написать сообщение"
+            },
+            {
+              "en": "leave a message, call back, hang up",
+              "ru": "оставить сообщение, перезвонить, положить трубку"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with an object pronoun.",
+          "items": [
+            {
+              "text": "Where's Anna? I need to talk to ___.",
+              "answers": [
+                "her"
+              ]
+            },
+            {
+              "text": "We're lost. Can you help ___?",
+              "answers": [
+                "us"
+              ]
+            },
+            {
+              "text": "These shoes are great. I love ___.",
+              "answers": [
+                "them"
+              ]
+            },
+            {
+              "text": "Tom is very nice. Do you know ___?",
+              "answers": [
+                "him"
+              ]
+            },
+            {
+              "text": "Can you text ___ the address? I don't have it.",
+              "answers": [
+                "me"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-2",
+          "type": "matching",
+          "instruction": "Match the phone phrases and the meanings.",
+          "pairs": [
+            {
+              "left": "call back",
+              "right": "перезвонить"
+            },
+            {
+              "left": "hang up",
+              "right": "положить трубку"
+            },
+            {
+              "left": "leave a message",
+              "right": "оставить сообщение"
+            },
+            {
+              "left": "text someone",
+              "right": "написать сообщение"
+            },
+            {
+              "left": "be engaged",
+              "right": "быть занятым (о линии)"
+            }
+          ]
+        },
+        {
+          "id": "6a-3",
+          "type": "transform",
+          "instruction": "Replace the words in brackets with a pronoun (whole sentence).",
+          "items": [
+            {
+              "prompt": "I sent (my parents) a photo.",
+              "answers": [
+                "I sent them a photo."
+              ]
+            },
+            {
+              "prompt": "Give the book to (Mark).",
+              "answers": [
+                "Give the book to him.",
+                "Give it to him."
+              ]
+            },
+            {
+              "prompt": "Can you call (Lisa and me) later?",
+              "answers": [
+                "Can you call us later?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "Is this for ___?",
+              "options": [
+                "I",
+                "me",
+                "my"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ is my best friend.",
+              "options": [
+                "Her",
+                "She",
+                "Hers"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I can't find my keys. Have you seen ___?",
+              "options": [
+                "it",
+                "them",
+                "they"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "6a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Phone or message?",
+          "text": "Do you call people or text them? A survey shows that young people hardly ever make phone calls. 'If my mum calls me, I don't answer — I text her back,' says Dima, 19. 'Calls make me nervous.' But older people prefer calls. 'I want to hear my friends' voices,' says Galina, 67. 'Messages are cold.'",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Young people often make phone calls.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "When his mum calls, Dima…",
+              "options": [
+                "answers",
+                "texts her back",
+                "calls back later"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Galina thinks messages are ___.",
+              "answers": [
+                "cold"
+              ]
+            }
+          ],
+          "image": "📱"
+        },
+        {
+          "id": "6a-l",
+          "type": "listening",
+          "instruction": "Listen to the voicemail and answer.",
+          "title": "A voicemail",
+          "script": [
+            {
+              "speaker": "Ella",
+              "text": "Hi Sam, it's Ella. I'm calling about Saturday. Can you meet us at the station at eleven? Jack and Mia are coming with us. Call me back or text me, OK? Bye!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The meeting place is…",
+              "options": [
+                "the café",
+                "the station",
+                "the park"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "They are meeting at ___.",
+              "answers": [
+                "eleven",
+                "11"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Ella asks Sam to call back or text.",
+              "answer": true
+            }
+          ],
+          "image": "📱"
+        }
+      ]
+    },
+    "6B": {
+      "theory": [
+        {
+          "title": "like / love / hate / don't mind + -ing",
+          "text": "После этих глаголов следующий глагол — с окончанием -ing.",
+          "examples": [
+            {
+              "en": "I don't mind cooking, but I hate washing up.",
+              "ru": "Я не против готовить, но ненавижу мыть посуду."
+            },
+            {
+              "en": "Do you like dancing?",
+              "ru": "Ты любишь танцевать?"
+            }
+          ],
+          "tip": "I'd like (= would like) + to: I'd like to go. Это другое значение: «хотел бы»."
+        },
+        {
+          "title": "Даты",
+          "text": "Порядковые числительные: first, second, third, fourth, fifth… twentieth, twenty-first, thirtieth. Пишем 3rd May, говорим the third of May или May the third.",
+          "examples": [
+            {
+              "en": "When's your birthday? — It's on the twenty-second of October.",
+              "ru": "Когда день рождения? — 22 октября."
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the -ing form.",
+          "items": [
+            {
+              "text": "I love ___ in the sea.",
+              "hint": "swim",
+              "answers": [
+                "swimming"
+              ]
+            },
+            {
+              "text": "She hates ___ up early.",
+              "hint": "get",
+              "answers": [
+                "getting"
+              ]
+            },
+            {
+              "text": "Do you mind ___ the window?",
+              "hint": "close",
+              "answers": [
+                "closing"
+              ]
+            },
+            {
+              "text": "They don't like ___ by plane.",
+              "hint": "travel",
+              "answers": [
+                "travelling",
+                "traveling"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-2",
+          "type": "matching",
+          "instruction": "Match the dates.",
+          "pairs": [
+            {
+              "left": "1/3",
+              "right": "the first of March"
+            },
+            {
+              "left": "2/7",
+              "right": "the second of July"
+            },
+            {
+              "left": "3/10",
+              "right": "the third of October"
+            },
+            {
+              "left": "22/2",
+              "right": "the twenty-second of February"
+            },
+            {
+              "left": "31/12",
+              "right": "the thirty-first of December"
+            }
+          ]
+        },
+        {
+          "id": "6b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I don't mind ___ the dishes.",
+              "options": [
+                "do",
+                "doing",
+                "to doing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "My birthday is ___ 5th May.",
+              "options": [
+                "in",
+                "on",
+                "at"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I'd like ___ a coffee.",
+              "options": [
+                "have",
+                "having",
+                "to have"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "6b-4",
+          "type": "transform",
+          "instruction": "Write the ordinal number in words.",
+          "items": [
+            {
+              "prompt": "3rd",
+              "answers": [
+                "third"
+              ]
+            },
+            {
+              "prompt": "12th",
+              "answers": [
+                "twelfth"
+              ]
+            },
+            {
+              "prompt": "20th",
+              "answers": [
+                "twentieth"
+              ]
+            },
+            {
+              "prompt": "41st",
+              "answers": [
+                "forty-first"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Festival calendar",
+          "text": "The city festival starts on the 14th of June and finishes on the 21st. On the first day there's a free concert in the park. If you love dancing, don't miss the street party on the 18th. And if you hate crowds? Visit the museums on the morning of the 15th — they're free and quiet!",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The festival finishes on the ___ of June.",
+              "answers": [
+                "21st",
+                "twenty-first"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The street party is on…",
+              "options": [
+                "the 14th",
+                "the 15th",
+                "the 18th"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "tf",
+              "statement": "The museums are free on the 15th.",
+              "answer": true
+            }
+          ],
+          "image": "🎉"
+        },
+        {
+          "id": "6b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Birthdays",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "When's your birthday?"
+            },
+            {
+              "speaker": "B",
+              "text": "It's on the third of April. And yours?"
+            },
+            {
+              "speaker": "A",
+              "text": "The thirtieth of August. I love having a party in the garden."
+            },
+            {
+              "speaker": "B",
+              "text": "I hate parties! I prefer going to a restaurant."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B's birthday:",
+              "options": [
+                "3rd April",
+                "13th April",
+                "30th April"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "A's birthday:",
+              "options": [
+                "13th August",
+                "30th August",
+                "3rd August"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "B loves parties.",
+              "answer": false
+            }
+          ],
+          "image": "🎂"
+        }
+      ]
+    },
+    "6C": {
+      "theory": [
+        {
+          "title": "be или do?",
+          "text": "be — в предложениях с прилагательными, существительными, местом и Continuous. do/does — вспомогательный в Present Simple.",
+          "table": {
+            "head": [
+              "be",
+              "do"
+            ],
+            "rows": [
+              [
+                "Are you hungry?",
+                "Do you like jazz?"
+              ],
+              [
+                "Is she a teacher?",
+                "Does she teach?"
+              ],
+              [
+                "Where are they?",
+                "Where do they live?"
+              ],
+              [
+                "Are you listening?",
+                "Do you listen to podcasts?"
+              ]
+            ]
+          },
+          "tip": "Не смешивай: Do you are…? — так нельзя. Либо Are you…?, либо Do you + глагол?"
+        },
+        {
+          "title": "Музыка",
+          "text": "classical, jazz, rock, pop, rap, folk. a band, a singer, a concert, a festival, an album, play the guitar / drums / violin."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6c-1",
+          "type": "multiple-choice",
+          "instruction": "be or do?",
+          "items": [
+            {
+              "question": "___ you like rock music?",
+              "options": [
+                "Are",
+                "Do"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ your brother a musician?",
+              "options": [
+                "Is",
+                "Does"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Where ___ the concert?",
+              "options": [
+                "is",
+                "does"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ she play the violin?",
+              "options": [
+                "Is",
+                "Does"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What ___ you listening to?",
+              "options": [
+                "are",
+                "do"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6c-pic",
+          "type": "picture",
+          "instruction": "Musical instruments: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🎻",
+              "answers": [
+                "the violin",
+                "violin"
+              ]
+            },
+            {
+              "emoji": "🥁",
+              "answers": [
+                "the drums",
+                "drums"
+              ]
+            },
+            {
+              "emoji": "🎹",
+              "answers": [
+                "the piano",
+                "piano",
+                "the keyboard"
+              ]
+            },
+            {
+              "emoji": "🎺",
+              "answers": [
+                "the trumpet",
+                "trumpet"
+              ]
+            },
+            {
+              "emoji": "🎷",
+              "answers": [
+                "the saxophone",
+                "saxophone"
+              ]
+            },
+            {
+              "emoji": "🎸",
+              "answers": [
+                "the guitar",
+                "guitar"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-2",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "Do you are tired?",
+              "answers": [
+                "Are you tired?"
+              ]
+            },
+            {
+              "prompt": "Is she like jazz?",
+              "answers": [
+                "Does she like jazz?"
+              ]
+            },
+            {
+              "prompt": "Where do you going?",
+              "answers": [
+                "Where are you going?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-3",
+          "type": "matching",
+          "instruction": "Match.",
+          "pairs": [
+            {
+              "left": "a band",
+              "right": "a group of musicians"
+            },
+            {
+              "left": "an album",
+              "right": "a collection of songs"
+            },
+            {
+              "left": "a festival",
+              "right": "a big outdoor music event"
+            },
+            {
+              "left": "lyrics",
+              "right": "the words of a song"
+            },
+            {
+              "left": "a fan",
+              "right": "a person who loves a singer"
+            }
+          ]
+        },
+        {
+          "id": "6c-4",
+          "type": "gap-fill",
+          "instruction": "Complete with am, is, are, do or does.",
+          "items": [
+            {
+              "text": "What kind of music ___ you like?",
+              "answers": [
+                "do"
+              ]
+            },
+            {
+              "text": "___ your favourite singer British?",
+              "answers": [
+                "Is"
+              ]
+            },
+            {
+              "text": "How often ___ he go to concerts?",
+              "answers": [
+                "does"
+              ]
+            },
+            {
+              "text": "We ___ going to a festival in July.",
+              "answers": [
+                "are"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Music and memory",
+          "text": "Why do we remember songs from our teenage years so well? Scientists say that music is connected to emotions, and our emotions are very strong between the ages of 12 and 22. That's why a song from school can make us happy or sad thirty years later. Music also helps people with memory problems: some old people can't remember their children's names, but they can sing every word of a song from their youth.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Music is connected to…",
+              "options": [
+                "emotions",
+                "maths",
+                "sport"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Emotions are very strong between 12 and ___.",
+              "answers": [
+                "22",
+                "twenty-two"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Music can help people with memory problems.",
+              "answer": true
+            }
+          ],
+          "image": "🎵"
+        },
+        {
+          "id": "6c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Music survey",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "What kind of music do you like?"
+            },
+            {
+              "speaker": "B",
+              "text": "I like jazz, but I don't like rap."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you play an instrument?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I play the saxophone. I'm in a small band."
+            },
+            {
+              "speaker": "A",
+              "text": "Are you playing tonight?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, at a café in the centre."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "B likes rap.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "B plays the ___.",
+              "answers": [
+                "saxophone",
+                "sax"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Tonight the band is playing at…",
+              "options": [
+                "a festival",
+                "a café",
+                "a theatre"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🎷"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Как спросить дорогу",
+        "examples": [
+          {
+            "en": "Excuse me, how do I get to the museum?",
+            "ru": "Как пройти к музею?"
+          },
+          {
+            "en": "Go past the church.",
+            "ru": "Пройдите мимо церкви."
+          },
+          {
+            "en": "It's at the end of the street.",
+            "ru": "Это в конце улицы."
+          },
+          {
+            "en": "You can't miss it.",
+            "ru": "Не пропустите."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe6-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 6.",
+        "video": {
+          "title": "Practical English, File 6 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "How do I get to…?",
+          "Go straight on / turn left.",
+          "It's on the corner.",
+          "Is it far?"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Объяснил(а) по-английски дорогу до ближайшего магазина",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe6-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Directions",
+        "script": [
+          {
+            "speaker": "Tourist",
+            "text": "Excuse me, how do I get to the Old Bridge?"
+          },
+          {
+            "speaker": "Woman",
+            "text": "Go along this street and turn right at the bank. Go past the church, and the bridge is at the end of the street. You can't miss it."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Turn right at the…",
+            "options": [
+              "church",
+              "bank",
+              "café"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Go past the ___.",
+            "answers": [
+              "church"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The bridge is at the end of the street.",
+            "answer": true
+          }
+        ],
+        "image": "🧭"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc6-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "Can you help ___?",
+            "options": [
+              "we",
+              "us",
+              "our"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I hate ___ in queues.",
+            "options": [
+              "wait",
+              "waiting",
+              "to waiting"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ he like classical music?",
+            "options": [
+              "Is",
+              "Does",
+              "Do"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Christmas in Russia is on the ___ of January.",
+            "options": [
+              "seven",
+              "seventh",
+              "seventeen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc6-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Concert tickets",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "I have two tickets for the concert on the twelfth of May. My girlfriend doesn't like rock music, so I'm taking my brother. He loves the band — he has all their albums!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The concert is on…",
+            "options": [
+              "2nd May",
+              "12th May",
+              "20th May"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "His girlfriend likes rock music.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "He is taking his ___.",
+            "answers": [
+              "brother"
+            ]
+          }
+        ],
+        "image": "🎫"
+      }
+    ]
+  }
+}

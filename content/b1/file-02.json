@@ -1,0 +1,887 @@
+{
+  "fileId": "2",
+  "lessons": {
+    "2A": {
+      "theory": [
+        {
+          "title": "Past Simple: повторение",
+          "text": "Законченные действия в прошлом с известным временем. Правильные глаголы + -ed, неправильные — 2-я форма (went, took, flew). Вопрос и отрицание — did + инфинитив.",
+          "examples": [
+            {
+              "en": "We flew to Antalya and stayed in a resort.",
+              "ru": "Мы полетели в Анталью и остановились на курорте."
+            },
+            {
+              "en": "Did you sunbathe? — No, I didn't. It rained!",
+              "ru": "Ты загорал? — Нет. Шёл дождь!"
+            }
+          ],
+          "tip": "Произношение -ed: /t/ (walked), /d/ (stayed), /ɪd/ — только после t/d (rented, landed)."
+        },
+        {
+          "title": "Отпуск",
+          "text": "go abroad, go sightseeing, go camping, sunbathe, rent an apartment, stay in a hotel / with friends, hire a car, book a flight, have a great time, it was crowded / overrated / breathtaking."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Past simple review (B1)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=past+simple+review+pre-intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the past simple.",
+          "items": [
+            {
+              "text": "We ___ a car and drove along the coast.",
+              "hint": "hire",
+              "answers": [
+                "hired"
+              ]
+            },
+            {
+              "text": "The plane ___ two hours late.",
+              "hint": "land",
+              "answers": [
+                "landed"
+              ]
+            },
+            {
+              "text": "I ___ my sunglasses in the hotel.",
+              "hint": "leave",
+              "answers": [
+                "left"
+              ]
+            },
+            {
+              "text": "They ___ anything in the market — it was too expensive.",
+              "hint": "not buy",
+              "answers": [
+                "didn't buy",
+                "did not buy"
+              ]
+            },
+            {
+              "text": "Where did you ___? — In a small guesthouse.",
+              "hint": "stay",
+              "answers": [
+                "stay"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-pic",
+          "type": "picture",
+          "instruction": "Holidays: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "⛺",
+              "answers": [
+                "a tent",
+                "tent",
+                "camping"
+              ]
+            },
+            {
+              "emoji": "🧳",
+              "answers": [
+                "a suitcase",
+                "suitcase"
+              ]
+            },
+            {
+              "emoji": "🗺️",
+              "answers": [
+                "a map",
+                "map"
+              ]
+            },
+            {
+              "emoji": "🏨",
+              "answers": [
+                "a hotel",
+                "hotel"
+              ]
+            },
+            {
+              "emoji": "📸",
+              "answers": [
+                "a camera",
+                "camera"
+              ]
+            },
+            {
+              "emoji": "🕶️",
+              "answers": [
+                "sunglasses"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-2",
+          "type": "matching",
+          "instruction": "Match the holiday verbs and phrases.",
+          "pairs": [
+            {
+              "left": "go",
+              "right": "sightseeing"
+            },
+            {
+              "left": "rent",
+              "right": "an apartment"
+            },
+            {
+              "left": "book",
+              "right": "a flight"
+            },
+            {
+              "left": "hire",
+              "right": "a car"
+            },
+            {
+              "left": "stay",
+              "right": "with friends"
+            }
+          ]
+        },
+        {
+          "id": "2a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the best adjective.",
+          "items": [
+            {
+              "question": "There were thousands of tourists — it was really ___.",
+              "options": [
+                "crowded",
+                "empty",
+                "peaceful"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Everybody says it's amazing, but I didn't like it. I think it's ___.",
+              "options": [
+                "breathtaking",
+                "overrated",
+                "relaxing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The view from the mountain was ___.",
+              "options": [
+                "breathtaking",
+                "crowded",
+                "disgusting"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "2a-4",
+          "type": "transform",
+          "instruction": "Write the question for the answer.",
+          "items": [
+            {
+              "prompt": "We went to Georgia. (Where…?)",
+              "answers": [
+                "Where did you go?"
+              ]
+            },
+            {
+              "prompt": "It cost 500 euros. (How much…?)",
+              "answers": [
+                "How much did it cost?"
+              ]
+            },
+            {
+              "prompt": "We stayed for ten days. (How long…?)",
+              "answers": [
+                "How long did you stay?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "My worst holiday",
+          "text": "Three years ago my friend and I booked a cheap package holiday to a Greek island. The photos online looked fantastic: a hotel by the beach with a big pool. When we arrived, we discovered that the 'beach' was a car park and the pool was empty. On the second day my friend got food poisoning. We complained to the travel company, and in the end they gave us half our money back. Now I always read reviews before I book!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The holiday was…",
+              "options": [
+                "expensive",
+                "cheap",
+                "free"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The hotel was really by the beach.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "On the second day the friend got food ___.",
+              "answers": [
+                "poisoning"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The travel company…",
+              "options": [
+                "did nothing",
+                "gave half the money back",
+                "gave all the money back"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏨"
+        },
+        {
+          "id": "2a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Back from holiday",
+          "script": [
+            {
+              "speaker": "Kate",
+              "text": "Hi! How was Portugal?"
+            },
+            {
+              "speaker": "Ben",
+              "text": "Amazing! We spent a week in Lisbon and then we hired a car and drove to the Algarve."
+            },
+            {
+              "speaker": "Kate",
+              "text": "Did you go to the beach?"
+            },
+            {
+              "speaker": "Ben",
+              "text": "Every day! The water was cold, but the weather was perfect."
+            },
+            {
+              "speaker": "Kate",
+              "text": "And the food?"
+            },
+            {
+              "speaker": "Ben",
+              "text": "Fantastic. I ate grilled sardines almost every evening."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How long were they in Lisbon?",
+              "options": [
+                "three days",
+                "a week",
+                "two weeks"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The sea was warm.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Ben ate grilled ___.",
+              "answers": [
+                "sardines"
+              ]
+            }
+          ],
+          "image": "🏖️"
+        }
+      ]
+    },
+    "2B": {
+      "theory": [
+        {
+          "title": "Past Continuous",
+          "text": "was / were + -ing. Описывает действие в процессе в определённый момент прошлого или фон для другого действия.",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I was reading. They were having dinner."
+              ],
+              [
+                "−",
+                "She wasn't listening."
+              ],
+              [
+                "?",
+                "What were you doing at 8 p.m.?"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "At 10 o'clock I was sleeping.",
+              "ru": "В 10 часов я спал. (в процессе)"
+            },
+            {
+              "en": "I was walking home when I saw an accident.",
+              "ru": "Я шёл домой, когда увидел аварию. (фон + событие)"
+            },
+            {
+              "en": "While she was cooking, he was watching TV.",
+              "ru": "Пока она готовила, он смотрел ТВ. (два процесса)"
+            }
+          ],
+          "tip": "when + Past Simple (короткое событие), while + Past Continuous (длительный процесс)."
+        },
+        {
+          "title": "at / in / on: время и место",
+          "text": "at: at 5 o'clock, at the weekend, at home, at work, at the station. in: in July, in the morning, in the kitchen, in Paris. on: on Monday, on 3rd May, on the bus, on the beach, on the first floor."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2b-1",
+          "type": "multiple-choice",
+          "instruction": "Past simple or past continuous?",
+          "items": [
+            {
+              "question": "I ___ a shower when the phone rang.",
+              "options": [
+                "had",
+                "was having"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "When she arrived, we ___ dinner.",
+              "options": [
+                "started",
+                "were starting"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What ___ at midnight?",
+              "options": [
+                "did you do",
+                "were you doing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He ___ and broke his leg while he was skiing.",
+              "options": [
+                "fell",
+                "was falling"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "2b-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the past continuous.",
+          "items": [
+            {
+              "text": "It ___ when we left the house.",
+              "hint": "rain",
+              "answers": [
+                "was raining"
+              ]
+            },
+            {
+              "text": "They ___ to me — they were looking at their phones.",
+              "hint": "not listen",
+              "answers": [
+                "weren't listening",
+                "were not listening"
+              ]
+            },
+            {
+              "text": "While I ___, someone stole my bike.",
+              "hint": "work",
+              "answers": [
+                "was working"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with at, in or on.",
+          "items": [
+            {
+              "text": "I met him ___ the bus.",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "She's ___ work until six.",
+              "answers": [
+                "at"
+              ]
+            },
+            {
+              "text": "We arrived ___ a cold morning in January.",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "My flat is ___ the third floor.",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "They got married ___ 2015.",
+              "answers": [
+                "in"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-4",
+          "type": "transform",
+          "instruction": "Join with when or while.",
+          "items": [
+            {
+              "prompt": "I was driving. I saw a deer. (when)",
+              "answers": [
+                "I was driving when I saw a deer."
+              ]
+            },
+            {
+              "prompt": "She was sleeping. The burglar came in. (while)",
+              "answers": [
+                "While she was sleeping, the burglar came in.",
+                "The burglar came in while she was sleeping."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The photo",
+          "text": "This photo is special to me. It was a summer evening in 2019 and we were sitting on the beach in Crimea. The sun was setting, my brother was playing the guitar and my friends were singing. Nobody was looking at their phones. At that moment my dad took this photo. Two weeks later my brother moved to Canada, and we haven't been together like that since.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The photo was taken in…",
+              "options": [
+                "winter",
+                "summer",
+                "spring"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The brother was playing the ___.",
+              "answers": [
+                "guitar"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Who took the photo?",
+              "options": [
+                "the writer",
+                "the brother",
+                "the dad"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "tf",
+              "statement": "The brother moved to Canada.",
+              "answer": true
+            }
+          ],
+          "image": "📷"
+        },
+        {
+          "id": "2b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "What were you doing?",
+          "script": [
+            {
+              "speaker": "Police officer",
+              "text": "What were you doing at nine o'clock last night?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I was watching a football match at a bar with my friend."
+            },
+            {
+              "speaker": "Police officer",
+              "text": "Were you there all evening?"
+            },
+            {
+              "speaker": "Man",
+              "text": "No. At about half past ten we were walking home when we heard a loud noise."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "At 9 p.m. the man was at home.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "He was watching a ___ match.",
+              "answers": [
+                "football"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "At 10:30 they were…",
+              "options": [
+                "walking home",
+                "in the bar",
+                "sleeping"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🚓"
+        }
+      ]
+    },
+    "2C": {
+      "theory": [
+        {
+          "title": "Связки в рассказе",
+          "table": {
+            "head": [
+              "Группа",
+              "Слова"
+            ],
+            "rows": [
+              [
+                "Последовательность",
+                "First, Then, Next, After that, Later, Finally / In the end"
+              ],
+              [
+                "Время",
+                "One day, When, While, As soon as, Suddenly"
+              ],
+              [
+                "Связь мыслей",
+                "so (поэтому), because (потому что), but (но), although (хотя)"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "It was late, so we took a taxi.",
+              "ru": "Было поздно, поэтому мы взяли такси."
+            },
+            {
+              "en": "Although it was raining, we went for a walk.",
+              "ru": "Хотя шёл дождь, мы пошли гулять."
+            },
+            {
+              "en": "As soon as I got home, I went to bed.",
+              "ru": "Как только я пришёл домой, я лёг спать."
+            }
+          ],
+          "tip": "In the end = в итоге (после цепочки событий). At the end of = в конце чего-то (at the end of the film)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "2c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct connector.",
+          "items": [
+            {
+              "question": "I was tired, ___ I went to bed early.",
+              "options": [
+                "because",
+                "so",
+                "although"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ he was ill, he went to work.",
+              "options": [
+                "Although",
+                "Because",
+                "So"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "We waited for an hour. ___, the bus arrived.",
+              "options": [
+                "At the end",
+                "In the end",
+                "While"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ I opened the door, the dog ran out.",
+              "options": [
+                "As soon as",
+                "Although",
+                "So"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "2c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with so, because, but or although.",
+          "items": [
+            {
+              "text": "I didn't go to the party ___ I had a headache.",
+              "answers": [
+                "because"
+              ]
+            },
+            {
+              "text": "The tickets were expensive, ___ we bought them.",
+              "answers": [
+                "but"
+              ]
+            },
+            {
+              "text": "It started to snow, ___ we stayed at home.",
+              "answers": [
+                "so"
+              ]
+            },
+            {
+              "text": "___ she studied hard, she failed the exam.",
+              "answers": [
+                "Although"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2c-3",
+          "type": "matching",
+          "instruction": "Match to make verb phrases.",
+          "pairs": [
+            {
+              "left": "fall",
+              "right": "asleep"
+            },
+            {
+              "left": "lose",
+              "right": "your temper"
+            },
+            {
+              "left": "run out",
+              "right": "of petrol"
+            },
+            {
+              "left": "make",
+              "right": "a mistake"
+            },
+            {
+              "left": "get",
+              "right": "lost"
+            }
+          ]
+        },
+        {
+          "id": "2c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "In the end we decided to go home."
+            },
+            {
+              "answer": "Although it was cold, we went swimming."
+            }
+          ]
+        },
+        {
+          "id": "2c-r",
+          "type": "reading",
+          "instruction": "Read the story and answer.",
+          "title": "A lucky mistake",
+          "text": "One day last spring I was late for an important interview, so I jumped into a taxi. While we were driving, the driver started talking about his daughter, who ran a small design company. Although I was nervous, I listened. Then the taxi got stuck in traffic and I missed the interview. I was furious! But as soon as I got out, the driver gave me his daughter's card. I called her the next day, and in the end she offered me a job — a much better one.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The writer arrived at the interview on time.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The driver's daughter ran a small ___ company.",
+              "answers": [
+                "design"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "In the end the writer…",
+              "options": [
+                "got the original job",
+                "got a better job",
+                "became a taxi driver"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚕"
+        },
+        {
+          "id": "2c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Running out of petrol",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "We were driving through the mountains at night when suddenly the car stopped. We ran out of petrol! There was no phone signal, so we started walking. After about an hour, a farmer saw us and took us to his house. Finally, at three in the morning, his son brought some petrol."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Where were they?",
+              "options": [
+                "by the sea",
+                "in the mountains",
+                "in the city"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They called for help on the phone.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The petrol came at ___ in the morning.",
+              "answers": [
+                "three",
+                "3"
+              ]
+            }
+          ],
+          "image": "⛽"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc2-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "I ___ TV when I heard a scream.",
+            "options": [
+              "watched",
+              "was watching",
+              "am watching"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "We ___ in a lovely hotel last summer.",
+            "options": [
+              "stayed",
+              "were staying",
+              "have stayed"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I'll see you ___ the weekend.",
+            "options": [
+              "in",
+              "on",
+              "at"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "It was raining, ___ we took umbrellas.",
+            "options": [
+              "so",
+              "because",
+              "although"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc2-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "Lost in Venice",
+        "text": "On our first evening in Venice we got lost. We were looking for our hotel when it started to rain. We didn't have a map, and my phone battery was dead. Although we were wet and hungry, it was magical: the streets were empty and the canals were shining. In the end, a kind waiter showed us the way.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "They had a map.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "The phone ___ was dead.",
+            "answers": [
+              "battery"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Who helped them?",
+            "options": [
+              "a police officer",
+              "a waiter",
+              "a gondolier"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🛶"
+      }
+    ]
+  }
+}

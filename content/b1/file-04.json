@@ -1,0 +1,876 @@
+{
+  "fileId": "4",
+  "lessons": {
+    "4A": {
+      "theory": [
+        {
+          "title": "Present Perfect + yet, just, already",
+          "table": {
+            "head": [
+              "Слово",
+              "Значение",
+              "Место",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "just",
+                "только что",
+                "между have и V3",
+                "I've just finished."
+              ],
+              [
+                "already",
+                "уже (раньше, чем ожидали)",
+                "между have и V3",
+                "She's already left."
+              ],
+              [
+                "yet",
+                "уже? / ещё не",
+                "в конце вопроса / отрицания",
+                "Have you done it yet? I haven't done it yet."
+              ]
+            ]
+          },
+          "tip": "Present Perfect связывает прошлое с настоящим: результат важен сейчас. Если называем время (yesterday, at 5) — Past Simple."
+        },
+        {
+          "title": "make или do?",
+          "table": {
+            "head": [
+              "make",
+              "do"
+            ],
+            "rows": [
+              [
+                "make the bed, make dinner, make a mess",
+                "do the washing up, do the ironing, do the shopping"
+              ],
+              [
+                "make a noise, make a decision, make a phone call",
+                "do homework, do exercise, do a course"
+              ]
+            ]
+          }
+        }
+      ],
+      "videos": [
+        {
+          "title": "Present perfect: just, already, yet",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=present+perfect+just+already+yet"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with just, already or yet.",
+          "items": [
+            {
+              "text": "Don't call him now. He's ___ gone to bed. (a minute ago)",
+              "answers": [
+                "just"
+              ]
+            },
+            {
+              "text": "Have you finished your homework ___?",
+              "answers": [
+                "yet"
+              ]
+            },
+            {
+              "text": "I haven't ironed my shirt ___.",
+              "answers": [
+                "yet"
+              ]
+            },
+            {
+              "text": "We've ___ seen this film — let's watch something else.",
+              "answers": [
+                "already"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-pic",
+          "type": "picture",
+          "instruction": "Housework: write the phrase.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🧹",
+              "answers": [
+                "sweep the floor",
+                "do the sweeping"
+              ]
+            },
+            {
+              "emoji": "🧺",
+              "answers": [
+                "do the washing",
+                "do the laundry"
+              ]
+            },
+            {
+              "emoji": "🛏️",
+              "answers": [
+                "make the bed"
+              ]
+            },
+            {
+              "emoji": "🗑️",
+              "answers": [
+                "take out the rubbish",
+                "take the rubbish out"
+              ]
+            },
+            {
+              "emoji": "🍽️",
+              "answers": [
+                "lay the table",
+                "set the table"
+              ]
+            },
+            {
+              "emoji": "🧽",
+              "answers": [
+                "do the washing up",
+                "wash up",
+                "do the dishes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-2",
+          "type": "multiple-choice",
+          "instruction": "make or do?",
+          "items": [
+            {
+              "question": "Who's going to ___ the washing up?",
+              "options": [
+                "make",
+                "do"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Please ___ your bed.",
+              "options": [
+                "make",
+                "do"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "The kids ___ a terrible mess.",
+              "options": [
+                "made",
+                "did"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I ___ the ironing on Sundays.",
+              "options": [
+                "make",
+                "do"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "4a-3",
+          "type": "transform",
+          "instruction": "Write sentences with the present perfect.",
+          "items": [
+            {
+              "prompt": "I / just / clean / the kitchen",
+              "answers": [
+                "I've just cleaned the kitchen.",
+                "I have just cleaned the kitchen."
+              ]
+            },
+            {
+              "prompt": "she / not tidy / her room / yet",
+              "answers": [
+                "She hasn't tidied her room yet.",
+                "She has not tidied her room yet."
+              ]
+            },
+            {
+              "prompt": "you / take out / the rubbish / yet?",
+              "answers": [
+                "Have you taken out the rubbish yet?",
+                "Have you taken the rubbish out yet?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4a-4",
+          "type": "matching",
+          "instruction": "Match the housework phrases.",
+          "pairs": [
+            {
+              "left": "take out",
+              "right": "the rubbish"
+            },
+            {
+              "left": "lay",
+              "right": "the table"
+            },
+            {
+              "left": "load",
+              "right": "the dishwasher"
+            },
+            {
+              "left": "hang up",
+              "right": "the washing"
+            },
+            {
+              "left": "do",
+              "right": "the vacuuming"
+            }
+          ]
+        },
+        {
+          "id": "4a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Who does the housework?",
+          "text": "In many countries women still do most of the housework, even when both partners work full-time. A recent study found that women spend about 2.5 hours a day on unpaid work at home, compared to 1.5 hours for men. But things are changing: young couples share jobs more equally. 'My husband has just learned to iron,' laughs Irina, 29. 'He's already ruined two of my blouses, but he's trying!'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Women spend about ___ hours a day on housework.",
+              "answers": [
+                "2.5",
+                "two and a half"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Young couples share housework less equally.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Irina's husband has just learned to…",
+              "options": [
+                "cook",
+                "iron",
+                "clean"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🧹"
+        },
+        {
+          "id": "4a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Before the guests arrive",
+          "script": [
+            {
+              "speaker": "Mum",
+              "text": "Have you laid the table yet?"
+            },
+            {
+              "speaker": "Son",
+              "text": "Yes, I've just done it."
+            },
+            {
+              "speaker": "Mum",
+              "text": "And have you taken out the rubbish?"
+            },
+            {
+              "speaker": "Son",
+              "text": "Not yet. But Dad has already done the vacuuming."
+            },
+            {
+              "speaker": "Mum",
+              "text": "Great. Hurry up — they'll be here in ten minutes!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The son has laid the table.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "He has taken out the rubbish.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Dad has done the ___.",
+              "answers": [
+                "vacuuming"
+              ]
+            }
+          ],
+          "image": "🧹"
+        }
+      ]
+    },
+    "4B": {
+      "theory": [
+        {
+          "title": "Present Perfect или Past Simple?",
+          "table": {
+            "head": [
+              "Present Perfect",
+              "Past Simple"
+            ],
+            "rows": [
+              [
+                "время не указано, важен результат / опыт",
+                "конкретное время в прошлом"
+              ],
+              [
+                "I've bought a new coat. (вот он)",
+                "I bought it last Saturday."
+              ],
+              [
+                "ever, never, just, already, yet, today, this week",
+                "yesterday, last…, ago, in 2010, when…"
+              ]
+            ]
+          },
+          "tip": "Новость начинаем с Perfect, детали рассказываем в Past: I've lost my phone! — Where did you lose it?"
+        },
+        {
+          "title": "Покупки",
+          "text": "a receipt, a refund, a bargain, a discount, a sale, a changing room, a size, try on, fit (по размеру), suit (идёт), exchange, order online, deliver, return."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "I ___ this jacket in the sales last week.",
+              "options": [
+                "bought",
+                "have bought"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Look! I ___ a new phone.",
+              "options": [
+                "got",
+                "'ve got"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ you ever ___ anything online that didn't fit?",
+              "options": [
+                "Did … order",
+                "Have … ordered"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "When ___ the parcel arrive?",
+              "options": [
+                "did",
+                "has"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "4b-2",
+          "type": "matching",
+          "instruction": "Match the shopping words and definitions.",
+          "pairs": [
+            {
+              "left": "a receipt",
+              "right": "a paper that shows what you paid"
+            },
+            {
+              "left": "a refund",
+              "right": "money you get back"
+            },
+            {
+              "left": "a bargain",
+              "right": "something cheaper than usual"
+            },
+            {
+              "left": "fit",
+              "right": "be the right size"
+            },
+            {
+              "left": "suit",
+              "right": "look good on someone"
+            }
+          ]
+        },
+        {
+          "id": "4b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with the present perfect or past simple.",
+          "items": [
+            {
+              "text": "I ___ my wallet! Have you seen it?",
+              "hint": "lose",
+              "answers": [
+                "'ve lost",
+                "have lost"
+              ]
+            },
+            {
+              "text": "I think I ___ it in the taxi last night.",
+              "hint": "leave",
+              "answers": [
+                "left"
+              ]
+            },
+            {
+              "text": "She ___ to that shop three times this week.",
+              "hint": "be",
+              "answers": [
+                "'s been",
+                "has been"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I have bought these shoes yesterday.",
+              "answers": [
+                "I bought these shoes yesterday."
+              ]
+            },
+            {
+              "prompt": "Did you ever return something?",
+              "answers": [
+                "Have you ever returned something?",
+                "Have you ever returned anything?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Shopping addiction",
+          "text": "Marina has bought more than 300 items of clothing in the last two years — and about half of them still have the labels on. 'I started shopping online during lockdown,' she explains. 'Every evening I ordered something. When the parcel arrived, I felt happy for about an hour.' She has now joined a support group and hasn't bought anything for six weeks. 'I've already sold forty dresses online, and I've saved more money this month than ever before.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "She has bought more than ___ items.",
+              "answers": [
+                "300",
+                "three hundred"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "When she got a parcel she felt happy for about…",
+              "options": [
+                "a day",
+                "an hour",
+                "a week"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "She hasn't bought anything for six weeks.",
+              "answer": true
+            }
+          ],
+          "image": "🛍️"
+        },
+        {
+          "id": "4b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Returning a jacket",
+          "script": [
+            {
+              "speaker": "Customer",
+              "text": "Hi, I bought this jacket here on Saturday, but it doesn't fit."
+            },
+            {
+              "speaker": "Assistant",
+              "text": "Have you got the receipt?"
+            },
+            {
+              "speaker": "Customer",
+              "text": "Yes, here it is."
+            },
+            {
+              "speaker": "Assistant",
+              "text": "Would you like to exchange it or get a refund?"
+            },
+            {
+              "speaker": "Customer",
+              "text": "A refund, please. I've already found a better one online."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The customer bought the jacket on…",
+              "options": [
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The customer has the receipt.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "The customer wants…",
+              "options": [
+                "an exchange",
+                "a refund",
+                "a discount"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🛍️"
+        }
+      ]
+    },
+    "4C": {
+      "theory": [
+        {
+          "title": "something / anything / nothing",
+          "table": {
+            "head": [
+              "",
+              "+",
+              "− / ?",
+              "отрицательное значение"
+            ],
+            "rows": [
+              [
+                "вещи",
+                "something",
+                "anything",
+                "nothing"
+              ],
+              [
+                "люди",
+                "somebody / someone",
+                "anybody / anyone",
+                "nobody / no one"
+              ],
+              [
+                "места",
+                "somewhere",
+                "anywhere",
+                "nowhere"
+              ]
+            ]
+          },
+          "tip": "С nothing / nobody глагол утвердительный: I saw nobody (а не I didn't see nobody). В предложениях и просьбах — some: Would you like something to drink?"
+        },
+        {
+          "title": "Прилагательные на -ed и -ing",
+          "text": "-ed — как человек себя чувствует; -ing — что вызывает это чувство.",
+          "examples": [
+            {
+              "en": "I'm bored. The film is boring.",
+              "ru": "Мне скучно. Фильм скучный."
+            },
+            {
+              "en": "She was surprised. The news was surprising.",
+              "ru": "Она удивилась. Новость была удивительной."
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "4c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with something, anything, nothing, somebody, anybody or nobody.",
+          "items": [
+            {
+              "text": "Is there ___ in the fridge? I'm hungry.",
+              "answers": [
+                "anything"
+              ]
+            },
+            {
+              "text": "___ called you while you were out. I don't know who.",
+              "answers": [
+                "Somebody",
+                "Someone"
+              ]
+            },
+            {
+              "text": "I've got ___ to wear! All my clothes are dirty.",
+              "answers": [
+                "nothing"
+              ]
+            },
+            {
+              "text": "Did you meet ___ interesting at the party?",
+              "answers": [
+                "anybody",
+                "anyone"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c-2",
+          "type": "multiple-choice",
+          "instruction": "-ed or -ing?",
+          "items": [
+            {
+              "question": "I was really ___ by the ending.",
+              "options": [
+                "shocked",
+                "shocking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "The lecture was so ___.",
+              "options": [
+                "bored",
+                "boring"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Are you ___ in art?",
+              "options": [
+                "interested",
+                "interesting"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "It was a very ___ day.",
+              "options": [
+                "tired",
+                "tiring"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "4c-3",
+          "type": "transform",
+          "instruction": "Rewrite with nothing / nobody / nowhere.",
+          "items": [
+            {
+              "prompt": "I didn't see anybody.",
+              "answers": [
+                "I saw nobody.",
+                "I saw no one."
+              ]
+            },
+            {
+              "prompt": "There isn't anything in the box.",
+              "answers": [
+                "There's nothing in the box.",
+                "There is nothing in the box."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4c-4",
+          "type": "matching",
+          "instruction": "Match.",
+          "pairs": [
+            {
+              "left": "frightened",
+              "right": "afraid"
+            },
+            {
+              "left": "disappointed",
+              "right": "sad because something was worse than expected"
+            },
+            {
+              "left": "embarrassed",
+              "right": "feeling stupid in front of others"
+            },
+            {
+              "left": "relaxed",
+              "right": "calm"
+            }
+          ]
+        },
+        {
+          "id": "4c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Nothing to do?",
+          "text": "Children today are rarely bored — there's always something on a screen. But some scientists say boredom is useful. When there's nothing to do, the brain starts to daydream, and that's when creative ideas appear. In one experiment, people who did a boring task for 15 minutes were more creative afterwards than people who did something interesting. So next time your child says 'I'm bored', maybe say nothing!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Scientists say boredom can be useful.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "The boring task lasted ___ minutes.",
+              "answers": [
+                "15",
+                "fifteen"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "After the boring task, people were…",
+              "options": [
+                "less creative",
+                "more creative",
+                "more tired"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🥱"
+        },
+        {
+          "id": "4c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "An embarrassing moment",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "My most embarrassing moment? I was giving a presentation to two hundred people. Everybody was looking at me, and suddenly I forgot everything. Nothing! My mind was completely empty. Nobody said anything for about ten seconds. Then somebody at the back laughed — and luckily I laughed too."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "There were ___ people.",
+              "answers": [
+                "two hundred",
+                "200"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "He remembered everything.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The silence lasted about…",
+              "options": [
+                "a minute",
+                "ten seconds",
+                "five minutes"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "😳"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc4-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "Have you finished ___?",
+            "options": [
+              "already",
+              "just",
+              "yet"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "I ___ my keys. Can you help me look?",
+            "options": [
+              "lost",
+              "'ve lost",
+              "lose"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "There's ___ at the door. Can you open it?",
+            "options": [
+              "somebody",
+              "anybody",
+              "nobody"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I was very ___ when I heard the news.",
+            "options": [
+              "surprising",
+              "surprised"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc4-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A busy morning",
+        "text": "It's only 10 a.m. and I've already done a lot: I've made breakfast, I've done the shopping and I've just finished the ironing. But I haven't checked my emails yet, and nobody has walked the dog. That's the next job!",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The writer has done the shopping.",
+            "answer": true
+          },
+          {
+            "kind": "tf",
+            "statement": "The writer has checked emails.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "Nobody has walked the ___.",
+            "answers": [
+              "dog"
+            ]
+          }
+        ],
+        "image": "🧺"
+      }
+    ]
+  }
+}

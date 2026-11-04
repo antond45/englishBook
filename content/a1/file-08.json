@@ -1,0 +1,1031 @@
+{
+  "fileId": "8",
+  "lessons": {
+    "8A": {
+      "theory": [
+        {
+          "title": "Прошедшее время be: was / were",
+          "text": "am и is в прошедшем времени превращаются в was, are — в were.",
+          "table": {
+            "head": [
+              "",
+              "+",
+              "−"
+            ],
+            "rows": [
+              [
+                "I / he / she / it",
+                "was",
+                "wasn't"
+              ],
+              [
+                "you / we / they",
+                "were",
+                "weren't"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "I was at home yesterday.",
+              "ru": "Вчера я был дома."
+            },
+            {
+              "en": "They were in Paris last summer.",
+              "ru": "Прошлым летом они были в Париже."
+            },
+            {
+              "en": "The film wasn't very good.",
+              "ru": "Фильм был не очень."
+            }
+          ]
+        },
+        {
+          "title": "Даты",
+          "text": "Для дат используем порядковые числительные: 1st first, 2nd second, 3rd third, 4th fourth, 5th fifth… 12th twelfth, 20th twentieth, 21st twenty-first.",
+          "examples": [
+            {
+              "en": "My birthday is on the 3rd of May.",
+              "ru": "Мой день рождения 3 мая."
+            },
+            {
+              "en": "It was on the twenty-first of January.",
+              "ru": "Это было 21 января."
+            }
+          ],
+          "tip": "С датами — предлог on (on the 5th of June), с месяцами и годами — in (in June, in 1998)."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Was / were for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=was+were+past+simple+be+beginners"
+        },
+        {
+          "title": "Months and dates in English",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=months+dates+ordinal+numbers+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with was or were.",
+          "items": [
+            {
+              "text": "I ___ at work yesterday.",
+              "answers": [
+                "was"
+              ]
+            },
+            {
+              "text": "We ___ in Rome last summer.",
+              "answers": [
+                "were"
+              ]
+            },
+            {
+              "text": "The film ___ very good.",
+              "answers": [
+                "was"
+              ]
+            },
+            {
+              "text": "My parents ___ at home.",
+              "answers": [
+                "were"
+              ]
+            },
+            {
+              "text": "You ___ late this morning!",
+              "answers": [
+                "were"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-2",
+          "type": "matching",
+          "instruction": "Match the numbers and the ordinal numbers.",
+          "pairs": [
+            {
+              "left": "1st",
+              "right": "first"
+            },
+            {
+              "left": "2nd",
+              "right": "second"
+            },
+            {
+              "left": "3rd",
+              "right": "third"
+            },
+            {
+              "left": "5th",
+              "right": "fifth"
+            },
+            {
+              "left": "12th",
+              "right": "twelfth"
+            },
+            {
+              "left": "20th",
+              "right": "twentieth"
+            }
+          ]
+        },
+        {
+          "id": "8a-3",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "She was happy.",
+              "answers": [
+                "She wasn't happy.",
+                "She was not happy."
+              ]
+            },
+            {
+              "prompt": "They were at the party.",
+              "answers": [
+                "They weren't at the party.",
+                "They were not at the party."
+              ]
+            },
+            {
+              "prompt": "It was cold.",
+              "answers": [
+                "It wasn't cold.",
+                "It was not cold."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8a-4",
+          "type": "multiple-choice",
+          "instruction": "Which month comes next?",
+          "items": [
+            {
+              "question": "January, February, …",
+              "options": [
+                "April",
+                "March",
+                "May"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "June, July, …",
+              "options": [
+                "August",
+                "September",
+                "October"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "October, November, …",
+              "options": [
+                "January",
+                "December",
+                "September"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "April, May, …",
+              "options": [
+                "July",
+                "June",
+                "March"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8a-r",
+          "type": "reading",
+          "instruction": "Read the postcard and answer.",
+          "title": "A postcard from Scotland",
+          "text": "Hi Mum!\n\nWe were in Edinburgh last week. The city was beautiful, but the weather wasn't very good — it was cold and windy! The castle was amazing, and the people were really friendly. Our hotel wasn't expensive, and it was near the centre. We were very happy there.\n\nLove, Anna and Tom",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "They were in Edinburgh last month.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The weather was…",
+              "options": [
+                "hot and sunny",
+                "cold and windy",
+                "warm"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The hotel was expensive.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The people were really ___.",
+              "answers": [
+                "friendly"
+              ]
+            }
+          ],
+          "image": "🏰"
+        },
+        {
+          "id": "8a-l",
+          "type": "listening",
+          "instruction": "Listen to the dates and choose the correct one.",
+          "title": "Important dates",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "My birthday is on the twelfth of March."
+            },
+            {
+              "speaker": "B",
+              "text": "Our wedding was on the third of August."
+            },
+            {
+              "speaker": "A",
+              "text": "The exam is on the twenty-first of June."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Birthday:",
+              "options": [
+                "2nd March",
+                "12th March",
+                "20th March"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Wedding:",
+              "options": [
+                "3rd August",
+                "13th August",
+                "3rd April"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "Exam:",
+              "options": [
+                "21st July",
+                "21st June",
+                "1st June"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "📅"
+        }
+      ]
+    },
+    "8B": {
+      "theory": [
+        {
+          "title": "Вопросы с was / were",
+          "text": "Как и в настоящем времени, was / were ставится перед подлежащим.",
+          "examples": [
+            {
+              "en": "Was he at work? — Yes, he was. / No, he wasn't.",
+              "ru": "Он был на работе?"
+            },
+            {
+              "en": "Were you born in Moscow?",
+              "ru": "Ты родился в Москве?"
+            },
+            {
+              "en": "Where were you yesterday?",
+              "ru": "Где ты был вчера?"
+            },
+            {
+              "en": "What was your first teacher's name?",
+              "ru": "Как звали твою первую учительницу?"
+            }
+          ],
+          "tip": "«Я родился» — всегда I was born (в прошедшем времени, с was). Не говорите I born."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8b-1",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "You were at school. → ___?",
+              "answers": [
+                "Were you at school?"
+              ]
+            },
+            {
+              "prompt": "She was a good student. → ___?",
+              "answers": [
+                "Was she a good student?"
+              ]
+            },
+            {
+              "prompt": "They were born in Spain. → ___?",
+              "answers": [
+                "Were they born in Spain?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct short answer.",
+          "items": [
+            {
+              "question": "Was it expensive? (✗)",
+              "options": [
+                "No, it wasn't.",
+                "No, it weren't.",
+                "No, it didn't."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Were you tired? (✓)",
+              "options": [
+                "Yes, I were.",
+                "Yes, I was.",
+                "Yes, I am."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Were they at home? (✗)",
+              "options": [
+                "No, they wasn't.",
+                "No, they weren't.",
+                "No, they aren't."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "8b-3",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "Where were you born?"
+            },
+            {
+              "answer": "What was your first school like?"
+            },
+            {
+              "answer": "Who was your best friend?"
+            }
+          ]
+        },
+        {
+          "id": "8b-4",
+          "type": "true-false",
+          "instruction": "Read about Igor. True or False?",
+          "text": "I was born in 1995 in a small town near Kazan. My first school was very small — there were only fifteen students in my class. My favourite teacher was Mrs Petrova. She was strict but very kind.",
+          "items": [
+            {
+              "statement": "Igor was born in Kazan.",
+              "answer": false
+            },
+            {
+              "statement": "His school was big.",
+              "answer": false
+            },
+            {
+              "statement": "There were 15 students in his class.",
+              "answer": true
+            },
+            {
+              "statement": "Mrs Petrova was kind.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "8b-r",
+          "type": "reading",
+          "instruction": "Read about a famous person and answer.",
+          "title": "Yuri Gagarin",
+          "text": "Yuri Gagarin was born on the 9th of March 1934 in a small village in Russia. His parents were farmers. As a young man he was a student at a technical school, and later he was a pilot in the air force. On the 12th of April 1961 he was the first person in space. The flight was 108 minutes long. He was only twenty-seven.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Gagarin was born in…",
+              "options": [
+                "1934",
+                "1961",
+                "1943"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "His parents were teachers.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The flight was ___ minutes long.",
+              "answers": [
+                "108",
+                "a hundred and eight",
+                "one hundred and eight"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "How old was he in space?",
+              "options": [
+                "24",
+                "27",
+                "34"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚀"
+        },
+        {
+          "id": "8b-l",
+          "type": "listening",
+          "instruction": "Listen to the interview and answer.",
+          "title": "Childhood",
+          "script": [
+            {
+              "speaker": "Interviewer",
+              "text": "Where were you born?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "I was born in Sochi, in 1990."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "Were you a good student?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "No, I wasn't! I was very lazy. But I was good at sport."
+            },
+            {
+              "speaker": "Interviewer",
+              "text": "Who was your best friend?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "My cousin Masha. We were always together."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "She was born in…",
+              "options": [
+                "1990",
+                "1909",
+                "1999"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "She was a good student.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "She was good at ___.",
+              "answers": [
+                "sport",
+                "sports"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Her best friend was her…",
+              "options": [
+                "sister",
+                "cousin",
+                "neighbour"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🧒"
+        }
+      ]
+    },
+    "8C": {
+      "theory": [
+        {
+          "title": "Слова-маркеры прошедшего времени",
+          "table": {
+            "head": [
+              "Выражение",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "yesterday / yesterday morning",
+                "вчера / вчера утром"
+              ],
+              [
+                "last night / last week / last year",
+                "вчера вечером / на прошлой неделе / в прошлом году"
+              ],
+              [
+                "two days ago / a month ago",
+                "два дня назад / месяц назад"
+              ],
+              [
+                "in 2015 / in the 1990s",
+                "в 2015 году / в 1990-х"
+              ]
+            ]
+          },
+          "tip": "«Вчера вечером» — last night, а не yesterday night. С last не нужен предлог: last week (не in last week)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "8c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with yesterday, last or ago.",
+          "items": [
+            {
+              "text": "I was in London ___ week.",
+              "answers": [
+                "last"
+              ]
+            },
+            {
+              "text": "She was ill ___ morning.",
+              "answers": [
+                "yesterday"
+              ]
+            },
+            {
+              "text": "We were at the beach two days ___.",
+              "answers": [
+                "ago"
+              ]
+            },
+            {
+              "text": "They were here ___ night.",
+              "answers": [
+                "last"
+              ]
+            },
+            {
+              "text": "My birthday was a month ___.",
+              "answers": [
+                "ago"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8c-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct expression.",
+          "items": [
+            {
+              "question": "I was at the cinema ___.",
+              "options": [
+                "last night",
+                "yesterday night",
+                "night ago"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He was in Paris ___.",
+              "options": [
+                "ago three years",
+                "three years ago",
+                "last three years"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We were at home ___.",
+              "options": [
+                "yesterday afternoon",
+                "last afternoon",
+                "afternoon ago"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "8c-3",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "I was at the gym yesterday."
+            },
+            {
+              "answer": "Where were you last weekend?"
+            },
+            {
+              "answer": "She was in hospital two weeks ago."
+            }
+          ]
+        },
+        {
+          "id": "8c-4",
+          "type": "transform",
+          "instruction": "Rewrite the sentence in the past with the time expression in brackets.",
+          "items": [
+            {
+              "prompt": "I'm at home. (yesterday)",
+              "answers": [
+                "I was at home yesterday.",
+                "Yesterday I was at home."
+              ]
+            },
+            {
+              "prompt": "They're in Moscow. (last week)",
+              "answers": [
+                "They were in Moscow last week.",
+                "Last week they were in Moscow."
+              ]
+            },
+            {
+              "prompt": "It's cold. (last night)",
+              "answers": [
+                "It was cold last night.",
+                "Last night it was cold."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Where were you?",
+          "text": "Detective: Where were you last night at nine o'clock?\n\nMr Green: I was at home. My wife was with me.\n\nDetective: And yesterday morning?\n\nMr Green: I was at work, in the bank. My boss was there too.\n\nDetective: And a week ago, on Friday?\n\nMr Green: I was in Paris. The tickets are in my bag.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Last night Mr Green was…",
+              "options": [
+                "at work",
+                "at home",
+                "in Paris"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Yesterday morning he was at the ___.",
+              "answers": [
+                "bank"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "A week ago he was in Paris.",
+              "answer": true
+            }
+          ],
+          "image": "🚓"
+        },
+        {
+          "id": "8c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "When was it?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "When were you in London?"
+            },
+            {
+              "speaker": "B",
+              "text": "Two years ago, in the summer."
+            },
+            {
+              "speaker": "A",
+              "text": "And when was your sister's wedding?"
+            },
+            {
+              "speaker": "B",
+              "text": "Last month. It was fantastic."
+            },
+            {
+              "speaker": "A",
+              "text": "Were you at the gym yesterday?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I wasn't. I was tired."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B was in London…",
+              "options": [
+                "last year",
+                "two years ago",
+                "last month"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "The wedding was…",
+              "options": [
+                "last week",
+                "last month",
+                "yesterday"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "B was at the gym yesterday.",
+              "answer": false
+            }
+          ],
+          "image": "📅"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Phone calls in English for beginners",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=phone+call+english+conversation+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe8-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 8.",
+        "video": {
+          "title": "Practical English, File 8 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Hello, can I speak to Mark, please?",
+          "Who's calling?",
+          "Just a moment.",
+          "Can I leave a message?",
+          "I'll call back later."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Разыграл(а) телефонный разговор вслух",
+          "Записал(а) голосовое сообщение на английском (себе)"
+        ]
+      },
+      {
+        "id": "pe8-2",
+        "type": "word-order",
+        "instruction": "Put the words in order.",
+        "items": [
+          {
+            "answer": "Can I speak to Anna, please?"
+          },
+          {
+            "answer": "Can I leave a message?"
+          },
+          {
+            "answer": "I'll call back later."
+          }
+        ]
+      },
+      {
+        "id": "pe8-l",
+        "type": "listening",
+        "instruction": "Listen to the phone call and answer.",
+        "title": "A message",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "Hello, Smith and Partners."
+          },
+          {
+            "speaker": "Man",
+            "text": "Hello, can I speak to Ms Jones, please?"
+          },
+          {
+            "speaker": "Woman",
+            "text": "I'm sorry, she's in a meeting. Can I take a message?"
+          },
+          {
+            "speaker": "Man",
+            "text": "Yes, please. It's Peter Brown. Can she call me back? My number is oh seven seven, four five six."
+          },
+          {
+            "speaker": "Woman",
+            "text": "OK, Mr Brown. I'll give her the message."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "Ms Jones is in a meeting.",
+            "answer": true
+          },
+          {
+            "kind": "gap",
+            "text": "The caller's name is Peter ___.",
+            "answers": [
+              "Brown"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "He wants Ms Jones to…",
+            "options": [
+              "send an email",
+              "call him back",
+              "come to his office"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "📱"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Телефонный разговор",
+        "examples": [
+          {
+            "en": "Hello, can I speak to Mark, please?",
+            "ru": "Здравствуйте, можно поговорить с Марком?"
+          },
+          {
+            "en": "Who's calling? — It's Anna.",
+            "ru": "Кто звонит? — Это Анна. (не I am Anna)"
+          },
+          {
+            "en": "Just a moment. / Hold on.",
+            "ru": "Минутку."
+          },
+          {
+            "en": "He isn't here right now. Can I take a message?",
+            "ru": "Его сейчас нет. Что-нибудь передать?"
+          }
+        ],
+        "tip": "По телефону представляются через It's: Hi, it's Olga."
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc8-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "We ___ at the party last night.",
+            "options": [
+              "was",
+              "were",
+              "are"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ he at work yesterday?",
+            "options": [
+              "Were",
+              "Was",
+              "Is"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I was born ___ 1999.",
+            "options": [
+              "on",
+              "in",
+              "at"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She was here ten minutes ___.",
+            "options": [
+              "last",
+              "ago",
+              "yesterday"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "The ___ month of the year is March.",
+            "options": [
+              "three",
+              "third",
+              "thirth"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc8-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "They was at home.",
+            "answers": [
+              "They were at home."
+            ]
+          },
+          {
+            "prompt": "I were tired yesterday.",
+            "answers": [
+              "I was tired yesterday."
+            ]
+          },
+          {
+            "prompt": "Where you were born?",
+            "answers": [
+              "Where were you born?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc8-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "My first job",
+        "text": "My first job was in a café in 2010. I was sixteen. The café was small and it was always busy. My boss was strict, but the other waiters were very kind. The money wasn't good, but I was very happy there.",
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The first job was in a ___.",
+            "answers": [
+              "café",
+              "cafe"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "The writer was…",
+            "options": [
+              "16",
+              "18",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "tf",
+            "statement": "The money was good.",
+            "answer": false
+          },
+          {
+            "kind": "tf",
+            "statement": "The other waiters were kind.",
+            "answer": true
+          }
+        ],
+        "image": "☕"
+      }
+    ]
+  }
+}

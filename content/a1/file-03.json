@@ -1,0 +1,1198 @@
+{
+  "fileId": "3",
+  "lessons": {
+    "3A": {
+      "theory": [
+        {
+          "title": "Притяжательные прилагательные",
+          "text": "Они отвечают на вопрос «чей?» и всегда стоят перед существительным. Русское «свой» переводится по смыслу: «Она любит свою маму» — She loves her mum.",
+          "table": {
+            "head": [
+              "Местоимение",
+              "Чей?",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "I",
+                "my — мой",
+                "my brother"
+              ],
+              [
+                "you",
+                "your — твой, ваш",
+                "your phone"
+              ],
+              [
+                "he",
+                "his — его",
+                "his car"
+              ],
+              [
+                "she",
+                "her — её",
+                "her sister"
+              ],
+              [
+                "it",
+                "its — его/её (о предмете)",
+                "its name"
+              ],
+              [
+                "we",
+                "our — наш",
+                "our house"
+              ],
+              [
+                "they",
+                "their — их",
+                "their children"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Tom and his wife.",
+              "ru": "Том и его жена."
+            },
+            {
+              "en": "Anna and her husband.",
+              "ru": "Анна и её муж."
+            }
+          ],
+          "tip": "its (без апострофа) значит «его», а it's = it is. Это частая ошибка даже у носителей языка."
+        },
+        {
+          "title": "Семья",
+          "examples": [
+            {
+              "en": "mother / father — parents",
+              "ru": "мама / папа — родители"
+            },
+            {
+              "en": "brother / sister",
+              "ru": "брат / сестра"
+            },
+            {
+              "en": "son / daughter — children",
+              "ru": "сын / дочь — дети"
+            },
+            {
+              "en": "husband / wife",
+              "ru": "муж / жена"
+            },
+            {
+              "en": "grandmother / grandfather",
+              "ru": "бабушка / дедушка"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Family members in English",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=family+members+vocabulary+english+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with my, your, his, her, our or their.",
+          "items": [
+            {
+              "text": "I'm Ben. This is ___ sister.",
+              "hint": "I",
+              "answers": [
+                "my"
+              ]
+            },
+            {
+              "text": "She's Kate. ___ brother is a doctor.",
+              "hint": "she",
+              "answers": [
+                "Her"
+              ]
+            },
+            {
+              "text": "He's Mark. ___ wife is Spanish.",
+              "hint": "he",
+              "answers": [
+                "His"
+              ]
+            },
+            {
+              "text": "We're the Smiths. This is ___ house.",
+              "hint": "we",
+              "answers": [
+                "our"
+              ]
+            },
+            {
+              "text": "They're my parents. ___ names are Ann and Bob.",
+              "hint": "they",
+              "answers": [
+                "Their"
+              ]
+            },
+            {
+              "text": "What's ___ name?",
+              "hint": "you",
+              "answers": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3a-2",
+          "type": "matching",
+          "instruction": "Match the male and female family words.",
+          "pairs": [
+            {
+              "left": "father",
+              "right": "mother"
+            },
+            {
+              "left": "brother",
+              "right": "sister"
+            },
+            {
+              "left": "son",
+              "right": "daughter"
+            },
+            {
+              "left": "husband",
+              "right": "wife"
+            },
+            {
+              "left": "grandfather",
+              "right": "grandmother"
+            },
+            {
+              "left": "uncle",
+              "right": "aunt"
+            }
+          ]
+        },
+        {
+          "id": "3a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct word.",
+          "items": [
+            {
+              "question": "Anna lives with ___ parents.",
+              "options": [
+                "his",
+                "her",
+                "their"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Peter and ___ wife are teachers.",
+              "options": [
+                "his",
+                "her",
+                "its"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "The dog is in ___ bed.",
+              "options": [
+                "it's",
+                "its",
+                "his"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "My brothers love ___ car.",
+              "options": [
+                "their",
+                "they",
+                "there"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "3a-4",
+          "type": "true-false",
+          "instruction": "Read about Sam's family. True or False?",
+          "text": "My name's Sam. I'm from Leeds. My mother's name is Helen and my father's name is David. I have one sister, Lucy. Her husband is Spanish and their son is two.",
+          "items": [
+            {
+              "statement": "Sam's father is David.",
+              "answer": true
+            },
+            {
+              "statement": "Sam has two sisters.",
+              "answer": false
+            },
+            {
+              "statement": "Lucy's husband is from Spain.",
+              "answer": true
+            },
+            {
+              "statement": "Lucy has a daughter.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "id": "3a-r",
+          "type": "reading",
+          "instruction": "Read about Maria's family photo.",
+          "title": "A family photo",
+          "text": "This is a photo of my family. That's me in the middle. On my left is my husband, Ivan. His parents are next to him — they're from Kyiv. On my right are our children: our son, Max, is eight, and our daughter, Sofia, is five. Their favourite person in the photo is our dog, Rex!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Ivan is Maria's…",
+              "options": [
+                "brother",
+                "husband",
+                "son"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Ivan's parents are from Kyiv.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "Their daughter is ___ years old.",
+              "answers": [
+                "five",
+                "5"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Rex is…",
+              "options": [
+                "a son",
+                "a dog",
+                "a grandfather"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "📷"
+        },
+        {
+          "id": "3a-l",
+          "type": "listening",
+          "instruction": "Listen to Daniel talking about his family.",
+          "title": "Daniel's family",
+          "script": [
+            {
+              "speaker": "Daniel",
+              "text": "I'm Daniel. I'm from Manchester. My mum is a teacher and my dad is a taxi driver. I have one sister. Her name is Ellie and she's twenty. Her boyfriend is Spanish. My grandparents live with us. Our house is very noisy!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Daniel's mum is a…",
+              "options": [
+                "doctor",
+                "teacher",
+                "taxi driver"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "His sister's name is ___.",
+              "answers": [
+                "Ellie"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Ellie's boyfriend is Italian.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "Daniel's grandparents live with the family.",
+              "answer": true
+            }
+          ],
+          "image": "👨‍👩‍👧"
+        }
+      ]
+    },
+    "3B": {
+      "theory": [
+        {
+          "title": "Притяжательный 's",
+          "text": "Чтобы сказать «чей-то», к имени или существительному добавляем 's. Порядок обратный русскому: «брат Анны» — Anna's brother (сначала владелец).",
+          "examples": [
+            {
+              "en": "Anna's brother",
+              "ru": "брат Анны"
+            },
+            {
+              "en": "my father's car",
+              "ru": "машина моего отца"
+            },
+            {
+              "en": "the teacher's book",
+              "ru": "книга учителя"
+            }
+          ],
+          "tip": "Если слово во множественном числе уже на -s, ставим только апостроф: my parents' house — дом моих родителей."
+        },
+        {
+          "title": "'s — три значения",
+          "table": {
+            "head": [
+              "Пример",
+              "Значение"
+            ],
+            "rows": [
+              [
+                "She's my cousin.",
+                "'s = is"
+              ],
+              [
+                "Jack's car is red.",
+                "'s = чей (принадлежность)"
+              ],
+              [
+                "What's your name?",
+                "'s = is"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Ещё родственники",
+          "examples": [
+            {
+              "en": "aunt / uncle",
+              "ru": "тётя / дядя"
+            },
+            {
+              "en": "cousin",
+              "ru": "двоюродный брат / сестра"
+            },
+            {
+              "en": "niece / nephew",
+              "ru": "племянница / племянник"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3b-1",
+          "type": "transform",
+          "instruction": "Rewrite with 's.",
+          "items": [
+            {
+              "prompt": "the car of my father",
+              "answers": [
+                "my father's car"
+              ]
+            },
+            {
+              "prompt": "the phone of Maria",
+              "answers": [
+                "Maria's phone"
+              ]
+            },
+            {
+              "prompt": "the brother of Tom",
+              "answers": [
+                "Tom's brother"
+              ]
+            },
+            {
+              "prompt": "the bike of my brother",
+              "answers": [
+                "my brother's bike"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-2",
+          "type": "multiple-choice",
+          "instruction": "Is 's = is or possessive?",
+          "items": [
+            {
+              "question": "She's my cousin.",
+              "options": [
+                "is",
+                "possessive"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Jack's sister is a nurse.",
+              "options": [
+                "is",
+                "possessive"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "My mum's name is Olga.",
+              "options": [
+                "is",
+                "possessive"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "It's a nice photo.",
+              "options": [
+                "is",
+                "possessive"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Where's my bag?",
+              "options": [
+                "is",
+                "possessive"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "3b-3",
+          "type": "gap-fill",
+          "instruction": "Complete the family words.",
+          "items": [
+            {
+              "text": "My mother's sister is my ___.",
+              "answers": [
+                "aunt"
+              ]
+            },
+            {
+              "text": "My father's father is my ___.",
+              "answers": [
+                "grandfather",
+                "grandad",
+                "granddad"
+              ]
+            },
+            {
+              "text": "My aunt's son is my ___.",
+              "answers": [
+                "cousin"
+              ]
+            },
+            {
+              "text": "My brother's daughter is my ___.",
+              "answers": [
+                "niece"
+              ]
+            },
+            {
+              "text": "My sister's son is my ___.",
+              "answers": [
+                "nephew"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3b-4",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "What's your sister's name?"
+            },
+            {
+              "answer": "This is my friend's car."
+            },
+            {
+              "answer": "Is that Tom's dog?"
+            }
+          ]
+        },
+        {
+          "id": "3b-r",
+          "type": "reading",
+          "instruction": "Read the text. Who is who?",
+          "title": "The Smiths",
+          "text": "John and Mary Smith have two children, Lucy and Tom. Lucy's husband is Mark. Lucy and Mark's son is Oliver. Tom isn't married. Tom's dog is called Buddy. Mary's sister, Jane, lives in Canada. She's Lucy and Tom's aunt.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Mark is Lucy's…",
+              "options": [
+                "brother",
+                "husband",
+                "son"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Oliver is Tom's…",
+              "options": [
+                "nephew",
+                "cousin",
+                "son"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "Buddy is Lucy's dog.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Jane is Mary's ___.",
+              "answers": [
+                "sister"
+              ]
+            }
+          ],
+          "image": "👨‍👩‍👧"
+        },
+        {
+          "id": "3b-l",
+          "type": "listening",
+          "instruction": "Listen. Whose things are they?",
+          "title": "Whose is it?",
+          "script": [
+            {
+              "speaker": "Mum",
+              "text": "Whose jacket is this? Is it Sam's?"
+            },
+            {
+              "speaker": "Kid",
+              "text": "No, it's Dad's jacket. Sam's jacket is blue."
+            },
+            {
+              "speaker": "Mum",
+              "text": "And whose phone is this?"
+            },
+            {
+              "speaker": "Kid",
+              "text": "It's Grandma's. Her phone is old."
+            },
+            {
+              "speaker": "Mum",
+              "text": "And these are my keys. Good!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The jacket is…",
+              "options": [
+                "Sam's",
+                "Dad's",
+                "Mum's"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Sam's jacket is ___.",
+              "answers": [
+                "blue"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The phone is…",
+              "options": [
+                "Grandma's",
+                "Sam's",
+                "Dad's"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "The keys are Mum's.",
+              "answer": true
+            }
+          ],
+          "image": "🧥"
+        }
+      ]
+    },
+    "3C": {
+      "theory": [
+        {
+          "title": "Вопросительные слова",
+          "table": {
+            "head": [
+              "Слово",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "What",
+                "что? какой?",
+                "What's your name?"
+              ],
+              [
+                "Where",
+                "где? откуда?",
+                "Where are you from?"
+              ],
+              [
+                "Who",
+                "кто?",
+                "Who's that man?"
+              ],
+              [
+                "How old",
+                "сколько лет?",
+                "How old are you?"
+              ],
+              [
+                "When",
+                "когда?",
+                "When's your birthday?"
+              ]
+            ]
+          },
+          "text": "Порядок слов в вопросе с be: вопросительное слово → be → подлежащее.",
+          "tip": "Возраст в английском «есть»: I'm 25 (дословно: я есть 25). Нельзя сказать I have 25 years."
+        },
+        {
+          "title": "Личная информация",
+          "examples": [
+            {
+              "en": "What's your address? — It's 12 Park Road.",
+              "ru": "Какой у вас адрес? — Парк-роуд, 12."
+            },
+            {
+              "en": "What's your phone number? — It's 07700 900 123.",
+              "ru": "Какой у вас номер телефона?"
+            },
+            {
+              "en": "What's your email? — anna at gmail dot com.",
+              "ru": "Какой у вас email?"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "3c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with What, Where, Who or How old.",
+          "items": [
+            {
+              "text": "___'s your phone number? — 07700 900 123.",
+              "answers": [
+                "What"
+              ]
+            },
+            {
+              "text": "___ are you from? — I'm from Kazan.",
+              "answers": [
+                "Where"
+              ]
+            },
+            {
+              "text": "___ is she? — She's my sister.",
+              "answers": [
+                "Who"
+              ]
+            },
+            {
+              "text": "___ are you? — I'm 25.",
+              "answers": [
+                "How old"
+              ]
+            },
+            {
+              "text": "___'s your email? — It's ann@mail.com.",
+              "answers": [
+                "What"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3c-2",
+          "type": "matching",
+          "instruction": "Match the questions and the answers.",
+          "pairs": [
+            {
+              "left": "What's your surname?",
+              "right": "Ivanova."
+            },
+            {
+              "left": "Where do you live?",
+              "right": "In Moscow."
+            },
+            {
+              "left": "How old is your son?",
+              "right": "He's six."
+            },
+            {
+              "left": "Who's that man?",
+              "right": "He's my teacher."
+            },
+            {
+              "left": "What's your address?",
+              "right": "12 Park Road."
+            }
+          ]
+        },
+        {
+          "id": "3c-3",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "Where is your friend from?"
+            },
+            {
+              "answer": "How old are your children?"
+            },
+            {
+              "answer": "What is your first name?"
+            },
+            {
+              "answer": "Who is your teacher?"
+            }
+          ]
+        },
+        {
+          "id": "3c-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct question.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "How old you are?",
+                "How old are you?",
+                "How are you old?"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "Where is she from?",
+                "Where she is from?",
+                "Where from is she?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "What your name is?",
+                "What's your name?",
+                "What name your is?"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "3c-r",
+          "type": "reading",
+          "instruction": "Read the form and answer.",
+          "title": "Gym membership form",
+          "text": "First name: Igor\nSurname: Sokolov\nAge: 34\nAddress: 5 Green Street, Brighton\nPhone: 07700 900 777\nEmail: igor.s@mail.com\nJob: engineer",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "His surname is ___.",
+              "answers": [
+                "Sokolov"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "How old is he?",
+              "options": [
+                "43",
+                "34",
+                "33"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Where does he live?",
+              "options": [
+                "London",
+                "Brighton",
+                "Bristol"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He's a teacher.",
+              "answer": false
+            }
+          ],
+          "image": "📝"
+        },
+        {
+          "id": "3c-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation at a library and answer.",
+          "title": "A library card",
+          "script": [
+            {
+              "speaker": "Librarian",
+              "text": "What's your first name?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "Natalia."
+            },
+            {
+              "speaker": "Librarian",
+              "text": "And your surname?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "Ivanova."
+            },
+            {
+              "speaker": "Librarian",
+              "text": "How old are you, Natalia?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "I'm twenty-eight."
+            },
+            {
+              "speaker": "Librarian",
+              "text": "Where are you from?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "I'm from Russia, from Kazan."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Her first name is ___.",
+              "answers": [
+                "Natalia"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Her age:",
+              "options": [
+                "28",
+                "38",
+                "22"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "She's from…",
+              "options": [
+                "Moscow",
+                "Kazan",
+                "Omsk"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "📚"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Giving personal information in English",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=personal+information+questions+english+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe3-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 3.",
+        "video": {
+          "title": "Practical English, File 3 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "What's your email address?",
+          "It's anna dot smith at gmail dot com.",
+          "Can you repeat that, please?",
+          "What's your postcode?"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Назвал(а) вслух свой email и номер телефона по-английски",
+          "Заполнил(а) форму о себе на английском (имя, адрес, телефон, email)"
+        ]
+      },
+      {
+        "id": "pe3-2",
+        "type": "gap-fill",
+        "instruction": "How do you say it? Complete.",
+        "items": [
+          {
+            "text": "@ = ___",
+            "answers": [
+              "at"
+            ]
+          },
+          {
+            "text": ". (in an email) = ___",
+            "answers": [
+              "dot"
+            ]
+          },
+          {
+            "text": "0 (in a phone number) = ___",
+            "answers": [
+              "oh",
+              "zero"
+            ]
+          },
+          {
+            "text": "77 (in a phone number) = ___ seven",
+            "answers": [
+              "double"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pe3-l",
+        "type": "listening",
+        "instruction": "Listen and write the information.",
+        "title": "Contact details",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "What's your phone number?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's oh seven seven double oh, nine hundred, three four five."
+          },
+          {
+            "speaker": "A",
+            "text": "And your email?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's max dot green at mail dot com."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Phone number:",
+            "options": [
+              "07700 900 345",
+              "07700 900 435",
+              "07007 900 345"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "Email:",
+            "options": [
+              "max_green@mail.com",
+              "max.green@mail.com",
+              "maxgreen@mail.com"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "📱"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Email и телефон вслух",
+        "table": {
+          "head": [
+            "Знак",
+            "Как сказать"
+          ],
+          "rows": [
+            [
+              "@",
+              "at"
+            ],
+            [
+              ".",
+              "dot"
+            ],
+            [
+              "_",
+              "underscore"
+            ],
+            [
+              "0 в телефоне",
+              "oh"
+            ],
+            [
+              "77",
+              "double seven"
+            ]
+          ]
+        },
+        "examples": [
+          {
+            "en": "anna_k@mail.ru — anna underscore k at mail dot r u"
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc3-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "Maria and ___ husband are Italian.",
+            "options": [
+              "his",
+              "her",
+              "their"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "This is ___ bag.",
+            "options": [
+              "Anna",
+              "Annas",
+              "Anna's"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "___ is your birthday?",
+            "options": [
+              "Who",
+              "When",
+              "How old"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "My mother's brother is my ___.",
+            "options": [
+              "uncle",
+              "aunt",
+              "cousin"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "___ are you? — I'm thirty.",
+            "options": [
+              "How old",
+              "What",
+              "Who"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc3-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "She is my brother's wife, his name is Kate.",
+            "answers": [
+              "She is my brother's wife, her name is Kate.",
+              "She's my brother's wife, her name is Kate."
+            ]
+          },
+          {
+            "prompt": "Where you are from?",
+            "answers": [
+              "Where are you from?"
+            ]
+          },
+          {
+            "prompt": "It's the car of Tom.",
+            "answers": [
+              "It's Tom's car.",
+              "It is Tom's car."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc3-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "My best friend",
+        "script": [
+          {
+            "speaker": "Girl",
+            "text": "My best friend is Lena. She's twenty-one. Her family is from Novosibirsk, but she's a student in Moscow. Her brother's name is Dima. He's a doctor. Lena's mum and my mum are friends too!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Lena is…",
+            "options": [
+              "21",
+              "20",
+              "31"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "tf",
+            "statement": "Lena's family is from Moscow.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "Lena's brother is a ___.",
+            "answers": [
+              "doctor"
+            ]
+          }
+        ],
+        "image": "👭"
+      }
+    ]
+  }
+}

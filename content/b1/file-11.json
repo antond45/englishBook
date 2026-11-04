@@ -1,0 +1,838 @@
+{
+  "fileId": "11",
+  "lessons": {
+    "11A": {
+      "theory": [
+        {
+          "title": "Past Perfect",
+          "text": "had + V3. Показывает, что одно действие произошло раньше другого в прошлом («уже успело случиться»).",
+          "examples": [
+            {
+              "en": "When we arrived, the film had already started.",
+              "ru": "Когда мы пришли, фильм уже начался. (сначала начался, потом мы пришли)"
+            },
+            {
+              "en": "I didn't recognise her because she had changed a lot.",
+              "ru": "Я не узнал её, потому что она сильно изменилась."
+            }
+          ],
+          "tip": "Сравни: When I got home, my wife cooked dinner (сначала пришёл, потом она готовила). / When I got home, my wife had cooked dinner (ужин уже был готов)."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Past perfect (B1)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=past+perfect+pre-intermediate+lesson"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the past perfect.",
+          "items": [
+            {
+              "text": "When I got to the station, the train ___.",
+              "hint": "leave",
+              "answers": [
+                "had left",
+                "'d left"
+              ]
+            },
+            {
+              "text": "She was nervous because she ___ before.",
+              "hint": "never fly",
+              "answers": [
+                "had never flown",
+                "'d never flown"
+              ]
+            },
+            {
+              "text": "I couldn't pay because I ___ my wallet.",
+              "hint": "forget",
+              "answers": [
+                "had forgotten",
+                "'d forgotten"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11a-2",
+          "type": "multiple-choice",
+          "instruction": "Past simple or past perfect?",
+          "items": [
+            {
+              "question": "When I opened the fridge, someone ___ my cake.",
+              "options": [
+                "ate",
+                "had eaten"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He ___ the door and went out.",
+              "options": [
+                "opened",
+                "had opened"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "We were hungry because we ___ lunch.",
+              "options": [
+                "didn't have",
+                "hadn't had"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "11a-3",
+          "type": "transform",
+          "instruction": "Join the sentences with because + past perfect.",
+          "items": [
+            {
+              "prompt": "She was tired. She worked all night.",
+              "answers": [
+                "She was tired because she had worked all night.",
+                "She was tired because she'd worked all night."
+              ]
+            },
+            {
+              "prompt": "I didn't watch the film. I saw it before.",
+              "answers": [
+                "I didn't watch the film because I had seen it before.",
+                "I didn't watch the film because I'd seen it before."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11a-4",
+          "type": "matching",
+          "instruction": "Match the halves.",
+          "pairs": [
+            {
+              "left": "The streets were wet",
+              "right": "because it had rained."
+            },
+            {
+              "left": "He couldn't get in",
+              "right": "because he had lost his key."
+            },
+            {
+              "left": "She passed the exam",
+              "right": "because she had studied hard."
+            },
+            {
+              "left": "The shop was closed",
+              "right": "because the owner had gone on holiday."
+            }
+          ]
+        },
+        {
+          "id": "11a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The wrong wedding",
+          "text": "Last summer my cousin Masha invited me to her wedding. I'd never been to that town before, so I followed the GPS. When I arrived at the church, the ceremony had already begun. I sat at the back and smiled at everyone. It was only when the bride turned round that I realised I'd made a terrible mistake: it wasn't Masha! I had gone to the wrong church. By the time I found the right one, they had already left for the restaurant.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The writer had been to the town before.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "When the writer arrived, the ceremony…",
+              "options": [
+                "hadn't started",
+                "had already begun",
+                "had finished"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The writer had gone to the wrong ___.",
+              "answers": [
+                "church"
+              ]
+            }
+          ],
+          "image": "💒"
+        },
+        {
+          "id": "11a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A bad start",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "It was my first day at the new job. When I woke up, I realised that my alarm hadn't gone off. I ran to the bus stop, but the bus had just left. When I finally arrived, the meeting had already finished — and my boss had noticed."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "His alarm worked.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "When he got to the bus stop, the bus…",
+              "options": [
+                "was late",
+                "had just left",
+                "hadn't arrived"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The ___ had already finished.",
+              "answers": [
+                "meeting"
+              ]
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    },
+    "11B": {
+      "theory": [
+        {
+          "title": "Косвенная речь",
+          "text": "Когда пересказываем чужие слова (said, told), время обычно сдвигается «на шаг назад», меняются местоимения и некоторые слова.",
+          "table": {
+            "head": [
+              "Прямая речь",
+              "Косвенная речь"
+            ],
+            "rows": [
+              [
+                "\"I'm tired.\"",
+                "She said (that) she was tired."
+              ],
+              [
+                "\"I live in Moscow.\"",
+                "He said he lived in Moscow."
+              ],
+              [
+                "\"I'll call you.\"",
+                "He said he would call me."
+              ],
+              [
+                "\"I've lost my key.\"",
+                "She said she had lost her key."
+              ],
+              [
+                "\"I can help.\"",
+                "He said he could help."
+              ]
+            ]
+          },
+          "tip": "say vs tell: say something (to someone), tell someone something. She said that… / She told me that… (не She said me)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11b-1",
+          "type": "transform",
+          "instruction": "Report the sentences. Start with He said / She said.",
+          "items": [
+            {
+              "prompt": "\"I'm hungry,\" said Tom.",
+              "answers": [
+                "He said he was hungry.",
+                "He said that he was hungry."
+              ]
+            },
+            {
+              "prompt": "\"I'll be late,\" said Anna.",
+              "answers": [
+                "She said she would be late.",
+                "She said that she would be late.",
+                "She said she'd be late."
+              ]
+            },
+            {
+              "prompt": "\"I can't swim,\" said Max.",
+              "answers": [
+                "He said he couldn't swim.",
+                "He said that he couldn't swim."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11b-2",
+          "type": "multiple-choice",
+          "instruction": "say or tell?",
+          "items": [
+            {
+              "question": "She ___ me that she was leaving.",
+              "options": [
+                "said",
+                "told"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He ___ that he was busy.",
+              "options": [
+                "said",
+                "told"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Can you ___ me the time?",
+              "options": [
+                "say",
+                "tell"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Don't ___ a word to anyone!",
+              "options": [
+                "say",
+                "tell"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "11b-3",
+          "type": "gap-fill",
+          "instruction": "Complete the reported speech.",
+          "items": [
+            {
+              "text": "\"I love this city.\" → She said she ___ the city.",
+              "answers": [
+                "loved"
+              ]
+            },
+            {
+              "text": "\"We've finished.\" → They said they ___ finished.",
+              "answers": [
+                "had"
+              ]
+            },
+            {
+              "text": "\"I'm working.\" → He said he ___ working.",
+              "answers": [
+                "was"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11b-4",
+          "type": "matching",
+          "instruction": "Match the direct and reported speech.",
+          "pairs": [
+            {
+              "left": "\"I'm sorry.\"",
+              "right": "He said he was sorry."
+            },
+            {
+              "left": "\"I've been ill.\"",
+              "right": "He said he had been ill."
+            },
+            {
+              "left": "\"I'll help you.\"",
+              "right": "He said he would help me."
+            },
+            {
+              "left": "\"I can come.\"",
+              "right": "He said he could come."
+            }
+          ]
+        },
+        {
+          "id": "11b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Gossip",
+          "text": "At lunch Kate told me some news. She said that our boss was leaving the company. She said he had found a job in London and that he would leave in May. She also told me that the new boss was a woman from the Berlin office. Then she said I mustn't tell anyone. Of course, by the evening everybody knew!",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The boss had found a job in ___.",
+              "answers": [
+                "London"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "He would leave in…",
+              "options": [
+                "March",
+                "May",
+                "June"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The news stayed secret.",
+              "answer": false
+            }
+          ],
+          "image": "🗣️"
+        },
+        {
+          "id": "11b-l",
+          "type": "listening",
+          "instruction": "Listen and then answer about what was said.",
+          "title": "A phone message",
+          "script": [
+            {
+              "speaker": "Lisa",
+              "text": "Hi, it's Lisa. I'm at the airport. My flight is delayed, so I won't be home before midnight. I've already eaten, so don't cook for me. See you later!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Lisa said she was…",
+              "options": [
+                "at home",
+                "at the airport",
+                "on the train"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "She said she wouldn't be home before…",
+              "options": [
+                "10",
+                "11",
+                "midnight"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "tf",
+              "statement": "She said she had already eaten.",
+              "answer": true
+            }
+          ],
+          "image": "📱"
+        }
+      ]
+    },
+    "11C": {
+      "theory": [
+        {
+          "title": "Вопросы без вспомогательного глагола",
+          "text": "Если вопрос задаётся к подлежащему (who/what сделал?), вспомогательный глагол не нужен, порядок прямой.",
+          "table": {
+            "head": [
+              "Вопрос к подлежащему",
+              "Вопрос к дополнению"
+            ],
+            "rows": [
+              [
+                "Who wrote War and Peace? — Tolstoy.",
+                "What did Tolstoy write? — War and Peace."
+              ],
+              [
+                "What happened?",
+                "What did you do?"
+              ],
+              [
+                "Which team won?",
+                "Which team did you support?"
+              ],
+              [
+                "How many people came?",
+                "How many people did you invite?"
+              ]
+            ]
+          },
+          "tip": "Проверка: если ответ — это тот, кто делал действие, вопрос без do/did."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct question.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "Who did paint the Mona Lisa?",
+                "Who painted the Mona Lisa?"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "What did you buy?",
+                "What you bought?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "Who lives in that house?",
+                "Who does live in that house?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "4",
+              "options": [
+                "Which country did win?",
+                "Which country won?"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "11c-2",
+          "type": "transform",
+          "instruction": "Write questions for the answers.",
+          "items": [
+            {
+              "prompt": "Gagarin flew into space in 1961. (Who…?)",
+              "answers": [
+                "Who flew into space in 1961?"
+              ]
+            },
+            {
+              "prompt": "Gagarin flew into space in 1961. (When…?)",
+              "answers": [
+                "When did Gagarin fly into space?"
+              ]
+            },
+            {
+              "prompt": "Something strange happened last night. (What…?)",
+              "answers": [
+                "What happened last night?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-3",
+          "type": "gap-fill",
+          "instruction": "Complete the questions: write the verb in the past, or did if the question needs an auxiliary.",
+          "items": [
+            {
+              "text": "Who ___ the window? I want to know! (break)",
+              "answers": [
+                "broke"
+              ]
+            },
+            {
+              "text": "Who ___ you see at the party? (did)",
+              "answers": [
+                "did"
+              ]
+            },
+            {
+              "text": "How many people ___ to the meeting? (come)",
+              "answers": [
+                "came"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "Who invented the telephone?"
+            },
+            {
+              "answer": "What did the teacher say?"
+            }
+          ]
+        },
+        {
+          "id": "11c-r",
+          "type": "reading",
+          "instruction": "Read the quiz and answer.",
+          "title": "Quick quiz",
+          "text": "1. Who composed Swan Lake? — Tchaikovsky.\n2. Which planet is closest to the sun? — Mercury.\n3. What did the Wright brothers invent? — The aeroplane.\n4. How many players start a football match for each team? — Eleven.\n5. Which city hosted the 2014 Winter Olympics? — Sochi.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Swan Lake was composed by ___.",
+              "answers": [
+                "Tchaikovsky"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The closest planet to the sun is…",
+              "options": [
+                "Venus",
+                "Mercury",
+                "Mars"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "The 2014 Winter Olympics were in…",
+              "options": [
+                "Sochi",
+                "Kazan",
+                "Moscow"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "❓"
+        },
+        {
+          "id": "11c-l",
+          "type": "listening",
+          "instruction": "Listen to the quiz show and answer.",
+          "title": "Quiz night",
+          "script": [
+            {
+              "speaker": "Host",
+              "text": "Question one: Who discovered gravity?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Isaac Newton."
+            },
+            {
+              "speaker": "Host",
+              "text": "Correct! Question two: What did Marie Curie win twice?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The Nobel Prize."
+            },
+            {
+              "speaker": "Host",
+              "text": "Correct again! You've won a hundred points!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Gravity was discovered by Isaac ___.",
+              "answers": [
+                "Newton"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Marie Curie won … twice.",
+              "options": [
+                "the Oscar",
+                "the Nobel Prize",
+                "the Olympics"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The player won ___ points.",
+              "answers": [
+                "a hundred",
+                "100",
+                "one hundred"
+              ]
+            }
+          ],
+          "image": "🏆"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Прощание",
+        "examples": [
+          {
+            "en": "I'm going to miss you.",
+            "ru": "Я буду скучать."
+          },
+          {
+            "en": "Thanks for having me.",
+            "ru": "Спасибо за гостеприимство."
+          },
+          {
+            "en": "Let me know when you get home.",
+            "ru": "Напиши, когда доберёшься."
+          },
+          {
+            "en": "Take care!",
+            "ru": "Береги себя!"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe11-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 11.",
+        "video": {
+          "title": "Practical English, File 11 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Pre-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "It's been great.",
+          "Thanks for everything.",
+          "Have a safe trip.",
+          "Keep in touch."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Написал(а) прощальное сообщение другу по-английски",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe11-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "At the station",
+        "script": [
+          {
+            "speaker": "Host",
+            "text": "So, this is goodbye. It's been lovely having you here."
+          },
+          {
+            "speaker": "Guest",
+            "text": "Thanks for having me. I've had a wonderful week."
+          },
+          {
+            "speaker": "Host",
+            "text": "Let me know when you get home."
+          },
+          {
+            "speaker": "Guest",
+            "text": "I will. And next summer you have to come and visit me in Riga!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The guest stayed for…",
+            "options": [
+              "a weekend",
+              "a week",
+              "a month"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "The guest lives in ___.",
+            "answers": [
+              "Riga"
+            ]
+          }
+        ],
+        "image": "🚆"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc11-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "When we arrived, everyone ___.",
+            "options": [
+              "left",
+              "had left",
+              "has left"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ me she was tired.",
+            "options": [
+              "said",
+              "told",
+              "say"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He said he ___ call me later.",
+            "options": [
+              "will",
+              "would",
+              "can"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Who ___ this cake? It's delicious!",
+            "options": [
+              "did make",
+              "made",
+              "did made"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc11-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A surprise",
+        "text": "When I got home, I saw that someone had decorated the living room. My friends had organised a surprise party! Later my sister told me that they had planned it for weeks. 'Who had the idea?' I asked. 'Your husband did,' she said.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The writer knew about the party.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "They had planned it for ___.",
+            "answers": [
+              "weeks"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Whose idea was it?",
+            "options": [
+              "the sister's",
+              "the husband's",
+              "the writer's"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🎉"
+      }
+    ]
+  }
+}

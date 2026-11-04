@@ -1,0 +1,901 @@
+{
+  "fileId": "1",
+  "lessons": {
+    "1A": {
+      "theory": [
+        {
+          "title": "Глагол be и личные местоимения",
+          "table": {
+            "head": [
+              "Местоимение",
+              "be",
+              "Краткая форма"
+            ],
+            "rows": [
+              [
+                "I",
+                "am",
+                "I'm"
+              ],
+              [
+                "you / we / they",
+                "are",
+                "you're / we're / they're"
+              ],
+              [
+                "he / she / it",
+                "is",
+                "he's / she's / it's"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "We're in the same class.",
+              "ru": "Мы в одной группе."
+            },
+            {
+              "en": "It's Monday today.",
+              "ru": "Сегодня понедельник."
+            }
+          ],
+          "tip": "Дни недели всегда с большой буквы и с предлогом on: on Monday, on Fridays (по пятницам)."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Verb be and days of the week (A2)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=verb+to+be+days+of+the+week+english+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a2-1a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form of be ('m, 's, 're).",
+          "items": [
+            {
+              "text": "I ___ from Novosibirsk.",
+              "answers": [
+                "am",
+                "'m"
+              ]
+            },
+            {
+              "text": "We ___ in the same group.",
+              "answers": [
+                "'re",
+                "are"
+              ]
+            },
+            {
+              "text": "My teacher ___ very friendly.",
+              "answers": [
+                "is",
+                "'s"
+              ]
+            },
+            {
+              "text": "You ___ right!",
+              "answers": [
+                "'re",
+                "are"
+              ]
+            },
+            {
+              "text": "It ___ Monday today.",
+              "answers": [
+                "is",
+                "'s"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a2-1a-2",
+          "type": "multiple-choice",
+          "instruction": "Which day comes next?",
+          "items": [
+            {
+              "question": "Monday, Tuesday, …",
+              "options": [
+                "Thursday",
+                "Wednesday",
+                "Sunday"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Thursday, Friday, …",
+              "options": [
+                "Saturday",
+                "Sunday",
+                "Monday"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Saturday, Sunday, …",
+              "options": [
+                "Friday",
+                "Monday",
+                "Tuesday"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "a2-1a-3",
+          "type": "transform",
+          "instruction": "Replace the words with a subject pronoun + be (write the whole sentence).",
+          "items": [
+            {
+              "prompt": "Anna and I are friends.",
+              "answers": [
+                "We're friends.",
+                "We are friends."
+              ]
+            },
+            {
+              "prompt": "Mr Brown is a doctor.",
+              "answers": [
+                "He's a doctor.",
+                "He is a doctor."
+              ]
+            },
+            {
+              "prompt": "The books are on the table.",
+              "answers": [
+                "They're on the table.",
+                "They are on the table."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a2-1a-4",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "My name's Alex and I'm twenty."
+            },
+            {
+              "answer": "We're in class on Mondays."
+            },
+            {
+              "answer": "It's my first day here."
+            }
+          ]
+        },
+        {
+          "id": "a2-1a-r",
+          "type": "reading",
+          "instruction": "Read the profile and answer.",
+          "title": "Language exchange profile",
+          "text": "Hi! I'm Carmen. I'm twenty-four and I'm from Valencia in Spain. I'm a nurse. My English isn't very good, so I'm here to practise! I'm free on Tuesdays and Thursdays in the evening. My hobbies? I love cooking and old films. Write to me!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Carmen is from…",
+              "options": [
+                "Madrid",
+                "Valencia",
+                "Seville"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "She is a ___.",
+              "answers": [
+                "nurse"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "She's free on…",
+              "options": [
+                "Mondays and Wednesdays",
+                "Tuesdays and Thursdays",
+                "weekends"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Her English is very good.",
+              "answer": false
+            }
+          ],
+          "image": "🗣️"
+        },
+        {
+          "id": "a2-1a-l",
+          "type": "listening",
+          "instruction": "Listen to the first lesson and answer.",
+          "title": "First day",
+          "script": [
+            {
+              "speaker": "Teacher",
+              "text": "Good morning, everyone. I'm Mr Harris, your teacher. Our classes are on Mondays and Wednesdays at six o'clock. We're in room fourteen."
+            },
+            {
+              "speaker": "Student",
+              "text": "Excuse me, is the class on Friday too?"
+            },
+            {
+              "speaker": "Teacher",
+              "text": "No, it isn't. Just Monday and Wednesday."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The teacher is Mr ___.",
+              "answers": [
+                "Harris"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Classes are at…",
+              "options": [
+                "5:00",
+                "6:00",
+                "7:00"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Room:",
+              "options": [
+                "14",
+                "40",
+                "4"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "There's a class on Friday.",
+              "answer": false
+            }
+          ],
+          "image": "🏫"
+        }
+      ]
+    },
+    "1B": {
+      "theory": [
+        {
+          "title": "be: отрицание и вопросы",
+          "table": {
+            "head": [
+              "−",
+              "?",
+              "Краткий ответ"
+            ],
+            "rows": [
+              [
+                "I'm not",
+                "Am I…?",
+                "Yes, I am. / No, I'm not."
+              ],
+              [
+                "he isn't",
+                "Is he…?",
+                "Yes, he is. / No, he isn't."
+              ],
+              [
+                "we aren't",
+                "Are we…?",
+                "Yes, we are. / No, we aren't."
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Are you Brazilian? — No, I'm not. I'm Mexican.",
+              "ru": "Ты бразилец? — Нет, мексиканец."
+            },
+            {
+              "en": "Where's she from? — She's from Turkey.",
+              "ru": "Откуда она? — Из Турции."
+            }
+          ],
+          "tip": "Национальности пишутся с большой буквы: French, Greek, Swiss."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a2-1b-1",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "He's Brazilian.",
+              "answers": [
+                "He isn't Brazilian.",
+                "He's not Brazilian.",
+                "He is not Brazilian."
+              ]
+            },
+            {
+              "prompt": "We're from Poland.",
+              "answers": [
+                "We aren't from Poland.",
+                "We're not from Poland.",
+                "We are not from Poland."
+              ]
+            },
+            {
+              "prompt": "I'm a teacher.",
+              "answers": [
+                "I'm not a teacher.",
+                "I am not a teacher."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a2-1b-2",
+          "type": "matching",
+          "instruction": "Match the countries and the nationalities.",
+          "pairs": [
+            {
+              "left": "Mexico",
+              "right": "Mexican"
+            },
+            {
+              "left": "Turkey",
+              "right": "Turkish"
+            },
+            {
+              "left": "France",
+              "right": "French"
+            },
+            {
+              "left": "Egypt",
+              "right": "Egyptian"
+            },
+            {
+              "left": "Switzerland",
+              "right": "Swiss"
+            },
+            {
+              "left": "Greece",
+              "right": "Greek"
+            }
+          ]
+        },
+        {
+          "id": "a2-1b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct short answer.",
+          "items": [
+            {
+              "question": "Is your sister married? (✓)",
+              "options": [
+                "Yes, she's.",
+                "Yes, she is.",
+                "Yes, is she."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Are your parents Russian? (✗)",
+              "options": [
+                "No, they not.",
+                "No, they aren't.",
+                "No, they isn't."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Am I late? (✗)",
+              "options": [
+                "No, you aren't.",
+                "No, I'm not.",
+                "No, you isn't."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "a2-1b-r",
+          "type": "reading",
+          "instruction": "Read the quiz and answer.",
+          "title": "Famous people quiz",
+          "text": "1. He isn't American, he's Swiss. He's a famous tennis player. (Roger Federer)\n\n2. She isn't from England. She's Colombian, and she's a singer. (Shakira)\n\n3. They aren't Spanish. They're Greek, and they're very old — they're philosophers! (Plato and Aristotle)",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Roger Federer is…",
+              "options": [
+                "American",
+                "Swiss",
+                "German"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Shakira is English.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Plato and Aristotle are ___.",
+              "answers": [
+                "Greek",
+                "philosophers"
+              ]
+            }
+          ],
+          "image": "⭐"
+        },
+        {
+          "id": "a2-1b-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation at an international party.",
+          "title": "Where are you from?",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "Hi, are you French?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "No, I'm not. I'm Swiss, from Geneva. And you?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm Egyptian. I'm from Cairo."
+            },
+            {
+              "speaker": "Woman",
+              "text": "Is your friend Egyptian too?"
+            },
+            {
+              "speaker": "Man",
+              "text": "No, he isn't. He's Turkish."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The woman is…",
+              "options": [
+                "French",
+                "Swiss",
+                "Turkish"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The man is from ___.",
+              "answers": [
+                "Cairo",
+                "Egypt"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "His friend is Egyptian.",
+              "answer": false
+            }
+          ],
+          "image": "🌍"
+        }
+      ]
+    },
+    "1C": {
+      "theory": [
+        {
+          "title": "Притяжательные прилагательные",
+          "table": {
+            "head": [
+              "Местоимение",
+              "Притяжательное"
+            ],
+            "rows": [
+              [
+                "I",
+                "my"
+              ],
+              [
+                "you",
+                "your"
+              ],
+              [
+                "he",
+                "his"
+              ],
+              [
+                "she",
+                "her"
+              ],
+              [
+                "it",
+                "its"
+              ],
+              [
+                "we",
+                "our"
+              ],
+              [
+                "they",
+                "their"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "They can't find their keys.",
+              "ru": "Они не могут найти свои ключи."
+            }
+          ],
+          "tip": "«Свой» по-английски зависит от того, чей предмет: I love my job, she loves her job."
+        },
+        {
+          "title": "Фразы для урока",
+          "examples": [
+            {
+              "en": "Sorry, I don't understand.",
+              "ru": "Извините, я не понимаю."
+            },
+            {
+              "en": "Can you repeat that, please?",
+              "ru": "Повторите, пожалуйста."
+            },
+            {
+              "en": "How do you spell it?",
+              "ru": "Как это пишется?"
+            },
+            {
+              "en": "What does 'busy' mean?",
+              "ru": "Что значит 'busy'?"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a2-1c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with a possessive adjective.",
+          "items": [
+            {
+              "text": "She lives with ___ grandparents.",
+              "answers": [
+                "her"
+              ]
+            },
+            {
+              "text": "We love ___ new flat.",
+              "answers": [
+                "our"
+              ]
+            },
+            {
+              "text": "Is this ___ pen, Mike?",
+              "answers": [
+                "your"
+              ]
+            },
+            {
+              "text": "They can't find ___ keys.",
+              "answers": [
+                "their"
+              ]
+            },
+            {
+              "text": "The cat is eating ___ food.",
+              "answers": [
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a2-1c-2",
+          "type": "matching",
+          "instruction": "Match the classroom phrases and the meanings.",
+          "pairs": [
+            {
+              "left": "Open your books.",
+              "right": "Откройте учебники."
+            },
+            {
+              "left": "Work in pairs.",
+              "right": "Работайте в парах."
+            },
+            {
+              "left": "Sorry, can you repeat that?",
+              "right": "Простите, можете повторить?"
+            },
+            {
+              "left": "What does … mean?",
+              "right": "Что значит …?"
+            },
+            {
+              "left": "I don't understand.",
+              "right": "Я не понимаю."
+            }
+          ]
+        },
+        {
+          "id": "a2-1c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct word.",
+          "items": [
+            {
+              "question": "Tom and ___ brother are students.",
+              "options": [
+                "his",
+                "her",
+                "he"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ name is Kate.",
+              "options": [
+                "She",
+                "Her",
+                "Hers"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Excuse me, is this ___ seat?",
+              "options": [
+                "you",
+                "your",
+                "you're"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "a2-1c-r",
+          "type": "reading",
+          "instruction": "Read the email and answer.",
+          "title": "My new host family",
+          "text": "Hi Dasha,\n\nI'm in Brighton now with my host family. Their house is near the sea! My host mum's name is Julie. Her husband is Rob — his job is very interesting, he's a firefighter. Their son, Leo, is nine. His favourite thing is football. Our English school is in the centre. My teacher's name is Emma, and her lessons are fun.\n\nLove, Alina",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The host family's house is near the ___.",
+              "answers": [
+                "sea"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Rob is a…",
+              "options": [
+                "teacher",
+                "firefighter",
+                "doctor"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Leo's favourite thing is tennis.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Alina's teacher is…",
+              "options": [
+                "Julie",
+                "Emma",
+                "Rob"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏡"
+        },
+        {
+          "id": "a2-1c-l",
+          "type": "listening",
+          "instruction": "Listen and write the names.",
+          "title": "Spelling names",
+          "script": [
+            {
+              "speaker": "Receptionist",
+              "text": "What's your surname, please?"
+            },
+            {
+              "speaker": "Student",
+              "text": "It's Wright. W, R, I, G, H, T."
+            },
+            {
+              "speaker": "Receptionist",
+              "text": "And your teacher's name?"
+            },
+            {
+              "speaker": "Student",
+              "text": "Ms Lowe. L, O, W, E."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The student's surname: ___",
+              "answers": [
+                "Wright"
+              ]
+            },
+            {
+              "kind": "gap",
+              "text": "The teacher: Ms ___",
+              "answers": [
+                "Lowe"
+              ]
+            }
+          ],
+          "image": "🔤"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Hotel check-in conversation (elementary)",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=hotel+check+in+english+conversation+elementary"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "a2-pe1-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 1.",
+        "video": {
+          "title": "Practical English, File 1 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "I have a reservation.",
+          "Can you spell that, please?",
+          "Here's your key card.",
+          "Breakfast is from seven to ten."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Разыграл(а) заселение в отель",
+          "Продиктовал(а) по буквам своё имя и email"
+        ]
+      },
+      {
+        "id": "a2-pe1-l",
+        "type": "listening",
+        "instruction": "Listen to the check-in and answer.",
+        "title": "Arriving at a hotel",
+        "script": [
+          {
+            "speaker": "Receptionist",
+            "text": "Good afternoon. Do you have a reservation?"
+          },
+          {
+            "speaker": "Guest",
+            "text": "Yes, it's for three nights. My name's Karim Haddad."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Could you spell your surname, please?"
+          },
+          {
+            "speaker": "Guest",
+            "text": "H, A, double D, A, D."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Thank you. Room three one two. Breakfast is from seven to ten in the restaurant."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "How many nights?",
+            "options": [
+              "two",
+              "three",
+              "four"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Surname: ___",
+            "answers": [
+              "Haddad"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Room:",
+            "options": [
+              "312",
+              "321",
+              "302"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "Breakfast ends at…",
+            "options": [
+              "9",
+              "10",
+              "11"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🏨"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "a2-rc1-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "___ you from Greece?",
+            "options": [
+              "Is",
+              "Are",
+              "Am"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "They ___ at home.",
+            "options": [
+              "isn't",
+              "aren't",
+              "not"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Peter and ___ wife are Swiss.",
+            "options": [
+              "his",
+              "her",
+              "their"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "The day after Wednesday is ___.",
+            "options": [
+              "Tuesday",
+              "Thursday",
+              "Friday"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  }
+}

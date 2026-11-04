@@ -1,0 +1,39 @@
+{
+  "name": "english-file-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k -n server,web -c blue,green \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:web": "vite",
+    "dev:server": "node --watch server/index.ts",
+    "build": "npm run emoji && npm run typecheck && vite build",
+    "start": "node server/index.ts",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p server",
+    "test": "vitest run",
+    "validate-content": "vitest run src/content/content.test.ts",
+    "audio": "node tools/tts/run.mjs",
+    "emoji": "node tools/emoji/sync.mjs"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.26.2",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.7",
+    "@types/express": "^4.17.21",
+    "@types/node": "^24.19.2",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.0",
+    "@vitejs/plugin-react": "4.3.2",
+    "concurrently": "^9.0.1",
+    "openmoji": "^17.0.0",
+    "typescript": "5.6.3",
+    "vite": "5.4.10",
+    "vitest": "2.1.3"
+  }
+}

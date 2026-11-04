@@ -1,0 +1,1188 @@
+{
+  "fileId": "7",
+  "lessons": {
+    "7A": {
+      "theory": [
+        {
+          "title": "there is / there are",
+          "text": "Так говорят о том, что где-то что-то есть или находится. По-русски мы начинаем с места («В кухне есть стол»), а по-английски — с there is: There's a table in the kitchen.",
+          "table": {
+            "head": [
+              "",
+              "Один предмет",
+              "Несколько"
+            ],
+            "rows": [
+              [
+                "+",
+                "There's a sofa.",
+                "There are two chairs."
+              ],
+              [
+                "−",
+                "There isn't a garden.",
+                "There aren't any shops."
+              ],
+              [
+                "?",
+                "Is there a lift?",
+                "Are there any trees?"
+              ],
+              [
+                "Ответ",
+                "Yes, there is. / No, there isn't.",
+                "Yes, there are. / No, there aren't."
+              ]
+            ]
+          },
+          "tip": "В отрицаниях и вопросах со множественным числом добавляем any: There aren't any plants."
+        },
+        {
+          "title": "Дом и мебель",
+          "examples": [
+            {
+              "en": "kitchen, living room, bedroom, bathroom, hall",
+              "ru": "кухня, гостиная, спальня, ванная, прихожая"
+            },
+            {
+              "en": "sofa, armchair, bed, wardrobe, shelf, cooker, fridge",
+              "ru": "диван, кресло, кровать, шкаф, полка, плита, холодильник"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "There is / there are — rooms and furniture",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=there+is+there+are+rooms+furniture+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with There's or There are.",
+          "items": [
+            {
+              "text": "___ a big table in the kitchen.",
+              "answers": [
+                "There's",
+                "There is"
+              ]
+            },
+            {
+              "text": "___ three chairs.",
+              "answers": [
+                "There are"
+              ]
+            },
+            {
+              "text": "___ a TV in the living room.",
+              "answers": [
+                "There's",
+                "There is"
+              ]
+            },
+            {
+              "text": "___ some books on the shelf.",
+              "answers": [
+                "There are"
+              ]
+            },
+            {
+              "text": "___ two bathrooms upstairs.",
+              "answers": [
+                "There are"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-pic",
+          "type": "picture",
+          "instruction": "In the house: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🛏️",
+              "answers": [
+                "a bed",
+                "bed"
+              ]
+            },
+            {
+              "emoji": "🛋️",
+              "answers": [
+                "a sofa",
+                "sofa"
+              ]
+            },
+            {
+              "emoji": "🛁",
+              "answers": [
+                "a bath",
+                "bath"
+              ]
+            },
+            {
+              "emoji": "🚪",
+              "answers": [
+                "a door",
+                "door"
+              ]
+            },
+            {
+              "emoji": "🪟",
+              "answers": [
+                "a window",
+                "window"
+              ]
+            },
+            {
+              "emoji": "🚿",
+              "answers": [
+                "a shower",
+                "shower"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-2",
+          "type": "matching",
+          "instruction": "Where is it usually? Match.",
+          "pairs": [
+            {
+              "left": "a bed",
+              "right": "the bedroom"
+            },
+            {
+              "left": "a cooker",
+              "right": "the kitchen"
+            },
+            {
+              "left": "a shower",
+              "right": "the bathroom"
+            },
+            {
+              "left": "a sofa",
+              "right": "the living room"
+            },
+            {
+              "left": "a car",
+              "right": "the garage"
+            }
+          ]
+        },
+        {
+          "id": "7a-3",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "There's a garden. → ___?",
+              "answers": [
+                "Is there a garden?"
+              ]
+            },
+            {
+              "prompt": "There are some plants. → ___?",
+              "answers": [
+                "Are there any plants?"
+              ]
+            },
+            {
+              "prompt": "There's a lift. → ___?",
+              "answers": [
+                "Is there a lift?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct answer.",
+          "items": [
+            {
+              "question": "Is there a balcony? (✓)",
+              "options": [
+                "Yes, there is.",
+                "Yes, it is.",
+                "Yes, there's."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Are there any shops near here? (✗)",
+              "options": [
+                "No, there isn't.",
+                "No, there aren't.",
+                "No, they aren't."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "There ___ any towels in the bathroom.",
+              "options": [
+                "isn't",
+                "aren't",
+                "not"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "7a-r",
+          "type": "reading",
+          "instruction": "Read the advert for a holiday flat and answer.",
+          "title": "Holiday flat for rent",
+          "text": "Lovely flat near the beach! There are two bedrooms, a living room with a big sofa and a TV, and a modern kitchen. There's a small balcony with a sea view. There isn't a garden, but there's a park opposite. There aren't any stairs — there's a lift! Price: £90 a night.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many bedrooms are there?",
+              "options": [
+                "one",
+                "two",
+                "three"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "There's a garden.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "There's a lift.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "From the balcony you can see the ___.",
+              "answers": [
+                "sea"
+              ]
+            }
+          ],
+          "image": "🏠"
+        },
+        {
+          "id": "7a-l",
+          "type": "listening",
+          "instruction": "Listen to a phone call about a flat. Answer.",
+          "title": "Is there a washing machine?",
+          "script": [
+            {
+              "speaker": "Student",
+              "text": "Hello, I'm calling about the flat. Is there a washing machine?"
+            },
+            {
+              "speaker": "Owner",
+              "text": "Yes, there is. It's in the kitchen."
+            },
+            {
+              "speaker": "Student",
+              "text": "Are there any shops near the flat?"
+            },
+            {
+              "speaker": "Owner",
+              "text": "Yes, there are two supermarkets in the street."
+            },
+            {
+              "speaker": "Student",
+              "text": "Is there Wi-Fi?"
+            },
+            {
+              "speaker": "Owner",
+              "text": "No, there isn't, I'm afraid."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "There's a washing machine.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "How many supermarkets?",
+              "options": [
+                "one",
+                "two",
+                "none"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "There's Wi-Fi.",
+              "answer": false
+            }
+          ],
+          "image": "🏠"
+        }
+      ]
+    },
+    "7B": {
+      "theory": [
+        {
+          "title": "Предлоги места",
+          "table": {
+            "head": [
+              "Предлог",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "in",
+                "в",
+                "in the box"
+              ],
+              [
+                "on",
+                "на",
+                "on the table"
+              ],
+              [
+                "under",
+                "под",
+                "under the bed"
+              ],
+              [
+                "next to",
+                "рядом с",
+                "next to the bank"
+              ],
+              [
+                "between",
+                "между",
+                "between the café and the shop"
+              ],
+              [
+                "opposite",
+                "напротив",
+                "opposite the park"
+              ],
+              [
+                "behind",
+                "за, позади",
+                "behind the house"
+              ],
+              [
+                "in front of",
+                "перед",
+                "in front of the cinema"
+              ]
+            ]
+          },
+          "tip": "on the wall (на стене), но in the picture (на картинке), in the street (на улице)."
+        },
+        {
+          "title": "Места в городе",
+          "examples": [
+            {
+              "en": "bank, pharmacy, supermarket, post office",
+              "ru": "банк, аптека, супермаркет, почта"
+            },
+            {
+              "en": "station, bus stop, car park, library, museum",
+              "ru": "вокзал, остановка, парковка, библиотека, музей"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7b-1",
+          "type": "matching",
+          "instruction": "Match the prepositions and the meanings.",
+          "pairs": [
+            {
+              "left": "under",
+              "right": "под"
+            },
+            {
+              "left": "next to",
+              "right": "рядом с"
+            },
+            {
+              "left": "between",
+              "right": "между"
+            },
+            {
+              "left": "opposite",
+              "right": "напротив"
+            },
+            {
+              "left": "behind",
+              "right": "за, позади"
+            },
+            {
+              "left": "in front of",
+              "right": "перед"
+            }
+          ]
+        },
+        {
+          "id": "7b-pic",
+          "type": "picture",
+          "instruction": "Places in a town: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🏦",
+              "answers": [
+                "a bank",
+                "bank"
+              ]
+            },
+            {
+              "emoji": "🏥",
+              "answers": [
+                "a hospital",
+                "hospital"
+              ]
+            },
+            {
+              "emoji": "🏫",
+              "answers": [
+                "a school",
+                "school"
+              ]
+            },
+            {
+              "emoji": "🚉",
+              "answers": [
+                "a station",
+                "station"
+              ]
+            },
+            {
+              "emoji": "🏛️",
+              "answers": [
+                "a museum",
+                "museum"
+              ]
+            },
+            {
+              "emoji": "🏪",
+              "answers": [
+                "a shop",
+                "shop",
+                "a supermarket"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-2",
+          "type": "true-false",
+          "instruction": "Read and answer True or False.",
+          "text": "In my street there's a supermarket on the corner. Next to the supermarket there's a pharmacy. Opposite the pharmacy there's a park. The bus stop is in front of the park, and there's a café between the park and the bank.",
+          "items": [
+            {
+              "statement": "The pharmacy is next to the supermarket.",
+              "answer": true
+            },
+            {
+              "statement": "The park is opposite the bank.",
+              "answer": false
+            },
+            {
+              "statement": "The bus stop is in front of the park.",
+              "answer": true
+            },
+            {
+              "statement": "The café is between the park and the bank.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "7b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with in, on or under.",
+          "items": [
+            {
+              "text": "The keys are ___ the table. (на)",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "The milk is ___ the fridge. (в)",
+              "answers": [
+                "in"
+              ]
+            },
+            {
+              "text": "The cat is ___ the bed. (под)",
+              "answers": [
+                "under"
+              ]
+            },
+            {
+              "text": "There's a picture ___ the wall. (на)",
+              "answers": [
+                "on"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-4",
+          "type": "matching",
+          "instruction": "Places in a town: where can you…?",
+          "pairs": [
+            {
+              "left": "buy medicine",
+              "right": "a pharmacy"
+            },
+            {
+              "left": "get money",
+              "right": "a bank"
+            },
+            {
+              "left": "see a film",
+              "right": "a cinema"
+            },
+            {
+              "left": "catch a train",
+              "right": "a station"
+            },
+            {
+              "left": "borrow books",
+              "right": "a library"
+            }
+          ]
+        },
+        {
+          "id": "7b-r",
+          "type": "reading",
+          "instruction": "Read the directions and answer.",
+          "title": "How to find our school",
+          "text": "Our language school is in King Street. Go out of the station and you can see a big supermarket opposite. Our school is next to the supermarket, between the supermarket and a small café. There's a bus stop in front of the school. The car park is behind the building.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The supermarket is… the station.",
+              "options": [
+                "next to",
+                "opposite",
+                "behind"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The school is between the supermarket and a café.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "The bus stop is in ___ of the school.",
+              "answers": [
+                "front"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The car park is…",
+              "options": [
+                "behind the building",
+                "next to the station",
+                "opposite the café"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🏫"
+        },
+        {
+          "id": "7b-l",
+          "type": "listening",
+          "instruction": "Listen. Where are the things?",
+          "title": "Where are my keys?",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "Where are my keys?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "They're on the table, next to your phone."
+            },
+            {
+              "speaker": "Man",
+              "text": "And where's my wallet?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "It's in your jacket."
+            },
+            {
+              "speaker": "Man",
+              "text": "And my glasses?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "They're under the newspaper!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The keys are…",
+              "options": [
+                "in the jacket",
+                "on the table",
+                "under the newspaper"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "The wallet is…",
+              "options": [
+                "in the jacket",
+                "on the table",
+                "in the bag"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "The glasses are under the ___.",
+              "answers": [
+                "newspaper"
+              ]
+            }
+          ],
+          "image": "🔑"
+        }
+      ]
+    },
+    "7C": {
+      "theory": [
+        {
+          "title": "Объектные местоимения",
+          "text": "Когда человек или предмет не делает действие, а получает его, используем объектную форму. Она стоит после глагола или предлога.",
+          "table": {
+            "head": [
+              "Подлежащее",
+              "Объект",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "I",
+                "me",
+                "Call me!"
+              ],
+              [
+                "you",
+                "you",
+                "I love you."
+              ],
+              [
+                "he",
+                "him",
+                "I know him."
+              ],
+              [
+                "she",
+                "her",
+                "Talk to her."
+              ],
+              [
+                "it",
+                "it",
+                "I like it."
+              ],
+              [
+                "we",
+                "us",
+                "Help us!"
+              ],
+              [
+                "they",
+                "them",
+                "I see them every day."
+              ]
+            ]
+          },
+          "tip": "После предлогов тоже объектная форма: with me, for her, to them."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with an object pronoun.",
+          "items": [
+            {
+              "text": "I don't know that man. Do you know ___?",
+              "answers": [
+                "him"
+              ]
+            },
+            {
+              "text": "Where's Anna? I want to talk to ___.",
+              "answers": [
+                "her"
+              ]
+            },
+            {
+              "text": "These are my new shoes. Do you like ___?",
+              "answers": [
+                "them"
+              ]
+            },
+            {
+              "text": "We're lost. Can you help ___?",
+              "answers": [
+                "us"
+              ]
+            },
+            {
+              "text": "That's my phone! Give ___ to me!",
+              "answers": [
+                "it"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7c-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct word.",
+          "items": [
+            {
+              "question": "Call ___ tonight!",
+              "options": [
+                "I",
+                "me",
+                "my"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ lives in Paris.",
+              "options": [
+                "She",
+                "Her",
+                "Hers"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I love ___ — they're my best friends.",
+              "options": [
+                "they",
+                "their",
+                "them"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Can you send ___ the photos?",
+              "options": [
+                "we",
+                "us",
+                "our"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "7c-3",
+          "type": "transform",
+          "instruction": "Replace the person or people with a pronoun (write the whole sentence).",
+          "items": [
+            {
+              "prompt": "I see Tom every day.",
+              "answers": [
+                "I see him every day."
+              ]
+            },
+            {
+              "prompt": "Call your parents!",
+              "answers": [
+                "Call them!"
+              ]
+            },
+            {
+              "prompt": "We like Maria.",
+              "answers": [
+                "We like her."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "Can you text me later?"
+            },
+            {
+              "answer": "I don't know them."
+            },
+            {
+              "answer": "She calls him every day."
+            }
+          ]
+        },
+        {
+          "id": "7c-r",
+          "type": "reading",
+          "instruction": "Read the text messages and answer.",
+          "title": "Messages",
+          "text": "Kate: Hi! Are you at home? Can you call me?\n\nSue: Sorry, I'm at work. I can call you at six.\n\nKate: OK. It's about Mark's party. Do you want to come with me?\n\nSue: Yes! I like him a lot. Are his parents there too? I don't know them.\n\nKate: Don't worry, they're very nice. See you at six!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Sue is at home.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Sue can call Kate at ___.",
+              "answers": [
+                "six",
+                "6"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The party is…",
+              "options": [
+                "Kate's",
+                "Mark's",
+                "Sue's"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Sue knows Mark's parents.",
+              "answer": false
+            }
+          ],
+          "image": "📱"
+        },
+        {
+          "id": "7c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Do you know her?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Who's that woman? Do you know her?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, that's my neighbour, Alice. I see her every morning."
+            },
+            {
+              "speaker": "A",
+              "text": "And those children?"
+            },
+            {
+              "speaker": "B",
+              "text": "They're her sons. I sometimes help them with their homework."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The woman's name is ___.",
+              "answers": [
+                "Alice"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Alice is B's…",
+              "options": [
+                "sister",
+                "neighbour",
+                "teacher"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "B helps the children with their homework.",
+              "answer": true
+            }
+          ],
+          "image": "👩"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Asking for and giving directions",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=asking+for+directions+english+conversation+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe7-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 7.",
+        "video": {
+          "title": "Practical English, File 7 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Excuse me, where's the station?",
+          "Go straight on.",
+          "Turn left at the traffic lights.",
+          "It's on the right.",
+          "Is it far?"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Описал(а) по-английски дорогу от дома до магазина",
+          "Повторил(а) фразы вслух"
+        ]
+      },
+      {
+        "id": "pe7-2",
+        "type": "matching",
+        "instruction": "Match the directions and the meanings.",
+        "pairs": [
+          {
+            "left": "Go straight on.",
+            "right": "Идите прямо."
+          },
+          {
+            "left": "Turn left.",
+            "right": "Поверните налево."
+          },
+          {
+            "left": "Turn right.",
+            "right": "Поверните направо."
+          },
+          {
+            "left": "It's on the corner.",
+            "right": "Это на углу."
+          }
+        ]
+      },
+      {
+        "id": "pe7-l",
+        "type": "listening",
+        "instruction": "Listen to the directions and answer.",
+        "title": "Where's the museum?",
+        "script": [
+          {
+            "speaker": "Tourist",
+            "text": "Excuse me, where's the museum?"
+          },
+          {
+            "speaker": "Woman",
+            "text": "Go straight on, then turn left at the traffic lights. The museum is on your right, opposite the bank."
+          },
+          {
+            "speaker": "Tourist",
+            "text": "Is it far?"
+          },
+          {
+            "speaker": "Woman",
+            "text": "No, it's about five minutes' walk."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "At the traffic lights, turn…",
+            "options": [
+              "left",
+              "right"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "The museum is opposite the…",
+            "options": [
+              "park",
+              "bank",
+              "station"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "It's about ___ minutes' walk.",
+            "answers": [
+              "five",
+              "5"
+            ]
+          }
+        ],
+        "image": "🏛️"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Как спросить и объяснить дорогу",
+        "examples": [
+          {
+            "en": "Excuse me, where's the station?",
+            "ru": "Простите, где вокзал?"
+          },
+          {
+            "en": "Go straight on.",
+            "ru": "Идите прямо."
+          },
+          {
+            "en": "Turn left / right at the traffic lights.",
+            "ru": "Поверните налево / направо на светофоре."
+          },
+          {
+            "en": "Take the second street on the left.",
+            "ru": "Сверните на вторую улицу налево."
+          },
+          {
+            "en": "It's on the corner / on your right.",
+            "ru": "Это на углу / справа от вас."
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc7-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "___ two beds in the room.",
+            "options": [
+              "There is",
+              "There are",
+              "It is"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Is there ___ microwave?",
+            "options": [
+              "a",
+              "any",
+              "some"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "The bank is ___ the café and the shop.",
+            "options": [
+              "between",
+              "next",
+              "opposite to"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I like Tom. I see ___ every day.",
+            "options": [
+              "he",
+              "his",
+              "him"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "id": "rc7-2",
+        "type": "gap-fill",
+        "instruction": "Complete the description.",
+        "items": [
+          {
+            "text": "My flat is small. ___ is one bedroom.",
+            "answers": [
+              "There"
+            ]
+          },
+          {
+            "text": "There ___ two windows in the living room.",
+            "answers": [
+              "are"
+            ]
+          },
+          {
+            "text": "There isn't ___ garden.",
+            "answers": [
+              "a"
+            ]
+          },
+          {
+            "text": "My friends visit me and I cook for ___.",
+            "answers": [
+              "them"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc7-l",
+        "type": "listening",
+        "instruction": "Listen to the description of a street and answer.",
+        "title": "My street",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "I live in a quiet street. There's a small park at the end of it. Next to my house there's a bakery — the bread is amazing. There aren't any big shops, but there's a pharmacy opposite my house. I love it here!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "Her street is noisy.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "Next to her house there's a ___.",
+            "answers": [
+              "bakery"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Opposite her house there's a…",
+            "options": [
+              "park",
+              "pharmacy",
+              "supermarket"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🏘️"
+      }
+    ]
+  }
+}

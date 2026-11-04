@@ -1,0 +1,1132 @@
+{
+  "fileId": "10",
+  "lessons": {
+    "10A": {
+      "theory": [
+        {
+          "title": "Past Simple: неправильные глаголы",
+          "text": "У многих частых глаголов прошедшая форма не по правилу -ed. Их нужно выучить — зато их не так много, и они постоянно встречаются.",
+          "table": {
+            "head": [
+              "Глагол",
+              "Past Simple",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "go",
+                "went",
+                "идти, ехать"
+              ],
+              [
+                "have",
+                "had",
+                "иметь"
+              ],
+              [
+                "get",
+                "got",
+                "получать, добираться"
+              ],
+              [
+                "see",
+                "saw",
+                "видеть"
+              ],
+              [
+                "buy",
+                "bought",
+                "покупать"
+              ],
+              [
+                "eat",
+                "ate",
+                "есть"
+              ],
+              [
+                "take",
+                "took",
+                "брать"
+              ],
+              [
+                "meet",
+                "met",
+                "встречать"
+              ],
+              [
+                "come",
+                "came",
+                "приходить"
+              ],
+              [
+                "do",
+                "did",
+                "делать"
+              ]
+            ]
+          },
+          "tip": "Неправильная форма нужна только в утверждении. В отрицании и вопросе — did + начальная форма: I went → I didn't go → Did you go?"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Irregular verbs in the past simple",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=irregular+verbs+past+simple+for+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10a-1",
+          "type": "matching",
+          "instruction": "Match the verbs and their past forms.",
+          "pairs": [
+            {
+              "left": "go",
+              "right": "went"
+            },
+            {
+              "left": "see",
+              "right": "saw"
+            },
+            {
+              "left": "buy",
+              "right": "bought"
+            },
+            {
+              "left": "eat",
+              "right": "ate"
+            },
+            {
+              "left": "get",
+              "right": "got"
+            },
+            {
+              "left": "take",
+              "right": "took"
+            }
+          ]
+        },
+        {
+          "id": "10a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the past simple.",
+          "items": [
+            {
+              "text": "We ___ to Rome last summer.",
+              "hint": "go",
+              "answers": [
+                "went"
+              ]
+            },
+            {
+              "text": "I ___ a great time.",
+              "hint": "have",
+              "answers": [
+                "had"
+              ]
+            },
+            {
+              "text": "She ___ a new dress.",
+              "hint": "buy",
+              "answers": [
+                "bought"
+              ]
+            },
+            {
+              "text": "They ___ the Colosseum.",
+              "hint": "see",
+              "answers": [
+                "saw"
+              ]
+            },
+            {
+              "text": "We ___ pizza every day!",
+              "hint": "eat",
+              "answers": [
+                "ate"
+              ]
+            },
+            {
+              "text": "He ___ a lot of photos.",
+              "hint": "take",
+              "answers": [
+                "took"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-3",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "I went to work.",
+              "answers": [
+                "I didn't go to work.",
+                "I did not go to work."
+              ]
+            },
+            {
+              "prompt": "She saw the film.",
+              "answers": [
+                "She didn't see the film.",
+                "She did not see the film."
+              ]
+            },
+            {
+              "prompt": "We had breakfast.",
+              "answers": [
+                "We didn't have breakfast.",
+                "We did not have breakfast."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "Last night I ___ to bed at 11.",
+              "options": [
+                "goed",
+                "went",
+                "go"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Did you ___ the email?",
+              "options": [
+                "get",
+                "got",
+                "getted"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "She didn't ___ anything.",
+              "options": [
+                "bought",
+                "buy",
+                "buyed"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "10a-r",
+          "type": "reading",
+          "instruction": "Read the blog post and answer.",
+          "title": "My trip to Istanbul",
+          "text": "Last spring I went to Istanbul with my best friend. We flew from Moscow and got there in four hours. We saw the Blue Mosque and took hundreds of photos. We ate delicious food every day — my favourite was the fish sandwich by the sea! I bought a beautiful lamp in the Grand Bazaar. We met some friendly people and had a fantastic time.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The writer went alone.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The flight took ___ hours.",
+              "answers": [
+                "four",
+                "4"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The writer bought a…",
+              "options": [
+                "carpet",
+                "lamp",
+                "bag"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Favourite food:",
+              "options": [
+                "kebab",
+                "fish sandwich",
+                "soup"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🕌"
+        },
+        {
+          "id": "10a-l",
+          "type": "listening",
+          "instruction": "Listen to Sam's story and answer.",
+          "title": "A terrible morning",
+          "script": [
+            {
+              "speaker": "Sam",
+              "text": "This morning was terrible. I got up late, so I didn't have breakfast. I ran to the bus stop, but the bus went without me! I took a taxi, and it was very expensive. When I got to the office, I saw that it was Saturday!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Sam had breakfast.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "He went to work by…",
+              "options": [
+                "bus",
+                "taxi",
+                "bike"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "It was ___, so there was no work.",
+              "answers": [
+                "Saturday"
+              ]
+            }
+          ],
+          "image": "💼"
+        }
+      ]
+    },
+    "10B": {
+      "theory": [
+        {
+          "title": "Вопросы о прошлом с вопросительными словами",
+          "text": "Схема: вопросительное слово + did + подлежащее + глагол в начальной форме?",
+          "examples": [
+            {
+              "en": "Where did you go?",
+              "ru": "Куда вы ездили?"
+            },
+            {
+              "en": "How did you get there?",
+              "ru": "Как вы туда добрались?"
+            },
+            {
+              "en": "Where did you stay?",
+              "ru": "Где вы остановились?"
+            },
+            {
+              "en": "What did you do?",
+              "ru": "Что вы делали?"
+            },
+            {
+              "en": "What was the weather like?",
+              "ru": "Какая была погода? (с was, без did!)"
+            }
+          ],
+          "tip": "С глаголом be did не нужен: Where were you? Was it good?"
+        },
+        {
+          "title": "Транспорт",
+          "text": "by car, by bus, by train, by plane, by bike — на машине, автобусе и т.д. Но: on foot — пешком. Глаголы: drive (drove), fly (flew), take a bus/taxi."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10b-1",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "Where did you go on holiday?"
+            },
+            {
+              "answer": "How did you get there?"
+            },
+            {
+              "answer": "Where did you stay?"
+            },
+            {
+              "answer": "What did you do in the evenings?"
+            }
+          ]
+        },
+        {
+          "id": "10b-pic",
+          "type": "picture",
+          "instruction": "Transport: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "✈️",
+              "answers": [
+                "a plane",
+                "plane"
+              ]
+            },
+            {
+              "emoji": "🚆",
+              "answers": [
+                "a train",
+                "train"
+              ]
+            },
+            {
+              "emoji": "🚌",
+              "answers": [
+                "a bus",
+                "bus"
+              ]
+            },
+            {
+              "emoji": "🚕",
+              "answers": [
+                "a taxi",
+                "taxi"
+              ]
+            },
+            {
+              "emoji": "🚲",
+              "answers": [
+                "a bike",
+                "bike",
+                "a bicycle"
+              ]
+            },
+            {
+              "emoji": "🚢",
+              "answers": [
+                "a ship",
+                "ship",
+                "a boat"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-2",
+          "type": "matching",
+          "instruction": "Match the questions and the answers.",
+          "pairs": [
+            {
+              "left": "Where did you go?",
+              "right": "To Greece."
+            },
+            {
+              "left": "How did you get there?",
+              "right": "We flew."
+            },
+            {
+              "left": "Where did you stay?",
+              "right": "In a small hotel."
+            },
+            {
+              "left": "What was the weather like?",
+              "right": "It was hot and sunny."
+            },
+            {
+              "left": "When did you come back?",
+              "right": "Last Sunday."
+            }
+          ]
+        },
+        {
+          "id": "10b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with by or on.",
+          "items": [
+            {
+              "text": "We went to Paris ___ train.",
+              "answers": [
+                "by"
+              ]
+            },
+            {
+              "text": "I go to work ___ foot.",
+              "answers": [
+                "on"
+              ]
+            },
+            {
+              "text": "They travelled ___ car.",
+              "answers": [
+                "by"
+              ]
+            },
+            {
+              "text": "She went to the airport ___ taxi.",
+              "answers": [
+                "by"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-4",
+          "type": "transform",
+          "instruction": "Write the question for the answer.",
+          "items": [
+            {
+              "prompt": "We went to Italy. (Where…?)",
+              "answers": [
+                "Where did you go?"
+              ]
+            },
+            {
+              "prompt": "We stayed in a campsite. (Where…?)",
+              "answers": [
+                "Where did you stay?"
+              ]
+            },
+            {
+              "prompt": "We went by plane. (How…?)",
+              "answers": [
+                "How did you go?",
+                "How did you get there?",
+                "How did you travel?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-r",
+          "type": "reading",
+          "instruction": "Read the interview and answer.",
+          "title": "Holiday interview",
+          "text": "Q: Where did you go on holiday?\nA: We went to Lake Baikal.\n\nQ: How did you get there?\nA: We flew to Irkutsk and then took a bus.\n\nQ: Where did you stay?\nA: In a small wooden house near the lake.\n\nQ: What did you do?\nA: We swam, walked in the forest and ate a lot of smoked fish!\n\nQ: What was the weather like?\nA: Warm and sunny, but the water was very cold.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They flew to…",
+              "options": [
+                "Irkutsk",
+                "Baikal",
+                "Moscow"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "They stayed in a big hotel.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "They ate a lot of smoked ___.",
+              "answers": [
+                "fish"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The water was warm.",
+              "answer": false
+            }
+          ],
+          "image": "🏞️"
+        },
+        {
+          "id": "10b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A weekend in the country",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Where did you go last weekend?"
+            },
+            {
+              "speaker": "B",
+              "text": "We went to my grandparents' village."
+            },
+            {
+              "speaker": "A",
+              "text": "How did you get there?"
+            },
+            {
+              "speaker": "B",
+              "text": "By train. It took three hours."
+            },
+            {
+              "speaker": "A",
+              "text": "What did you do?"
+            },
+            {
+              "speaker": "B",
+              "text": "We picked mushrooms and went fishing."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They went to…",
+              "options": [
+                "the beach",
+                "a village",
+                "a city"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Transport:",
+              "options": [
+                "car",
+                "bus",
+                "train"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "gap",
+              "text": "They picked ___.",
+              "answers": [
+                "mushrooms"
+              ]
+            }
+          ],
+          "image": "🍄"
+        }
+      ]
+    },
+    "10C": {
+      "theory": [
+        {
+          "title": "Как рассказать историю",
+          "text": "Чтобы рассказ звучал связно, используй слова-связки и Past Simple.",
+          "examples": [
+            {
+              "en": "First, … Then, … After that, … In the end, …",
+              "ru": "Сначала… Потом… После этого… В итоге…"
+            },
+            {
+              "en": "First we had breakfast. Then we went to the beach.",
+              "ru": "Сначала мы позавтракали. Потом пошли на пляж."
+            }
+          ]
+        },
+        {
+          "title": "make или do?",
+          "table": {
+            "head": [
+              "make (создавать)",
+              "do (выполнять)"
+            ],
+            "rows": [
+              [
+                "make dinner, make a cake",
+                "do homework, do housework"
+              ],
+              [
+                "make a phone call",
+                "do sport, do exercise"
+              ],
+              [
+                "make friends, make a mistake",
+                "do the shopping"
+              ]
+            ]
+          },
+          "tip": "have тоже часто в устойчивых выражениях: have a shower, have breakfast, have a good time."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10c-1",
+          "type": "gap-fill",
+          "instruction": "Complete the story with the past simple.",
+          "items": [
+            {
+              "text": "On Saturday I ___ up late.",
+              "hint": "get",
+              "answers": [
+                "got"
+              ]
+            },
+            {
+              "text": "First I ___ breakfast in a café.",
+              "hint": "have",
+              "answers": [
+                "had"
+              ]
+            },
+            {
+              "text": "Then I ___ my friends in the park.",
+              "hint": "meet",
+              "answers": [
+                "met"
+              ]
+            },
+            {
+              "text": "After that we ___ to the cinema.",
+              "hint": "go",
+              "answers": [
+                "went"
+              ]
+            },
+            {
+              "text": "In the evening I ___ a book.",
+              "hint": "read",
+              "answers": [
+                "read"
+              ]
+            },
+            {
+              "text": "I ___ the weekend very much.",
+              "hint": "enjoy",
+              "answers": [
+                "enjoyed"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10c-2",
+          "type": "true-false",
+          "instruction": "Read about Max's weekend. True or False?",
+          "text": "My weekend was terrible! On Saturday it rained all day, so I didn't go out. I wanted to watch a film, but the TV didn't work. On Sunday I went to the shops, but I lost my wallet. In the evening my friend called and we talked for two hours — that was the best part.",
+          "items": [
+            {
+              "statement": "The weather was good on Saturday.",
+              "answer": false
+            },
+            {
+              "statement": "Max watched a film.",
+              "answer": false
+            },
+            {
+              "statement": "He lost his wallet on Sunday.",
+              "answer": true
+            },
+            {
+              "statement": "He talked to a friend in the evening.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "10c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct verb.",
+          "items": [
+            {
+              "question": "I ___ a shower and went to bed.",
+              "options": [
+                "did",
+                "had",
+                "made"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "We ___ a lot of photos.",
+              "options": [
+                "took",
+                "made",
+                "did"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "She ___ her homework on Sunday.",
+              "options": [
+                "made",
+                "did",
+                "had"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They ___ dinner for their friends.",
+              "options": [
+                "did",
+                "made",
+                "took"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "10c-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "What did you do last weekend?"
+            },
+            {
+              "answer": "I didn't go out on Sunday."
+            },
+            {
+              "answer": "Then we had lunch in a café."
+            }
+          ]
+        },
+        {
+          "id": "10c-r",
+          "type": "reading",
+          "instruction": "Read the story. Put the events in order by answering.",
+          "title": "The best birthday",
+          "text": "On my last birthday my friends made me a surprise. First, my sister took me to a café for breakfast. Then we went shopping and she bought me a new dress. After that we went home. I opened the door and — surprise! — all my friends were there. They made a huge cake. In the end we danced until midnight.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "What happened first?",
+              "options": [
+                "shopping",
+                "breakfast in a café",
+                "the party"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Her sister bought her a new ___.",
+              "answers": [
+                "dress"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer knew about the party.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "They danced until…",
+              "options": [
+                "10 p.m.",
+                "11 p.m.",
+                "midnight"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🎂"
+        },
+        {
+          "id": "10c-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation and answer.",
+          "title": "How was your weekend?",
+          "script": [
+            {
+              "speaker": "Jo",
+              "text": "How was your weekend?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "Great! On Saturday I did the shopping and then I made a curry for my friends."
+            },
+            {
+              "speaker": "Jo",
+              "text": "Nice! And on Sunday?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "I did my homework in the morning, and in the afternoon I went for a long walk. What about you?"
+            },
+            {
+              "speaker": "Jo",
+              "text": "I was ill. I didn't do anything!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "On Saturday Sam made a ___.",
+              "answers": [
+                "curry"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "On Sunday morning Sam…",
+              "options": [
+                "went for a walk",
+                "did homework",
+                "went shopping"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Jo had a good weekend.",
+              "answer": false
+            }
+          ],
+          "image": "🍛"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Buying a train ticket in English",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=buying+a+train+ticket+english+conversation"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe10-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 10.",
+        "video": {
+          "title": "Practical English, File 10 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "A return ticket to Oxford, please.",
+          "Single or return?",
+          "What time's the next train?",
+          "Which platform is it?"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Разыграл(а) покупку билета",
+          "Повторил(а) фразы вслух"
+        ]
+      },
+      {
+        "id": "pe10-2",
+        "type": "gap-fill",
+        "instruction": "Complete the conversation at the station.",
+        "items": [
+          {
+            "text": "A: A ___ to Cambridge, please. (туда и обратно)",
+            "answers": [
+              "return",
+              "return ticket"
+            ]
+          },
+          {
+            "text": "B: That's twenty pounds. A: What time's the ___ train?",
+            "answers": [
+              "next"
+            ]
+          },
+          {
+            "text": "B: At 10:15. A: Which ___ is it?",
+            "answers": [
+              "platform"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pe10-l",
+        "type": "listening",
+        "instruction": "Listen to the conversation at the ticket office.",
+        "title": "Buying a ticket",
+        "script": [
+          {
+            "speaker": "Passenger",
+            "text": "A return to Bath, please."
+          },
+          {
+            "speaker": "Clerk",
+            "text": "That's twenty-four pounds."
+          },
+          {
+            "speaker": "Passenger",
+            "text": "What time's the next train?"
+          },
+          {
+            "speaker": "Clerk",
+            "text": "At eleven forty. From platform three."
+          },
+          {
+            "speaker": "Passenger",
+            "text": "Thanks very much."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Ticket:",
+            "options": [
+              "single",
+              "return"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "choice",
+            "question": "Price:",
+            "options": [
+              "£14",
+              "£24",
+              "£42"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "choice",
+            "question": "Next train:",
+            "options": [
+              "11:14",
+              "11:40",
+              "10:40"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Platform ___.",
+            "answers": [
+              "three",
+              "3"
+            ]
+          }
+        ],
+        "image": "🚆"
+      }
+    ],
+    "theory": [
+      {
+        "title": "На вокзале",
+        "examples": [
+          {
+            "en": "A single to Oxford, please.",
+            "ru": "Билет в одну сторону до Оксфорда."
+          },
+          {
+            "en": "A return to Oxford, please.",
+            "ru": "Билет туда и обратно до Оксфорда."
+          },
+          {
+            "en": "What time's the next train?",
+            "ru": "Во сколько следующий поезд?"
+          },
+          {
+            "en": "Which platform is it?",
+            "ru": "С какой платформы?"
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc10-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "We ___ a lot of museums.",
+            "options": [
+              "saw",
+              "seed",
+              "seen"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Where ___ you stay?",
+            "options": [
+              "did",
+              "were",
+              "do"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "I went there ___ bus.",
+            "options": [
+              "on",
+              "by",
+              "with"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She didn't ___ to the party.",
+            "options": [
+              "went",
+              "go",
+              "goes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc10-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "I buyed a new phone.",
+            "answers": [
+              "I bought a new phone."
+            ]
+          },
+          {
+            "prompt": "Where you went yesterday?",
+            "answers": [
+              "Where did you go yesterday?"
+            ]
+          },
+          {
+            "prompt": "We didn't saw him.",
+            "answers": [
+              "We didn't see him.",
+              "We did not see him."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc10-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A day in London",
+        "text": "Last month I went to London for a day. I got there by train at 9 a.m. First I saw Big Ben and the London Eye. Then I had lunch in a small Italian restaurant. In the afternoon I went to the British Museum — it was free! I bought some postcards and took the train home at 8 p.m. I was very tired but happy.",
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The writer got to London by…",
+            "options": [
+              "car",
+              "train",
+              "plane"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "The museum was expensive.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "The writer bought some ___.",
+            "answers": [
+              "postcards"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "The writer went home at…",
+            "options": [
+              "6 p.m.",
+              "8 p.m.",
+              "9 p.m."
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🎡"
+      }
+    ]
+  }
+}

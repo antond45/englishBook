@@ -1,0 +1,1190 @@
+{
+  "fileId": "6",
+  "lessons": {
+    "6A": {
+      "theory": [
+        {
+          "title": "can / can't — умение",
+          "text": "can (могу, умею) — модальный глагол. После него идёт глагол без to, и can не меняется по лицам.",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I can swim. / She can swim."
+              ],
+              [
+                "−",
+                "He can't (cannot) drive."
+              ],
+              [
+                "?",
+                "Can you cook?"
+              ],
+              [
+                "Ответ",
+                "Yes, I can. / No, I can't."
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "I can speak three languages.",
+              "ru": "Я говорю на трёх языках."
+            },
+            {
+              "en": "My son can't ride a bike.",
+              "ru": "Мой сын не умеет кататься на велосипеде."
+            }
+          ],
+          "tip": "Нельзя: She cans, I can to swim, Do you can…? Правильно: She can, I can swim, Can you…?"
+        },
+        {
+          "title": "Произношение",
+          "text": "В утверждении can произносится слабо, как /kən/: I /kən/ swim. А can't всегда ударное и долгое: I /kɑːnt/ swim. По ударению можно понять, «да» это или «нет»."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Can and can't for ability",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=can+can't+ability+english+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with can or can't.",
+          "items": [
+            {
+              "text": "Fish ___ swim.",
+              "answers": [
+                "can"
+              ]
+            },
+            {
+              "text": "Babies ___ drive.",
+              "answers": [
+                "can't",
+                "cannot"
+              ]
+            },
+            {
+              "text": "Birds ___ fly.",
+              "answers": [
+                "can"
+              ]
+            },
+            {
+              "text": "Dogs ___ speak English.",
+              "answers": [
+                "can't",
+                "cannot"
+              ]
+            },
+            {
+              "text": "Cats ___ climb trees.",
+              "answers": [
+                "can"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-pic",
+          "type": "picture",
+          "instruction": "What can they do? Choose.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🏊",
+              "answers": [
+                "swim"
+              ]
+            },
+            {
+              "emoji": "🚴",
+              "answers": [
+                "ride a bike"
+              ]
+            },
+            {
+              "emoji": "🎸",
+              "answers": [
+                "play the guitar"
+              ]
+            },
+            {
+              "emoji": "💃",
+              "answers": [
+                "dance"
+              ]
+            },
+            {
+              "emoji": "🎨",
+              "answers": [
+                "paint",
+                "draw"
+              ]
+            },
+            {
+              "emoji": "⛷️",
+              "answers": [
+                "ski"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "She cans play the piano.",
+                "She can play the piano.",
+                "She can plays the piano."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "Can you swim?",
+                "Do you can swim?",
+                "You can swim?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "I can't to dance.",
+                "I don't can dance.",
+                "I can't dance."
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Can he cook? (✗)",
+              "options": [
+                "No, he can't.",
+                "No, he doesn't.",
+                "No, he can."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "6a-3",
+          "type": "matching",
+          "instruction": "Match the verbs and the words.",
+          "pairs": [
+            {
+              "left": "play",
+              "right": "the guitar"
+            },
+            {
+              "left": "ride",
+              "right": "a horse"
+            },
+            {
+              "left": "speak",
+              "right": "Chinese"
+            },
+            {
+              "left": "draw",
+              "right": "a picture"
+            },
+            {
+              "left": "swim",
+              "right": "100 metres"
+            }
+          ]
+        },
+        {
+          "id": "6a-4",
+          "type": "transform",
+          "instruction": "Make questions with can.",
+          "items": [
+            {
+              "prompt": "You can ski. → ___?",
+              "answers": [
+                "Can you ski?"
+              ]
+            },
+            {
+              "prompt": "Your brother can sing. → ___?",
+              "answers": [
+                "Can your brother sing?"
+              ]
+            },
+            {
+              "prompt": "They can come tomorrow. → ___?",
+              "answers": [
+                "Can they come tomorrow?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6a-r",
+          "type": "reading",
+          "instruction": "Read the job advert and the application. Answer.",
+          "title": "Summer camp job",
+          "text": "WANTED: Summer camp helpers! Can you swim? Can you play a musical instrument? Can you speak a foreign language? Call us!\n\nHi, I'm Nina. I can swim very well and I can play the guitar. I can speak English and Spanish. I can't drive, but I can ride a bike. I'm good with children!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Nina can swim.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "Nina plays the…",
+              "options": [
+                "piano",
+                "guitar",
+                "violin"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Nina can drive.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "She speaks English and ___.",
+              "answers": [
+                "Spanish"
+              ]
+            }
+          ],
+          "image": "🏕️"
+        },
+        {
+          "id": "6a-l",
+          "type": "listening",
+          "instruction": "Listen. What can Leo do?",
+          "title": "Talented Leo",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Leo, can you dance?"
+            },
+            {
+              "speaker": "Leo",
+              "text": "No, I can't. I'm terrible!"
+            },
+            {
+              "speaker": "A",
+              "text": "Can you cook?"
+            },
+            {
+              "speaker": "Leo",
+              "text": "Yes, I can. I can make great curry."
+            },
+            {
+              "speaker": "A",
+              "text": "Can you ski?"
+            },
+            {
+              "speaker": "Leo",
+              "text": "Yes, I can. I ski every winter."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Leo can dance.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "He can make great ___.",
+              "answers": [
+                "curry"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Leo can ski.",
+              "answer": true
+            }
+          ],
+          "image": "⛷️"
+        }
+      ]
+    },
+    "6B": {
+      "theory": [
+        {
+          "title": "Просьбы и разрешение",
+          "text": "Can I…? — просим разрешения что-то сделать. Can you…? — просим другого человека что-то сделать. Добавляй please — это важно для вежливости.",
+          "examples": [
+            {
+              "en": "Can I open the window?",
+              "ru": "Можно я открою окно?"
+            },
+            {
+              "en": "Can you help me, please?",
+              "ru": "Можешь мне помочь, пожалуйста?"
+            },
+            {
+              "en": "Could you repeat that, please?",
+              "ru": "Не могли бы вы повторить? (вежливее)"
+            }
+          ]
+        },
+        {
+          "title": "Как ответить",
+          "table": {
+            "head": [
+              "Да",
+              "Нет"
+            ],
+            "rows": [
+              [
+                "Yes, of course.",
+                "Sorry, you can't."
+              ],
+              [
+                "Sure.",
+                "I'm afraid not."
+              ],
+              [
+                "No problem.",
+                "Sorry, I can't. I'm busy."
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6b-1",
+          "type": "matching",
+          "instruction": "Match the requests and the answers.",
+          "pairs": [
+            {
+              "left": "Can I use your phone?",
+              "right": "Sure, here you are."
+            },
+            {
+              "left": "Can you close the door, please?",
+              "right": "Yes, of course."
+            },
+            {
+              "left": "Can I sit here?",
+              "right": "Sorry, it's my friend's seat."
+            },
+            {
+              "left": "Can you speak more slowly?",
+              "right": "Oh, sorry. Yes."
+            }
+          ]
+        },
+        {
+          "id": "6b-2",
+          "type": "multiple-choice",
+          "instruction": "Can I…? or Can you…?",
+          "items": [
+            {
+              "question": "You want to park here. — ___ park here?",
+              "options": [
+                "Can I",
+                "Can you"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "You want your friend to help. — ___ help me?",
+              "options": [
+                "Can I",
+                "Can you"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "You want to pay by card. — ___ pay by card?",
+              "options": [
+                "Can I",
+                "Can you"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "You want the teacher to repeat. — ___ repeat that, please?",
+              "options": [
+                "Can I",
+                "Can you"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "6b-3",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "Can I have the bill, please?"
+            },
+            {
+              "answer": "Can you open the window, please?"
+            },
+            {
+              "answer": "Can I take a photo?"
+            }
+          ]
+        },
+        {
+          "id": "6b-4",
+          "type": "gap-fill",
+          "instruction": "Complete the conversation.",
+          "items": [
+            {
+              "text": "A: Excuse me. ___ I sit here?",
+              "answers": [
+                "Can"
+              ]
+            },
+            {
+              "text": "B: Yes, of ___.",
+              "answers": [
+                "course"
+              ]
+            },
+            {
+              "text": "A: Thank you. And can you ___ me the menu, please?",
+              "answers": [
+                "give",
+                "pass"
+              ]
+            },
+            {
+              "text": "B: Sure. Here you ___.",
+              "answers": [
+                "are"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6b-r",
+          "type": "reading",
+          "instruction": "Read the messages and answer.",
+          "title": "Messages",
+          "text": "Mum: Hi Alex, can you buy some milk on the way home, please?\n\nAlex: Sure. Can I borrow the car tonight? I want to see a film with Kate.\n\nMum: Sorry, you can't. Dad needs it. But you can take the bus.\n\nAlex: OK. Can you make pizza for dinner?\n\nMum: Of course!",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Mum asks Alex to buy some ___.",
+              "answers": [
+                "milk"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Alex can take the car.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Alex goes to the cinema by…",
+              "options": [
+                "car",
+                "bus",
+                "bike"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Mum agrees to make pizza.",
+              "answer": true
+            }
+          ],
+          "image": "📱"
+        },
+        {
+          "id": "6b-l",
+          "type": "listening",
+          "instruction": "Listen to the requests. Is the answer yes or no?",
+          "title": "Requests",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Can I sit here?"
+            },
+            {
+              "speaker": "B",
+              "text": "Sorry, my friend is sitting there."
+            },
+            {
+              "speaker": "A",
+              "text": "Can you pass the salt, please?"
+            },
+            {
+              "speaker": "B",
+              "text": "Sure, here you are."
+            },
+            {
+              "speaker": "A",
+              "text": "Can I pay by card?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, of course."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Can A sit there?",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Does B pass the salt?",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "Can A pay by card?",
+              "options": [
+                "yes",
+                "no"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🙋"
+        }
+      ]
+    },
+    "6C": {
+      "theory": [
+        {
+          "title": "like / love / hate + -ing",
+          "text": "Чтобы рассказать, что тебе нравится делать, после like, love, hate, enjoy, don't mind используй глагол с окончанием -ing.",
+          "table": {
+            "head": [
+              "Глагол",
+              "Значение"
+            ],
+            "rows": [
+              [
+                "love",
+                "очень люблю ❤❤"
+              ],
+              [
+                "like / enjoy",
+                "нравится ❤"
+              ],
+              [
+                "don't mind",
+                "не против 😐"
+              ],
+              [
+                "don't like",
+                "не нравится"
+              ],
+              [
+                "hate",
+                "ненавижу"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "I love dancing.",
+              "ru": "Обожаю танцевать."
+            },
+            {
+              "en": "She hates getting up early.",
+              "ru": "Она терпеть не может рано вставать."
+            }
+          ]
+        },
+        {
+          "title": "Правописание -ing",
+          "table": {
+            "head": [
+              "Правило",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "обычно + ing",
+                "read → reading, play → playing"
+              ],
+              [
+                "немая -e уходит",
+                "dance → dancing, write → writing"
+              ],
+              [
+                "короткий глагол: гласная + согласная → удвоение",
+                "swim → swimming, run → running, shop → shopping"
+              ]
+            ]
+          }
+        }
+      ],
+      "videos": [
+        {
+          "title": "Free time activities vocabulary",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=free+time+activities+like+love+hate+ing+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "6c-1",
+          "type": "transform",
+          "instruction": "Write the -ing form.",
+          "items": [
+            {
+              "prompt": "read",
+              "answers": [
+                "reading"
+              ]
+            },
+            {
+              "prompt": "dance",
+              "answers": [
+                "dancing"
+              ]
+            },
+            {
+              "prompt": "swim",
+              "answers": [
+                "swimming"
+              ]
+            },
+            {
+              "prompt": "run",
+              "answers": [
+                "running"
+              ]
+            },
+            {
+              "prompt": "cook",
+              "answers": [
+                "cooking"
+              ]
+            },
+            {
+              "prompt": "write",
+              "answers": [
+                "writing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-pic",
+          "type": "picture",
+          "instruction": "Free time: choose the activity.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "📚",
+              "answers": [
+                "reading"
+              ]
+            },
+            {
+              "emoji": "🎮",
+              "answers": [
+                "playing video games"
+              ]
+            },
+            {
+              "emoji": "🏃",
+              "answers": [
+                "running"
+              ]
+            },
+            {
+              "emoji": "🎤",
+              "answers": [
+                "singing"
+              ]
+            },
+            {
+              "emoji": "🛍️",
+              "answers": [
+                "shopping"
+              ]
+            },
+            {
+              "emoji": "🎣",
+              "answers": [
+                "fishing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the -ing form of the verb.",
+          "items": [
+            {
+              "text": "I love ___ to music.",
+              "hint": "listen",
+              "answers": [
+                "listening"
+              ]
+            },
+            {
+              "text": "My dad hates ___.",
+              "hint": "shop",
+              "answers": [
+                "shopping"
+              ]
+            },
+            {
+              "text": "Do you like ___ films?",
+              "hint": "watch",
+              "answers": [
+                "watching"
+              ]
+            },
+            {
+              "text": "She doesn't mind ___ early.",
+              "hint": "get up",
+              "answers": [
+                "getting up"
+              ]
+            },
+            {
+              "text": "We like ___ in the sea.",
+              "hint": "swim",
+              "answers": [
+                "swimming"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "I love ___ books.",
+              "options": [
+                "read",
+                "reading",
+                "reads"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He ___ playing football.",
+              "options": [
+                "like",
+                "likes",
+                "liking"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They hate ___ housework.",
+              "options": [
+                "doing",
+                "do",
+                "making"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Do you like ___?",
+              "options": [
+                "dance",
+                "danceing",
+                "dancing"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "6c-4",
+          "type": "true-false",
+          "instruction": "Read about Rosa. True or False?",
+          "text": "In my free time I love cooking for my friends. I like reading too, especially in bed. I don't mind running, but I hate going to the gym. And I never watch TV — it's boring!",
+          "items": [
+            {
+              "statement": "Rosa likes cooking.",
+              "answer": true
+            },
+            {
+              "statement": "She loves going to the gym.",
+              "answer": false
+            },
+            {
+              "statement": "She reads in bed.",
+              "answer": true
+            },
+            {
+              "statement": "She often watches TV.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "id": "6c-r",
+          "type": "reading",
+          "instruction": "Read the online profiles and answer.",
+          "title": "Find a hobby partner",
+          "text": "Olga, 26: I love walking in the mountains and taking photos. I don't mind running, but I hate swimming — the water is always cold!\n\nTim, 31: I like cooking and I love trying new food. I enjoy playing board games with friends. I don't like watching TV.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Olga loves swimming.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Olga loves…",
+              "options": [
+                "walking and taking photos",
+                "running",
+                "cooking"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "Tim enjoys board games.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "Tim doesn't like watching ___.",
+              "answers": [
+                "TV"
+              ]
+            }
+          ],
+          "image": "📷"
+        },
+        {
+          "id": "6c-l",
+          "type": "listening",
+          "instruction": "Listen to two friends planning the weekend.",
+          "title": "What do you want to do?",
+          "script": [
+            {
+              "speaker": "Anna",
+              "text": "Do you like going to museums?"
+            },
+            {
+              "speaker": "Ben",
+              "text": "Not really. I hate walking around museums. Do you like playing tennis?"
+            },
+            {
+              "speaker": "Anna",
+              "text": "I don't mind playing tennis, but I love cycling!"
+            },
+            {
+              "speaker": "Ben",
+              "text": "Me too. Let's go cycling on Saturday."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Ben likes museums.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Anna loves…",
+              "options": [
+                "tennis",
+                "cycling",
+                "museums"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "They decide to go cycling on ___.",
+              "answers": [
+                "Saturday"
+              ]
+            }
+          ],
+          "image": "🚴"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Polite requests in English",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=polite+requests+could+you+english+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe6-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 6.",
+        "video": {
+          "title": "Practical English, File 6 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Could you help me, please?",
+          "Could you take a photo of us?",
+          "No problem.",
+          "Thank you very much."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Придумал(а) 3 вежливые просьбы с Could you…?",
+          "Повторил(а) фразы вслух"
+        ]
+      },
+      {
+        "id": "pe6-2",
+        "type": "multiple-choice",
+        "instruction": "Choose the best answer.",
+        "items": [
+          {
+            "question": "Could you help me with my bag?",
+            "options": [
+              "Yes, sure.",
+              "Yes, I could help.",
+              "No, you can't."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Thank you very much.",
+            "options": [
+              "You're welcome.",
+              "Yes, please.",
+              "Of course."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Could you take a photo of us?",
+            "options": [
+              "No problem.",
+              "I'm fine.",
+              "Nice to meet you."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "pe6-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "At the station",
+        "script": [
+          {
+            "speaker": "Tourist",
+            "text": "Excuse me, could you help me? I can't find platform nine."
+          },
+          {
+            "speaker": "Man",
+            "text": "Sure. It's over there, next to the café."
+          },
+          {
+            "speaker": "Tourist",
+            "text": "Thank you. And could you take a photo of us?"
+          },
+          {
+            "speaker": "Man",
+            "text": "No problem. Smile!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The tourist is looking for platform ___.",
+            "answers": [
+              "nine",
+              "9"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "The platform is next to the…",
+            "options": [
+              "shop",
+              "café",
+              "toilets"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "The man takes a photo.",
+            "answer": true
+          }
+        ],
+        "image": "🚆"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Вежливые просьбы",
+        "text": "Could you…? звучит вежливее, чем Can you…? С незнакомыми людьми лучше говорить Could you…?",
+        "examples": [
+          {
+            "en": "Could you help me with my bags?",
+            "ru": "Не могли бы вы помочь мне с сумками?"
+          },
+          {
+            "en": "Could you take a photo of us?",
+            "ru": "Не могли бы вы нас сфотографировать?"
+          },
+          {
+            "en": "Thank you very much. — You're welcome.",
+            "ru": "Большое спасибо. — Пожалуйста."
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc6-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "She ___ swim very well.",
+            "options": [
+              "can",
+              "cans",
+              "can to"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "___ I use your pen?",
+            "options": [
+              "Do",
+              "Can",
+              "Am"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I hate ___ up early.",
+            "options": [
+              "get",
+              "getting",
+              "to getting"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Can you play the guitar? — No, I ___.",
+            "options": [
+              "don't",
+              "can't",
+              "not"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc6-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "He can speaks French.",
+            "answers": [
+              "He can speak French."
+            ]
+          },
+          {
+            "prompt": "I love swiming.",
+            "answers": [
+              "I love swimming."
+            ]
+          },
+          {
+            "prompt": "Do you can cook?",
+            "answers": [
+              "Can you cook?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc6-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "My grandmother",
+        "text": "My grandmother is seventy-five, but she's very active. She can swim and she loves dancing. She can't use a computer very well, but she can send messages on her phone. She hates watching TV — she says it's boring. She enjoys gardening and she grows amazing tomatoes.",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "Grandmother can swim.",
+            "answer": true
+          },
+          {
+            "kind": "tf",
+            "statement": "She loves watching TV.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "She enjoys ___.",
+            "answers": [
+              "gardening"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "She can…",
+            "options": [
+              "use a computer very well",
+              "send messages on her phone"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "👵"
+      }
+    ]
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "fileId": "11",
+  "lessons": {
+    "11A": {
+      "theory": [
+        {
+          "title": "Наречия образа действия",
+          "text": "Отвечают на вопрос «как?». Обычно прилагательное + ly: slow → slowly, careful → carefully, quiet → quietly. -y → ily: easy → easily.",
+          "table": {
+            "head": [
+              "Прилагательное",
+              "Наречие"
+            ],
+            "rows": [
+              [
+                "good",
+                "well"
+              ],
+              [
+                "fast",
+                "fast"
+              ],
+              [
+                "hard",
+                "hard"
+              ],
+              [
+                "late",
+                "late"
+              ],
+              [
+                "early",
+                "early"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "She speaks English very well.",
+              "ru": "Она очень хорошо говорит по-английски."
+            },
+            {
+              "en": "Drive carefully!",
+              "ru": "Езжай осторожно!"
+            }
+          ],
+          "tip": "Прилагательное описывает существительное (a careful driver), наречие — глагол (he drives carefully). hardly = «почти не», а не «тяжело»!"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Adverbs of manner",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=adverbs+of+manner+elementary+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11a-1",
+          "type": "transform",
+          "instruction": "Write the adverb.",
+          "items": [
+            {
+              "prompt": "quiet",
+              "answers": [
+                "quietly"
+              ]
+            },
+            {
+              "prompt": "easy",
+              "answers": [
+                "easily"
+              ]
+            },
+            {
+              "prompt": "good",
+              "answers": [
+                "well"
+              ]
+            },
+            {
+              "prompt": "fast",
+              "answers": [
+                "fast"
+              ]
+            },
+            {
+              "prompt": "dangerous",
+              "answers": [
+                "dangerously"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11a-2",
+          "type": "multiple-choice",
+          "instruction": "Adjective or adverb?",
+          "items": [
+            {
+              "question": "He's a ___ driver.",
+              "options": [
+                "careful",
+                "carefully"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "He drives ___.",
+              "options": [
+                "careful",
+                "carefully"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She sings very ___.",
+              "options": [
+                "good",
+                "well"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Speak ___, please. The baby's sleeping.",
+              "options": [
+                "quiet",
+                "quietly"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "11a-3",
+          "type": "gap-fill",
+          "instruction": "Complete with an adverb from the word in brackets.",
+          "items": [
+            {
+              "text": "Please drive ___.",
+              "hint": "slow",
+              "answers": [
+                "slowly"
+              ]
+            },
+            {
+              "text": "She works very ___.",
+              "hint": "hard",
+              "answers": [
+                "hard"
+              ]
+            },
+            {
+              "text": "He answered the questions ___.",
+              "hint": "correct",
+              "answers": [
+                "correctly"
+              ]
+            },
+            {
+              "text": "We arrived ___ and missed the start.",
+              "hint": "late",
+              "answers": [
+                "late"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11a-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "She plays the piano beautifully."
+            },
+            {
+              "answer": "Please speak more slowly."
+            }
+          ]
+        },
+        {
+          "id": "11a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Slow living",
+          "text": "Do you eat quickly at your desk and walk fast everywhere? The 'slow living' movement says: stop! Its fans eat slowly, with family or friends. They cook carefully with fresh food. They switch off their phones in the evening and sleep well. 'Life isn't a race,' says one fan. 'When you live slowly, you notice beautiful things.'",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Slow living fans eat…",
+              "options": [
+                "quickly at their desk",
+                "slowly with others",
+                "only at night"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They use their phones a lot in the evening.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "'Life isn't a ___.'",
+              "answers": [
+                "race"
+              ]
+            }
+          ],
+          "image": "🐌"
+        },
+        {
+          "id": "11a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A driving lesson",
+          "script": [
+            {
+              "speaker": "Instructor",
+              "text": "OK, start the car slowly. Good. Now turn left carefully — check the mirror. You're driving very well today! But don't stop so suddenly next time."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The instructor says the student is driving badly.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Turn left…",
+              "options": [
+                "quickly",
+                "carefully",
+                "suddenly"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Don't stop so ___.",
+              "answers": [
+                "suddenly"
+              ]
+            }
+          ],
+          "image": "🚗"
+        }
+      ]
+    },
+    "11B": {
+      "theory": [
+        {
+          "title": "Глагол + to + глагол",
+          "text": "После некоторых глаголов следующий глагол идёт с to: want, need, would like, decide, hope, plan, try, learn, forget, remember, promise, offer.",
+          "examples": [
+            {
+              "en": "I decided to learn Japanese.",
+              "ru": "Я решил выучить японский."
+            },
+            {
+              "en": "Don't forget to call me!",
+              "ru": "Не забудь позвонить!"
+            },
+            {
+              "en": "She's learning to drive.",
+              "ru": "Она учится водить."
+            }
+          ],
+          "tip": "Отрицание ставится перед to: I decided not to go."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with to + verb.",
+          "items": [
+            {
+              "text": "I'm trying ___ smoking.",
+              "hint": "stop",
+              "answers": [
+                "to stop"
+              ]
+            },
+            {
+              "text": "We hope ___ you soon.",
+              "hint": "see",
+              "answers": [
+                "to see"
+              ]
+            },
+            {
+              "text": "Remember ___ the door!",
+              "hint": "lock",
+              "answers": [
+                "to lock"
+              ]
+            },
+            {
+              "text": "He offered ___ me with my bags.",
+              "hint": "help",
+              "answers": [
+                "to help"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11b-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I want ___ a new job.",
+              "options": [
+                "find",
+                "to find",
+                "finding"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She decided ___ to the party.",
+              "options": [
+                "not to go",
+                "to not go",
+                "don't go"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I love ___ in the rain.",
+              "options": [
+                "walk",
+                "to walking",
+                "walking"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "11b-3",
+          "type": "matching",
+          "instruction": "Match the beginnings and ends.",
+          "pairs": [
+            {
+              "left": "I promise",
+              "right": "to call you every day."
+            },
+            {
+              "left": "We're planning",
+              "right": "to go to Italy."
+            },
+            {
+              "left": "Don't forget",
+              "right": "to buy milk."
+            },
+            {
+              "left": "I'd like",
+              "right": "to book a table."
+            }
+          ]
+        },
+        {
+          "id": "11b-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I want go home.",
+              "answers": [
+                "I want to go home."
+              ]
+            },
+            {
+              "prompt": "She is learning drive.",
+              "answers": [
+                "She is learning to drive.",
+                "She's learning to drive."
+              ]
+            },
+            {
+              "prompt": "We decided to not wait.",
+              "answers": [
+                "We decided not to wait."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Never too late",
+          "text": "When Nina retired at 70, she decided to learn something new every year. First she learned to swim. The next year she started to study Spanish. Now she's 74 and she's learning to play the drums! 'My grandchildren want to join my band,' she laughs. 'I hope to give a concert next summer.'",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Nina retired at ___.",
+              "answers": [
+                "70",
+                "seventy"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "First she learned to…",
+              "options": [
+                "swim",
+                "speak Spanish",
+                "play the drums"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "She hopes to give a concert.",
+              "answer": true
+            }
+          ],
+          "image": "🥁"
+        },
+        {
+          "id": "11b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Plans",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "What would you like to do after university?"
+            },
+            {
+              "speaker": "B",
+              "text": "I'd like to travel for a year. I'm planning to work in Australia."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you need to get a visa?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I need to apply next month."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "B wants to travel for…",
+              "options": [
+                "a month",
+                "a year",
+                "two years"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "B is planning to work in ___.",
+              "answers": [
+                "Australia"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "B doesn't need a visa.",
+              "answer": false
+            }
+          ],
+          "image": "🦘"
+        }
+      ]
+    },
+    "11C": {
+      "theory": [
+        {
+          "title": "Артикли: a / an, the, без артикля",
+          "table": {
+            "head": [
+              "Артикль",
+              "Когда",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "a / an",
+                "впервые упоминаем, один из многих, профессии",
+                "I saw a man. She's a doctor."
+              ],
+              [
+                "the",
+                "уже знаем о чём речь, единственное, места в городе",
+                "The man was tall. the sun, the internet, go to the cinema"
+              ],
+              [
+                "—",
+                "в общем смысле (мн. ч. и неисчисл.), еда, языки, спорт",
+                "I like dogs. Life is short. I play football."
+              ]
+            ]
+          },
+          "tip": "Устойчивые: go to work / bed / school / home — без артикля; at the weekend, on the internet."
+        },
+        {
+          "title": "Интернет",
+          "text": "go online, download an app, upload a photo, post a comment, search for information, click on a link, log in, follow someone."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "11c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with a, an or the.",
+          "items": [
+            {
+              "text": "I bought ___ new laptop yesterday.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "I spend too much time on ___ internet.",
+              "answers": [
+                "the"
+              ]
+            },
+            {
+              "text": "My new laptop is great. ___ screen is very big.",
+              "answers": [
+                "The"
+              ]
+            },
+            {
+              "text": "She's ___ engineer.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "Can you open ___ window, please? It's hot.",
+              "answers": [
+                "the"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-pic",
+          "type": "picture",
+          "instruction": "The internet: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "📧",
+              "answers": [
+                "an email",
+                "email"
+              ]
+            },
+            {
+              "emoji": "📷",
+              "answers": [
+                "a photo",
+                "photo"
+              ]
+            },
+            {
+              "emoji": "🔗",
+              "answers": [
+                "a link",
+                "link"
+              ]
+            },
+            {
+              "emoji": "🔍",
+              "answers": [
+                "search",
+                "a search"
+              ]
+            },
+            {
+              "emoji": "💬",
+              "answers": [
+                "a comment",
+                "comment",
+                "a message"
+              ]
+            },
+            {
+              "emoji": "📶",
+              "answers": [
+                "wifi",
+                "Wi-Fi",
+                "the internet"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "___ moon is very bright tonight.",
+              "options": [
+                "A",
+                "The",
+                "—"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I love ___ music.",
+              "options": [
+                "the",
+                "a",
+                "—"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Can you close ___ door, please?",
+              "options": [
+                "a",
+                "the",
+                "—"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He plays ___ tennis every Sunday.",
+              "options": [
+                "the",
+                "a",
+                "—"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "11c-3",
+          "type": "matching",
+          "instruction": "Match the internet verbs and phrases.",
+          "pairs": [
+            {
+              "left": "download",
+              "right": "an app"
+            },
+            {
+              "left": "upload",
+              "right": "a photo"
+            },
+            {
+              "left": "click on",
+              "right": "a link"
+            },
+            {
+              "left": "post",
+              "right": "a comment"
+            },
+            {
+              "left": "log in to",
+              "right": "your account"
+            }
+          ]
+        },
+        {
+          "id": "11c-4",
+          "type": "transform",
+          "instruction": "Correct the mistake.",
+          "items": [
+            {
+              "prompt": "I like the chocolate.",
+              "answers": [
+                "I like chocolate."
+              ]
+            },
+            {
+              "prompt": "She is teacher.",
+              "answers": [
+                "She is a teacher.",
+                "She's a teacher."
+              ]
+            },
+            {
+              "prompt": "Sun is a star.",
+              "answers": [
+                "The sun is a star."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "A day without the internet",
+          "text": "Last week I tried an experiment: a day without the internet. In the morning I didn't know the weather, so I took an umbrella — it didn't rain. On the bus I read a book instead of my phone. At work it was difficult: all my emails were waiting. But in the evening I had a long dinner with a friend and nobody looked at a screen. The best part? I slept really well.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "It rained.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "On the bus the writer read a ___.",
+              "answers": [
+                "book"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The best part was…",
+              "options": [
+                "work",
+                "sleeping well",
+                "the weather"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "📵"
+        },
+        {
+          "id": "11c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Help with an app",
+          "script": [
+            {
+              "speaker": "Grandma",
+              "text": "How do I see the photos you uploaded?"
+            },
+            {
+              "speaker": "Grandson",
+              "text": "First, download the app. Then log in with your email. Then click on my name."
+            },
+            {
+              "speaker": "Grandma",
+              "text": "Oh, I can see the photo of the cat! Can I post a comment?"
+            },
+            {
+              "speaker": "Grandson",
+              "text": "Yes, just write here and press send."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "First, Grandma needs to…",
+              "options": [
+                "log in",
+                "download the app",
+                "click on a name"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "She sees a photo of a ___.",
+              "answers": [
+                "cat"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "She can post a comment.",
+              "answer": true
+            }
+          ],
+          "image": "💻"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc11-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "He speaks French very ___.",
+            "options": [
+              "good",
+              "well",
+              "goodly"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I forgot ___ my homework.",
+            "options": [
+              "do",
+              "to do",
+              "doing"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ life is beautiful.",
+            "options": [
+              "The",
+              "A",
+              "—"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Can you play ___ guitar?",
+            "options": [
+              "the",
+              "a",
+              "—"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc11-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "Learning online",
+        "text": "Last year I decided to learn Italian online. I downloaded an app and practised every day for fifteen minutes. At first I spoke slowly and badly, but I didn't give up. In summer I went to Rome and I could easily order food and ask for directions!",
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The writer practised for ___ minutes a day.",
+            "answers": [
+              "fifteen",
+              "15"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The writer gave up.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "In Rome the writer could…",
+            "options": [
+              "easily order food",
+              "not understand anything"
+            ],
+            "answer": 0
+          }
+        ],
+        "image": "💻"
+      }
+    ]
+  }
+}

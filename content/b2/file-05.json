@@ -1,0 +1,570 @@
+{
+  "fileId": "5",
+  "lessons": {
+    "5A": {
+      "theory": [
+        {
+          "title": "Нереальные условия: 2-й и 3-й тип",
+          "table": {
+            "head": [
+              "Тип",
+              "Схема",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Second",
+                "if + Past, would + V",
+                "нереально сейчас",
+                "If I had more time, I'd learn Chinese."
+              ],
+              [
+                "Third",
+                "if + Past Perfect, would have + V3",
+                "нереально в прошлом (сожаление)",
+                "If I'd left earlier, I wouldn't have missed the train."
+              ],
+              [
+                "Mixed",
+                "if + Past Perfect, would + V",
+                "прошлое → результат сейчас",
+                "If I'd studied medicine, I'd be a doctor now."
+              ]
+            ]
+          },
+          "tip": "'d может быть had или would: If I'd known (= had), I'd have come (= would)."
+        },
+        {
+          "title": "Чувства",
+          "text": "devastated, thrilled, delighted, furious, exhausted, astonished, terrified, relieved, upset, disappointed, grateful. Сильные прилагательные (devastated, thrilled) не сочетаются с very — только с absolutely: absolutely furious."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Third conditional",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=third+conditional+mixed+conditional+upper+intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the third conditional.",
+          "items": [
+            {
+              "text": "If I ___ the alarm, I would have caught the bus.",
+              "hint": "hear",
+              "answers": [
+                "had heard",
+                "'d heard"
+              ]
+            },
+            {
+              "text": "We ___ lost if we hadn't had a map.",
+              "hint": "get",
+              "answers": [
+                "would have got",
+                "'d have got",
+                "would have gotten"
+              ]
+            },
+            {
+              "text": "If she ___ so fast, she wouldn't have crashed.",
+              "hint": "not drive",
+              "answers": [
+                "hadn't driven",
+                "had not driven"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "If I ___ you were coming, I'd have cooked something.",
+              "options": [
+                "knew",
+                "had known",
+                "would know"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "If I'd taken that job, I ___ in Paris now.",
+              "options": [
+                "would live",
+                "would have lived",
+                "lived"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I was absolutely ___ when I heard the news.",
+              "options": [
+                "very happy",
+                "thrilled",
+                "pleased"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "If it weren't so expensive, I ___ it.",
+              "options": [
+                "'d buy",
+                "'d have bought",
+                "'ll buy"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "5a-3",
+          "type": "matching",
+          "instruction": "Match the strong adjectives and their meanings.",
+          "pairs": [
+            {
+              "left": "furious",
+              "right": "very angry"
+            },
+            {
+              "left": "devastated",
+              "right": "very upset"
+            },
+            {
+              "left": "exhausted",
+              "right": "very tired"
+            },
+            {
+              "left": "terrified",
+              "right": "very frightened"
+            },
+            {
+              "left": "astonished",
+              "right": "very surprised"
+            }
+          ]
+        },
+        {
+          "id": "5a-4",
+          "type": "transform",
+          "instruction": "Rewrite as a conditional sentence.",
+          "items": [
+            {
+              "prompt": "I didn't study, so I failed the exam.",
+              "answers": [
+                "If I had studied, I wouldn't have failed the exam.",
+                "If I'd studied, I wouldn't have failed the exam.",
+                "If I had studied, I would have passed the exam.",
+                "If I'd studied, I'd have passed the exam."
+              ]
+            },
+            {
+              "prompt": "He missed the flight, so he isn't here now.",
+              "answers": [
+                "If he hadn't missed the flight, he would be here now.",
+                "If he hadn't missed the flight, he'd be here now."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Sliding doors",
+          "text": "In 1999 Anna was offered two jobs: one in Moscow, one in a small town by the sea. She chose Moscow. 'If I'd gone to the coast, I would never have met my husband,' she says. 'And if I hadn't met him, I wouldn't have my two children.' Psychologists call this 'counterfactual thinking' — imagining how life could have been different. It can cause regret, but it can also make us more grateful for what we have.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Anna was offered two jobs in ___.",
+              "answers": [
+                "1999"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Which job did she choose?",
+              "options": [
+                "by the sea",
+                "in Moscow",
+                "neither"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Counterfactual thinking can make us more grateful.",
+              "answer": true
+            }
+          ],
+          "image": "🚪"
+        },
+        {
+          "id": "5a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A lucky escape",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "I was supposed to be on that boat. But I overslept and missed it. An hour later we heard it had hit rocks. Nobody was seriously hurt, thank goodness, but if I'd been on it, I would have been absolutely terrified — I can't swim. I've never been so relieved to be late."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Why did he miss the boat?",
+              "options": [
+                "traffic",
+                "he overslept",
+                "he was ill"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Many people were badly hurt.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "He felt ___ to be late.",
+              "answers": [
+                "relieved"
+              ]
+            }
+          ],
+          "image": "⛵"
+        }
+      ]
+    },
+    "5B": {
+      "theory": [
+        {
+          "title": "wish / if only",
+          "table": {
+            "head": [
+              "Структура",
+              "О чём жалеем",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "wish + Past Simple",
+                "настоящее",
+                "I wish I had more free time. (но у меня нет)"
+              ],
+              [
+                "wish + Past Perfect",
+                "прошлое",
+                "I wish I hadn't said that. (но я сказал)"
+              ],
+              [
+                "wish + would",
+                "раздражение чужим поведением",
+                "I wish you would stop interrupting!"
+              ],
+              [
+                "wish + could",
+                "неспособность",
+                "I wish I could speak French."
+              ]
+            ]
+          },
+          "tip": "If only… — более эмоциональный вариант: If only I'd listened to you! О себе wish + would не используем: I wish I would… — неправильно."
+        },
+        {
+          "title": "Выражения с go",
+          "text": "go wrong, go missing, go deaf, go grey, go bankrupt, go viral, go ahead, go out of business, go on (продолжать)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the correct form after wish.",
+          "items": [
+            {
+              "text": "I wish I ___ taller.",
+              "hint": "be",
+              "answers": [
+                "were",
+                "was"
+              ]
+            },
+            {
+              "text": "I wish I ___ so much last night.",
+              "hint": "not eat",
+              "answers": [
+                "hadn't eaten",
+                "had not eaten"
+              ]
+            },
+            {
+              "text": "I wish my neighbours ___ their music down.",
+              "hint": "turn",
+              "answers": [
+                "would turn"
+              ]
+            },
+            {
+              "text": "I wish I ___ play the guitar.",
+              "hint": "can",
+              "answers": [
+                "could"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-2",
+          "type": "transform",
+          "instruction": "Rewrite with I wish.",
+          "items": [
+            {
+              "prompt": "I don't have a car. (I want one)",
+              "answers": [
+                "I wish I had a car."
+              ]
+            },
+            {
+              "prompt": "I didn't go to the party. (I regret it)",
+              "answers": [
+                "I wish I had gone to the party.",
+                "I wish I'd gone to the party."
+              ]
+            },
+            {
+              "prompt": "You always leave the door open! (annoying)",
+              "answers": [
+                "I wish you would close the door.",
+                "I wish you wouldn't leave the door open.",
+                "I wish you'd close the door."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-3",
+          "type": "matching",
+          "instruction": "Match the expressions with go.",
+          "pairs": [
+            {
+              "left": "go viral",
+              "right": "spread quickly online"
+            },
+            {
+              "left": "go bankrupt",
+              "right": "lose all your money (a company)"
+            },
+            {
+              "left": "go missing",
+              "right": "disappear"
+            },
+            {
+              "left": "go grey",
+              "right": "hair loses its colour"
+            },
+            {
+              "left": "go wrong",
+              "right": "fail, not work"
+            }
+          ]
+        },
+        {
+          "id": "5b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "If only I ___ the truth!",
+              "options": [
+                "know",
+                "knew",
+                "would know"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I wish you ___ smoking. It's bad for you.",
+              "options": [
+                "would stop",
+                "stopped",
+                "had stopped"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Her video ___ and got two million views.",
+              "options": [
+                "went wrong",
+                "went viral",
+                "went missing"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "5b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Regrets of the dying",
+          "text": "A palliative care nurse wrote down the most common regrets of her patients in their final weeks. The top regret was: 'I wish I'd had the courage to live a life true to myself, not the life others expected of me.' Second: 'I wish I hadn't worked so hard.' Others included: 'I wish I'd stayed in touch with my friends' and 'I wish I had let myself be happier.' Interestingly, nobody said they wished they'd earned more money.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The most common regret was about…",
+              "options": [
+                "money",
+                "living true to yourself",
+                "travel"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The second regret: 'I wish I hadn't ___ so hard.'",
+              "answers": [
+                "worked"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Many patients wished they had earned more.",
+              "answer": false
+            }
+          ],
+          "image": "🕊️"
+        },
+        {
+          "id": "5b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Complaints",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "I wish my flatmate would wash the dishes sometimes. And I wish I'd never agreed to share with him!"
+            },
+            {
+              "speaker": "Friend",
+              "text": "Why don't you move out?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "I wish I could, but the contract lasts another six months."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "She wishes her flatmate would wash the ___.",
+              "answers": [
+                "dishes"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "She can move out now.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The contract lasts another…",
+              "options": [
+                "three months",
+                "six months",
+                "a year"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏠"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc5-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "If you'd asked me, I ___ you.",
+            "options": [
+              "would help",
+              "would have helped",
+              "helped"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I wish I ___ more patient.",
+            "options": [
+              "am",
+              "were",
+              "would be"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She was ___ exhausted after the marathon.",
+            "options": [
+              "very",
+              "absolutely"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "The company ___ bankrupt last year.",
+            "options": [
+              "went",
+              "got",
+              "made"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc5-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A missed chance",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "I wish I'd bought that flat ten years ago. If I had, I'd be rich now — prices have tripled. But I was afraid of the risk. If only I'd been braver!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Prices have…",
+            "options": [
+              "doubled",
+              "tripled",
+              "fallen"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "He bought the flat.",
+            "answer": false
+          }
+        ],
+        "image": "🏢"
+      }
+    ]
+  }
+}

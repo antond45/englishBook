@@ -1,0 +1,1011 @@
+{
+  "fileId": "5",
+  "lessons": {
+    "5A": {
+      "theory": [
+        {
+          "title": "Сравнения: прилагательные и наречия",
+          "text": "Сравнительная степень наречий строится так же, как прилагательных: fast → faster, slowly → more slowly, well → better, badly → worse.",
+          "examples": [
+            {
+              "en": "She drives more carefully than her husband.",
+              "ru": "Она водит осторожнее мужа."
+            },
+            {
+              "en": "I work harder than before.",
+              "ru": "Я работаю больше, чем раньше."
+            }
+          ]
+        },
+        {
+          "title": "as … as",
+          "table": {
+            "head": [
+              "Конструкция",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "as + прил. + as",
+                "такой же, как",
+                "He's as tall as his father."
+              ],
+              [
+                "not as + прил. + as",
+                "не такой, как",
+                "Trains aren't as fast as planes."
+              ],
+              [
+                "the same as",
+                "такой же",
+                "My phone is the same as yours."
+              ]
+            ]
+          },
+          "tip": "После as и than в разговоре — me, him, her: She's as old as me."
+        },
+        {
+          "title": "Время: spend, waste, save",
+          "text": "spend time (проводить), waste time (тратить впустую), save time (экономить), have time for, be in a hurry, be on time, take your time."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Comparatives and as…as",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=comparatives+as+as+pre-intermediate"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the comparative of the adjective or adverb.",
+          "items": [
+            {
+              "text": "Could you speak ___? I can't understand.",
+              "hint": "slowly",
+              "answers": [
+                "more slowly"
+              ]
+            },
+            {
+              "text": "He plays the piano ___ than me.",
+              "hint": "well",
+              "answers": [
+                "better"
+              ]
+            },
+            {
+              "text": "Life in the city is ___ than in the country.",
+              "hint": "stressful",
+              "answers": [
+                "more stressful"
+              ]
+            },
+            {
+              "text": "I slept ___ than usual last night.",
+              "hint": "badly",
+              "answers": [
+                "worse"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-2",
+          "type": "transform",
+          "instruction": "Rewrite with (not) as … as.",
+          "items": [
+            {
+              "prompt": "The bus is slower than the metro. (The metro…)",
+              "answers": [
+                "The bus isn't as fast as the metro.",
+                "The bus is not as fast as the metro."
+              ]
+            },
+            {
+              "prompt": "Anna is 25. Olga is 25. (Anna…)",
+              "answers": [
+                "Anna is as old as Olga.",
+                "Anna's as old as Olga."
+              ]
+            },
+            {
+              "prompt": "This film is worse than the book. (This film…)",
+              "answers": [
+                "This film isn't as good as the book.",
+                "This film is not as good as the book."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-3",
+          "type": "multiple-choice",
+          "instruction": "spend, waste or save?",
+          "items": [
+            {
+              "question": "I ___ two hours every day on social media.",
+              "options": [
+                "spend",
+                "save",
+                "take"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Don't ___ time — let's start!",
+              "options": [
+                "spend",
+                "waste",
+                "save"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Online shopping ___ me a lot of time.",
+              "options": [
+                "wastes",
+                "saves",
+                "spends"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Sorry, I can't talk. I'm in a ___.",
+              "options": [
+                "time",
+                "hurry",
+                "rush time"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "5a-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "My sister isn't as patient as me."
+            },
+            {
+              "answer": "You need to drive more carefully."
+            }
+          ]
+        },
+        {
+          "id": "5a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Are we living faster?",
+          "text": "We walk faster, talk faster and eat faster than our grandparents. A study measured walking speed in 32 cities and found that people walk about 10% faster than they did in the 1990s. Singapore was the fastest city. Why? Technology makes us feel we must be available all the time. But psychologists say that rushing doesn't always save time: people who do things more slowly make fewer mistakes and are often just as productive.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The study looked at ___ cities.",
+              "answers": [
+                "32",
+                "thirty-two"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The fastest city was…",
+              "options": [
+                "New York",
+                "Singapore",
+                "Tokyo"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Psychologists say rushing always saves time.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Slower people…",
+              "options": [
+                "make more mistakes",
+                "make fewer mistakes",
+                "are lazier"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏃"
+        },
+        {
+          "id": "5a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "City or country?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Do you prefer living here or in your village?"
+            },
+            {
+              "speaker": "B",
+              "text": "Well, here life is more exciting, but it isn't as relaxing. In the village people walk more slowly and they're friendlier."
+            },
+            {
+              "speaker": "A",
+              "text": "And the houses?"
+            },
+            {
+              "speaker": "B",
+              "text": "Much cheaper in the village, of course. But the internet is worse!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Life in the city is more…",
+              "options": [
+                "relaxing",
+                "exciting",
+                "friendly"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Houses in the village are more expensive.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "In the village the internet is ___.",
+              "answers": [
+                "worse"
+              ]
+            }
+          ],
+          "image": "🏡"
+        }
+      ]
+    },
+    "5B": {
+      "theory": [
+        {
+          "title": "Превосходная степень + ever + Present Perfect",
+          "text": "Конструкция «самый … из всех, что я когда-либо…»: the + превосходная степень + noun + I've ever + V3.",
+          "examples": [
+            {
+              "en": "It's the best book I've ever read.",
+              "ru": "Это лучшая книга, которую я когда-либо читал."
+            },
+            {
+              "en": "She's the most generous person I've ever met.",
+              "ru": "Она самый щедрый человек, которого я встречал."
+            },
+            {
+              "en": "What's the worst film you've ever seen?",
+              "ru": "Какой худший фильм ты видел?"
+            }
+          ],
+          "tip": "the least = наименее: the least expensive (самый недорогой)."
+        },
+        {
+          "title": "Описание города",
+          "text": "historic, lively, polluted, crowded, multicultural, safe, dangerous, industrial; the suburbs, the outskirts, the old town, a district, the city centre."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5b-1",
+          "type": "transform",
+          "instruction": "Make sentences with the superlative + ever.",
+          "items": [
+            {
+              "prompt": "good / film / I / see",
+              "answers": [
+                "It's the best film I've ever seen.",
+                "It is the best film I have ever seen.",
+                "the best film I've ever seen"
+              ]
+            },
+            {
+              "prompt": "hot / place / we / visit",
+              "answers": [
+                "It's the hottest place we've ever visited.",
+                "the hottest place we've ever visited",
+                "It is the hottest place we have ever visited."
+              ]
+            },
+            {
+              "prompt": "boring / book / she / read",
+              "answers": [
+                "It's the most boring book she's ever read.",
+                "the most boring book she's ever read",
+                "It is the most boring book she has ever read."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-2",
+          "type": "matching",
+          "instruction": "Match the city adjectives and definitions.",
+          "pairs": [
+            {
+              "left": "lively",
+              "right": "full of life and activity"
+            },
+            {
+              "left": "polluted",
+              "right": "with dirty air or water"
+            },
+            {
+              "left": "historic",
+              "right": "with many old, important buildings"
+            },
+            {
+              "left": "multicultural",
+              "right": "with people from many cultures"
+            },
+            {
+              "left": "industrial",
+              "right": "with a lot of factories"
+            }
+          ]
+        },
+        {
+          "id": "5b-3",
+          "type": "gap-fill",
+          "instruction": "Complete with the superlative.",
+          "items": [
+            {
+              "text": "It's ___ city I've ever lived in.",
+              "hint": "polluted",
+              "answers": [
+                "the most polluted"
+              ]
+            },
+            {
+              "text": "This is ___ hotel in town — only €30 a night.",
+              "hint": "least expensive",
+              "answers": [
+                "the least expensive"
+              ]
+            },
+            {
+              "text": "What's ___ place you've ever been to?",
+              "hint": "far",
+              "answers": [
+                "the furthest",
+                "the farthest"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "It's the best pizza I've ___ eaten.",
+              "options": [
+                "never",
+                "ever",
+                "already"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He's the ___ person in the office.",
+              "options": [
+                "most hard-working",
+                "hardest-working",
+                "Both are possible."
+              ],
+              "answer": 2
+            },
+            {
+              "question": "We live in the ___ — about 20 km from the centre.",
+              "options": [
+                "suburbs",
+                "old town",
+                "centre"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "5b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The best and worst cities to live in",
+          "text": "Every year a magazine publishes a list of the most liveable cities in the world. They look at safety, healthcare, culture, education and transport. Vienna has often been at the top: it's one of the safest cities in Europe and public transport is cheap and excellent. At the bottom of the list are usually cities affected by war. But some critics say the list measures the best cities for rich foreigners, not for ordinary people.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Which city has often been at the top?",
+              "options": [
+                "Paris",
+                "Vienna",
+                "London"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Public transport in Vienna is expensive.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "Critics say the list is for rich ___.",
+              "answers": [
+                "foreigners"
+              ]
+            }
+          ],
+          "image": "🏙️"
+        },
+        {
+          "id": "5b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Travel memories",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "What's the most beautiful place you've ever been to?"
+            },
+            {
+              "speaker": "B",
+              "text": "Lake Baikal, definitely. The water is the clearest I've ever seen."
+            },
+            {
+              "speaker": "A",
+              "text": "And the worst?"
+            },
+            {
+              "speaker": "B",
+              "text": "A small industrial town in the north. It was the most polluted place I've ever visited."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The most beautiful place: Lake ___.",
+              "answers": [
+                "Baikal"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The worst place was…",
+              "options": [
+                "crowded",
+                "polluted",
+                "expensive"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏞️"
+        }
+      ]
+    },
+    "5C": {
+      "theory": [
+        {
+          "title": "Количество: too, not enough и другие",
+          "table": {
+            "head": [
+              "Выражение",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "too + прил.",
+                "слишком",
+                "It's too hot."
+              ],
+              [
+                "too much + неисч.",
+                "слишком много",
+                "too much sugar"
+              ],
+              [
+                "too many + исч.",
+                "слишком много",
+                "too many people"
+              ],
+              [
+                "not + прил. + enough",
+                "недостаточно",
+                "He isn't old enough."
+              ],
+              [
+                "not enough + сущ.",
+                "недостаточно",
+                "I don't have enough time."
+              ],
+              [
+                "a little / a few",
+                "немного",
+                "a little milk / a few friends"
+              ]
+            ]
+          },
+          "tip": "enough стоит ПОСЛЕ прилагательного (tall enough), но ПЕРЕД существительным (enough money)."
+        },
+        {
+          "title": "Здоровье и тело",
+          "text": "a sore throat, a temperature, a cough, a headache, backache, sunburn, sprain your ankle, cut your finger, feel sick, be allergic to."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "I can't sleep — I drink ___ coffee.",
+              "options": [
+                "too much",
+                "too many",
+                "enough"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "There are ___ people here. Let's go somewhere else.",
+              "options": [
+                "too much",
+                "too many",
+                "too"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She isn't ___ to drive.",
+              "options": [
+                "enough old",
+                "old enough",
+                "too old"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I need ___ help, please.",
+              "options": [
+                "a few",
+                "a little",
+                "many"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "5c-pic",
+          "type": "picture",
+          "instruction": "Health problems: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "🤒",
+              "answers": [
+                "a temperature",
+                "temperature",
+                "a fever",
+                "fever"
+              ]
+            },
+            {
+              "emoji": "🤧",
+              "answers": [
+                "a cold",
+                "cold",
+                "sneeze"
+              ]
+            },
+            {
+              "emoji": "🤕",
+              "answers": [
+                "a headache",
+                "headache",
+                "an injury"
+              ]
+            },
+            {
+              "emoji": "🦷",
+              "answers": [
+                "toothache",
+                "a toothache"
+              ]
+            },
+            {
+              "emoji": "🩹",
+              "answers": [
+                "a plaster",
+                "plaster",
+                "a cut"
+              ]
+            },
+            {
+              "emoji": "💊",
+              "answers": [
+                "tablets",
+                "pills",
+                "medicine"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-2",
+          "type": "transform",
+          "instruction": "Rewrite with too or not … enough.",
+          "items": [
+            {
+              "prompt": "The box is very heavy. I can't lift it. (too)",
+              "answers": [
+                "The box is too heavy.",
+                "The box is too heavy to lift.",
+                "The box is too heavy for me to lift."
+              ]
+            },
+            {
+              "prompt": "We have very little time. (not enough)",
+              "answers": [
+                "We don't have enough time.",
+                "We haven't got enough time."
+              ]
+            },
+            {
+              "prompt": "The water is very cold for swimming. (not warm enough)",
+              "answers": [
+                "The water isn't warm enough.",
+                "The water isn't warm enough for swimming.",
+                "The water is not warm enough for swimming."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-3",
+          "type": "matching",
+          "instruction": "Match the health problems and advice.",
+          "pairs": [
+            {
+              "left": "I have a sore throat.",
+              "right": "Drink some hot tea with honey."
+            },
+            {
+              "left": "I've got sunburn.",
+              "right": "Put some cream on it."
+            },
+            {
+              "left": "I've sprained my ankle.",
+              "right": "Put some ice on it."
+            },
+            {
+              "left": "I feel sick.",
+              "right": "Don't eat anything for a while."
+            }
+          ]
+        },
+        {
+          "id": "5c-4",
+          "type": "gap-fill",
+          "instruction": "Complete with too, too much, too many or enough.",
+          "items": [
+            {
+              "text": "I've eaten ___ chocolate. I feel sick.",
+              "answers": [
+                "too much"
+              ]
+            },
+            {
+              "text": "You're not tall ___ to reach the shelf.",
+              "answers": [
+                "enough"
+              ]
+            },
+            {
+              "text": "This coat is ___ small for me.",
+              "answers": [
+                "too"
+              ]
+            },
+            {
+              "text": "There are ___ cars in the city centre.",
+              "answers": [
+                "too many"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "How much sleep is enough?",
+          "text": "Most adults need seven to nine hours of sleep, but about a third of people don't get enough. Too little sleep makes us eat more, because our body produces more of the 'hunger hormone'. It also makes us worse drivers: after 18 hours without sleep, your reactions are as slow as after two glasses of wine. But too much sleep isn't good either — regularly sleeping more than ten hours can be a sign of health problems.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Adults need…",
+              "options": [
+                "5–6 hours",
+                "7–9 hours",
+                "10–12 hours"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Too little sleep makes us eat less.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "After ___ hours without sleep, reactions are very slow.",
+              "answers": [
+                "18",
+                "eighteen"
+              ]
+            }
+          ],
+          "image": "😴"
+        },
+        {
+          "id": "5c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "At the doctor's",
+          "script": [
+            {
+              "speaker": "Doctor",
+              "text": "What seems to be the problem?"
+            },
+            {
+              "speaker": "Patient",
+              "text": "I've had a headache for a week and I feel tired all the time."
+            },
+            {
+              "speaker": "Doctor",
+              "text": "How much water do you drink?"
+            },
+            {
+              "speaker": "Patient",
+              "text": "Not much. But I drink too much coffee — about six cups a day."
+            },
+            {
+              "speaker": "Doctor",
+              "text": "That's too many. Drink more water and cut down to two coffees."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The patient has had a headache for…",
+              "options": [
+                "a day",
+                "a week",
+                "a month"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The patient drinks about ___ cups of coffee a day.",
+              "answers": [
+                "six",
+                "6"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The doctor says to drink…",
+              "options": [
+                "more coffee",
+                "more water",
+                "less water"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🩺"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Возврат товара",
+        "examples": [
+          {
+            "en": "I'd like to return these shoes. They're the wrong size.",
+            "ru": "Я хотел бы вернуть туфли. Не тот размер."
+          },
+          {
+            "en": "Do you have the receipt?",
+            "ru": "У вас есть чек?"
+          },
+          {
+            "en": "Can I exchange them for a bigger size?",
+            "ru": "Можно обменять на размер побольше?"
+          },
+          {
+            "en": "We can give you a refund or a credit note.",
+            "ru": "Можем вернуть деньги или дать сертификат."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe5-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 5.",
+        "video": {
+          "title": "Practical English, File 5 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Pre-Intermediate. Нужен код из учебника."
+        },
+        "phrases": [
+          "I bought these yesterday.",
+          "They don't fit.",
+          "Can I have a refund?",
+          "I'm afraid we don't give refunds on sale items."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Разыграл(а) возврат покупки",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe5-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "The wrong size",
+        "script": [
+          {
+            "speaker": "Customer",
+            "text": "Excuse me, I bought these trainers last week, but they're too small."
+          },
+          {
+            "speaker": "Assistant",
+            "text": "Have you got the receipt?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Yes. Can I exchange them for a size forty-two?"
+          },
+          {
+            "speaker": "Assistant",
+            "text": "I'm sorry, we haven't got forty-two in this colour. Would you like a refund?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Yes, please."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The trainers are too big.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "The customer wants size ___.",
+            "answers": [
+              "42",
+              "forty-two"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "In the end the customer gets…",
+            "options": [
+              "an exchange",
+              "a refund",
+              "nothing"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "👟"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc5-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "He isn't ___ his brother.",
+            "options": [
+              "as tall as",
+              "as tall than",
+              "so tall that"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "It's the ___ meal I've ever had.",
+            "options": [
+              "worse",
+              "worst",
+              "most bad"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I don't have ___ money for a holiday.",
+            "options": [
+              "too",
+              "enough",
+              "too much"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Stop! You're driving ___.",
+            "options": [
+              "too fast",
+              "fast enough",
+              "too much fast"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc5-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "A review",
+        "text": "Hotel Nord is the friendliest hotel I've ever stayed in, but it isn't as comfortable as the photos suggest. The rooms are too small for a family and there aren't enough plugs. Still, breakfast is the best in town!",
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "The hotel is as comfortable as the photos.",
+            "answer": false
+          },
+          {
+            "kind": "gap",
+            "text": "There aren't enough ___.",
+            "answers": [
+              "plugs"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "What is the best in town?",
+            "options": [
+              "the rooms",
+              "breakfast",
+              "the location"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🏨"
+      }
+    ]
+  }
+}

@@ -1,0 +1,889 @@
+{
+  "fileId": "7",
+  "lessons": {
+    "7A": {
+      "theory": [
+        {
+          "title": "Past Simple глагола be",
+          "table": {
+            "head": [
+              "",
+              "I / he / she / it",
+              "you / we / they"
+            ],
+            "rows": [
+              [
+                "+",
+                "was",
+                "were"
+              ],
+              [
+                "−",
+                "wasn't",
+                "weren't"
+              ],
+              [
+                "?",
+                "Was he…?",
+                "Were they…?"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Where were you born? — I was born in Tula.",
+              "ru": "Где ты родился? — В Туле."
+            },
+            {
+              "en": "Was it expensive? — No, it wasn't.",
+              "ru": "Было дорого? — Нет."
+            }
+          ]
+        },
+        {
+          "title": "Образование слов: профессии",
+          "table": {
+            "head": [
+              "Окончание",
+              "Примеры"
+            ],
+            "rows": [
+              [
+                "-er",
+                "paint → painter, write → writer"
+              ],
+              [
+                "-or",
+                "act → actor, invent → inventor"
+              ],
+              [
+                "-ist",
+                "art → artist, science → scientist"
+              ],
+              [
+                "-ian",
+                "music → musician, politics → politician"
+              ]
+            ]
+          }
+        }
+      ],
+      "videos": [
+        {
+          "title": "Was / were (elementary)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=was+were+past+simple+elementary"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with was, were, wasn't or weren't.",
+          "items": [
+            {
+              "text": "Mozart ___ a famous composer.",
+              "answers": [
+                "was"
+              ]
+            },
+            {
+              "text": "The Beatles ___ from Liverpool.",
+              "answers": [
+                "were"
+              ]
+            },
+            {
+              "text": "Where ___ you last night?",
+              "answers": [
+                "were"
+              ]
+            },
+            {
+              "text": "The tickets ___ cheap — they cost £100!",
+              "answers": [
+                "weren't",
+                "were not"
+              ]
+            },
+            {
+              "text": "___ your grandmother a teacher?",
+              "answers": [
+                "Was"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-2",
+          "type": "transform",
+          "instruction": "Make the person word.",
+          "items": [
+            {
+              "prompt": "paint",
+              "answers": [
+                "painter"
+              ]
+            },
+            {
+              "prompt": "science",
+              "answers": [
+                "scientist"
+              ]
+            },
+            {
+              "prompt": "music",
+              "answers": [
+                "musician"
+              ]
+            },
+            {
+              "prompt": "invent",
+              "answers": [
+                "inventor"
+              ]
+            },
+            {
+              "prompt": "act",
+              "answers": [
+                "actor"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7a-3",
+          "type": "matching",
+          "instruction": "Match the famous people and their jobs.",
+          "pairs": [
+            {
+              "left": "Leo Tolstoy",
+              "right": "a writer"
+            },
+            {
+              "left": "Marie Curie",
+              "right": "a scientist"
+            },
+            {
+              "left": "Frida Kahlo",
+              "right": "a painter"
+            },
+            {
+              "left": "Pyotr Tchaikovsky",
+              "right": "a composer"
+            },
+            {
+              "left": "Charlie Chaplin",
+              "right": "an actor"
+            }
+          ]
+        },
+        {
+          "id": "7a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "We ___ at home yesterday.",
+              "options": [
+                "was",
+                "were",
+                "are"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ the film good? — Yes, it was.",
+              "options": [
+                "Was",
+                "Were",
+                "Did"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I ___ born in 2001.",
+              "options": [
+                "am",
+                "was",
+                "were"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "7a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "A famous woman",
+          "text": "Valentina Tereshkova was the first woman in space. She was born in 1937 in a village near Yaroslavl. Her family was poor and her father was a tractor driver. As a young woman she was a factory worker, but her hobby was parachuting. In 1963, when she was twenty-six, she was in space for almost three days.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "She was born in ___.",
+              "answers": [
+                "1937"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Her father was a…",
+              "options": [
+                "pilot",
+                "tractor driver",
+                "teacher"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Her hobby was parachuting.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "She was in space for…",
+              "options": [
+                "three hours",
+                "almost three days",
+                "a week"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🚀"
+        },
+        {
+          "id": "7a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A school reunion",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Were you in my class at school?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I was! I was the girl with long red hair."
+            },
+            {
+              "speaker": "A",
+              "text": "Oh, Nastya! Your mum was our maths teacher!"
+            },
+            {
+              "speaker": "B",
+              "text": "That's right. She wasn't very strict, was she?"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "B had long ___ hair.",
+              "answers": [
+                "red"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "B's mum taught…",
+              "options": [
+                "English",
+                "maths",
+                "history"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "B's mum was very strict.",
+              "answer": false
+            }
+          ],
+          "image": "🏫"
+        }
+      ]
+    },
+    "7B": {
+      "theory": [
+        {
+          "title": "Past Simple: правильные глаголы",
+          "text": "Глагол + -ed для всех лиц. Отрицание: didn't + глагол. Вопрос: Did + подлежащее + глагол?",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I watched a film."
+              ],
+              [
+                "−",
+                "I didn't watch the news."
+              ],
+              [
+                "?",
+                "Did you watch it? — Yes, I did."
+              ]
+            ]
+          },
+          "tip": "Правописание: live → lived, stop → stopped, study → studied, play → played."
+        },
+        {
+          "title": "Слова прошедшего времени",
+          "text": "yesterday, last night/week/month, two days ago, in 2020, when I was a child. «Вчера вечером» = last night."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with the past simple.",
+          "items": [
+            {
+              "text": "We ___ for the bus for twenty minutes.",
+              "hint": "wait",
+              "answers": [
+                "waited"
+              ]
+            },
+            {
+              "text": "She ___ to a new flat last year.",
+              "hint": "move",
+              "answers": [
+                "moved"
+              ]
+            },
+            {
+              "text": "I ___ the party. It was boring.",
+              "hint": "not enjoy",
+              "answers": [
+                "didn't enjoy",
+                "did not enjoy"
+              ]
+            },
+            {
+              "text": "They ___ a trip to Kazan.",
+              "hint": "plan",
+              "answers": [
+                "planned"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-2",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "You called her. → ___?",
+              "answers": [
+                "Did you call her?"
+              ]
+            },
+            {
+              "prompt": "They stayed in a hotel. → Where ___?",
+              "answers": [
+                "Where did they stay?"
+              ]
+            },
+            {
+              "prompt": "He arrived at six. → What time ___?",
+              "answers": [
+                "What time did he arrive?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct time expression.",
+          "items": [
+            {
+              "question": "I saw him ___.",
+              "options": [
+                "last night",
+                "yesterday night",
+                "night ago"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "We moved here ___.",
+              "options": [
+                "ago five years",
+                "five years ago",
+                "last five years"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She called me ___.",
+              "options": [
+                "in yesterday",
+                "yesterday",
+                "on yesterday"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "7b-4",
+          "type": "word-order",
+          "instruction": "Put the words in order.",
+          "items": [
+            {
+              "answer": "What did you do last weekend?"
+            },
+            {
+              "answer": "I didn't like the hotel."
+            },
+            {
+              "answer": "We visited the museum two days ago."
+            }
+          ]
+        },
+        {
+          "id": "7b-r",
+          "type": "reading",
+          "instruction": "Read the story and answer.",
+          "title": "A night to remember",
+          "text": "Last winter my husband and I booked a table at a very expensive restaurant for our anniversary. We dressed up and arrived at eight. We waited and waited, but nobody served us. After an hour, the waiter apologised: they lost our booking! We laughed, walked to a small café and ordered pancakes. It was the best anniversary dinner ever.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They booked a table for…",
+              "options": [
+                "a birthday",
+                "their anniversary",
+                "a business meeting"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "They waited for an ___.",
+              "answers": [
+                "hour"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "In the end they ate at the expensive restaurant.",
+              "answer": false
+            }
+          ],
+          "image": "💑"
+        },
+        {
+          "id": "7b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Monday morning",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Did you have a good weekend?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes! I visited my parents in the country. We picked apples and cooked a big dinner."
+            },
+            {
+              "speaker": "A",
+              "text": "Did you stay the night?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, I didn't. I returned late on Saturday."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "B visited her ___.",
+              "answers": [
+                "parents"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "They picked apples.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "B stayed the night.",
+              "answer": false
+            }
+          ],
+          "image": "🍎"
+        }
+      ]
+    },
+    "7C": {
+      "theory": [
+        {
+          "title": "Past Simple: неправильные глаголы",
+          "table": {
+            "head": [
+              "Глагол",
+              "Past",
+              "",
+              "Глагол",
+              "Past"
+            ],
+            "rows": [
+              [
+                "go",
+                "went",
+                "",
+                "buy",
+                "bought"
+              ],
+              [
+                "have",
+                "had",
+                "",
+                "see",
+                "saw"
+              ],
+              [
+                "get",
+                "got",
+                "",
+                "take",
+                "took"
+              ],
+              [
+                "leave",
+                "left",
+                "",
+                "lose",
+                "lost"
+              ],
+              [
+                "find",
+                "found",
+                "",
+                "forget",
+                "forgot"
+              ],
+              [
+                "say",
+                "said",
+                "",
+                "tell",
+                "told"
+              ]
+            ]
+          },
+          "tip": "В вопросе и отрицании — снова начальная форма: I went → Did you go? I didn't go."
+        },
+        {
+          "title": "go, have, get",
+          "examples": [
+            {
+              "en": "go out, go away for the weekend, go by bus",
+              "ru": "выйти развлечься, уехать на выходные, ехать на автобусе"
+            },
+            {
+              "en": "have a good time, have a shower, have lunch",
+              "ru": "хорошо провести время, принять душ, обедать"
+            },
+            {
+              "en": "get up, get home, get a taxi, get lost",
+              "ru": "встать, добраться домой, взять такси, заблудиться"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "7c-1",
+          "type": "matching",
+          "instruction": "Match the verbs and their past forms.",
+          "pairs": [
+            {
+              "left": "leave",
+              "right": "left"
+            },
+            {
+              "left": "lose",
+              "right": "lost"
+            },
+            {
+              "left": "find",
+              "right": "found"
+            },
+            {
+              "left": "forget",
+              "right": "forgot"
+            },
+            {
+              "left": "tell",
+              "right": "told"
+            },
+            {
+              "left": "think",
+              "right": "thought"
+            }
+          ]
+        },
+        {
+          "id": "7c-2",
+          "type": "gap-fill",
+          "instruction": "Complete the story with the past simple.",
+          "items": [
+            {
+              "text": "On Friday I ___ home late.",
+              "hint": "leave",
+              "answers": [
+                "left"
+              ]
+            },
+            {
+              "text": "I ___ a taxi to the airport.",
+              "hint": "get",
+              "answers": [
+                "got"
+              ]
+            },
+            {
+              "text": "I ___ my passport at home!",
+              "hint": "forget",
+              "answers": [
+                "forgot"
+              ]
+            },
+            {
+              "text": "I ___ back home to get it.",
+              "hint": "go",
+              "answers": [
+                "went"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7c-3",
+          "type": "multiple-choice",
+          "instruction": "go, have or get?",
+          "items": [
+            {
+              "question": "We ___ lost in the forest.",
+              "options": [
+                "went",
+                "had",
+                "got"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Did you ___ a good time?",
+              "options": [
+                "go",
+                "have",
+                "get"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They ___ away for the weekend.",
+              "options": [
+                "went",
+                "had",
+                "got"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "7c-4",
+          "type": "transform",
+          "instruction": "Make negative.",
+          "items": [
+            {
+              "prompt": "I saw the film.",
+              "answers": [
+                "I didn't see the film.",
+                "I did not see the film."
+              ]
+            },
+            {
+              "prompt": "She bought a car.",
+              "answers": [
+                "She didn't buy a car.",
+                "She did not buy a car."
+              ]
+            },
+            {
+              "prompt": "We took the train.",
+              "answers": [
+                "We didn't take the train.",
+                "We did not take the train."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The worst day of my holiday",
+          "text": "On the third day of our holiday in Rome, everything went wrong. First, I lost my phone on the bus. Then it started to rain and we didn't have an umbrella. We went into a museum, but it was closed. In the evening we got lost and walked for two hours. Finally a kind old man took us to our hotel in his car.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The writer lost a ___ on the bus.",
+              "answers": [
+                "phone"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The museum was open.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Who helped them?",
+              "options": [
+                "a police officer",
+                "a kind old man",
+                "a taxi driver"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "☔"
+        },
+        {
+          "id": "7c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "How did you meet?",
+          "script": [
+            {
+              "speaker": "Woman",
+              "text": "I met my husband in a bookshop. We both took the last copy of the same book! He said, 'You take it.' I bought it, read it in two days and gave it to him. Then we went for a coffee to talk about it."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They met in a…",
+              "options": [
+                "café",
+                "bookshop",
+                "library"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "She read the book in ___ days.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "They went for a coffee.",
+              "answer": true
+            }
+          ],
+          "image": "📚"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc7-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "They ___ at the concert.",
+            "options": [
+              "was",
+              "were",
+              "did"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I ___ the last bus.",
+            "options": [
+              "missed",
+              "misses",
+              "did miss"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Did you ___ the email?",
+            "options": [
+              "got",
+              "get",
+              "getting"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ us about the party.",
+            "options": [
+              "didn't tell",
+              "didn't told",
+              "not told"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": "rc7-r",
+        "type": "reading",
+        "instruction": "Read and answer.",
+        "title": "My first trip abroad",
+        "text": "My first trip abroad was to Finland when I was ten. We went by train from St Petersburg. I remember it was very clean and quiet. We stayed in a small hotel and I had my first sauna. I didn't like the food, but I loved the lakes.",
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The writer was ___ years old.",
+            "answers": [
+              "ten",
+              "10"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "They travelled by…",
+            "options": [
+              "plane",
+              "train",
+              "car"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "The writer liked the food.",
+            "answer": false
+          }
+        ],
+        "image": "🌲"
+      }
+    ]
+  }
+}

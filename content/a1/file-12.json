@@ -1,0 +1,1251 @@
+{
+  "fileId": "12",
+  "lessons": {
+    "12A": {
+      "theory": [
+        {
+          "title": "Исчисляемые и неисчисляемые существительные",
+          "text": "Исчисляемые можно посчитать: an apple, two apples. Неисчисляемые — нельзя: water, bread, milk, rice, cheese, money. У неисчисляемых нет множественного числа и не бывает a/an.",
+          "examples": [
+            {
+              "en": "an egg — three eggs",
+              "ru": "исчисляемое"
+            },
+            {
+              "en": "some bread (не a bread, не breads)",
+              "ru": "неисчисляемое"
+            }
+          ],
+          "tip": "Чтобы посчитать неисчисляемое, нужна «упаковка»: a loaf of bread, a glass of water."
+        },
+        {
+          "title": "some / any",
+          "table": {
+            "head": [
+              "",
+              "Исчисляемые (мн. ч.)",
+              "Неисчисляемые"
+            ],
+            "rows": [
+              [
+                "+",
+                "There are some eggs.",
+                "There's some milk."
+              ],
+              [
+                "−",
+                "There aren't any eggs.",
+                "There isn't any milk."
+              ],
+              [
+                "?",
+                "Are there any eggs?",
+                "Is there any milk?"
+              ]
+            ]
+          },
+          "tip": "В вежливых просьбах и предложениях используем some даже в вопросе: Would you like some tea? Can I have some water?"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Countable and uncountable nouns, some / any",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=countable+uncountable+some+any+food+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12a-1",
+          "type": "multiple-choice",
+          "instruction": "Countable (C) or uncountable (U)?",
+          "items": [
+            {
+              "question": "an egg",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "rice",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "cheese",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "a banana",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "water",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "a tomato",
+              "options": [
+                "C",
+                "U"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "12a-pic",
+          "type": "picture",
+          "instruction": "Food: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🥕",
+              "answers": [
+                "carrots",
+                "a carrot"
+              ]
+            },
+            {
+              "emoji": "🍓",
+              "answers": [
+                "strawberries"
+              ]
+            },
+            {
+              "emoji": "🥩",
+              "answers": [
+                "meat",
+                "beef"
+              ]
+            },
+            {
+              "emoji": "🧈",
+              "answers": [
+                "butter"
+              ]
+            },
+            {
+              "emoji": "🍝",
+              "answers": [
+                "pasta"
+              ]
+            },
+            {
+              "emoji": "🍚",
+              "answers": [
+                "rice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with a, an, some or any.",
+          "items": [
+            {
+              "text": "There's ___ apple on the table.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "I'd like ___ bread, please.",
+              "answers": [
+                "some"
+              ]
+            },
+            {
+              "text": "We don't have ___ milk.",
+              "answers": [
+                "any"
+              ]
+            },
+            {
+              "text": "Are there ___ eggs in the fridge?",
+              "answers": [
+                "any"
+              ]
+            },
+            {
+              "text": "Can I have ___ sandwich?",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "There are ___ potatoes in the bag.",
+              "answers": [
+                "some"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-3",
+          "type": "matching",
+          "instruction": "Match the food and the groups.",
+          "pairs": [
+            {
+              "left": "carrots",
+              "right": "vegetables"
+            },
+            {
+              "left": "strawberries",
+              "right": "fruit"
+            },
+            {
+              "left": "beef",
+              "right": "meat"
+            },
+            {
+              "left": "butter",
+              "right": "dairy"
+            },
+            {
+              "left": "pasta",
+              "right": "grains"
+            }
+          ]
+        },
+        {
+          "id": "12a-4",
+          "type": "transform",
+          "instruction": "Make the sentences negative. Use any.",
+          "items": [
+            {
+              "prompt": "There's some sugar.",
+              "answers": [
+                "There isn't any sugar.",
+                "There is not any sugar."
+              ]
+            },
+            {
+              "prompt": "There are some onions.",
+              "answers": [
+                "There aren't any onions.",
+                "There are not any onions."
+              ]
+            },
+            {
+              "prompt": "I have some money.",
+              "answers": [
+                "I don't have any money.",
+                "I do not have any money."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12a-r",
+          "type": "reading",
+          "instruction": "Read the recipe and answer.",
+          "title": "Easy pancakes",
+          "text": "You need: some flour (200 g), two eggs, some milk (300 ml), a little sugar and some butter. You don't need any baking powder.\n\nMix the flour, eggs and milk. Add some sugar. Heat some butter in a pan and cook the pancakes for one minute on each side. Serve with some fruit or honey.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "How many eggs?",
+              "options": [
+                "one",
+                "two",
+                "three"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "You need baking powder.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "You need ___ ml of milk.",
+              "answers": [
+                "300",
+                "three hundred"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Cook each side for…",
+              "options": [
+                "one minute",
+                "two minutes",
+                "five minutes"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🥞"
+        },
+        {
+          "id": "12a-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation in the kitchen and answer.",
+          "title": "What's in the fridge?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Let's make an omelette. Are there any eggs?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, there are some eggs. But there isn't any cheese."
+            },
+            {
+              "speaker": "A",
+              "text": "Is there any milk?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, there's some milk. And there are some tomatoes."
+            },
+            {
+              "speaker": "A",
+              "text": "Great, tomato omelette!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "There are some eggs.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "There's some cheese.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "They make a… omelette.",
+              "options": [
+                "cheese",
+                "tomato",
+                "mushroom"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🥚"
+        }
+      ]
+    },
+    "12B": {
+      "theory": [
+        {
+          "title": "How much? / How many?",
+          "table": {
+            "head": [
+              "",
+              "С чем",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "How many…?",
+                "исчисляемые во мн. ч.",
+                "How many eggs do we need?"
+              ],
+              [
+                "How much…?",
+                "неисчисляемые",
+                "How much water do you drink?"
+              ],
+              [
+                "How much is it?",
+                "цена",
+                "How much is this jacket?"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "How many people are there? — About twenty.",
+              "ru": "Сколько там людей? — Около двадцати."
+            },
+            {
+              "en": "How much sugar do you want? — Just a little.",
+              "ru": "Сколько сахара? — Совсем немного."
+            }
+          ]
+        },
+        {
+          "title": "Упаковки и количество",
+          "examples": [
+            {
+              "en": "a bottle of water, a can of cola",
+              "ru": "бутылка воды, банка колы"
+            },
+            {
+              "en": "a packet of biscuits, a carton of milk",
+              "ru": "пачка печенья, пакет молока"
+            },
+            {
+              "en": "a loaf of bread, a jar of jam",
+              "ru": "буханка хлеба, банка варенья"
+            },
+            {
+              "en": "a kilo of potatoes, a piece of cake",
+              "ru": "килограмм картошки, кусок торта"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12b-1",
+          "type": "multiple-choice",
+          "instruction": "How much or How many?",
+          "items": [
+            {
+              "question": "___ coffee do you drink?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ apples do we need?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ people are there?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "___ money do you have?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ bottles of water?",
+              "options": [
+                "How much",
+                "How many"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "12b-pic",
+          "type": "picture",
+          "instruction": "Containers: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🍾",
+              "answers": [
+                "a bottle",
+                "bottle"
+              ]
+            },
+            {
+              "emoji": "🥫",
+              "answers": [
+                "a can",
+                "can",
+                "a tin"
+              ]
+            },
+            {
+              "emoji": "🫙",
+              "answers": [
+                "a jar",
+                "jar"
+              ]
+            },
+            {
+              "emoji": "🧃",
+              "answers": [
+                "a carton",
+                "carton"
+              ]
+            },
+            {
+              "emoji": "🍞",
+              "answers": [
+                "a loaf",
+                "loaf"
+              ]
+            },
+            {
+              "emoji": "🍪",
+              "answers": [
+                "a biscuit",
+                "biscuit"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12b-2",
+          "type": "matching",
+          "instruction": "Match the containers and the food.",
+          "pairs": [
+            {
+              "left": "a bottle of",
+              "right": "water"
+            },
+            {
+              "left": "a packet of",
+              "right": "biscuits"
+            },
+            {
+              "left": "a carton of",
+              "right": "milk"
+            },
+            {
+              "left": "a can of",
+              "right": "cola"
+            },
+            {
+              "left": "a jar of",
+              "right": "jam"
+            },
+            {
+              "left": "a loaf of",
+              "right": "bread"
+            }
+          ]
+        },
+        {
+          "id": "12b-3",
+          "type": "word-order",
+          "instruction": "Put the words in order to make questions.",
+          "items": [
+            {
+              "answer": "How much water do you drink?"
+            },
+            {
+              "answer": "How many eggs do we need?"
+            },
+            {
+              "answer": "How much is this bag?"
+            }
+          ]
+        },
+        {
+          "id": "12b-4",
+          "type": "true-false",
+          "instruction": "Read the shopping list. True or False?",
+          "text": "Shopping list: 2 bottles of water, 1 loaf of bread, 6 eggs, 1 packet of rice, 500 g of cheese. No milk — we have a lot!",
+          "items": [
+            {
+              "statement": "They need three bottles of water.",
+              "answer": false
+            },
+            {
+              "statement": "They need six eggs.",
+              "answer": true
+            },
+            {
+              "statement": "They need some milk.",
+              "answer": false
+            },
+            {
+              "statement": "They need some cheese.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "12b-r",
+          "type": "reading",
+          "instruction": "Read the survey results and answer.",
+          "title": "How healthy is your diet?",
+          "text": "We asked 100 students about their diet. How much water do they drink? Most drink about one litre a day — doctors say two litres is better. How many pieces of fruit do they eat? On average, two a day. How much coffee do they drink? A lot — three cups a day! And how many students eat breakfast? Only forty.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Most students drink … of water a day.",
+              "options": [
+                "one litre",
+                "two litres",
+                "half a litre"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "They eat ___ pieces of fruit a day.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Cups of coffee a day:",
+              "options": [
+                "one",
+                "two",
+                "three"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "tf",
+              "statement": "Most students eat breakfast.",
+              "answer": false
+            }
+          ],
+          "image": "🥗"
+        },
+        {
+          "id": "12b-l",
+          "type": "listening",
+          "instruction": "Listen to the shopping conversation and answer.",
+          "title": "At the market",
+          "script": [
+            {
+              "speaker": "Seller",
+              "text": "Good morning! What would you like?"
+            },
+            {
+              "speaker": "Customer",
+              "text": "A kilo of apples, please. How much are they?"
+            },
+            {
+              "speaker": "Seller",
+              "text": "Two pounds a kilo."
+            },
+            {
+              "speaker": "Customer",
+              "text": "And six eggs and a loaf of bread."
+            },
+            {
+              "speaker": "Seller",
+              "text": "Anything else?"
+            },
+            {
+              "speaker": "Customer",
+              "text": "No, thanks. How much is that?"
+            },
+            {
+              "speaker": "Seller",
+              "text": "Five pounds fifty, please."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Apples cost…",
+              "options": [
+                "£1 a kilo",
+                "£2 a kilo",
+                "£3 a kilo"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The customer buys ___ eggs.",
+              "answers": [
+                "six",
+                "6"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Total:",
+              "options": [
+                "£5.50",
+                "£15.50",
+                "£5.15"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🍎"
+        }
+      ]
+    },
+    "12C": {
+      "theory": [
+        {
+          "title": "Сравнительная степень прилагательных",
+          "table": {
+            "head": [
+              "Прилагательное",
+              "Правило",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "короткое (1 слог)",
+                "+ er",
+                "cheap → cheaper, old → older"
+              ],
+              [
+                "на -e",
+                "+ r",
+                "nice → nicer, large → larger"
+              ],
+              [
+                "гласная + согласная",
+                "удвоение + er",
+                "big → bigger, hot → hotter"
+              ],
+              [
+                "на -y",
+                "y → ier",
+                "easy → easier, happy → happier"
+              ],
+              [
+                "длинное (2+ слога)",
+                "more + прил.",
+                "expensive → more expensive"
+              ],
+              [
+                "исключения",
+                "—",
+                "good → better, bad → worse, far → further"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Moscow is bigger than Kazan.",
+              "ru": "Москва больше Казани."
+            },
+            {
+              "en": "This phone is more expensive than that one.",
+              "ru": "Этот телефон дороже того."
+            }
+          ],
+          "tip": "После сравнения — than (чем), а не that или then. Нельзя: more bigger."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Comparative adjectives for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=comparative+adjectives+for+beginners+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "12c-1",
+          "type": "transform",
+          "instruction": "Write the comparative form.",
+          "items": [
+            {
+              "prompt": "cheap",
+              "answers": [
+                "cheaper"
+              ]
+            },
+            {
+              "prompt": "big",
+              "answers": [
+                "bigger"
+              ]
+            },
+            {
+              "prompt": "easy",
+              "answers": [
+                "easier"
+              ]
+            },
+            {
+              "prompt": "expensive",
+              "answers": [
+                "more expensive"
+              ]
+            },
+            {
+              "prompt": "good",
+              "answers": [
+                "better"
+              ]
+            },
+            {
+              "prompt": "bad",
+              "answers": [
+                "worse"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12c-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the comparative + than.",
+          "items": [
+            {
+              "text": "A plane is ___ a train.",
+              "hint": "fast",
+              "answers": [
+                "faster than"
+              ]
+            },
+            {
+              "text": "Russia is ___ France.",
+              "hint": "big",
+              "answers": [
+                "bigger than"
+              ]
+            },
+            {
+              "text": "This book is ___ that one.",
+              "hint": "interesting",
+              "answers": [
+                "more interesting than"
+              ]
+            },
+            {
+              "text": "My English is ___ last year.",
+              "hint": "good",
+              "answers": [
+                "better than"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "She's more tall than me.",
+                "She's taller than me.",
+                "She's taller that me."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "Today is hotter than yesterday.",
+                "Today is hoter than yesterday.",
+                "Today is more hot than yesterday."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "The film was gooder than the book.",
+                "The film was better than the book.",
+                "The film was more good than the book."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "12c-4",
+          "type": "true-false",
+          "instruction": "Compare the two flats. True or False?",
+          "text": "Flat A: 2 bedrooms, 60 m², £900 a month, 10 minutes from the centre.\nFlat B: 3 bedrooms, 85 m², £1,100 a month, 30 minutes from the centre.",
+          "items": [
+            {
+              "statement": "Flat A is bigger than Flat B.",
+              "answer": false
+            },
+            {
+              "statement": "Flat B is more expensive than Flat A.",
+              "answer": true
+            },
+            {
+              "statement": "Flat A is nearer the centre.",
+              "answer": true
+            },
+            {
+              "statement": "Flat A is cheaper than Flat B.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "12c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "City or village?",
+          "text": "I moved from Moscow to a small village last year. Life here is slower and quieter than in the city. The air is cleaner, and the food from the farm is better. The houses are cheaper too. But some things are more difficult: the shops are further away, and the internet is worse. In winter the village is colder and darker. But I'm happier here!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Life in the village is faster.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The houses in the village are…",
+              "options": [
+                "more expensive",
+                "cheaper",
+                "bigger"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The internet is ___ in the village.",
+              "answers": [
+                "worse"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer is happier in the village.",
+              "answer": true
+            }
+          ],
+          "image": "🏡"
+        },
+        {
+          "id": "12c-l",
+          "type": "listening",
+          "instruction": "Listen to two friends comparing hotels.",
+          "title": "Which hotel?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "The Sea View hotel is cheaper than the Grand."
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, but the Grand is nearer the beach."
+            },
+            {
+              "speaker": "A",
+              "text": "The rooms at the Sea View are bigger."
+            },
+            {
+              "speaker": "B",
+              "text": "And the reviews of the Sea View are better. Let's book it!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Which hotel is cheaper?",
+              "options": [
+                "Sea View",
+                "Grand"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "Which is nearer the beach?",
+              "options": [
+                "Sea View",
+                "Grand"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "They book…",
+              "options": [
+                "the Sea View",
+                "the Grand"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🏨"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Saying thank you and goodbye in English",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=saying+thank+you+and+goodbye+english+phrases"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe12-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 12.",
+        "video": {
+          "title": "Practical English, File 12 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Thank you for everything.",
+          "It was great to meet you.",
+          "Keep in touch!",
+          "Have a safe journey.",
+          "See you soon."
+        ],
+        "tasks": [
+          "Посмотрел(а) последний эпизод",
+          "Написал(а) короткое сообщение-благодарность на английском",
+          "Пересмотрел(а) любимый эпизод курса"
+        ]
+      },
+      {
+        "id": "pe12-2",
+        "type": "matching",
+        "instruction": "Match the phrases and the replies.",
+        "pairs": [
+          {
+            "left": "Thank you for everything.",
+            "right": "You're welcome. It was a pleasure."
+          },
+          {
+            "left": "Have a safe journey!",
+            "right": "Thanks, I will."
+          },
+          {
+            "left": "Keep in touch!",
+            "right": "Yes, I'll send you a message."
+          },
+          {
+            "left": "It was great to meet you.",
+            "right": "You too!"
+          }
+        ]
+      },
+      {
+        "id": "pe12-l",
+        "type": "listening",
+        "instruction": "Listen to the goodbye conversation.",
+        "title": "Goodbye at the airport",
+        "script": [
+          {
+            "speaker": "Anna",
+            "text": "Thank you for everything, Mrs Wilson. It was a wonderful month."
+          },
+          {
+            "speaker": "Mrs Wilson",
+            "text": "It was a pleasure, Anna. Your English is much better now!"
+          },
+          {
+            "speaker": "Anna",
+            "text": "Thanks! Let's keep in touch. I can send you photos."
+          },
+          {
+            "speaker": "Mrs Wilson",
+            "text": "Yes, please. Have a safe journey!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Anna stayed for…",
+            "options": [
+              "a week",
+              "a month",
+              "a year"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "Mrs Wilson thinks Anna's English is better.",
+            "answer": true
+          },
+          {
+            "kind": "gap",
+            "text": "Anna can send ___.",
+            "answers": [
+              "photos"
+            ]
+          }
+        ],
+        "image": "✈️"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Прощание и благодарность",
+        "examples": [
+          {
+            "en": "Thank you for everything.",
+            "ru": "Спасибо за всё."
+          },
+          {
+            "en": "It was great to meet you.",
+            "ru": "Было здорово познакомиться."
+          },
+          {
+            "en": "Keep in touch! / Let's stay in touch.",
+            "ru": "Не пропадай! / Давай поддерживать связь."
+          },
+          {
+            "en": "Have a safe journey!",
+            "ru": "Счастливого пути!"
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc12-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "There isn't ___ juice.",
+            "options": [
+              "some",
+              "any",
+              "a"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "How ___ bananas do you want?",
+            "options": [
+              "much",
+              "many"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "a ___ of milk",
+            "options": [
+              "carton",
+              "loaf",
+              "packet"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Trains are ___ than buses.",
+            "options": [
+              "fast",
+              "faster",
+              "more fast"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "This hotel is ___ than that one.",
+            "options": [
+              "gooder",
+              "better",
+              "best"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc12-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "How many water do you drink?",
+            "answers": [
+              "How much water do you drink?"
+            ]
+          },
+          {
+            "prompt": "She's more young than me.",
+            "answers": [
+              "She's younger than me.",
+              "She is younger than me."
+            ]
+          },
+          {
+            "prompt": "I'd like a bread, please.",
+            "answers": [
+              "I'd like some bread, please.",
+              "I would like some bread, please."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc12-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Shopping list",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "How many people are coming tonight?"
+          },
+          {
+            "speaker": "B",
+            "text": "Eight. We need more food!"
+          },
+          {
+            "speaker": "A",
+            "text": "How much rice is there?"
+          },
+          {
+            "speaker": "B",
+            "text": "Not much. Can you buy two packets? And some cola — a big bottle is cheaper than cans."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "___ people are coming.",
+            "answers": [
+              "Eight",
+              "8"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "How many packets of rice?",
+            "options": [
+              "one",
+              "two",
+              "three"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "Cans are cheaper than a big bottle.",
+            "answer": false
+          }
+        ],
+        "image": "📝"
+      }
+    ]
+  }
+}

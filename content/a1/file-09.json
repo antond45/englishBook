@@ -1,0 +1,1078 @@
+{
+  "fileId": "9",
+  "lessons": {
+    "9A": {
+      "theory": [
+        {
+          "title": "Past Simple: правильные глаголы",
+          "text": "Past Simple (простое прошедшее) — для законченных действий в прошлом. У правильных глаголов добавляем -ed. Форма одна для всех лиц!",
+          "examples": [
+            {
+              "en": "I worked yesterday.",
+              "ru": "Вчера я работал."
+            },
+            {
+              "en": "She lived in Spain for two years.",
+              "ru": "Она прожила в Испании два года."
+            },
+            {
+              "en": "We watched a film last night.",
+              "ru": "Вчера вечером мы смотрели фильм."
+            }
+          ]
+        },
+        {
+          "title": "Правописание -ed",
+          "table": {
+            "head": [
+              "Правило",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "обычно + ed",
+                "work → worked, play → played"
+              ],
+              [
+                "на -e: только + d",
+                "live → lived, arrive → arrived"
+              ],
+              [
+                "согласная + y → ied",
+                "study → studied, try → tried"
+              ],
+              [
+                "короткий глагол: гласная + согласная → удвоение",
+                "stop → stopped, plan → planned"
+              ]
+            ]
+          }
+        }
+      ],
+      "videos": [
+        {
+          "title": "Past simple regular verbs",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=past+simple+regular+verbs+ed+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9a-1",
+          "type": "transform",
+          "instruction": "Write the past simple.",
+          "items": [
+            {
+              "prompt": "work",
+              "answers": [
+                "worked"
+              ]
+            },
+            {
+              "prompt": "live",
+              "answers": [
+                "lived"
+              ]
+            },
+            {
+              "prompt": "study",
+              "answers": [
+                "studied"
+              ]
+            },
+            {
+              "prompt": "stop",
+              "answers": [
+                "stopped"
+              ]
+            },
+            {
+              "prompt": "play",
+              "answers": [
+                "played"
+              ]
+            },
+            {
+              "prompt": "arrive",
+              "answers": [
+                "arrived"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the past simple of the verb.",
+          "items": [
+            {
+              "text": "I ___ TV last night.",
+              "hint": "watch",
+              "answers": [
+                "watched"
+              ]
+            },
+            {
+              "text": "We ___ in Spain for two years.",
+              "hint": "live",
+              "answers": [
+                "lived"
+              ]
+            },
+            {
+              "text": "She ___ her mum yesterday.",
+              "hint": "call",
+              "answers": [
+                "called"
+              ]
+            },
+            {
+              "text": "They ___ football after school.",
+              "hint": "play",
+              "answers": [
+                "played"
+              ]
+            },
+            {
+              "text": "The train ___ at ten.",
+              "hint": "arrive",
+              "answers": [
+                "arrived"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9a-3",
+          "type": "true-false",
+          "instruction": "Read about Sara's Saturday. True or False?",
+          "text": "Last Saturday I stayed in bed until ten. Then I cleaned the flat and cooked lunch. In the afternoon I walked in the park with my sister and we talked for hours. In the evening I watched a film and relaxed.",
+          "items": [
+            {
+              "statement": "Sara got up early.",
+              "answer": false
+            },
+            {
+              "statement": "She cooked lunch.",
+              "answer": true
+            },
+            {
+              "statement": "She walked with her brother.",
+              "answer": false
+            },
+            {
+              "statement": "She watched a film in the evening.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "9a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct form.",
+          "items": [
+            {
+              "question": "Yesterday I ___ my grandma.",
+              "options": [
+                "visit",
+                "visited",
+                "visitted"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "He ___ English at university.",
+              "options": [
+                "studyed",
+                "studied",
+                "studies"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "The bus ___ outside my house.",
+              "options": [
+                "stoped",
+                "stopped",
+                "stop"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9a-r",
+          "type": "reading",
+          "instruction": "Read the story and answer.",
+          "title": "A lucky day",
+          "text": "Last Friday was a lucky day for Sam. He arrived at the station late and missed his train. He waited for the next train and started talking to a woman on the platform. Her name was Emma. They talked for an hour on the train and laughed a lot. Emma invited Sam to a concert the next week. Now they are married!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Sam arrived at the station early.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The woman's name was ___.",
+              "answers": [
+                "Emma"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "They talked for…",
+              "options": [
+                "ten minutes",
+                "an hour",
+                "two hours"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Emma invited Sam to a concert.",
+              "answer": true
+            }
+          ],
+          "image": "💕"
+        },
+        {
+          "id": "9a-l",
+          "type": "listening",
+          "instruction": "Listen to Kate talking about yesterday.",
+          "title": "Yesterday",
+          "script": [
+            {
+              "speaker": "Kate",
+              "text": "Yesterday I stayed at home all day. In the morning I cleaned the kitchen and washed my clothes. In the afternoon I cooked a big lunch for my parents. They arrived at two o'clock. In the evening I watched a really good film and I relaxed."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Kate went out yesterday.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "In the morning she cleaned the…",
+              "options": [
+                "kitchen",
+                "bathroom",
+                "car"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Her parents arrived at ___ o'clock.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            }
+          ],
+          "image": "🧹"
+        }
+      ]
+    },
+    "9B": {
+      "theory": [
+        {
+          "title": "Отрицание и вопросы в Past Simple",
+          "text": "Для всех лиц используем did / didn't. Основной глагол возвращается в начальную форму, без -ed.",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "I watched the match."
+              ],
+              [
+                "−",
+                "I didn't watch the match. (не didn't watched)"
+              ],
+              [
+                "?",
+                "Did you watch the match?"
+              ],
+              [
+                "Ответ",
+                "Yes, I did. / No, I didn't."
+              ],
+              [
+                "Wh-?",
+                "What did you watch?"
+              ]
+            ]
+          },
+          "tip": "Прошедшее время показывает только did, поэтому глагол после него — в начальной форме."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9b-1",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "I liked the film.",
+              "answers": [
+                "I didn't like the film.",
+                "I did not like the film."
+              ]
+            },
+            {
+              "prompt": "She worked yesterday.",
+              "answers": [
+                "She didn't work yesterday.",
+                "She did not work yesterday."
+              ]
+            },
+            {
+              "prompt": "We played tennis.",
+              "answers": [
+                "We didn't play tennis.",
+                "We did not play tennis."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-2",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "You watched the match. → ___?",
+              "answers": [
+                "Did you watch the match?"
+              ]
+            },
+            {
+              "prompt": "He called you. → ___?",
+              "answers": [
+                "Did he call you?"
+              ]
+            },
+            {
+              "prompt": "They enjoyed the party. → ___?",
+              "answers": [
+                "Did they enjoy the party?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "Did you ___ the news?",
+              "options": [
+                "watched",
+                "watch",
+                "watching"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She ___ like the book.",
+              "options": [
+                "didn't",
+                "doesn't",
+                "wasn't"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Did they call? — No, they ___.",
+              "options": [
+                "didn't",
+                "don't",
+                "weren't"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What ___ you watch last night?",
+              "options": [
+                "do",
+                "did",
+                "were"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9b-4",
+          "type": "matching",
+          "instruction": "TV and films: match the words and the definitions.",
+          "pairs": [
+            {
+              "left": "a comedy",
+              "right": "a funny film"
+            },
+            {
+              "left": "the news",
+              "right": "information about today's events"
+            },
+            {
+              "left": "a series",
+              "right": "a programme with many episodes"
+            },
+            {
+              "left": "a horror film",
+              "right": "a very scary film"
+            },
+            {
+              "left": "a documentary",
+              "right": "a film about real life"
+            }
+          ]
+        },
+        {
+          "id": "9b-r",
+          "type": "reading",
+          "instruction": "Read the film review and answer.",
+          "title": "Film review: The Last Island",
+          "text": "Did I like The Last Island? Yes and no. The story started well: a family travelled to a small island for a holiday. But then the film changed — a storm arrived and they didn't have any food. I didn't believe the ending, and my friend hated it. But the actors played really well, and the music was beautiful. 3 stars.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The family travelled to…",
+              "options": [
+                "a big city",
+                "a small island",
+                "the mountains"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer believed the ending.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer's friend loved the film.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The writer gives the film ___ stars.",
+              "answers": [
+                "3",
+                "three"
+              ]
+            }
+          ],
+          "image": "🎬"
+        },
+        {
+          "id": "9b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Did you watch it?",
+          "script": [
+            {
+              "speaker": "Max",
+              "text": "Did you watch the football last night?"
+            },
+            {
+              "speaker": "Lena",
+              "text": "No, I didn't. I watched a cooking show."
+            },
+            {
+              "speaker": "Max",
+              "text": "Did you like it?"
+            },
+            {
+              "speaker": "Lena",
+              "text": "Yes! They cooked a fantastic cake. Did your team win?"
+            },
+            {
+              "speaker": "Max",
+              "text": "No, they didn't. They played really badly."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Lena watched the football.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "In the show they cooked a ___.",
+              "answers": [
+                "cake"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Max's team won.",
+              "answer": false
+            }
+          ],
+          "image": "🎬"
+        }
+      ]
+    },
+    "9C": {
+      "theory": [
+        {
+          "title": "Произношение -ed",
+          "table": {
+            "head": [
+              "Звук",
+              "Когда",
+              "Примеры"
+            ],
+            "rows": [
+              [
+                "/t/",
+                "после глухих звуков (p, k, s, sh, ch, f)",
+                "worked, stopped, watched, finished"
+              ],
+              [
+                "/d/",
+                "после звонких звуков и гласных",
+                "lived, played, called, opened"
+              ],
+              [
+                "/ɪd/",
+                "после t и d — лишний слог",
+                "wanted, started, needed, decided"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "I walked to work.",
+              "ru": "/t/"
+            },
+            {
+              "en": "She played tennis.",
+              "ru": "/d/"
+            },
+            {
+              "en": "They wanted pizza.",
+              "ru": "/ɪd/"
+            }
+          ],
+          "tip": "Главное правило: «лишний» слог /ɪd/ появляется ТОЛЬКО после t и d. worked — один слог, не «вор-кед»."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "9c-1",
+          "type": "multiple-choice",
+          "instruction": "How do you say -ed?",
+          "items": [
+            {
+              "question": "wanted",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "watched",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "played",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "decided",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "walked",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "lived",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "9c-2",
+          "type": "transform",
+          "instruction": "Write the past simple. Be careful with spelling.",
+          "items": [
+            {
+              "prompt": "plan",
+              "answers": [
+                "planned"
+              ]
+            },
+            {
+              "prompt": "try",
+              "answers": [
+                "tried"
+              ]
+            },
+            {
+              "prompt": "dance",
+              "answers": [
+                "danced"
+              ]
+            },
+            {
+              "prompt": "chat",
+              "answers": [
+                "chatted"
+              ]
+            },
+            {
+              "prompt": "enjoy",
+              "answers": [
+                "enjoyed"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-3",
+          "type": "true-false",
+          "instruction": "Does the -ed ending add an extra syllable?",
+          "items": [
+            {
+              "statement": "started — yes, extra syllable",
+              "answer": true
+            },
+            {
+              "statement": "finished — yes, extra syllable",
+              "answer": false
+            },
+            {
+              "statement": "needed — yes, extra syllable",
+              "answer": true
+            },
+            {
+              "statement": "opened — yes, extra syllable",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "id": "9c-4",
+          "type": "gap-fill",
+          "instruction": "Complete the story with the past simple.",
+          "items": [
+            {
+              "text": "Last year I ___ to learn English.",
+              "hint": "decide",
+              "answers": [
+                "decided"
+              ]
+            },
+            {
+              "text": "I ___ a course online.",
+              "hint": "start",
+              "answers": [
+                "started"
+              ]
+            },
+            {
+              "text": "I ___ every day for a month.",
+              "hint": "practise",
+              "answers": [
+                "practised",
+                "practiced"
+              ]
+            },
+            {
+              "text": "In the end I ___ the exam!",
+              "hint": "pass",
+              "answers": [
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9c-r",
+          "type": "reading",
+          "instruction": "Read the diary and answer.",
+          "title": "Holiday diary",
+          "text": "Monday: We arrived in Rome at 10 a.m. We visited the Colosseum and walked around the old town.\n\nTuesday: It rained all day! We stayed in the hotel and played cards.\n\nWednesday: We hired bikes and cycled to a park. We picnicked by the lake and I painted a picture.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "They arrived on…",
+              "options": [
+                "Monday",
+                "Tuesday",
+                "Wednesday"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "On Tuesday they visited a museum.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "On Wednesday they hired ___.",
+              "answers": [
+                "bikes"
+              ]
+            }
+          ],
+          "image": "🗺️"
+        },
+        {
+          "id": "9c-l",
+          "type": "listening",
+          "instruction": "Listen to the verbs. Which -ed sound do you hear?",
+          "title": "-ed sounds",
+          "script": [
+            {
+              "text": "Number one: started."
+            },
+            {
+              "text": "Number two: cooked."
+            },
+            {
+              "text": "Number three: cleaned."
+            },
+            {
+              "text": "Number four: needed."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "1. started",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "choice",
+              "question": "2. cooked",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "3. cleaned",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "4. needed",
+              "options": [
+                "/t/",
+                "/d/",
+                "/ɪd/"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🔤"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "At a restaurant — English conversation",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=at+a+restaurant+english+conversation+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe9-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 9.",
+        "video": {
+          "title": "Practical English, File 9 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "A table for two, please.",
+          "Are you ready to order?",
+          "I'd like the fish, please.",
+          "Could we have the bill, please?"
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Разыграл(а) заказ в ресторане от начала до счёта",
+          "Повторил(а) фразы вслух"
+        ]
+      },
+      {
+        "id": "pe9-2",
+        "type": "matching",
+        "instruction": "Match the waiter's questions and the answers.",
+        "pairs": [
+          {
+            "left": "Do you have a reservation?",
+            "right": "Yes, for two, in the name of Smith."
+          },
+          {
+            "left": "Are you ready to order?",
+            "right": "Yes, I'd like the chicken."
+          },
+          {
+            "left": "Anything to drink?",
+            "right": "Just water, please."
+          },
+          {
+            "left": "Would you like a dessert?",
+            "right": "No, thanks. Just the bill."
+          }
+        ]
+      },
+      {
+        "id": "pe9-l",
+        "type": "listening",
+        "instruction": "Listen to the conversation in a restaurant.",
+        "title": "Ordering a meal",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Good evening. Are you ready to order?"
+          },
+          {
+            "speaker": "Woman",
+            "text": "Yes. I'd like the tomato soup and then the fish, please."
+          },
+          {
+            "speaker": "Man",
+            "text": "And I'd like the steak with chips."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "And to drink?"
+          },
+          {
+            "speaker": "Woman",
+            "text": "A bottle of sparkling water, please."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The woman orders ___ soup.",
+            "answers": [
+              "tomato"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "The man orders…",
+            "options": [
+              "fish",
+              "chicken",
+              "steak"
+            ],
+            "answer": 2
+          },
+          {
+            "kind": "choice",
+            "question": "They drink…",
+            "options": [
+              "still water",
+              "sparkling water",
+              "juice"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🍽️"
+      }
+    ],
+    "theory": [
+      {
+        "title": "В ресторане",
+        "examples": [
+          {
+            "en": "A table for two, please.",
+            "ru": "Столик на двоих, пожалуйста."
+          },
+          {
+            "en": "Are you ready to order?",
+            "ru": "Готовы сделать заказ?"
+          },
+          {
+            "en": "I'd like the chicken, please.",
+            "ru": "Я бы хотел курицу."
+          },
+          {
+            "en": "Could we have the bill, please?",
+            "ru": "Можно счёт?"
+          }
+        ],
+        "tip": "I'd like = I would like — вежливое «я бы хотел». В ресторане и магазине это лучше, чем I want."
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc9-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "I ___ my homework last night.",
+            "options": [
+              "finish",
+              "finished",
+              "finishd"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ you enjoy the concert?",
+            "options": [
+              "Do",
+              "Were",
+              "Did"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "We didn't ___ the film.",
+            "options": [
+              "liked",
+              "like",
+              "likes"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ in Paris for a year.",
+            "options": [
+              "studyed",
+              "studied",
+              "studed"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc9-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "I didn't watched TV.",
+            "answers": [
+              "I didn't watch TV.",
+              "I did not watch TV."
+            ]
+          },
+          {
+            "prompt": "Did you played tennis?",
+            "answers": [
+              "Did you play tennis?"
+            ]
+          },
+          {
+            "prompt": "They stoped at a café.",
+            "answers": [
+              "They stopped at a café.",
+              "They stopped at a cafe."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc9-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A bad evening",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "Last Saturday I invited some friends for dinner. I planned a special menu and cooked all afternoon. But the guests arrived very late, at ten o'clock, and the food was cold. Then my cat jumped on the table! We laughed a lot and ordered pizza."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "He cooked all afternoon.",
+            "answer": true
+          },
+          {
+            "kind": "choice",
+            "question": "The guests arrived at…",
+            "options": [
+              "8",
+              "9",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "kind": "gap",
+            "text": "In the end they ordered ___.",
+            "answers": [
+              "pizza"
+            ]
+          }
+        ],
+        "image": "🍕"
+      }
+    ]
+  }
+}

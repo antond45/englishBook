@@ -1,0 +1,367 @@
+{
+  "id": "b2",
+  "cefr": "B2",
+  "name": "Upper-Intermediate",
+  "book": "English File Upper-Intermediate, 4th edition — Student's Book",
+  "workbook": "English File Upper-Intermediate, 4th edition — Workbook",
+  "links": [
+    {
+      "title": "English File 4th edition — Online Practice",
+      "kind": "official-link",
+      "url": "https://englishfile4e.oxfordonlinepractice.com/",
+      "note": "Видео из уроков и Practical English, аудио и интерактивная практика к 4-му изданию. Вход по коду доступа из твоего учебника."
+    },
+    {
+      "title": "English File Student's Site — Upper-Intermediate",
+      "kind": "official-link",
+      "url": "https://elt.oup.com/student/englishfile/upperint3/",
+      "note": "Бесплатные упражнения Oxford без кода. Сделаны для 3-го издания, но грамматика и лексика в основном те же."
+    },
+    {
+      "title": "Oxford English Hub",
+      "kind": "official-link",
+      "url": "https://englishhub.oup.com/",
+      "note": "Если твой комплект куплен с кодом для Oxford English Hub — материалы курса здесь."
+    },
+    {
+      "title": "Oxford Learner's Bookshelf — e-book учебника и тетради",
+      "kind": "official-link",
+      "url": "https://www.oxfordlearnersbookshelf.com/",
+      "note": "Электронные версии Student's Book и Workbook, если они входят в твой комплект."
+    }
+  ],
+  "files": [
+    {
+      "id": "1",
+      "title": "Questions and answers",
+      "lessons": [
+        {
+          "id": "1A",
+          "title": "Asking the right questions",
+          "grammar": [
+            "question formation",
+            "indirect questions"
+          ],
+          "vocabulary": [
+            "working out meaning from context"
+          ]
+        },
+        {
+          "id": "1B",
+          "title": "Do you really?",
+          "grammar": [
+            "auxiliary verbs",
+            "the…the… + comparatives"
+          ],
+          "vocabulary": [
+            "compound adjectives",
+            "modifiers"
+          ]
+        }
+      ],
+      "cover": [
+        "❓"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Health and change",
+      "lessons": [
+        {
+          "id": "2A",
+          "title": "How long have you been…?",
+          "grammar": [
+            "present perfect simple and continuous"
+          ],
+          "vocabulary": [
+            "illnesses and injuries"
+          ]
+        },
+        {
+          "id": "2B",
+          "title": "The young and the old",
+          "grammar": [
+            "using adjectives as nouns",
+            "adjective order"
+          ],
+          "vocabulary": [
+            "clothes and fashion"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Colloquial English: Talking about health",
+        "functions": [
+          "interview language",
+          "fillers and hesitation"
+        ]
+      },
+      "cover": [
+        "🩺"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Journeys",
+      "lessons": [
+        {
+          "id": "3A",
+          "title": "Travel stories",
+          "grammar": [
+            "narrative tenses",
+            "past perfect continuous"
+          ],
+          "vocabulary": [
+            "air travel"
+          ]
+        },
+        {
+          "id": "3B",
+          "title": "Speed and style",
+          "grammar": [
+            "adverbs and adverbial phrases"
+          ],
+          "vocabulary": [
+            "confusing adverbs"
+          ]
+        }
+      ],
+      "cover": [
+        "🧭"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Looking ahead",
+      "lessons": [
+        {
+          "id": "4A",
+          "title": "By this time next year…",
+          "grammar": [
+            "future perfect and future continuous"
+          ],
+          "vocabulary": [
+            "the environment",
+            "weather"
+          ]
+        },
+        {
+          "id": "4B",
+          "title": "As soon as…",
+          "grammar": [
+            "zero and first conditionals",
+            "future time clauses"
+          ],
+          "vocabulary": [
+            "expressions with take"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Colloquial English: Talking about the future",
+        "functions": [
+          "giving opinions",
+          "agreeing and disagreeing"
+        ]
+      },
+      "cover": [
+        "🌍"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Regrets and wishes",
+      "lessons": [
+        {
+          "id": "5A",
+          "title": "If only…",
+          "grammar": [
+            "unreal conditionals (2nd and 3rd)"
+          ],
+          "vocabulary": [
+            "feelings"
+          ]
+        },
+        {
+          "id": "5B",
+          "title": "I wish…",
+          "grammar": [
+            "structures after wish"
+          ],
+          "vocabulary": [
+            "-ed / -ing adjectives",
+            "expressions with go"
+          ]
+        }
+      ],
+      "cover": [
+        "💭"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Habits and lifestyle",
+      "lessons": [
+        {
+          "id": "6A",
+          "title": "Getting used to it",
+          "grammar": [
+            "used to, be used to, get used to"
+          ],
+          "vocabulary": [
+            "sleep"
+          ]
+        },
+        {
+          "id": "6B",
+          "title": "Remember to…",
+          "grammar": [
+            "gerunds and infinitives"
+          ],
+          "vocabulary": [
+            "music"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Colloquial English: Talking about music",
+        "functions": [
+          "describing preferences"
+        ]
+      },
+      "cover": [
+        "😴"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Speculation",
+      "lessons": [
+        {
+          "id": "7A",
+          "title": "It must have been…",
+          "grammar": [
+            "past modals: must have, might have, can't have, should have"
+          ],
+          "vocabulary": [
+            "verbs often confused"
+          ]
+        },
+        {
+          "id": "7B",
+          "title": "It looks like…",
+          "grammar": [
+            "verbs of the senses"
+          ],
+          "vocabulary": [
+            "the body"
+          ]
+        }
+      ],
+      "cover": [
+        "🔎"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Crime and news",
+      "lessons": [
+        {
+          "id": "8A",
+          "title": "It is said that…",
+          "grammar": [
+            "the passive (all forms)",
+            "it is said that…, he is thought to…"
+          ],
+          "vocabulary": [
+            "crime and punishment"
+          ]
+        },
+        {
+          "id": "8B",
+          "title": "Breaking news",
+          "grammar": [
+            "reporting verbs"
+          ],
+          "vocabulary": [
+            "the media"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Colloquial English: Talking about the news",
+        "functions": [
+          "reacting to news"
+        ]
+      },
+      "cover": [
+        "⚖️"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Business and money",
+      "lessons": [
+        {
+          "id": "9A",
+          "title": "Although, in order to…",
+          "grammar": [
+            "clauses of contrast and purpose"
+          ],
+          "vocabulary": [
+            "advertising",
+            "business"
+          ]
+        },
+        {
+          "id": "9B",
+          "title": "Information and advice",
+          "grammar": [
+            "uncountable and plural nouns"
+          ],
+          "vocabulary": [
+            "word building: prefixes and suffixes"
+          ]
+        }
+      ],
+      "cover": [
+        "📈"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Science and history",
+      "lessons": [
+        {
+          "id": "10A",
+          "title": "All, both, either…",
+          "grammar": [
+            "quantifiers: all, every, both, either, neither, etc."
+          ],
+          "vocabulary": [
+            "science"
+          ]
+        },
+        {
+          "id": "10B",
+          "title": "The history of things",
+          "grammar": [
+            "articles"
+          ],
+          "vocabulary": [
+            "collocation: word pairs"
+          ]
+        }
+      ],
+      "practicalEnglish": {
+        "title": "Colloquial English: Talking about science",
+        "functions": [
+          "explaining processes"
+        ]
+      },
+      "cover": [
+        "🔬"
+      ]
+    }
+  ]
+}

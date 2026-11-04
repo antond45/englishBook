@@ -1,0 +1,891 @@
+{
+  "fileId": "10",
+  "lessons": {
+    "10A": {
+      "theory": [
+        {
+          "title": "Глаголы движения + предлоги",
+          "text": "В английском направление часто выражается предлогом после глагола: run across the road (перебежать), swim under the bridge (проплыть под мостом).",
+          "table": {
+            "head": [
+              "Предлог",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "across",
+                "через (поверхность)",
+                "walk across the park"
+              ],
+              [
+                "through",
+                "сквозь, через (внутри)",
+                "drive through the tunnel"
+              ],
+              [
+                "along",
+                "вдоль",
+                "run along the river"
+              ],
+              [
+                "over / under",
+                "над, через / под",
+                "jump over the fence / go under the bridge"
+              ],
+              [
+                "up / down",
+                "вверх / вниз",
+                "climb up the hill"
+              ],
+              [
+                "into / out of",
+                "в / из",
+                "jump into the water"
+              ],
+              [
+                "past",
+                "мимо",
+                "go past the church"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Спорт",
+          "text": "go + -ing: go swimming, go cycling, go skiing; play + игры с мячом: play football, tennis; do + единоборства и др.: do yoga, do karate. score a goal, win / lose a match, a referee, a pitch, a court, a stadium."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Prepositions of movement",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=prepositions+of+movement+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with a preposition of movement.",
+          "items": [
+            {
+              "text": "The train went ___ a long tunnel.",
+              "answers": [
+                "through"
+              ]
+            },
+            {
+              "text": "We walked ___ the river for an hour.",
+              "answers": [
+                "along"
+              ]
+            },
+            {
+              "text": "The cat jumped ___ the fence.",
+              "answers": [
+                "over"
+              ]
+            },
+            {
+              "text": "He ran ___ the road without looking.",
+              "answers": [
+                "across"
+              ]
+            },
+            {
+              "text": "Go ___ the bank and turn left.",
+              "answers": [
+                "past"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-pic",
+          "type": "picture",
+          "instruction": "Sports: write the word.",
+          "mode": "type",
+          "items": [
+            {
+              "emoji": "⚽",
+              "answers": [
+                "football",
+                "soccer"
+              ]
+            },
+            {
+              "emoji": "🏀",
+              "answers": [
+                "basketball"
+              ]
+            },
+            {
+              "emoji": "🎾",
+              "answers": [
+                "tennis"
+              ]
+            },
+            {
+              "emoji": "🏊",
+              "answers": [
+                "swimming"
+              ]
+            },
+            {
+              "emoji": "⛷️",
+              "answers": [
+                "skiing"
+              ]
+            },
+            {
+              "emoji": "🥊",
+              "answers": [
+                "boxing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-2",
+          "type": "multiple-choice",
+          "instruction": "go, play or do?",
+          "items": [
+            {
+              "question": "I ___ yoga twice a week.",
+              "options": [
+                "go",
+                "play",
+                "do"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Let's ___ cycling on Sunday.",
+              "options": [
+                "go",
+                "play",
+                "do"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Do you ___ volleyball?",
+              "options": [
+                "go",
+                "play",
+                "do"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "10a-3",
+          "type": "matching",
+          "instruction": "Match the sports and places.",
+          "pairs": [
+            {
+              "left": "tennis",
+              "right": "a court"
+            },
+            {
+              "left": "football",
+              "right": "a pitch"
+            },
+            {
+              "left": "swimming",
+              "right": "a pool"
+            },
+            {
+              "left": "skiing",
+              "right": "a slope"
+            },
+            {
+              "left": "golf",
+              "right": "a course"
+            }
+          ]
+        },
+        {
+          "id": "10a-4",
+          "type": "transform",
+          "instruction": "Translate the idea using a verb + preposition.",
+          "items": [
+            {
+              "prompt": "перебежать дорогу (run)",
+              "answers": [
+                "run across the road"
+              ]
+            },
+            {
+              "prompt": "выйти из комнаты (go)",
+              "answers": [
+                "go out of the room"
+              ]
+            },
+            {
+              "prompt": "подняться на холм (climb)",
+              "answers": [
+                "climb up the hill"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "The toughest race in the world?",
+          "text": "The Marathon des Sables is a six-day race across the Sahara desert. Runners carry everything they need on their backs. They run over sand dunes, through dry river beds and along rocky paths, in temperatures of up to 50°C. The longest stage is about 80 km. Surprisingly, many participants aren't professional athletes — they're ordinary people who want to test themselves.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The race lasts ___ days.",
+              "answers": [
+                "six",
+                "6"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Temperatures can reach…",
+              "options": [
+                "30°C",
+                "40°C",
+                "50°C"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "tf",
+              "statement": "All participants are professional athletes.",
+              "answer": false
+            }
+          ],
+          "image": "🏜️"
+        },
+        {
+          "id": "10a-l",
+          "type": "listening",
+          "instruction": "Listen to the commentary and answer.",
+          "title": "A football match",
+          "script": [
+            {
+              "speaker": "Commentator",
+              "text": "Petrov runs along the left side, past one defender, past another… he passes the ball across the pitch to Ivanov… Ivanov shoots… and the ball goes over the goalkeeper and into the net! Goal! Two–one, with five minutes to go!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Who scores?",
+              "options": [
+                "Petrov",
+                "Ivanov",
+                "the goalkeeper"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The score is two–___.",
+              "answers": [
+                "one",
+                "1"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "How long is left?",
+              "options": [
+                "five minutes",
+                "ten minutes",
+                "one minute"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "⚽"
+        }
+      ]
+    },
+    "10B": {
+      "theory": [
+        {
+          "title": "Фразовые глаголы: порядок слов",
+          "text": "Фразовый глагол = глагол + частица (up, off, on, out…), значение часто меняется. Если глагол разделяемый, дополнение-существительное может стоять до или после частицы, а местоимение — только между.",
+          "examples": [
+            {
+              "en": "Turn off the light. / Turn the light off.",
+              "ru": "Оба варианта правильные."
+            },
+            {
+              "en": "Turn it off. (не Turn off it)",
+              "ru": "Местоимение — только в середине."
+            },
+            {
+              "en": "I'm looking for my keys. (неразделяемый)",
+              "ru": "look for, get on, look after — не разделяются."
+            }
+          ]
+        },
+        {
+          "title": "Частые фразовые глаголы",
+          "table": {
+            "head": [
+              "Глагол",
+              "Значение"
+            ],
+            "rows": [
+              [
+                "turn on / off / up / down",
+                "включить / выключить / громче / тише"
+              ],
+              [
+                "put on / take off",
+                "надеть / снять"
+              ],
+              [
+                "pick up",
+                "поднять, забрать"
+              ],
+              [
+                "give up",
+                "бросить (привычку)"
+              ],
+              [
+                "look after",
+                "присматривать"
+              ],
+              [
+                "look for",
+                "искать"
+              ],
+              [
+                "find out",
+                "узнать"
+              ],
+              [
+                "try on",
+                "примерить"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10b-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "Put on it.",
+                "Put it on.",
+                "Put it."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "Can you look after my cat?",
+                "Can you look my cat after?"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "Turn down it, please.",
+                "Turn it down, please."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "10b-2",
+          "type": "matching",
+          "instruction": "Match the phrasal verbs and meanings.",
+          "pairs": [
+            {
+              "left": "give up",
+              "right": "stop doing something"
+            },
+            {
+              "left": "find out",
+              "right": "discover information"
+            },
+            {
+              "left": "pick up",
+              "right": "collect someone or something"
+            },
+            {
+              "left": "look after",
+              "right": "take care of"
+            },
+            {
+              "left": "try on",
+              "right": "put on clothes to see if they fit"
+            }
+          ]
+        },
+        {
+          "id": "10b-3",
+          "type": "transform",
+          "instruction": "Replace the noun with it or them.",
+          "items": [
+            {
+              "prompt": "Take off your shoes.",
+              "answers": [
+                "Take them off."
+              ]
+            },
+            {
+              "prompt": "Turn on the TV.",
+              "answers": [
+                "Turn it on."
+              ]
+            },
+            {
+              "prompt": "I picked up the kids at five.",
+              "answers": [
+                "I picked them up at five."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-4",
+          "type": "gap-fill",
+          "instruction": "Complete with a particle (up, on, off, out, after, for).",
+          "items": [
+            {
+              "text": "I've given ___ sugar. I feel much better.",
+              "answers": [
+                "up"
+              ]
+            },
+            {
+              "text": "Can you look ___ my plants while I'm away?",
+              "answers": [
+                "after"
+              ]
+            },
+            {
+              "text": "I'm looking ___ a new flat.",
+              "answers": [
+                "for"
+              ]
+            },
+            {
+              "text": "Can I try this ___?",
+              "answers": [
+                "on"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "A tidy-up challenge",
+          "text": "Last month I decided to sort out my flat. First I picked up everything from the floor. Then I took out all my clothes and tried them on. Anything I hadn't worn for a year, I gave away to a charity shop. I found out that I owned eleven black T-shirts! I also turned off notifications on my phone. The result? I feel calmer, and I've given up buying things I don't need.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Clothes the writer didn't wear for a year went to…",
+              "options": [
+                "the bin",
+                "a charity shop",
+                "friends"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "The writer owned ___ black T-shirts.",
+              "answers": [
+                "eleven",
+                "11"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The writer feels calmer now.",
+              "answer": true
+            }
+          ],
+          "image": "🧹"
+        },
+        {
+          "id": "10b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Instructions from Mum",
+          "script": [
+            {
+              "speaker": "Mum",
+              "text": "I'm going out. Please look after your little sister. Pick up your toys from the floor, and turn off the TV at eight. Oh, and if Grandma calls, find out when she's arriving on Sunday."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "Look after your little ___.",
+              "answers": [
+                "sister"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Turn off the TV at…",
+              "options": [
+                "7",
+                "8",
+                "9"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Grandma is arriving on Saturday.",
+              "answer": false
+            }
+          ],
+          "image": "🧸"
+        }
+      ]
+    },
+    "10C": {
+      "theory": [
+        {
+          "title": "So do I / Neither do I",
+          "text": "Чтобы выразить согласие («я тоже»), используем so (для утверждений) или neither (для отрицаний) + вспомогательный глагол + подлежащее.",
+          "table": {
+            "head": [
+              "Фраза",
+              "Я тоже",
+              "А я нет"
+            ],
+            "rows": [
+              [
+                "I love jazz.",
+                "So do I.",
+                "I don't."
+              ],
+              [
+                "I'm tired.",
+                "So am I.",
+                "I'm not."
+              ],
+              [
+                "I can't swim.",
+                "Neither can I.",
+                "I can."
+              ],
+              [
+                "I didn't go.",
+                "Neither did I.",
+                "I did."
+              ],
+              [
+                "I've been to Rome.",
+                "So have I.",
+                "I haven't."
+              ]
+            ]
+          },
+          "tip": "Вспомогательный глагол повторяет время и тип исходного: am → am, went → did, can't → can."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10c-1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct response to agree.",
+          "items": [
+            {
+              "question": "I'm hungry.",
+              "options": [
+                "So do I.",
+                "So am I.",
+                "Neither am I."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I didn't like the film.",
+              "options": [
+                "Neither did I.",
+                "So did I.",
+                "Neither didn't I."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "I've never been to Asia.",
+              "options": [
+                "So have I.",
+                "Neither have I.",
+                "Neither did I."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "I can ski.",
+              "options": [
+                "So can I.",
+                "So do I.",
+                "Neither can I."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "10c-2",
+          "type": "gap-fill",
+          "instruction": "Complete to show you are different.",
+          "items": [
+            {
+              "text": "I love horror films. — Really? I ___.",
+              "answers": [
+                "don't"
+              ]
+            },
+            {
+              "text": "I wasn't at the meeting. — Oh, I ___.",
+              "answers": [
+                "was"
+              ]
+            },
+            {
+              "text": "I'd like to live abroad. — I ___. I love it here.",
+              "answers": [
+                "wouldn't"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10c-3",
+          "type": "matching",
+          "instruction": "Match the statements and replies.",
+          "pairs": [
+            {
+              "left": "I'm going to the party.",
+              "right": "So am I."
+            },
+            {
+              "left": "I don't eat meat.",
+              "right": "Neither do I."
+            },
+            {
+              "left": "I went to bed late.",
+              "right": "So did I."
+            },
+            {
+              "left": "I won't be late.",
+              "right": "Neither will I."
+            }
+          ]
+        },
+        {
+          "id": "10c-4",
+          "type": "transform",
+          "instruction": "Write So … I or Neither … I.",
+          "items": [
+            {
+              "prompt": "I've finished.",
+              "answers": [
+                "So have I."
+              ]
+            },
+            {
+              "prompt": "I can't drive.",
+              "answers": [
+                "Neither can I.",
+                "Nor can I."
+              ]
+            },
+            {
+              "prompt": "I was born in May.",
+              "answers": [
+                "So was I."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10c-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Separated twins",
+          "text": "Twins Jim Lewis and Jim Springer were separated at birth and met for the first time at the age of 39. They discovered amazing similarities. Both had married women called Linda, divorced, and then married women called Betty. Both had a dog called Toy. Both chain-smoked, drove the same model of car and spent holidays on the same beach in Florida. 'I like carpentry,' said one. 'So do I,' said the other.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "They met at the age of ___.",
+              "answers": [
+                "39",
+                "thirty-nine"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "Their second wives were called…",
+              "options": [
+                "Linda",
+                "Betty",
+                "Toy"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "They spent holidays in different places.",
+              "answer": false
+            }
+          ],
+          "image": "👯"
+        },
+        {
+          "id": "10c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A first date",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "I love Italian food."
+            },
+            {
+              "speaker": "Woman",
+              "text": "So do I! And I hate spicy food."
+            },
+            {
+              "speaker": "Man",
+              "text": "Oh, I don't. I love it."
+            },
+            {
+              "speaker": "Woman",
+              "text": "I've never been to Italy."
+            },
+            {
+              "speaker": "Man",
+              "text": "Neither have I. Maybe one day…"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Both like Italian food.",
+              "answer": true
+            },
+            {
+              "kind": "tf",
+              "statement": "Both hate spicy food.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "Neither has been to Italy.",
+              "answer": true
+            }
+          ],
+          "image": "🍝"
+        }
+      ]
+    }
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc10-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "We drove ___ the tunnel.",
+            "options": [
+              "across",
+              "through",
+              "over"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Your music is too loud. Please turn ___.",
+            "options": [
+              "down it",
+              "it down",
+              "it off down"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I'm not hungry. — ___.",
+            "options": [
+              "So am I",
+              "Neither am I",
+              "Neither I am"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "She ___ karate.",
+            "options": [
+              "plays",
+              "does",
+              "goes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc10-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "A morning run",
+        "script": [
+          {
+            "speaker": "Woman",
+            "text": "Every morning I run along the river, across the old bridge and through the park. I gave up running for a while after an injury, but now I'm back. My husband doesn't run, and neither does my son — they prefer sleeping!"
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "She runs along the ___.",
+            "answers": [
+              "river"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "Her husband runs with her.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "She stopped running because of…",
+            "options": [
+              "work",
+              "an injury",
+              "the weather"
+            ],
+            "answer": 1
+          }
+        ],
+        "image": "🏃"
+      }
+    ]
+  }
+}

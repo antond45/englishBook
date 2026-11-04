@@ -1,0 +1,942 @@
+{
+  "fileId": "10",
+  "lessons": {
+    "10A": {
+      "theory": [
+        {
+          "title": "Сравнительная степень",
+          "table": {
+            "head": [
+              "Тип",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "1 слог: + er",
+                "old → older, cheap → cheaper"
+              ],
+              [
+                "-e: + r",
+                "nice → nicer"
+              ],
+              [
+                "гласная + согласная: удвоение",
+                "big → bigger, thin → thinner"
+              ],
+              [
+                "-y → ier",
+                "funny → funnier, lazy → lazier"
+              ],
+              [
+                "2+ слога: more",
+                "more generous, more relaxed"
+              ],
+              [
+                "исключения",
+                "good → better, bad → worse, far → further"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "My brother is more patient than me.",
+              "ru": "Мой брат терпеливее меня."
+            }
+          ],
+          "tip": "После сравнения — than + me / him / her (в разговоре): She's taller than me."
+        },
+        {
+          "title": "Черты характера",
+          "text": "generous, mean, lazy, hard-working, patient, impatient, shy, outgoing, funny, serious, kind, unfriendly."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Comparative adjectives (A2)",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=comparative+adjectives+elementary+english"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10a-1",
+          "type": "transform",
+          "instruction": "Write the comparative.",
+          "items": [
+            {
+              "prompt": "lazy",
+              "answers": [
+                "lazier"
+              ]
+            },
+            {
+              "prompt": "thin",
+              "answers": [
+                "thinner"
+              ]
+            },
+            {
+              "prompt": "patient",
+              "answers": [
+                "more patient"
+              ]
+            },
+            {
+              "prompt": "bad",
+              "answers": [
+                "worse"
+              ]
+            },
+            {
+              "prompt": "far",
+              "answers": [
+                "further",
+                "farther"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the comparative + than.",
+          "items": [
+            {
+              "text": "My sister is ___ me. She does everything at the last minute.",
+              "hint": "lazy",
+              "answers": [
+                "lazier than"
+              ]
+            },
+            {
+              "text": "Cats are ___ dogs.",
+              "hint": "independent",
+              "answers": [
+                "more independent than"
+              ]
+            },
+            {
+              "text": "Today's weather is ___ yesterday's.",
+              "hint": "good",
+              "answers": [
+                "better than"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10a-3",
+          "type": "matching",
+          "instruction": "Match the opposites.",
+          "pairs": [
+            {
+              "left": "generous",
+              "right": "mean"
+            },
+            {
+              "left": "lazy",
+              "right": "hard-working"
+            },
+            {
+              "left": "shy",
+              "right": "outgoing"
+            },
+            {
+              "left": "patient",
+              "right": "impatient"
+            },
+            {
+              "left": "funny",
+              "right": "serious"
+            }
+          ]
+        },
+        {
+          "id": "10a-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "He's more tall than me.",
+                "He's taller than me.",
+                "He's taller that me."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "This book is more good.",
+                "This book is better.",
+                "This book is gooder."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "3",
+              "options": [
+                "She's more friendly than him.",
+                "She's friendlier than him.",
+                "Both are possible."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": "10a-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "Older or younger?",
+          "text": "Are first children different from their younger brothers and sisters? Some psychologists say yes. First children are often more responsible and more hard-working — they help their parents more. Younger children are usually funnier and more relaxed, because their parents are less strict with them. And the middle child? Often the best at making friends!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "First children are often more…",
+              "options": [
+                "relaxed",
+                "responsible",
+                "funny"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Parents are stricter with younger children.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "The middle child is often the best at making ___.",
+              "answers": [
+                "friends"
+              ]
+            }
+          ],
+          "image": "👨‍👩‍👧"
+        },
+        {
+          "id": "10a-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "Twins",
+          "script": [
+            {
+              "speaker": "Mother",
+              "text": "My twins look the same, but they're very different. Lisa is more outgoing — she talks to everybody. Kate is quieter and more patient. Lisa is better at sport, but Kate is more creative. And Kate is ten minutes older!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Who is more outgoing?",
+              "options": [
+                "Lisa",
+                "Kate"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "Who is better at sport?",
+              "options": [
+                "Lisa",
+                "Kate"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Kate is ten minutes ___.",
+              "answers": [
+                "older"
+              ]
+            }
+          ],
+          "image": "👯"
+        }
+      ]
+    },
+    "10B": {
+      "theory": [
+        {
+          "title": "Превосходная степень",
+          "table": {
+            "head": [
+              "Тип",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "1 слог: the + est",
+                "the oldest, the biggest"
+              ],
+              [
+                "-y: the + iest",
+                "the funniest"
+              ],
+              [
+                "2+ слога: the most",
+                "the most beautiful"
+              ],
+              [
+                "исключения",
+                "the best, the worst, the furthest"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "It's the most beautiful city in the world.",
+              "ru": "Это самый красивый город в мире."
+            },
+            {
+              "en": "It was the best day of my life.",
+              "ru": "Это был лучший день в моей жизни."
+            }
+          ],
+          "tip": "После превосходной степени — in с местами (in the world, in Russia) и of с периодами (of the year)."
+        },
+        {
+          "title": "Места в городе",
+          "text": "a bridge, a cathedral, a castle, a market, a square, a tower, a skyscraper, a palace, a statue, a stadium."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10b-1",
+          "type": "transform",
+          "instruction": "Write the superlative.",
+          "items": [
+            {
+              "prompt": "high",
+              "answers": [
+                "the highest"
+              ]
+            },
+            {
+              "prompt": "busy",
+              "answers": [
+                "the busiest"
+              ]
+            },
+            {
+              "prompt": "dangerous",
+              "answers": [
+                "the most dangerous"
+              ]
+            },
+            {
+              "prompt": "good",
+              "answers": [
+                "the best"
+              ]
+            },
+            {
+              "prompt": "bad",
+              "answers": [
+                "the worst"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-pic",
+          "type": "picture",
+          "instruction": "Places and buildings: choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🌉",
+              "answers": [
+                "a bridge",
+                "bridge"
+              ]
+            },
+            {
+              "emoji": "🏰",
+              "answers": [
+                "a castle",
+                "castle"
+              ]
+            },
+            {
+              "emoji": "⛪",
+              "answers": [
+                "a church",
+                "church"
+              ]
+            },
+            {
+              "emoji": "🏟️",
+              "answers": [
+                "a stadium",
+                "stadium"
+              ]
+            },
+            {
+              "emoji": "🗽",
+              "answers": [
+                "a statue",
+                "statue"
+              ]
+            },
+            {
+              "emoji": "🏙️",
+              "answers": [
+                "skyscrapers",
+                "a skyscraper"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the superlative.",
+          "items": [
+            {
+              "text": "The Volga is ___ river in Europe.",
+              "hint": "long",
+              "answers": [
+                "the longest"
+              ]
+            },
+            {
+              "text": "It's ___ restaurant in town.",
+              "hint": "expensive",
+              "answers": [
+                "the most expensive"
+              ]
+            },
+            {
+              "text": "That was ___ film I've ever seen!",
+              "hint": "bad",
+              "answers": [
+                "the worst"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10b-3",
+          "type": "matching",
+          "instruction": "Match.",
+          "pairs": [
+            {
+              "left": "a skyscraper",
+              "right": "a very tall building"
+            },
+            {
+              "left": "a square",
+              "right": "an open place in a city"
+            },
+            {
+              "left": "a cathedral",
+              "right": "a big church"
+            },
+            {
+              "left": "a market",
+              "right": "a place to buy food outside"
+            },
+            {
+              "left": "a bridge",
+              "right": "it goes over a river"
+            }
+          ]
+        },
+        {
+          "id": "10b-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct option.",
+          "items": [
+            {
+              "question": "It's the coldest month ___ the year.",
+              "options": [
+                "in",
+                "of"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "She's the best student ___ the class.",
+              "options": [
+                "in",
+                "of"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Moscow is ___ city in Russia.",
+              "options": [
+                "the biggest",
+                "bigger",
+                "the most big"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "10b-r",
+          "type": "reading",
+          "instruction": "Read and answer.",
+          "title": "City records",
+          "text": "Dubai has the tallest building in the world — the Burj Khalifa is 828 metres high. Tokyo is the biggest city, with about 37 million people in the metropolitan area. And the most visited city? Usually Bangkok or Paris. But according to many surveys, the friendliest city is… a small one: Galway in Ireland.",
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The Burj Khalifa is ___ metres high.",
+              "answers": [
+                "828"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The biggest city is…",
+              "options": [
+                "Dubai",
+                "Tokyo",
+                "Paris"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "The friendliest city is in…",
+              "options": [
+                "Ireland",
+                "Thailand",
+                "France"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🏙️"
+        },
+        {
+          "id": "10b-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A city guide",
+          "script": [
+            {
+              "speaker": "Guide",
+              "text": "This is the oldest bridge in the city — it's six hundred years old. On your left is the cathedral. It's the most beautiful building here, and from the top of the tower you can see the best views of the river."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "gap",
+              "text": "The bridge is ___ hundred years old.",
+              "answers": [
+                "six"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "The cathedral is on the right.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The best views are from…",
+              "options": [
+                "the bridge",
+                "the top of the tower",
+                "the square"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🌉"
+        }
+      ]
+    },
+    "10C": {
+      "theory": [
+        {
+          "title": "be going to — предсказания",
+          "text": "be going to используется и для предсказаний, когда мы видим признаки сейчас: тучи → будет дождь.",
+          "examples": [
+            {
+              "en": "Look at those clouds! It's going to rain.",
+              "ru": "Посмотри на тучи! Сейчас пойдёт дождь."
+            },
+            {
+              "en": "Be careful! You're going to fall.",
+              "ru": "Осторожно! Ты упадёшь."
+            }
+          ]
+        },
+        {
+          "title": "Глагольные фразы",
+          "text": "fall in love, get married, have a baby, become famous, travel the world, win a competition, move abroad, meet someone special."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "10c-1",
+          "type": "matching",
+          "instruction": "Match the situations and the predictions.",
+          "pairs": [
+            {
+              "left": "Look at the sky!",
+              "right": "It's going to rain."
+            },
+            {
+              "left": "He's driving very fast.",
+              "right": "He's going to crash."
+            },
+            {
+              "left": "She's studying very hard.",
+              "right": "She's going to pass."
+            },
+            {
+              "left": "We're very late.",
+              "right": "We're going to miss the train."
+            }
+          ]
+        },
+        {
+          "id": "10c-2",
+          "type": "gap-fill",
+          "instruction": "Complete the predictions with be going to.",
+          "items": [
+            {
+              "text": "The glass is at the edge of the table. It ___ fall.",
+              "answers": [
+                "'s going to",
+                "is going to"
+              ]
+            },
+            {
+              "text": "Our team is winning 4–0. We ___ lose!",
+              "hint": "−",
+              "answers": [
+                "aren't going to",
+                "are not going to",
+                "'re not going to"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10c-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct verb.",
+          "items": [
+            {
+              "question": "They're going to ___ married in June.",
+              "options": [
+                "get",
+                "have",
+                "do"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "You're going to ___ someone special.",
+              "options": [
+                "meet",
+                "know",
+                "fall"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "She's going to ___ a baby.",
+              "options": [
+                "get",
+                "have",
+                "make"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "10c-4",
+          "type": "transform",
+          "instruction": "Make predictions with be going to.",
+          "items": [
+            {
+              "prompt": "(it / snow) The sky is grey and it's very cold.",
+              "answers": [
+                "It's going to snow.",
+                "It is going to snow."
+              ]
+            },
+            {
+              "prompt": "(you / be late) It's 8:55 and your class starts at 9.",
+              "answers": [
+                "You're going to be late.",
+                "You are going to be late."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10c-r",
+          "type": "reading",
+          "instruction": "Read the horoscope and answer.",
+          "title": "Your stars this week",
+          "text": "LEO: This is going to be a fantastic week! You're going to meet an interesting person at work. On Wednesday you're going to get some good news about money. But be careful on Friday — you're going to lose something important. Check your bag!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Where are you going to meet an interesting person?",
+              "options": [
+                "at work",
+                "at a party",
+                "on a train"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "The good news is about ___.",
+              "answers": [
+                "money"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "On Friday you're going to…",
+              "options": [
+                "win something",
+                "lose something",
+                "travel"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "♌"
+        },
+        {
+          "id": "10c-l",
+          "type": "listening",
+          "instruction": "Listen and answer.",
+          "title": "A fortune teller",
+          "script": [
+            {
+              "speaker": "Fortune teller",
+              "text": "I can see a long journey… You're going to travel to a hot country. You're going to fall in love there. And in two years you're going to move abroad. But you aren't going to become rich — sorry!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The country is…",
+              "options": [
+                "cold",
+                "hot"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "In ___ years you're going to move abroad.",
+              "answers": [
+                "two",
+                "2"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "You're going to become rich.",
+              "answer": false
+            }
+          ],
+          "image": "🔮"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "theory": [
+      {
+        "title": "Предложения и договорённости",
+        "examples": [
+          {
+            "en": "Shall we go to the cinema?",
+            "ru": "Пойдём в кино?"
+          },
+          {
+            "en": "Why don't we have dinner first?",
+            "ru": "Может, сначала поужинаем?"
+          },
+          {
+            "en": "That's a good idea. / I'm not sure.",
+            "ru": "Хорошая идея. / Не уверен."
+          },
+          {
+            "en": "What time shall we meet?",
+            "ru": "Во сколько встретимся?"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe10-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 10.",
+        "video": {
+          "title": "Practical English, File 10 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод курса Elementary. Нужен код из учебника."
+        },
+        "phrases": [
+          "Shall we…?",
+          "Why don't we…?",
+          "Good idea!",
+          "Let's meet at seven."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод",
+          "Договорился(лась) о встрече по-английски (вслух или в сообщении)",
+          "Повторил(а) фразы"
+        ]
+      },
+      {
+        "id": "pe10-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Friday night",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Shall we go to the new Italian restaurant on Friday?"
+          },
+          {
+            "speaker": "B",
+            "text": "I'm not sure. It's very expensive. Why don't we cook at home?"
+          },
+          {
+            "speaker": "A",
+            "text": "OK, good idea. And then shall we watch a film?"
+          },
+          {
+            "speaker": "B",
+            "text": "Perfect. Come at seven."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "tf",
+            "statement": "They decide to go to the restaurant.",
+            "answer": false
+          },
+          {
+            "kind": "choice",
+            "question": "After dinner they're going to…",
+            "options": [
+              "go dancing",
+              "watch a film",
+              "go for a walk"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "gap",
+            "text": "Come at ___.",
+            "answers": [
+              "seven",
+              "7"
+            ]
+          }
+        ],
+        "image": "🍽️"
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc10-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct option.",
+        "items": [
+          {
+            "question": "My car is ___ than yours.",
+            "options": [
+              "older",
+              "more old",
+              "the oldest"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "It's ___ hotel in the city.",
+            "options": [
+              "the most expensive",
+              "more expensive",
+              "the expensivest"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Look! He's going ___.",
+            "options": [
+              "fall",
+              "to fall",
+              "falling"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "This is ___ pizza I've ever eaten.",
+            "options": [
+              "the better",
+              "the best",
+              "best"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc10-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "Two cities",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "I lived in St Petersburg and in Moscow. Moscow is bigger and busier, and the salaries are better. But St Petersburg is more beautiful and more relaxed. For me, it's the best city in Russia."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Which city is busier?",
+            "options": [
+              "Moscow",
+              "St Petersburg"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "choice",
+            "question": "Which is more relaxed?",
+            "options": [
+              "Moscow",
+              "St Petersburg"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "He thinks Moscow is the best city.",
+            "answer": false
+          }
+        ],
+        "image": "🏙️"
+      }
+    ]
+  }
+}

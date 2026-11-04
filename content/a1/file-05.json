@@ -1,0 +1,1177 @@
+{
+  "fileId": "5",
+  "lessons": {
+    "5A": {
+      "theory": [
+        {
+          "title": "Present Simple: he, she, it",
+          "text": "Самое важное правило Present Simple: с he, she, it к глаголу добавляется окончание -s. Его часто забывают!",
+          "table": {
+            "head": [
+              "Правило",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "обычно + s",
+                "work → works, get up → gets up"
+              ],
+              [
+                "-s, -sh, -ch, -x, -o + es",
+                "watch → watches, go → goes, do → does"
+              ],
+              [
+                "согласная + y → ies",
+                "study → studies"
+              ],
+              [
+                "исключение",
+                "have → has"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "She gets up at seven.",
+              "ru": "Она встаёт в семь."
+            },
+            {
+              "en": "He goes to work by bus.",
+              "ru": "Он ездит на работу на автобусе."
+            },
+            {
+              "en": "My dad has a big car.",
+              "ru": "У моего папы большая машина."
+            }
+          ],
+          "tip": "Окончание -s бывает только в 3-м лице единственного числа: he works, но they work."
+        },
+        {
+          "title": "Распорядок дня",
+          "examples": [
+            {
+              "en": "get up — have a shower — get dressed",
+              "ru": "встать — принять душ — одеться"
+            },
+            {
+              "en": "have breakfast — go to work — have lunch",
+              "ru": "завтракать — идти на работу — обедать"
+            },
+            {
+              "en": "get home — make dinner — go to bed",
+              "ru": "прийти домой — готовить ужин — ложиться спать"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Daily routine vocabulary",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=daily+routine+english+for+beginners"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5a-1",
+          "type": "transform",
+          "instruction": "Write the he / she / it form.",
+          "items": [
+            {
+              "prompt": "get up",
+              "answers": [
+                "gets up"
+              ]
+            },
+            {
+              "prompt": "watch",
+              "answers": [
+                "watches"
+              ]
+            },
+            {
+              "prompt": "go",
+              "answers": [
+                "goes"
+              ]
+            },
+            {
+              "prompt": "study",
+              "answers": [
+                "studies"
+              ]
+            },
+            {
+              "prompt": "have",
+              "answers": [
+                "has"
+              ]
+            },
+            {
+              "prompt": "finish",
+              "answers": [
+                "finishes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-pic",
+          "type": "picture",
+          "instruction": "Daily routine: choose the phrase.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "⏰",
+              "answers": [
+                "wake up"
+              ]
+            },
+            {
+              "emoji": "🚿",
+              "answers": [
+                "have a shower"
+              ]
+            },
+            {
+              "emoji": "🍳",
+              "answers": [
+                "have breakfast",
+                "make breakfast"
+              ]
+            },
+            {
+              "emoji": "🚌",
+              "answers": [
+                "go to work by bus"
+              ]
+            },
+            {
+              "emoji": "📺",
+              "answers": [
+                "watch TV"
+              ]
+            },
+            {
+              "emoji": "🛏️",
+              "answers": [
+                "go to bed"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-2",
+          "type": "gap-fill",
+          "instruction": "Complete with the verb in brackets.",
+          "items": [
+            {
+              "text": "My sister ___ up at 7 o'clock.",
+              "hint": "get",
+              "answers": [
+                "gets"
+              ]
+            },
+            {
+              "text": "She ___ breakfast at home.",
+              "hint": "have",
+              "answers": [
+                "has"
+              ]
+            },
+            {
+              "text": "He ___ to work by bus.",
+              "hint": "go",
+              "answers": [
+                "goes"
+              ]
+            },
+            {
+              "text": "My dad ___ work at six.",
+              "hint": "finish",
+              "answers": [
+                "finishes"
+              ]
+            },
+            {
+              "text": "She ___ TV in the evening.",
+              "hint": "watch",
+              "answers": [
+                "watches"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5a-3",
+          "type": "matching",
+          "instruction": "Match to make daily routine phrases.",
+          "pairs": [
+            {
+              "left": "get",
+              "right": "dressed"
+            },
+            {
+              "left": "have",
+              "right": "a shower"
+            },
+            {
+              "left": "go",
+              "right": "to bed"
+            },
+            {
+              "left": "do",
+              "right": "housework"
+            },
+            {
+              "left": "make",
+              "right": "dinner"
+            },
+            {
+              "left": "take",
+              "right": "the dog for a walk"
+            }
+          ]
+        },
+        {
+          "id": "5a-4",
+          "type": "true-false",
+          "instruction": "Read about Dan's day. True or False?",
+          "text": "Dan is a nurse. He works at night. He gets up at four in the afternoon and has breakfast at five! He goes to the hospital by car. He finishes work at six in the morning and goes to bed at eight.",
+          "items": [
+            {
+              "statement": "Dan works in the day.",
+              "answer": false
+            },
+            {
+              "statement": "He has breakfast at 5 p.m.",
+              "answer": true
+            },
+            {
+              "statement": "He goes to work by bus.",
+              "answer": false
+            },
+            {
+              "statement": "He goes to bed at 8 a.m.",
+              "answer": true
+            }
+          ]
+        },
+        {
+          "id": "5a-r",
+          "type": "reading",
+          "instruction": "Read about a baker's day.",
+          "title": "A day in the life of a baker",
+          "text": "Paul is a baker. His day starts very early. He gets up at three o'clock in the morning and has a coffee. He goes to the bakery by bike — it's only five minutes from his house. He makes bread and cakes until ten. Then he has breakfast. He finishes work at two in the afternoon and has a sleep. In the evening he plays with his children and goes to bed at nine.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Paul gets up at…",
+              "options": [
+                "3 a.m.",
+                "5 a.m.",
+                "10 a.m."
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "He goes to work by car.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "He has breakfast at ___.",
+              "answers": [
+                "ten",
+                "10"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "He goes to bed at…",
+              "options": [
+                "8",
+                "9",
+                "10"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🥖"
+        },
+        {
+          "id": "5a-l",
+          "type": "listening",
+          "instruction": "Listen to Helen talking about her husband's routine.",
+          "title": "My husband's day",
+          "script": [
+            {
+              "speaker": "Helen",
+              "text": "My husband, David, is a teacher. He gets up at half past six. He has a shower and makes breakfast for the family. He walks to school — it's near our house. He has lunch at school with the students. He gets home at five and watches the news. Then he cooks dinner. He's a great husband!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "David gets up at…",
+              "options": [
+                "6:00",
+                "6:30",
+                "7:30"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He drives to school.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "He gets home at…",
+              "options": [
+                "4",
+                "5",
+                "6"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "He cooks dinner.",
+              "answer": true
+            }
+          ],
+          "image": "🧑‍🏫"
+        }
+      ]
+    },
+    "5B": {
+      "theory": [
+        {
+          "title": "Отрицание и вопрос с he, she, it",
+          "text": "Для he, she, it используем does / doesn't. Окончание -s переходит во вспомогательный глагол, поэтому основной глагол остаётся без -s.",
+          "table": {
+            "head": [
+              "",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "+",
+                "She works."
+              ],
+              [
+                "−",
+                "She doesn't work. (не doesn't works!)"
+              ],
+              [
+                "?",
+                "Does she work?"
+              ],
+              [
+                "Ответ",
+                "Yes, she does. / No, she doesn't."
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "What time does he get up?",
+              "ru": "Во сколько он встаёт?"
+            },
+            {
+              "en": "Does it rain a lot here?",
+              "ru": "Здесь часто идут дожди?"
+            }
+          ]
+        },
+        {
+          "title": "Части дня",
+          "examples": [
+            {
+              "en": "in the morning",
+              "ru": "утром"
+            },
+            {
+              "en": "in the afternoon",
+              "ru": "днём (после полудня)"
+            },
+            {
+              "en": "in the evening",
+              "ru": "вечером"
+            },
+            {
+              "en": "at night",
+              "ru": "ночью"
+            }
+          ],
+          "tip": "Запомни предлоги: in the morning, но at night."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5b-1",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "She works on Saturday.",
+              "answers": [
+                "She doesn't work on Saturday.",
+                "She does not work on Saturday."
+              ]
+            },
+            {
+              "prompt": "He has lunch at home.",
+              "answers": [
+                "He doesn't have lunch at home.",
+                "He does not have lunch at home."
+              ]
+            },
+            {
+              "prompt": "My brother watches football.",
+              "answers": [
+                "My brother doesn't watch football.",
+                "My brother does not watch football."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-2",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "She likes coffee. → ___?",
+              "answers": [
+                "Does she like coffee?"
+              ]
+            },
+            {
+              "prompt": "He gets up early. → ___?",
+              "answers": [
+                "Does he get up early?"
+              ]
+            },
+            {
+              "prompt": "Your mum works in an office. → ___?",
+              "answers": [
+                "Does your mum work in an office?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5b-3",
+          "type": "multiple-choice",
+          "instruction": "Choose do, does, don't or doesn't.",
+          "items": [
+            {
+              "question": "What time ___ your father get home?",
+              "options": [
+                "do",
+                "does"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "They ___ live here.",
+              "options": [
+                "don't",
+                "doesn't"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Kate ___ eat meat.",
+              "options": [
+                "don't",
+                "doesn't"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Where ___ you have lunch?",
+              "options": [
+                "do",
+                "does"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "___ it rain a lot here?",
+              "options": [
+                "Do",
+                "Does"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "5b-4",
+          "type": "matching",
+          "instruction": "Match the parts of the day and the times.",
+          "pairs": [
+            {
+              "left": "in the morning",
+              "right": "8 a.m."
+            },
+            {
+              "left": "in the afternoon",
+              "right": "3 p.m."
+            },
+            {
+              "left": "in the evening",
+              "right": "7 p.m."
+            },
+            {
+              "left": "at night",
+              "right": "2 a.m."
+            }
+          ]
+        },
+        {
+          "id": "5b-r",
+          "type": "reading",
+          "instruction": "Read about a night worker and answer.",
+          "title": "Working at night",
+          "text": "Marta is a security guard in a museum. She works at night, from ten p.m. to six a.m. She doesn't sleep at work — she walks around the museum every hour. She doesn't have breakfast in the morning; she goes to bed at seven a.m. and gets up at three in the afternoon. Does she like her job? Yes, she does — it's very quiet!",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Marta works in a…",
+              "options": [
+                "hospital",
+                "museum",
+                "hotel"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "She sleeps at work.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "She gets up at ___ in the afternoon.",
+              "answers": [
+                "three",
+                "3"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "She likes her job.",
+              "answer": true
+            }
+          ],
+          "image": "🌙"
+        },
+        {
+          "id": "5b-l",
+          "type": "listening",
+          "instruction": "Listen to the questions about Mike. Answer.",
+          "title": "Questions about Mike",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Does your brother Mike work?"
+            },
+            {
+              "speaker": "B",
+              "text": "No, he doesn't. He's a student."
+            },
+            {
+              "speaker": "A",
+              "text": "Does he live with you?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, he does. He doesn't have money for a flat!"
+            },
+            {
+              "speaker": "A",
+              "text": "Does he cook?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, he does. He makes great pasta."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Mike works.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "Mike lives with his brother or sister.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "Mike makes great ___.",
+              "answers": [
+                "pasta"
+              ]
+            }
+          ],
+          "image": "❓"
+        }
+      ]
+    },
+    "5C": {
+      "theory": [
+        {
+          "title": "Наречия частоты",
+          "text": "Показывают, как часто что-то происходит.",
+          "table": {
+            "head": [
+              "Наречие",
+              "Перевод",
+              "Как часто"
+            ],
+            "rows": [
+              [
+                "always",
+                "всегда",
+                "100%"
+              ],
+              [
+                "usually",
+                "обычно",
+                "80%"
+              ],
+              [
+                "often",
+                "часто",
+                "60%"
+              ],
+              [
+                "sometimes",
+                "иногда",
+                "30%"
+              ],
+              [
+                "hardly ever",
+                "почти никогда",
+                "5%"
+              ],
+              [
+                "never",
+                "никогда",
+                "0%"
+              ]
+            ]
+          }
+        },
+        {
+          "title": "Место в предложении",
+          "text": "Наречие частоты стоит ПЕРЕД основным глаголом, но ПОСЛЕ глагола be.",
+          "examples": [
+            {
+              "en": "I never eat breakfast.",
+              "ru": "Я никогда не завтракаю."
+            },
+            {
+              "en": "She's always late.",
+              "ru": "Она всегда опаздывает."
+            },
+            {
+              "en": "We sometimes go to the cinema.",
+              "ru": "Мы иногда ходим в кино."
+            }
+          ],
+          "tip": "С never не нужно don't: I never drink coffee (а не I don't never drink)."
+        },
+        {
+          "title": "Выражения частоты",
+          "text": "every day (каждый день), once a week (раз в неделю), twice a month (два раза в месяц). Они обычно стоят в конце предложения: I go to the gym twice a week."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "5c-1",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "I usually get up at seven."
+            },
+            {
+              "answer": "She is never late."
+            },
+            {
+              "answer": "We sometimes go to the cinema."
+            },
+            {
+              "answer": "He always has coffee for breakfast."
+            }
+          ]
+        },
+        {
+          "id": "5c-2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct sentence.",
+          "items": [
+            {
+              "question": "1",
+              "options": [
+                "I go never to the gym.",
+                "I never go to the gym.",
+                "Never I go to the gym."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "2",
+              "options": [
+                "They are usually tired.",
+                "They usually are tired.",
+                "Usually they tired."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3",
+              "options": [
+                "She often reads.",
+                "She reads often books.",
+                "Often she read."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "5c-3",
+          "type": "gap-fill",
+          "instruction": "Complete with always, usually, sometimes or never.",
+          "items": [
+            {
+              "text": "I ___ drink coffee. I hate it! (0%)",
+              "answers": [
+                "never"
+              ]
+            },
+            {
+              "text": "She ___ walks to work. Every day! (100%)",
+              "answers": [
+                "always"
+              ]
+            },
+            {
+              "text": "We ___ eat out, maybe once a month. (30%)",
+              "answers": [
+                "sometimes"
+              ]
+            },
+            {
+              "text": "He ___ gets up at 7, but not on Sundays. (80%)",
+              "answers": [
+                "usually"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-4",
+          "type": "transform",
+          "instruction": "Add the word in brackets in the correct place.",
+          "items": [
+            {
+              "prompt": "I'm hungry in the morning. (never)",
+              "answers": [
+                "I'm never hungry in the morning.",
+                "I am never hungry in the morning."
+              ]
+            },
+            {
+              "prompt": "They watch TV after dinner. (usually)",
+              "answers": [
+                "They usually watch TV after dinner."
+              ]
+            },
+            {
+              "prompt": "My dad cooks on Sunday. (always)",
+              "answers": [
+                "My dad always cooks on Sunday."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5c-r",
+          "type": "reading",
+          "instruction": "Read the quiz answers and answer.",
+          "title": "Are you healthy?",
+          "text": "Jess: I always have breakfast — usually fruit and yoghurt. I never eat fast food. I go to the gym three times a week, and I usually walk to work.\n\nMatt: I hardly ever have breakfast — I'm never hungry in the morning. I often eat pizza. I sometimes play football with friends, but I never go to the gym.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Jess always has breakfast.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "How often does Jess go to the gym?",
+              "options": [
+                "once a week",
+                "twice a week",
+                "three times a week"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "tf",
+              "statement": "Matt is usually hungry in the morning.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Who is healthier?",
+              "options": [
+                "Jess",
+                "Matt"
+              ],
+              "answer": 0
+            }
+          ],
+          "image": "🥗"
+        },
+        {
+          "id": "5c-l",
+          "type": "listening",
+          "instruction": "Listen and choose how often.",
+          "title": "How often?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "How often do you go to the cinema?"
+            },
+            {
+              "speaker": "B",
+              "text": "Hardly ever. Maybe twice a year."
+            },
+            {
+              "speaker": "A",
+              "text": "And do you read books?"
+            },
+            {
+              "speaker": "B",
+              "text": "Yes, I always read in bed."
+            },
+            {
+              "speaker": "A",
+              "text": "Do you cook?"
+            },
+            {
+              "speaker": "B",
+              "text": "Sometimes, at the weekend."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Cinema:",
+              "options": [
+                "always",
+                "sometimes",
+                "hardly ever"
+              ],
+              "answer": 2
+            },
+            {
+              "kind": "choice",
+              "question": "Reading in bed:",
+              "options": [
+                "always",
+                "often",
+                "never"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "She cooks at the ___.",
+              "answers": [
+                "weekend"
+              ]
+            }
+          ],
+          "image": "🎬"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Shopping for clothes conversation",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=shopping+for+clothes+english+conversation+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe5-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 5.",
+        "video": {
+          "title": "Practical English, File 5 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Can I help you?",
+          "Do you have this in a medium?",
+          "Can I try it on?",
+          "Where are the changing rooms?",
+          "It's too big."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Разыграл(а) диалог в магазине одежды",
+          "Назвал(а) по-английски размеры: small, medium, large"
+        ]
+      },
+      {
+        "id": "pe5-2",
+        "type": "word-order",
+        "instruction": "Put the words in order.",
+        "items": [
+          {
+            "answer": "Can I try this on?"
+          },
+          {
+            "answer": "Do you have it in black?"
+          },
+          {
+            "answer": "How much are these jeans?"
+          }
+        ]
+      },
+      {
+        "id": "pe5-l",
+        "type": "listening",
+        "instruction": "Listen to the conversation in a shop.",
+        "title": "Buying a jumper",
+        "script": [
+          {
+            "speaker": "Assistant",
+            "text": "Can I help you?"
+          },
+          {
+            "speaker": "Customer",
+            "text": "Yes, do you have this jumper in a large?"
+          },
+          {
+            "speaker": "Assistant",
+            "text": "Yes, here you are. The changing rooms are over there."
+          },
+          {
+            "speaker": "Customer",
+            "text": "Thanks. It's perfect. How much is it?"
+          },
+          {
+            "speaker": "Assistant",
+            "text": "It's thirty-five pounds."
+          },
+          {
+            "speaker": "Customer",
+            "text": "Great, I'll take it."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "The customer wants a…",
+            "options": [
+              "jacket",
+              "jumper",
+              "T-shirt"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "choice",
+            "question": "Size:",
+            "options": [
+              "small",
+              "medium",
+              "large"
+            ],
+            "answer": 2
+          },
+          {
+            "kind": "gap",
+            "text": "It costs ___ pounds.",
+            "answers": [
+              "thirty-five",
+              "35"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "The customer buys it.",
+            "answer": true
+          }
+        ],
+        "image": "👕"
+      }
+    ],
+    "theory": [
+      {
+        "title": "В магазине одежды",
+        "examples": [
+          {
+            "en": "Can I help you? — I'm just looking, thanks.",
+            "ru": "Вам помочь? — Я просто смотрю, спасибо."
+          },
+          {
+            "en": "Do you have this in a medium?",
+            "ru": "У вас есть это в размере M?"
+          },
+          {
+            "en": "Can I try it on?",
+            "ru": "Можно примерить?"
+          },
+          {
+            "en": "It's too big / too small.",
+            "ru": "Слишком большой / маленький."
+          },
+          {
+            "en": "I'll take it.",
+            "ru": "Я возьму."
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc5-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "She ___ to work by train.",
+            "options": [
+              "go",
+              "goes",
+              "going"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He ___ like tea.",
+            "options": [
+              "don't",
+              "doesn't",
+              "isn't"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ your brother live with you?",
+            "options": [
+              "Do",
+              "Does",
+              "Is"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "I ___ late.",
+            "options": [
+              "never am",
+              "am never",
+              "never"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "My mum ___ dinner every evening.",
+            "options": [
+              "make",
+              "makes",
+              "do"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc5-2",
+        "type": "transform",
+        "instruction": "Correct the mistake.",
+        "items": [
+          {
+            "prompt": "She doesn't works on Monday.",
+            "answers": [
+              "She doesn't work on Monday.",
+              "She does not work on Monday."
+            ]
+          },
+          {
+            "prompt": "Does he lives here?",
+            "answers": [
+              "Does he live here?"
+            ]
+          },
+          {
+            "prompt": "My sister watchs TV every day.",
+            "answers": [
+              "My sister watches TV every day."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc5-l",
+        "type": "listening",
+        "instruction": "Listen and answer.",
+        "title": "My weekend routine",
+        "script": [
+          {
+            "speaker": "Man",
+            "text": "At the weekend I never get up early. I usually get up at ten. My wife always makes pancakes on Sunday. In the afternoon we sometimes visit her parents. In the evening I often watch football on TV, but my wife doesn't like it. She reads a book."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "He usually gets up at…",
+            "options": [
+              "8",
+              "9",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "kind": "gap",
+            "text": "His wife always makes ___ on Sunday.",
+            "answers": [
+              "pancakes"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "His wife likes football.",
+            "answer": false
+          }
+        ],
+        "image": "🥞"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1306 @@
+{
+  "fileId": "1",
+  "lessons": {
+    "1A": {
+      "theory": [
+        {
+          "title": "Глагол be: I am, you are",
+          "text": "В русском языке «я студент» обходится без глагола. В английском глагол be (быть) обязателен: I am a student — дословно «я есть студент». Его нельзя пропускать.",
+          "table": {
+            "head": [
+              "Полная форма",
+              "Краткая форма",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "I am",
+                "I'm",
+                "я (есть)"
+              ],
+              [
+                "you are",
+                "you're",
+                "ты / вы (есть)"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "I'm Anna.",
+              "ru": "Я Анна."
+            },
+            {
+              "en": "You're in room five.",
+              "ru": "Ты в комнате пять."
+            },
+            {
+              "en": "I'm from Russia.",
+              "ru": "Я из России."
+            }
+          ],
+          "tip": "В разговоре почти всегда говорят краткие формы: I'm, you're. Полную форму I am используют для акцента или в официальном тексте."
+        },
+        {
+          "title": "Приветствия",
+          "examples": [
+            {
+              "en": "Hello! / Hi!",
+              "ru": "Здравствуйте! / Привет!"
+            },
+            {
+              "en": "How are you? — Fine, thanks. And you?",
+              "ru": "Как дела? — Хорошо, спасибо. А у тебя?"
+            },
+            {
+              "en": "Nice to meet you.",
+              "ru": "Приятно познакомиться."
+            },
+            {
+              "en": "Goodbye! / Bye! See you tomorrow.",
+              "ru": "До свидания! / Пока! До завтра."
+            }
+          ]
+        },
+        {
+          "title": "Числа 0–20",
+          "text": "0 zero, 1 one, 2 two, 3 three, 4 four, 5 five, 6 six, 7 seven, 8 eight, 9 nine, 10 ten, 11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen, 16 sixteen, 17 seventeen, 18 eighteen, 19 nineteen, 20 twenty.",
+          "tip": "13–19 заканчиваются на -teen, и ударение падает на него: thir-TEEN. Это помогает не путать 13 (thirteen) и 30 (THIR-ty)."
+        }
+      ],
+      "videos": [
+        {
+          "title": "Видео урока 1A в Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Если в уроке есть видео, оно в разделе File 1 твоего курса. Нужен код из учебника."
+        },
+        {
+          "title": "Greetings in English for beginners",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=english+greetings+for+beginners+A1"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "1a-1",
+          "type": "gap-fill",
+          "instruction": "Complete with am or are.",
+          "items": [
+            {
+              "text": "Hi, I ___ Tom.",
+              "answers": [
+                "am"
+              ]
+            },
+            {
+              "text": "You ___ in room 5.",
+              "answers": [
+                "are"
+              ]
+            },
+            {
+              "text": "I ___ a student.",
+              "answers": [
+                "am"
+              ]
+            },
+            {
+              "text": "___ you Maria?",
+              "answers": [
+                "Are"
+              ]
+            },
+            {
+              "text": "Yes, I ___.",
+              "answers": [
+                "am"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1a-2",
+          "type": "matching",
+          "instruction": "Match the numbers and the words.",
+          "pairs": [
+            {
+              "left": "3",
+              "right": "three"
+            },
+            {
+              "left": "8",
+              "right": "eight"
+            },
+            {
+              "left": "12",
+              "right": "twelve"
+            },
+            {
+              "left": "15",
+              "right": "fifteen"
+            },
+            {
+              "left": "20",
+              "right": "twenty"
+            },
+            {
+              "left": "11",
+              "right": "eleven"
+            }
+          ]
+        },
+        {
+          "id": "1a-3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct answer.",
+          "items": [
+            {
+              "question": "Hello, I'm Kate. — …",
+              "options": [
+                "Hi, I'm Sam.",
+                "Goodbye.",
+                "Thank you."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "How are you?",
+              "options": [
+                "I'm Sam.",
+                "Fine, thanks.",
+                "Nice to meet you."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Nice to meet you. — …",
+              "options": [
+                "You too.",
+                "I'm fine.",
+                "See you."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Goodbye! — …",
+              "options": [
+                "Hello!",
+                "Bye! See you tomorrow.",
+                "Yes, I am."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "1a-4",
+          "type": "word-order",
+          "instruction": "Put the words in the correct order.",
+          "items": [
+            {
+              "answer": "I'm in room ten."
+            },
+            {
+              "answer": "Nice to meet you."
+            },
+            {
+              "answer": "How are you today?"
+            },
+            {
+              "answer": "You're in my class."
+            }
+          ]
+        },
+        {
+          "id": "1a-r",
+          "type": "reading",
+          "instruction": "Read the conversation and answer the questions.",
+          "title": "First day at a language school",
+          "text": "Teacher: Hello! I'm Mark. I'm your teacher.\n\nGirl: Hi, Mark. I'm Olga.\n\nTeacher: Nice to meet you, Olga. You're in room twelve.\n\nOlga: Room twelve? Thank you!\n\nTeacher: You're welcome. See you later!",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "Mark is a student.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "The girl's name is Olga.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "Olga is in room…",
+              "options": [
+                "two",
+                "twelve",
+                "twenty"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "gap",
+              "text": "Mark says: \"Nice to ___ you.\"",
+              "answers": [
+                "meet"
+              ]
+            }
+          ],
+          "image": "🏫"
+        },
+        {
+          "id": "1a-l",
+          "type": "listening",
+          "instruction": "Listen to the conversation and answer the questions.",
+          "title": "At a party",
+          "script": [
+            {
+              "speaker": "Tom",
+              "text": "Hi! I'm Tom."
+            },
+            {
+              "speaker": "Lisa",
+              "text": "Hello, Tom. I'm Lisa. Nice to meet you."
+            },
+            {
+              "speaker": "Tom",
+              "text": "Nice to meet you too. How are you?"
+            },
+            {
+              "speaker": "Lisa",
+              "text": "I'm fine, thanks. And you?"
+            },
+            {
+              "speaker": "Tom",
+              "text": "I'm OK. I'm in room fifteen at the hotel."
+            },
+            {
+              "speaker": "Lisa",
+              "text": "Oh! I'm in room sixteen!"
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "The man's name is…",
+              "options": [
+                "Tim",
+                "Tom",
+                "Ted"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "Lisa is fine.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "Tom is in room…",
+              "options": [
+                "15",
+                "50",
+                "16"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "choice",
+              "question": "Lisa is in room…",
+              "options": [
+                "60",
+                "6",
+                "16"
+              ],
+              "answer": 2
+            }
+          ],
+          "image": "🎉"
+        }
+      ]
+    },
+    "1B": {
+      "theory": [
+        {
+          "title": "Глагол be: he, she, it",
+          "text": "Для одного человека или предмета используется is. he — он (мужчина), she — она (женщина), it — оно (предмет, животное, страна, город).",
+          "table": {
+            "head": [
+              "Полная форма",
+              "Краткая форма"
+            ],
+            "rows": [
+              [
+                "he is",
+                "he's"
+              ],
+              [
+                "she is",
+                "she's"
+              ],
+              [
+                "it is",
+                "it's"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "He's from Italy.",
+              "ru": "Он из Италии."
+            },
+            {
+              "en": "She's Japanese.",
+              "ru": "Она японка."
+            },
+            {
+              "en": "It's a Chinese car.",
+              "ru": "Это китайская машина."
+            },
+            {
+              "en": "Paris is in France.",
+              "ru": "Париж находится во Франции."
+            }
+          ],
+          "tip": "Предметы — это it, даже если по-русски они «он» или «она»: машина, город и стол в английском всегда it."
+        },
+        {
+          "title": "Страны и национальности",
+          "text": "Национальности часто образуются окончаниями -ish, -an или -ese. Названия стран и национальностей всегда пишутся с большой буквы.",
+          "table": {
+            "head": [
+              "Страна",
+              "Национальность"
+            ],
+            "rows": [
+              [
+                "Spain, England, Turkey",
+                "Spanish, English, Turkish"
+              ],
+              [
+                "Russia, Italy, Brazil",
+                "Russian, Italian, Brazilian"
+              ],
+              [
+                "Japan, China",
+                "Japanese, Chinese"
+              ],
+              [
+                "France, Greece",
+                "French, Greek"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "Where are you from? — I'm from Russia. I'm Russian.",
+              "ru": "Откуда ты? — Я из России. Я русский."
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "title": "Countries and nationalities",
+          "kind": "youtube-search",
+          "url": "https://www.youtube.com/results?search_query=countries+and+nationalities+english+A1"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "1b-1",
+          "type": "gap-fill",
+          "instruction": "Complete with is.",
+          "items": [
+            {
+              "text": "This is Marco. He ___ from Italy.",
+              "answers": [
+                "is"
+              ]
+            },
+            {
+              "text": "This is Yuki. She ___ Japanese.",
+              "answers": [
+                "is"
+              ]
+            },
+            {
+              "text": "It ___ a Chinese car.",
+              "answers": [
+                "is"
+              ]
+            },
+            {
+              "text": "Paris ___ in France.",
+              "answers": [
+                "is"
+              ]
+            },
+            {
+              "text": "My teacher ___ from Brazil.",
+              "answers": [
+                "is"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1b-pic",
+          "type": "picture",
+          "instruction": "Which country is it? Choose.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "🇪🇸",
+              "answers": [
+                "Spain"
+              ]
+            },
+            {
+              "emoji": "🇯🇵",
+              "answers": [
+                "Japan"
+              ]
+            },
+            {
+              "emoji": "🇧🇷",
+              "answers": [
+                "Brazil"
+              ]
+            },
+            {
+              "emoji": "🇨🇳",
+              "answers": [
+                "China"
+              ]
+            },
+            {
+              "emoji": "🇩🇪",
+              "answers": [
+                "Germany"
+              ]
+            },
+            {
+              "emoji": "🇮🇹",
+              "answers": [
+                "Italy"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1b-2",
+          "type": "matching",
+          "instruction": "Match the countries and the nationalities.",
+          "pairs": [
+            {
+              "left": "Spain",
+              "right": "Spanish"
+            },
+            {
+              "left": "Germany",
+              "right": "German"
+            },
+            {
+              "left": "Japan",
+              "right": "Japanese"
+            },
+            {
+              "left": "Brazil",
+              "right": "Brazilian"
+            },
+            {
+              "left": "China",
+              "right": "Chinese"
+            },
+            {
+              "left": "the USA",
+              "right": "American"
+            }
+          ]
+        },
+        {
+          "id": "1b-3",
+          "type": "true-false",
+          "instruction": "Read about Lucia. True or False?",
+          "text": "Hi! I'm Lucia. I'm from Mexico. My friend Paul is from Canada. He's twenty. Our teacher, Mrs Brown, is from England. She's very nice.",
+          "items": [
+            {
+              "statement": "Lucia is Mexican.",
+              "answer": true
+            },
+            {
+              "statement": "Paul is from the USA.",
+              "answer": false
+            },
+            {
+              "statement": "Paul is twenty.",
+              "answer": true
+            },
+            {
+              "statement": "Mrs Brown is American.",
+              "answer": false
+            }
+          ]
+        },
+        {
+          "id": "1b-4",
+          "type": "transform",
+          "instruction": "Write the sentence with the short form (he's, she's, it's).",
+          "items": [
+            {
+              "prompt": "He is from Russia.",
+              "answers": [
+                "He's from Russia."
+              ]
+            },
+            {
+              "prompt": "She is Turkish.",
+              "answers": [
+                "She's Turkish."
+              ]
+            },
+            {
+              "prompt": "It is a German car.",
+              "answers": [
+                "It's a German car."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1b-r",
+          "type": "reading",
+          "instruction": "Read about the students in an international class.",
+          "title": "Our class",
+          "text": "Our English class is very international! Ahmed is from Egypt. He's twenty-three. Mei is from China. She's a doctor. Carlos is from Mexico. He's a student, and he's very funny. Our teacher is Sarah. She's from Scotland, and her classroom is small but nice.",
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Ahmed is from…",
+              "options": [
+                "Egypt",
+                "Mexico",
+                "China"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "tf",
+              "statement": "Mei is a student.",
+              "answer": false
+            },
+            {
+              "kind": "tf",
+              "statement": "Carlos is Mexican.",
+              "answer": true
+            },
+            {
+              "kind": "gap",
+              "text": "Sarah is the ___.",
+              "answers": [
+                "teacher"
+              ]
+            },
+            {
+              "kind": "choice",
+              "question": "The classroom is…",
+              "options": [
+                "big",
+                "small"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "🏫"
+        },
+        {
+          "id": "1b-l",
+          "type": "listening",
+          "instruction": "Listen to the people. Where are they from?",
+          "title": "Where are you from?",
+          "script": [
+            {
+              "speaker": "A",
+              "text": "Hi, I'm Paolo. I'm from Italy, from Rome."
+            },
+            {
+              "speaker": "B",
+              "text": "Hello, my name's Hanna. I'm German. I'm from Berlin."
+            },
+            {
+              "speaker": "A",
+              "text": "And this is my friend Kenji. He's Japanese. He's from Tokyo."
+            },
+            {
+              "speaker": "B",
+              "text": "And this is Ana. She's from Brazil."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "choice",
+              "question": "Paolo is from…",
+              "options": [
+                "Spain",
+                "Italy",
+                "Brazil"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "choice",
+              "question": "Hanna is…",
+              "options": [
+                "German",
+                "English",
+                "Greek"
+              ],
+              "answer": 0
+            },
+            {
+              "kind": "gap",
+              "text": "Kenji is from ___.",
+              "answers": [
+                "Tokyo",
+                "Japan"
+              ]
+            },
+            {
+              "kind": "tf",
+              "statement": "Ana is from Brazil.",
+              "answer": true
+            }
+          ],
+          "image": "🌍"
+        }
+      ]
+    },
+    "1C": {
+      "theory": [
+        {
+          "title": "Отрицание с be",
+          "text": "Чтобы сказать «не», ставим not после am / is / are. В разговоре — краткие формы.",
+          "table": {
+            "head": [
+              "+",
+              "−",
+              "Краткое −"
+            ],
+            "rows": [
+              [
+                "I am",
+                "I am not",
+                "I'm not"
+              ],
+              [
+                "you are",
+                "you are not",
+                "you aren't / you're not"
+              ],
+              [
+                "he / she / it is",
+                "he is not",
+                "he isn't / he's not"
+              ]
+            ]
+          },
+          "examples": [
+            {
+              "en": "I'm not Spanish.",
+              "ru": "Я не испанец."
+            },
+            {
+              "en": "It isn't a pen. It's a pencil.",
+              "ru": "Это не ручка. Это карандаш."
+            }
+          ],
+          "tip": "Формы amn't не существует. Говорят только I'm not."
+        },
+        {
+          "title": "Вопросы с be",
+          "text": "В вопросе am / is / are ставится перед подлежащим. Отвечают кратко, повторяя be.",
+          "examples": [
+            {
+              "en": "Are you a student? — Yes, I am. / No, I'm not.",
+              "ru": "Ты студент? — Да. / Нет."
+            },
+            {
+              "en": "Is it a book? — Yes, it is. / No, it isn't.",
+              "ru": "Это книга? — Да. / Нет."
+            }
+          ],
+          "tip": "В кратком положительном ответе сокращать нельзя: Yes, I am (а не Yes, I'm)."
+        },
+        {
+          "title": "a или an?",
+          "text": "Перед существительным в единственном числе нужен артикль. a ставится перед согласным звуком, an — перед гласным звуком.",
+          "examples": [
+            {
+              "en": "a book, a pen, a chair",
+              "ru": "согласный звук"
+            },
+            {
+              "en": "an umbrella, an apple, an English book",
+              "ru": "гласный звук"
+            }
+          ],
+          "tip": "Важен звук, а не буква: an hour (h не читается), но a university (звучит как «ю»)."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "1c-1",
+          "type": "gap-fill",
+          "instruction": "Complete with a or an.",
+          "items": [
+            {
+              "text": "It's ___ pen.",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "It's ___ umbrella.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "It's ___ English book.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "Is it ___ dictionary?",
+              "answers": [
+                "a"
+              ]
+            },
+            {
+              "text": "It's ___ old chair.",
+              "answers": [
+                "an"
+              ]
+            },
+            {
+              "text": "Is it ___ laptop?",
+              "answers": [
+                "a"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1c-pic",
+          "type": "picture",
+          "instruction": "What is it? Choose the word.",
+          "mode": "choice",
+          "items": [
+            {
+              "emoji": "📖",
+              "answers": [
+                "a book",
+                "book"
+              ]
+            },
+            {
+              "emoji": "✏️",
+              "answers": [
+                "a pencil",
+                "pencil"
+              ]
+            },
+            {
+              "emoji": "🖊️",
+              "answers": [
+                "a pen",
+                "pen"
+              ]
+            },
+            {
+              "emoji": "☂️",
+              "answers": [
+                "an umbrella",
+                "umbrella"
+              ]
+            },
+            {
+              "emoji": "💻",
+              "answers": [
+                "a laptop",
+                "laptop"
+              ]
+            },
+            {
+              "emoji": "🪑",
+              "answers": [
+                "a chair",
+                "chair"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1c-2",
+          "type": "transform",
+          "instruction": "Make the sentences negative.",
+          "items": [
+            {
+              "prompt": "I'm Spanish.",
+              "answers": [
+                "I'm not Spanish.",
+                "I am not Spanish."
+              ]
+            },
+            {
+              "prompt": "It's a pencil.",
+              "answers": [
+                "It isn't a pencil.",
+                "It's not a pencil.",
+                "It is not a pencil."
+              ]
+            },
+            {
+              "prompt": "You're in class 2.",
+              "answers": [
+                "You aren't in class 2.",
+                "You're not in class 2.",
+                "You are not in class 2."
+              ]
+            },
+            {
+              "prompt": "She's from Italy.",
+              "answers": [
+                "She isn't from Italy.",
+                "She's not from Italy.",
+                "She is not from Italy."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1c-3",
+          "type": "transform",
+          "instruction": "Make questions.",
+          "items": [
+            {
+              "prompt": "It's a book. → ___?",
+              "answers": [
+                "Is it a book?"
+              ]
+            },
+            {
+              "prompt": "You're from Poland. → ___?",
+              "answers": [
+                "Are you from Poland?"
+              ]
+            },
+            {
+              "prompt": "He's a teacher. → ___?",
+              "answers": [
+                "Is he a teacher?"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1c-4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct short answer.",
+          "items": [
+            {
+              "question": "Is it a phone? (✓)",
+              "options": [
+                "Yes, it is.",
+                "Yes, it's.",
+                "Yes, is it."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Are you Italian? (✗)",
+              "options": [
+                "No, I not.",
+                "No, I'm not.",
+                "No, you aren't."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Is she from Spain? (✗)",
+              "options": [
+                "No, she isn't.",
+                "No, she not.",
+                "No, isn't she."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Are you a student? (✓)",
+              "options": [
+                "Yes, I'm.",
+                "Yes, I am.",
+                "Yes, you are."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": "1c-r",
+          "type": "reading",
+          "instruction": "Read the conversation and answer.",
+          "title": "What's this?",
+          "text": "Sam: What's this in English? Is it a pen?\n\nKate: No, it isn't. It's a pencil.\n\nSam: And is that a dictionary?\n\nKate: Yes, it is. It's an English dictionary.\n\nSam: Is it your dictionary?\n\nKate: No, it isn't. It's the teacher's.",
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The first thing is a pen.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "The dictionary is…",
+              "options": [
+                "Russian",
+                "English",
+                "Spanish"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The dictionary is Kate's.",
+              "answer": false
+            },
+            {
+              "kind": "gap",
+              "text": "It's ___ English dictionary.",
+              "answers": [
+                "an"
+              ]
+            }
+          ],
+          "image": "🏫"
+        },
+        {
+          "id": "1c-l",
+          "type": "listening",
+          "instruction": "Listen. Answer the questions.",
+          "title": "Lost and found",
+          "script": [
+            {
+              "speaker": "Man",
+              "text": "Excuse me. Is this your umbrella?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "No, it isn't. My umbrella is black."
+            },
+            {
+              "speaker": "Man",
+              "text": "And is this your bag?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "Yes, it is! Thank you."
+            },
+            {
+              "speaker": "Man",
+              "text": "Are you a student here?"
+            },
+            {
+              "speaker": "Woman",
+              "text": "No, I'm not. I'm a teacher."
+            }
+          ],
+          "questions": [
+            {
+              "kind": "tf",
+              "statement": "The umbrella is the woman's.",
+              "answer": false
+            },
+            {
+              "kind": "choice",
+              "question": "Her umbrella is…",
+              "options": [
+                "red",
+                "black",
+                "blue"
+              ],
+              "answer": 1
+            },
+            {
+              "kind": "tf",
+              "statement": "The bag is the woman's.",
+              "answer": true
+            },
+            {
+              "kind": "choice",
+              "question": "The woman is a…",
+              "options": [
+                "student",
+                "teacher",
+                "doctor"
+              ],
+              "answer": 1
+            }
+          ],
+          "image": "☂️"
+        }
+      ]
+    }
+  },
+  "practicalEnglish": {
+    "videos": [
+      {
+        "title": "Checking in at a hotel (English for beginners)",
+        "kind": "youtube-search",
+        "url": "https://www.youtube.com/results?search_query=checking+in+at+a+hotel+english+conversation+beginners"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pe1-1",
+        "type": "video-task",
+        "instruction": "Watch the Practical English episode for File 1.",
+        "video": {
+          "title": "Practical English, File 1 — Online Practice",
+          "kind": "official-link",
+          "url": "https://englishfile4e.oxfordonlinepractice.com/",
+          "note": "Видеоэпизод из твоего курса. Нужен код из учебника."
+        },
+        "phrases": [
+          "Can I have your name, please?",
+          "How do you spell it?",
+          "Here's your key.",
+          "Thank you. Have a nice day."
+        ],
+        "tasks": [
+          "Посмотрел(а) эпизод целиком",
+          "Посмотрел(а) ещё раз с субтитрами",
+          "Повторил(а) вслух фразы из списка",
+          "Произнёс(ла) по буквам своё имя и фамилию на английском"
+        ]
+      },
+      {
+        "id": "pe1-2",
+        "type": "word-order",
+        "instruction": "Put the words in order to make phrases at a hotel.",
+        "items": [
+          {
+            "answer": "How do you spell that?"
+          },
+          {
+            "answer": "What's your surname, please?"
+          },
+          {
+            "answer": "Your room is on the second floor."
+          }
+        ]
+      },
+      {
+        "id": "pe1-l",
+        "type": "listening",
+        "instruction": "Listen to the conversation at a hotel reception.",
+        "title": "Checking in",
+        "script": [
+          {
+            "speaker": "Receptionist",
+            "text": "Good evening. Can I help you?"
+          },
+          {
+            "speaker": "Guest",
+            "text": "Yes, I have a reservation. My name's Olga Belova."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "How do you spell your surname?"
+          },
+          {
+            "speaker": "Guest",
+            "text": "B, E, L, O, V, A."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Thank you. You're in room two hundred and eight. Here's your key."
+          },
+          {
+            "speaker": "Guest",
+            "text": "Thank you very much."
+          }
+        ],
+        "questions": [
+          {
+            "kind": "gap",
+            "text": "The guest's surname is ___.",
+            "answers": [
+              "Belova"
+            ]
+          },
+          {
+            "kind": "choice",
+            "question": "Her room is…",
+            "options": [
+              "280",
+              "208",
+              "218"
+            ],
+            "answer": 1
+          },
+          {
+            "kind": "tf",
+            "statement": "The guest has a reservation.",
+            "answer": true
+          }
+        ],
+        "image": "🏨"
+      }
+    ],
+    "theory": [
+      {
+        "title": "Как продиктовать имя по буквам",
+        "text": "Английские буквы читаются не так, как русские. Особенно трудные: A /eɪ/, E /iː/, I /aɪ/, G /dʒiː/, J /dʒeɪ/, H /eɪtʃ/, R /ɑː/, W /ˈdʌbljuː/, Y /waɪ/.",
+        "examples": [
+          {
+            "en": "How do you spell your surname? — P-E-T-R-O-V.",
+            "ru": "Как пишется ваша фамилия? — П-Е-Т-Р-О-В."
+          },
+          {
+            "en": "Can you spell that, please?",
+            "ru": "Продиктуйте, пожалуйста, по буквам."
+          }
+        ]
+      }
+    ]
+  },
+  "reviseCheck": {
+    "exercises": [
+      {
+        "id": "rc1-1",
+        "type": "multiple-choice",
+        "instruction": "Choose the correct word.",
+        "items": [
+          {
+            "question": "She ___ from Canada.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "___ you a student?",
+            "options": [
+              "Is",
+              "Am",
+              "Are"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "It's ___ apple.",
+            "options": [
+              "a",
+              "an"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "He ___ Spanish, he's Italian.",
+            "options": [
+              "isn't",
+              "aren't",
+              "not"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Fourteen + six = …",
+            "options": [
+              "twelve",
+              "twenty",
+              "nineteen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "id": "rc1-2",
+        "type": "gap-fill",
+        "instruction": "Complete the conversation.",
+        "items": [
+          {
+            "text": "A: Hello! What's your name? B: ___ Olga.",
+            "answers": [
+              "I'm",
+              "I am"
+            ]
+          },
+          {
+            "text": "A: Where ___ you from?",
+            "answers": [
+              "are"
+            ]
+          },
+          {
+            "text": "B: I'm from Russia. I'm ___.",
+            "answers": [
+              "Russian"
+            ]
+          },
+          {
+            "text": "A: Nice to ___ you.",
+            "answers": [
+              "meet"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rc1-r",
+        "type": "reading",
+        "instruction": "Read the email and answer the questions.",
+        "title": "A new friend",
+        "text": "Hi Anna,\n\nMy name's Lucas. I'm from Brazil, from São Paulo. I'm nineteen and I'm a student. I'm in your English class — I'm next to the window! My teacher is great. She's from London.\n\nSee you tomorrow!\nLucas",
+        "questions": [
+          {
+            "kind": "choice",
+            "question": "Lucas is…",
+            "options": [
+              "Brazilian",
+              "English",
+              "Spanish"
+            ],
+            "answer": 0
+          },
+          {
+            "kind": "gap",
+            "text": "Lucas is ___ years old.",
+            "answers": [
+              "nineteen",
+              "19"
+            ]
+          },
+          {
+            "kind": "tf",
+            "statement": "Lucas is a teacher.",
+            "answer": false
+          },
+          {
+            "kind": "tf",
+            "statement": "The teacher is from London.",
+            "answer": true
+          }
+        ],
+        "image": "✉️"
+      }
+    ]
+  }
+}
